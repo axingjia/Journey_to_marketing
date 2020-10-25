@@ -59,5 +59,49 @@ The American Marketing Association definition of marketing suggests that **marke
 
         Understand the Opportunity--> Market Strategy: Specify the Value-->Marketing Mix: Create the Value--> Implementation & Evaluation: Realize the Value
 
+        Understanding the opportunity
+                Environmental Analysis
+                * External Environment: 1. Macro; 2. Consumer; 3. Industry; 4. Competitive
+                * Internal Environment: 1. Current strategy; 2. Organization; 3. Skill & Resources; 4. Preferences
+                
+                SWOT Analysis
+                * SWOT summary
+                * Strategy matrix
+
+                Other Analysis
+
+                Marketing Theory, Concepts, Principles
+        
+        Marketing Strategy: Specify the value
+                Marketing Objectives
+
+                Target Market: 1. Segmentation; 2. Profile analysis; 3. Targeting
+
+                Positioning: 1. Strategic orientation; 2. Differentiation; 3. Defendability; 4. Brand personality
+
+        Marketing Mix: Create the Value
+                Product: 1. objectives; 2. Concept; 3. Product line; 4. Service strategy; 5. Branding; 6. Package & label
+
+                Pricing: 1. Objectives; 2. Policy; 3. Price point & tactics; 4. Terms & conditions
+
+                Distribution: 1. Objectives; 2. System; 3. Channel management; 4. Supply chain management
+
+                Communication: 1. Audience & Objectives; 2. Approach; 3. Key messages/tactics; 4. Communication mix; 5. budget & Allocation; 6. Implementation
+        
+        Implementation & Evaluation: realize the Value
+                Plan the Implementation: 1. Action plan; 2. Task schedule; 3. Benchmarks; 4. Contingency plan; 5. Research plan; 6. Budget
+
+                Evaluation: 1. Financial analysis; 2. Cost-benefit analysis; 3. Recommendation
+
+                Execute the Plan
+
+                Measure Performance
+
 ##### Understand the Opportunity
-* **Marketing decisions start with understanding the situation, or context, in which the decision need to be made.** **Situational analysis** involves identifying opportunities to create value for the organization by creating value for customers. First, it involes understanding factors relating to **the markets in which an organization competes**, such as understanding general trends in that market, consumer or organizational buying 
+* **Marketing decisions start with understanding the situation, or context, in which the decision need to be made.** **Situational analysis** involves identifying opportunities to create value for the organization by creating value for customers. First, it involes understanding factors relating to **the markets in which an organization competes**, such as **understanding general trends in that market, consumer or organizational buying behavior, industry dynamics, and the strategies and likely reactions of competitors**. The marketing decision makers need to assess factors relating to **their own organization and their ability to create value and compete effectively in those markets**. These internal factors include **understanding the relative effectiveness of their current marketing strategy, their resources, competencies, and expertise, and the values or mission of the organization**.
+
+##### Specify the Value: Market Strategy
+* Marketer make marketing strategy decisions to achieve the objectives of their organization, which usually include both **financial objectives (such as a particular profit target)** and **marketing objectives (such as sales targets or market share targets)**. **Once the marketing and other objectives are developed, the organization develops a marketing strategy aimed at achieving those objectives**.
+* The **most critical** decision marketers make in developing marketing strategy is **the selection of the specific group of customers** on which they will focus their customer value creation efforts. [def] A market segment is **a distinct group of customers within a large market who have similar needs, wants, preferences, and behaviors, who seek similar product solution, and whose needs differ from other customers in the larger market**. Parents with young children, for example, typically seek different entertainment products than teenagers and young adults.
+* [def] Market segmentation is **the process of dividing the overall market into groups of consumers who are sufficiently similar within the group to want a similar value offer and different enough from other groups to want a different value offer than those other groups**. The challenge is to identify groups with real differences in underlying needs, wants, preferences, behaivors, and opinions about value. Consequently, detailed segment profiles of each group msut be developed that specify these differences and other characteristics of the group that will help marketers design and present a valued offer.  For example, one way the Levi Strauss lices up the market is in terms of age segments--this makes sense, since different age group have different purposes. **Business-to-busienss markets** are someimtes divided into segments using characteristics such as type of business, decision-making criteria, size, or sales volume, if these characteristics reflect differences in the needs, wants, or behaivours of organizations.
+* Marketers weigh each of the segments in terms of **profitability potential against a number of factors**, including **the organization's ability to create value and satisfy the needs of the segments**, **their goals and resources, and their ability to compete effectively against other offering**. On the basis of this analysis, the organization decides whether it will focus on a single segment or on several segments. The chosen market(s) become the organization's target market(s) toward which it directs its marketing efforts. For example, Hewitt is an outsourcing cojmpany that has decided to focus exclusively on the needs of the human resources professional. As the ad for Hewitt illustrates, it offers tailored solutino in HR areas such as talent, benefits, payroll, health care, retirement.
