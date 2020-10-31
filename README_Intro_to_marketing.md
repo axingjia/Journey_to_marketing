@@ -161,3 +161,165 @@ SKIM: [summary] the value proposition includes the whole bundle of benefits the 
 
 ###### Providing Value To Stakeholders By Creating a Competitive Advantage
 * All things being equal, a firm creates value for stakeholders when it convinces customers that they will acquire greater value by buying its products rather than those of competitors. How are companies able to accomplish this goal? The answer is that the underlying goal of all marketing strategies is to create a competitive advantage for the firm. A firm has a **competitive advantage when it is able to outperform the commpetition, providing customers with a benefit the competition can't.** A competitive advantage gives consumers a reason to choose one product over another again and again.
+* How does a firm go about creating a competitive advantage. The first step is to **identify what it does really well. A distinctive competency is a firm's capability that is superior to that of its competition.** For example, Coca-Cola's success in global markets--Coke commands 50 percent of the world's soft drink business--is relatived to its distinctive commpetencies in distribution and marketing communications. Coke's distribution system got a jump on the competition during World War II. To enable soldiers fighting overseas to enjoy a five-cent Coke, the US government assisted Coca-Cola in building 64 overseas bottling plants. Coke's skilful marketing commmunications program, a second distinctive competency, has contributed to its global success. In addtion to its television commmercials, Coke blankets less-developed countries such as Tanzania with its print advertisements so that even people without televisions will think of Coke when they get thirsty.
+* The second step in developing a competitive advantage is **to turn a distinctive competency into differential benefit--one that is important to customers**. Differential benefits **set product apart from competitiros' products by providing something unique that customers want. Differential benefits provide reasons for customers to pay a premium for a firm's products and exhibit a strong brand preference**. For many years loyal Apple computer users benefited from **superior graphics capability** compared to their PC-using counterparts. Later, when PC manufacturers caught up with this competitive advantage, Apple relied on **its inventive product designers to create another differential benefit--futuristic looking computers in a multitude of colours**. This competitive advantage even caused many loyal PC users to take a bite of the Apple.
+
+###### Adding Value Through the Value Chain
+* Many different players--both within and outside a firm--need to work together to create and deliver value to customers. One approach to understanding the delivery of value and satisfaction is the value chain. This term refers to a series of activities involved in designing, producing, marketing, delivering and supporting any product. In addition to marketing activities, the value chain includes business functions such as human resource management and technology development.
+* This concept reminds us that every product starts with raw materials that are of relatively limited avalue to the end customer. Each link in the chain has the potential to either add or remove value from the product the customer eventually buys. The successful firm is t he one that can perform one or more of these activities better than other firms--this is its competitive advantage. The main activies of value-chain members include the following:
+
+        * Bring in materials to make the product, referred to as "inbound logistics"
+        * Converting the materials in to the final product, referred to as "operations"
+        * Shipping out the final product, referred to as "outbound logistics"
+        * Marketing the final product, in which marketing and sales come into play
+        * Servicing the product/customer, referred to as "service" 
+
+* A Value Chain for the Apple iPod
+
+        Inbound Logistics
+        * Planar lithium battery (Sony)
+        * Hard drive (Toshiba)
+        * MP3 decoder and controller chip (Portal Player)
+        * Flash memory chip (Sharp Electronics Corp.)
+        * Stero digital-to-analog converter (Wolfson Microelectronics Ltd)
+        * Firewire interface controller (Texas Instruments)
+
+        Operations
+        * Consumer research
+        * New-product-development team
+        * Engineering and production
+
+        Outbound logistics
+        * Trucking companies
+        * Wholesalers
+        * Retailers
+
+        Marketing and Sales
+        * Advertising
+        * Sales force
+
+        Service
+        * Computer technicians
+
+* All these companies (and more) belong to Apple's value chain. This means that Apple must make a lot of value-chain decisions. What electronic components will go into its music players? What accessories will be included in the package? What trucking companies, wholesalers, and retailers will deliver the iPods to stores? What service will it provide to customers after the sale? And what marketing strategies will it use? In some cases, **members of a value chain will work together to coordinate their activities** to be more efficient and thus create a competitive advantage
+* We will start with a focus on how companies decide what to make, how and where to sell it, and whom to sell it to. Then, we'll take a look at how they decide to "position" the product in the marketplace, including choices about what it should look like, how its value should be communicated to customers, and how much to charge for it. As we reach the end of our marketing journey, we'll talk about how the product actually gets delivered to consumers.
+
+#### value from Society's Perspective
+* Every company's activities influence the world around it, in ways both good and bad. Therefore, we must also consider how marketing transactions add or subtract value from society. In many ways, we are at the mercy of marketers because we trust them to sell us products that are safe and perform as promised. We also trust them to price and distribute these products fairly. Conflicts often arise in business when the pressure to succeed in the marketplace provokes dishonest business practices--the collapse of energy giant Enron and the tiral of its (later) former chief executive officer Ken Lay are a case in point.
+
+###### The Dark Side of Marketing
+* Whether intentionally or not, some marketers do violate their bond of trust with consumers, and unfortunately the "dark side" of marketing often is the subject of harsh criticism. In some cases, these violations are illegal, such as when retailer **adopt a "bait-and-switch" selling strategy, luring consumers into the store with promises of inexpensive products with the sole intent of getting them to switch to higher-priced goods.**
+* In other cases, marketing practices have detrimental effects on society even though they are not actually illegal. Some alcohol and tobacco companies *advertise in low-income neighbourhoods* where abuse of these products is a big problem. Other sponsor commercials depicting groups of people in an unfavourable light or *sell products that encourage antisocial behavior*. An online game based on the Columbine High School massacre drew criticism from some (including the father of a student who died in the 1999 attack) who say it trivializes the actions of the two teen killers.
+* Some harmful consumer behaviors such as excessive drinking or cigarette smoking stem from social pressures, and the cultural value placed on money encourages activities such as shoplifting or insurance fraud. Exposure to unattainalbe ideals of beauty and success can create dissatisfaction with the self. Let's briefly review some dimensions of "the dark side" of consumer behaviour.
+
+        1. **marketers create artificial needs** The marketing system has come under fire from both ends of the political spectrum. On the one hand, some members of the religious right believe that advertising contributes to the moral breakdown of society by presenting images of sinful pleasure. On the other hand, some leftists argue that the same deceitful promises of material pleasure function to buy off people who would otherwise be revolutionaries working to change the system. They argue that the system creates demand that only its products can satisfy. **A Response**: A need is a basic motive, while a want represents one way that society has taught us the need can be satisfied. For example, while thirst is biologically based, we are taught to want Coca-Cola to satisfy that thirst rather than, say, water. Thus, the need is already there; marketers simply recommend ways to satisfy it. If the basic need is not there, no amount of slick marketing communication tactics is going to convince consumers to buy.
+        2. Marketing teaches us to value people for what they own rather than who they are. Goods are arbitrarily linked to desireable qualities, so we learn that we can be popular, happy, and fulfilled only if we buy these products. A response: Products meet existing needs, and advertising only helps to communicate their availability. Advertising is an important source of consumer information. It is a service for which consumers are willing to pay because the information it provides reduce the time and effort needed to learn about the product
+        SKIP
+
+
+### Careers in Marketing
+* Many students asume that the "typical" marketing job is in a large, consumer-oriented packaged goods commpany like Procter&Gamble. In fact, marketers work in other types of organizations, for example:
+
+        Service organizations (e.g., Telus, Intrawest)
+        E-commerce organizations (e.g., Chapters Online; Amazon.ca)
+        Technology companies (e.g., IBM Canada; Bombardier)
+        Industrial equipment companies (e.g., Komatsu; Nortel)
+        Retailers (e.g., Shoppers Drug mart; Sears)
+        SKIP
+
+## Chapter Review
+* Marketing Concepts: Testing Your Knowledge
+
+        1. Briefly explain what marketing is.
+        2. What is the marketing concept? how is it different from mthe social marketing concept?
+        3. How does marketing facilitate exchange?
+        4. What is customer value?
+        5. Define these terms, consumer goods, services, and industrial products
+        6. What are the elements of the marketing mix? What role do they play in creating value for the customer?
+        7. Explain the concept of market segmentation. What can't a firm be successful in the long term by practising mass marketing
+        8. What are target markets? How do marketers select and reach target markets?
+        9. Trace the evolution of the marketing concept.
+        10. What are some criticisms of marketing and how would you respond to them
+
+* Marketing Concept: Discussing Choice and Issues
+
+        1. The marketing concepts focuses on the ability of marketing to satisfy customer needs. As a student, how does marketing satisfy your needs? What areas of your life are affected by marketing? What areas of your life (if any) are not affected by marketing
+        2. Do you think students should study marketing even if they are not planning a career in marketing or busienss? Explain your reasoning.
+        3. In this chapter, a number of criticisms of marketing were discussed. Have you heard these criticisms before? What other criticisms of marketing have you heard? Do you agree or disagree with these criticisms, and why?
+
+* Marketing Practice:
+
+        1. An old friend of yours has been making and selling leather handbags and bookbags to acquaintances and friends for some time and is now thinking about opening a shop in your town. But he is worried about whether he'll have enough customers who want handcrafted bags to keep a business going. Knowing that you are a marketing student, he asks you for some advice. What can you tell him about market segments, target markets, product, price, marketing communications, and distribution strategies that will help him get his business off the ground?
+        2. Assume that you are employed by your city's chamber of commerce. A major focus of the chamber is to get industires to move to your city. As a former marketing student, you know that there are issues involving product, price, marketing communications, and even distribution that can attract busienss. Next week, you have an opportunity to speak to the members of the chamber, and your topic will be "Marketing a City". Develop an outline for that presentation
+        3. As a marketing professional, you have been asked to write a short piece ofr a local business newsletter about the state of marketing today. You think the best way to address this topic is to review how the marketing concept has evolved and to discuss the New Era orientation of marketing. Write the short article you will submit to the editor of the newsletter.
+        4. You and your friends sometimes discuss the various courses you are taking. One of your friends says to you, "Marketing's nothing but selling stuff. Anybody can do that without taking a course." Another friend says, "yeah, all marketers do is write ads". As a role-playing exercise, present your argument against these statements to your class.
+
+* Marketing Mini-Project: Learning by Doing
+
+        The purpose of this mini-project is to develop an understanding of the importance of marketing to different organization.
+        1. Working as a team with two or three other students in your class, select an organization in your community that practices marketing. it may be a manufacturer, service provider, retailer, not-for-profit organization--almost any organization will do. Schedule a visit with someone in the organization who is involved in the marketing activities. Ask that person to give your group a tour of the facilities and explain the organization's marketing activities.
+        2. Divide the following topics among your team, and ask each person to be responsible for developing a set of questions to ask during the interview to learn about the comapny's program:
+
+                * What customer segment the company targets
+                * How it determines needs and wants
+                * What products it offers, including features, benefits, and goals for customer satisfaction
+                * What its pricing strategies are, including any discounting policies
+                * What marketing communication strategies it uses, and what these emphasize to position the product(s)
+                * How it distributes products, and whether it has encountered any problems
+                * How marketing planning is done and who does it
+                * Whether social responsibility is part of the marketing program and, if so, in what way
+                
+        3. Develop a team report of your findings. In each section of the report, share what you learned that is new or surprising to you compared to what you expected (based on your reading of Chapter 1)
+        4. Develop a team presentation for your class that summarizes your findings. Conclude your presentation with ocmments on what your team believes the company was doing well and where it could make improvements.
+
+* Real People, Real Surfers: exploring the Web
+
+        The New Era orientation means that a firm like Mountain Equipment Co-op is devoted to excellence in sourcing and producing products that benefit customers as well as society, the organization's employees, and their members. Many firms share this on their Internet webpages, Visit  the website for Mountain Equipment Co-op (www.mec.ca). Then visit the website for one of their competitors such as REI (www.REI.com) or Taiga (www.taigaworks.ca). Follow the links in the sites to learn as much as you can about the company. You might first check the site map to see what links are provided on the site. Look for answers to the following questions.
+
+                1. What evidence do you find on the firms' websites that each is a New Era firm?
+                2. Which company has the better webiste? What makes it better? Based on your visit to the webiste, what do you think is the major purpose of each company's site? To promote their products? To sell on the web? To develop a brand image? Something else?
+                3. How does each company use its webiste for promoting its products? Is the website a unique form of marketing communications or jsut an extension of their normal advertising?
+                4. What market segment do you think each firm is targeting with its website? What features of the websites gave you this idea?
+                5. Do the websites provide an opportunity for the firm to gather information about customers so that it can customize contact with them
+                6. Are there any features of the website that will cause consumers to come back again and again?
+                7. What are your major criticisms of each of the webiste? What would you do to improve each site from a marketing perspective?
+
+### Case Study
+SKIP
+
+# Chapter 2: Making Strategic Marketing Decisions
+* Case study: Michel Bendayan with Megablok (www.megabloks.com). SKIM
+* Whether a firm is a not-for-profit organization like the United Way, a family-based retailer like Army & Navy department stores, or a major manufacturer like Mega Bloks, **planning for the future in a key to prosperity. Success in the competitive world of business is not accidental; businesses that succeed do so because they are capable of developing and implementing superior strategies in the marketplace. Often, businesses that fail meet their fate because of improper planning**
+* All firms operate in a dynamic environment. In today's world of business, consumer interests, technologies, commpetition, and the economy are changing faster than ever. This makes good planning more important than ever, as planning enables a firm to meet the challenges of this dynamic environment and to control its own destiny.
+* In this chapter, we'll look at the different steps in creating and implementing plans within a business organization. First we'll examine **how marketers make the decisions that guide the entire organization**. Then we'll examine how marketers make the marketing decision outlined in Chapter 1. Finally, we will discuss the global and ethical context in which marketing decisions are made.
+* In successful firms, both large and small, **business planning is an ongoing process of making decisions that guide the firm both in the short term and for the long haul. Planning identifies and builds on a firm's strengths and helps managers at all levels make informed decisions in a changing business environment. Planning means that an  organization develops objectives before it takes action**. In large firms, such as IBM, Sony, and L'Oreal, which operate in many markets, **planning is a complex process involving many people from different areas of the company's operations**. In a small business like Mac's Diner, however, planning is quite different; Mac himself is chief cook, occasional dishwasher, and the sole company planner. With mid-size firms, the planning process falls somewhere in between, depending on the size of the firm and the complexity of its operations.
+* Business plan's process is more complex than our day-to-day planning. Business planning usually occurs on an annual basis at three level--strategic planning, marketing planning, and operational planning.
+
+                * What it is: Strategic Planning
+                * Who does it: planning done by top-level corporate management
+                * What they do: 
+                        1. Define the mission
+                        2. Evaluate the internal and external environment
+                        3. Set organizational or SBU objectives
+                        4. Establish the business portfolio (if applicable)
+                        5. Develop growth strategies and tactics
+
+                * What it is: Functional Planning (In Marketing Department, called Marketing Planning)
+                * Who does it: Planning done by top functional-level management such as the firm's chief marketing officer (CMO)
+                * What they do:
+                        1. Perform a situation analysis
+                        2. Set marketing objectives 
+                        3. Develop marketing strategies
+                        4. Develop tactics to implement marketing strategies
+                        5. Monitor and control marketing strategies
+
+                * What it is: Operatinoal Planning
+                * Who does it: Planning done by supervisory managers
+                * What they do: 
+                        1. Develop action plans to implement the marketing plan
+                        2. Use marketing metrics to monitor how the plan is working
+
+* **Strategic planning** is the managerial decision process that matches the organization's resources (for example, manufacturing facilities, financial assets, and skilled workforce) and capabilities to its market opportunities for long-term growth. These decisions focus on the firm's ability to respond to changes and opportunities in its environment. **In a strategic plan, the top management team (that is, the chief executive officer, or CEO, president, and other top executives) defines the firm's purpose (mission) and specifies what the firm hopes to achieve over the next few years (organizational objectives)**. Increasingly this planning takes place in consultation with a cross-section of employees who bring varied perspectives and knowledge to the process. For example, a firm's strategic plan may set a goal of increasing t he firm's total revenues by 10 or even 20 percent in the next five years. Strategies and tactics are then developed for achieving those objective. **Strategies reflect what a firm is going to do to achieve an objective. For example, to increase total revenues by 20 percent in the next five years, an organization like Mega Bloks may decide to enter a new market with either new or existing products.** **Tactics reflect how a strategy is going to be implemented. For example, Mega Bloks may decide to enter the Japanese market with a product line customized for the Japanese consumer**.
+* Strategic plans are usually developed for a period of three to five years and take a long-term view of the strategic health of the business. In large firms, strategic planning can actually occur at two different levels. **First, there is overall corporate strategic planning, which determines the organization's different business and product pursuits. Second, the individual business units do strategic planning for their products.** **Strategic planning at the Walt Disney Company, for example, involves an assessment of resources and capabilities for starting new business. In addition to making movies and running theme parks, Disney is now in the cruise ship business and operates a number of Disney vacation resorts. Disney's corporate planning expanded its theme park business to Europe and Japan--separate business units**.
+* **Given its high-level, long-term emphasis, a strategic plan is not a document that can be readily implemented. Therefore firms develop a one-year plan, called the marketing plan, which takes its direction from the strategic plan and develops lower-level strategies and tactics for achieving the objectives specified in the strategic plan.** There are two main differences between a strategic plan and a marketing plan. The first is time horizon. While the strategic plan is developed for a period of three to five years, the marketing plan is typically developed for a period of one year. **The second difference is that the marketing plan contains details regarding the marketing mix elements (product strategy, pricing strategy, channel of distribution strategy, marketing communication strategy), while the strategic plan does not contain this level of detail**. What is sometimes confusing about strategies and tactics is that a tactic at the organizational (strategic plan) level becomes, or is reflected in, the strategy at the functional level, and functional level tactics become, or are reflected in, operational strategies.
+* **For example, at the strategic planning level, Mega Blok's strategy may be to expand internationally. Their tactic to do this may be to enter t he japanese market with a product line customized for the Japanese consumer. At the marketing planning level, this becomes the strategy to achieve more specific marketing objectives such as "have 20 percent of sales come from new markets this year" and "earn a profit of $5 million from those new market sales". At the marketing planning level, the marketing mix decisions to achieve this market entry strategy are the tactics that specify how the strategy will be implemented and the objectives achieved. In the operational (or immmplementation) plan, a marketing mix decision such as establishing a unique Japanese brand personality for Mega Bloks in Japan becomes the strategy (what you are going to do) while decisions reflecting how this will be done, such as hiring an advertising agency to create a Japanese anime cartoon character, are the tactics. So while strategies reflect what to do and tactics reflect how to do it, they are related across levels of analysis and differ in increasing levels of specificity.
