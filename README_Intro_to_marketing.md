@@ -378,7 +378,54 @@ SKIP
 * **SOT analysis** is one tool often used by marketers (and other planners) in this task. SWOT analysis seeks to identify meaningful strengths and weakness in the organization's internal environment, and opportunities and threats from the external environment. In conducting a SWOT analysis and try to identify the immplications of each of these considerations. For each fact or observation, ask yourself: **why is it important to understand this information? How does it impact a decision that I need to make? Is it a strength of my organization that will help me create superior customer value or defend my desired positioning, or is it a weakness that undermines that ability and would need to be addressed or mitigated (reduce in effect)? Is it an opportunity in the external environment that my organization could exploit or take advantage of in creating or defending value creation or is it a threat that impedes or otherwise limits my organization's ability to compete effectively?**
 * If the implication does not have a direct bearing on a decision you have to make, it probably isn't very important and does not need to be included in the SWOT analysis. Determining the strategic implications and what is important and not important can take many years of experience--and you have to practice doing SWOT analysis to gain that experience. However, marketing and business strategy research has found that there are six basic reasons why some organizations fail. These six "fatal flaws" can help you identify some of t he environmental factors that are particularly important to understand and need either to be addressed or mitigated when developing your marketing strategy:
 1. Failure to innovate: no differentiation. Organizations that do not create offers that are superior in some way to those already available usually do not survive very long. Lack of differentiation and the inability to create and defend sustainable competitive advantage is a strategic issue that can be observed in an organization's current strategy relative to its competitive environment.
-2. Failure to create value:
+2. Failure to create value: There is no a large enough market segment that wants a particular offer. Sometimes the current strategy of an organization does not create sufficient customer value to attract customers. Insufficient value creation is a strategic issue that is sometimes observed in an analysis of an organization's current strategy relative to segment profile analysis.
+3. Failure to persist over time: insufficent margins, volume, or resources. Often related to the failure to create value, but also sometimes realted to the inability to communicate that value. Some organizations are not able to make sufficient margins or generate sufficient sales volume. Many startup organizations fail because they do not have the financial, technical, human, or management resources to compete effectively over time. This is particularly true of busienss with high fixed costs (those that require significant investment in buildings, equipment, people, technology, or overhead--such as software creation or car manufacturing) because it can take many months or years to recover those initial investments. More established organization can fail because their markets change over time: competition increases, demand decreases, or they can't or don't keep up with changing technology. The inability to compete effectively is an important strategic issue that can be observed in both the internal and external environment.
+4. Failure to maintain economic scarcity. Offers are imitable or substitutable. Some organizations fail to protect the value they have created and competitiors are able to better satisfy customer demand with similar offers or substitutes. Organizations that are unable to limit direct competition **by means of intellectual property protection; strong supplier, distributor, or customer relationships; cost structure advantages 9such as economic of scale); switching costs; unique knowledge; greater customization or niche (small market) focus; strong brand name; or somme other market entry barrier**, may not be able to defend their positioning
+5. Failure to prevent "appropriation" of value: hold-up or slack. Some organizations get held hostage (held up) by stakeholders in strong bargaining positions, such as strong unions, single source supplier, or key distributors. These stakeholders are able to negotiate terms that erode the profitability of the organization. Hold-up issues might be evident in an industry or competitive analysis. Other organizations are wasteful or inefficient with their resources(slack)--often because the management team does not have sufficient experience in that industry to be effective. This might be evident in an analysis of the organization structure, systems, and culture or the current strategy and performance.
+6. Failure to be flexible and adapt: the ability to deal with uncertainty and ambiguity. Uncertainty is being able to anticipate events, but not their timing. For example, a chicken satay vendor could anticipate that at some point in time, despite their best food safety efforts, a customer will get food poisoning from eating t he chicken. Effective organizations create risk management plans, crisis management plans, and have insurance and other "due diligence" interventions to limit the impact of potential risks--but in highly volatile, fast-changing industries (like fashion or biotechnology) this can be difficult to do. But some event can not even be anticipated (such as terrorist attacks, currency devaluations, or stock crashes) and managers need to be capable of adapting to changin circumstances. The degree of uncertainty is often assessed in an industry analysis, and the inability of management to plan or adapt could be an issue in an assessment of an organization's management and systems.
 
 
-READ TO PAGE 49
+* Marketers use SWOT analysis to help them make strategic and tactical decisions. Internal strengths and external opportunities provide rationale to support a particular course of action. Internal weaknesses and external threats provide reasons why a particular course of action might not be appropriate. Weaknesses and threats, however, are not absolute; both can be addressed or mitigated through marketing strategy. Meal Exchange, for example, is a not-for-profit organization dedicated to motivating post-secondary students to increase their involvement in fighting social problems like hunger (www.mealexchange.com). The organization works with colleges and universities so that students can donate the unused money on their meal cards to local food banks, which could then purchase food for those in need. Differences in college and university policies regarding the redemption of meal cards might be a threat in the external environment of Meal Exchange that could limit expansion plans for the organization. However, this threat might be mitigated or overcome by supporters of the Meal Exchange concpet lobbying college and university administrators to change thier policies so  that they could participate in the Meal Exchange program.
+* The key to SWOT analysis is not to get bogged down in analysis paralysis. Firms face hundreds, if not thousands, of internal and external environmental considerations that shape and impact their business. You will want to identify the top six to ten issues that might have the greatest implication for the marketing decisions you have to make. Ask yourself: Does this fact or piece of information have a major implication for a decision I have to make? If not, it's probably not worth documenting in a SWOT analysis. A SWOT summary is a list of the most important issues and their implications, such as those shown below, which is an illustrative example of a SWOT analysis summary for the decision faced by Michel Bendayan at Mega Bloks.
+
+        ### Illustrative SWOT Summary for Mega Bloks ###
+        Internal Environment:
+        Current Strategy & Performance
+                --World market-share leader in preschool segment (S)
+                * Ability to leverage international brand name in new markets
+                --Weak sales and lack of distribution network (W)
+                * Status quo not really an option, market may require unique strategy
+        Organization (structure, system, culture)
+                --Asia, Australia, and Africa are all under one international marketing director (W)
+                * May limit ability to focus on Japan and customize Japanese lines
+                --Product innovation culture (S)
+                * Ability to compete on innovative new product development
+                --Rapid growth in past five years (S,W)
+                * Has gained significatn international experience that supports its ability to enter the Japanese market
+                * But hard to maintain focus and organizational culture with such growth, high degree of Japanese customization may be difficult to implement
+        Resource & Competencies
+                --Second largest construction block company in the world (after Lego) (S)
+                * Has the experience and resources needed for international expansion
+                --3000 employees, 75 to 100 product lines, in 100 countries (S)
+                * has the people, expertise, and resources to develop custom product lines
+                --Basic product not patentable--Leog had a patent (now expired) (W)
+        Management Preferences & Values
+                --Standardized products are preferable (inferred) (?)
+                * Mega Bloks has not previously customized products for a single country, doing so may create a precedent for a wholesale change in strategy that has significatn cost implications. It might be possible to do it for one country but maybe not for all countries.
+
+        External Environment:
+        Macro (General) Environment: PESTO
+                --American products are often considered prestige products in Japan (O)
+                * May be value in offering North American-style product lines
+                --High quality consciousness in Japanese society (T)
+                * May need greater control over the supply chain
+                --Greater awareness and importance of pop culture (T)
+                * May need japanese brand personality
+        Consumer Analysis
+                --Japanese consumers strongly nationalistic (T)
+                * Prefer Japanese look and feel
+                --Japanese houses are much smaller than those in North America or even Europe (T)
+                * Will likely require different packaging, but also maybe different product lines that enable blocks to be used for many designs
+
+
+READ TO PAGE 51
