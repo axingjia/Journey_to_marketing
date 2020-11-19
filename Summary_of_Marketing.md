@@ -4,3 +4,4 @@
 * Competitive Advantage
 * Growth Strategy
 * Marketing Planning
+* Value creation strategy
