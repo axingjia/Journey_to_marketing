@@ -473,4 +473,80 @@ Once the marketing and other objectives are developed, the organization develops
 * finally, a marketing plan typically includes a set of exhibits that provide details taht support the recommendations made in the body of the plan. These exhibits include the SWOT analysis, detailed market segment profiles, and a pro-forma income statement that shows the forecast sales volume and revenue and identifies the key expenses, as per the proposed marketing budget. Positioning map (described in Chapter 3) are lso often included to illustrate the relative positioning of an organization's brand(s).
 
 
-READ TO PAGE 56
+## CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. What are the different levels of planning within a business organization?
+2. What is a mission statement? Why is a mission statement important to an organization?
+3. What is a SWOT analysis? What role does it play in the planning process?
+4. What is a business portfolio? What do firms develop SBUs?
+5. Why is marketing planning important to a firm?
+6. What are the elements of a sound marketing plan?
+7. What does it mean for a firm to have a competitive advantage? What factors give a firm a competitive advanatge in the marketplace?
+8. What are marketing objectives? What types of marketing objectives do firms normally include in marketing planning?
+9. How are marketing plans related to other functional plans within a business?
+10. Explain the tradeoffs involved in marketing mix decisions when firms enter international markets. Provide concrete examples.
+11. What is social profit? What are the two main components of social profit?
+
+Marketing Concepts: Discussing Choices and Issues
+1. What do you think about the different levels of planning in business organizations? What are the benefits of such an approach? Do you see any drawbacks?
+2. Do you agree with the idea that marketing is a firm's most essential functional area, or do you think a firm's success depends equally on all of its functional areas? Explain your reasoning.
+3. Do you think firms should concentrate on developing products that are better in some way than competitors' products, or should each firm focus on making the best product it can without regard to competing products? As a consumer, which approach is more likely to produce products that satisfy you the most?
+4. Most planning, whether by businesses or by not-for-profit organizations, involves strategies for growth. But is growth always the right direction? Can you think of some organizations that should have contraction rather than expansion as their goal? Do you know of any organizations that have planned to get smaller rather than larger to be successful?
+
+Marketing Practice: Applying What You've Learned
+1. Assume that you are the marketing director for a local microbrewery and that your boss, the company president, has decided to develop a mission statement to add to this year's annual report. He's admitted that he doesn't know much about developing  a mission statement and has asked you to help guide him in this process. Write a memo outlining what exactly a mission statement is, why firms develop such statements, how firms use mission statements, and your thoughts on what the firm's mission statement might be.
+2. As a marketing student, you know that large firms often organize their operations into a number of strategic business units (SBU). A college or university might develop a similar structure where different academic units are seen as separate businesses. Working with four to six separate SBUs. What would be the problems with implementing such a plan? What would be the advanatages and disadvantages for students and for faculty? Present your analysis of university SBU to to your class.
+3. Assume you are the new marketing assistant in a small metropolitan medical clinic whose market consists of the residents in the city district and the students and faculty of a large nearly college or university. You have been asked for ideas that the organization might use in promotional activities to draw clients who might otherwise choose a larger facility across town. Develop a list of the consumer segments in the clinic's market (for example, elderly, children, college or university athletes, international student), and for each segment, identify possible features and benefits the clinic might emphasize in its promotions to attract that segment.
+4. Pick two firms that both operate in foreign markets but use different strategies to compete. In your opinion, which strategy is superior? Why? Base your answer on a thorough, analysis of teh marketing mix variables.
+5. Do you think firms practising New Era marketing are doing it for the financial benefit? What do you think is the future of New Era marketing? What is the next big idea that will emerge from this concept?
+
+Marketing Mini-Project: Learning by Doing
+--The purpose of this mini-project is to gain an understanding of marketing planning through actual experience.
+1. Select one of the following for your marketing planning project:
+        * Yourself (in your search for a career)
+        * Your college or university
+        * A specific department in your college or university
+2. Next, develop the following elements of the marketing planning process:
+        * A mission statement 
+        * A SWOT analysis
+        * Objectives
+        * A description of the target market(s)
+        * A brief outline of the marketing mix strategies--product, pricing, distribution, and marketing communication strategies--that satisfy the objectives and address the target market
+3. Prepare a formal, but brief, marketing plan using the template provided in this chapter as a guide
+
+Real People, Real Surfers: Exploring the Web
+--Visit the homepages of one or more of the firms of your choice. Follow the links to find out about the company's products, pricing, distribution, and marketing communications strategies. Do a web search for other information about the company. Based on your findings, answer the following question.
+1. What is the organization's "business"? What is the overall purpose of the organization? What does the organization hope to achieve?
+2. What customers does the organization want to serve?
+3. What elements of the webpage specifically reflect the business of the organization? How is the webpage designed to attract the organization's customers?
+4. Do you think the marketing strategies and other activities of the organization are consistent with its mission? Why do you feel this way?
+--Develop a report based on your findings and conclusions about the organization. Present your report to your class.
+
+
+# Chapter 3: Market Segmentation and Positioning
+
+## The Concept of Segmentation
+* The goal of the marketer is to satisfy needs, but in our complex society, it is naive to assume that everyone's needs are the same. Michael Shekter and his colleagues at Molson know that different types of consumers have different priorities when it comes to buying beer. So when Molson designs and markets its beverages, it needs to consider the different needs that exist in the marketplace. Understanding these needs is especially complex today, because technological and cultural advances have created a condition of market fragmentation. **Market fragmentation occurs when people's diverse interests and backgrounds have divided them into different groups with distinct needs and wants. Because of this diversity, the same product or service will not appeal to everyone.**
+* Consider, for example, the effects of fragmentation in the fast-food industry. When a McDonald's hamburger was still a novelty (with under a million sold), people were happy to order just a plain hamburger, fries, and drink. Today's consumers would be very unhappy if salads, children, or wraps disappeared from the menu. But how many menu items do McDonald's, Harvey's, or Pizza Hut need to offer? Why is it that kids insist on a Happy Meal, whereas their parents prefer t o grab a pita at Wendy's or a veggie burger at Harvey's?
+* At one time, it was sufficient to divide the sports shoe market into athletes and non-athletes. Today, a walk through any sporting goods store will reveal that the athlete market has fragmented in many directions, and includes shoes designed for jogging, basketball, tennis, cycling, cross-training, and skateboarding. Some manufacturers of athletic footwear geared to young boraders, such as Vans, Airwalk, and DC Shoes, chalked up annual sales gains of 20 to 50 percent in the past few years. Known to their peers as shredders, riders, or skaters, the youth who wear these shoes can be seen riding skateboards down the handrails and steps of city parks, and riding rails or doing jumps on snowboards, stunt bikes, or wakeboards. Over the next few years, sport marketers expect the skateboard and snowboard populations to double and wakeboarders to soar sixfold. To cash in on this trend, PepsiCo Inc.'s Mountain Dew began to feature snowboarding in its advertisements and was rewarded with a hefty increase in sales.
+* Instead of trying to sell the same thing to all customers, **marketers often select a target marketing strategy, in which they divide the total market into different segments based on customer characteristics, select one or more segments, and develop products to meet the needs of those specific segments. The five-step process of segmentation, targeting, and positioning is illustrated below.
+
+                1. Select Market: a. Define your market; b. Understand customers: needs and wants; benefits, features, and attributes sought; and purchase and consumption behaviour.
+
+                2. Market Segmentation: a. Identify groups: geographic, behavioural, psychographic, and demographic segmentation; b. Describe (profile) the groups: who, what, when, where, why
+
+                3. Market Targeting: a. Evaluate segment attractiveness: size, growth; strategic, fit, competitive or comparative advantage; level of commpetition, defendability; b. Decide which one(s) to target
+
+                4. Market Positioning: Decide how you want to compete, be differentiated, and be known for value creation in the minds of consumers
+
+                5. Create and Execute Marketing Mix Programs
+
+* Understanding customers will be discussed in Chapter 4,5,6. The creation of marketing mix programs is discussed in Chapter 7 through 13. Our focus here is on segmentation, targeting, and positioning.
+* **Segmentation is the process of dividing a larger market into subgroups, where within groups people have fairly homogeneous needs and wants and where between groups people have sufficiently different needs and wants that they would be interested in very different product solutions or marketing programs.** Because consumers have different needs and wants and the same marketing program is unlikely to appeal to all consumers, marketers identify the key groups in a market, choose which group(s) to focus on (target), decide how they want their brand to compete and be known by these consumers (positioning), and design marketing programs (make marketing mix decisions) to create product offers that uniquely appeal to the chosen target groups. There are very few, if any, products with universal appeal. Even for products as popular as cola soft drinks, some consumers prefer Coca-Cola over Pepsi, some prefer Pepsi over Coke, some prefer diet colas, some prefer flavoured colas, and others prefer non-soft drink beverages. Theresa Bergeron, president of Thermohair Inc., has developed a product line of specialty socks made of kid (baby goat) mohair. Not everyone would be interested in a $25 pair of durable, warm, comfortable socks, but people involved in outdoor recreational sports like hiking and camping might be.
+
+## Select and Segmenting a Market
+* **One of the challenges in developing a marketing strategy is determining what market you are in and what market you should be segmenting.** For example, should Michael Shekter at Molson be segmenting the beer market, the alcoholic beverage market, or the social beverage market? Kodak redefined itself from being in the film business to being in the imaging business--leading Kodak to venture into new markets. Deciding what "market" you are competing in has significant implications for the segments you might identify. **You must also consider the geographic scope of the market--are you segmenting the beverage market in North America, Canada, or one or more provinces?** The decision about how to define the markets you are competing in **is typically done at the executive (strategic planning) level of an organization**. As an entrepreneur or consultant, you may need to make this decision yourself--**based on your experience, your understanding of the consumer, competitive, and technological environments, and your understanding of the mission, strategic directions, and competencies of your organization.**
+* CRITERIA FOR IDENTIFYING MARKET SEGMENTS: **Before discussing how to segment a market, let's review the criteria for a successful segmentation scheme. There is no right or wrong way to segment a market, but some segmentation schemes are more useful than others for identifying market opportunities and being able to position products that uniquely appeal to a well-defined group of consumers or customers--the term used to describe organizational or business-to-business buyers.**
+
+
+READ TO PAGE 77
