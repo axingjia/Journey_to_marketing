@@ -5,3 +5,7 @@
 * Growth Strategy
 * Marketing Planning
 * Value creation strategy
+* Differentiation
+* Segment profile
+* Target Market Selection
+
