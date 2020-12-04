@@ -696,6 +696,41 @@ A company that chooses a differentiated targeting strategy develops one or more 
 
 * Customer intimacy, or micro-marketing, is a strategy concerned with creating tailored solution for narrowly defined market segments. Companies such as Kraft, Nordstrom, Marriott, and Levi Strauss aim to excel at providing superior customer experiences and/or  personalized or customized interactions through outstanding service quality, customer support, flexibility, and customerization. Concerned with the creation of experiential or emotional value, customer intimacy positioning strategies focus on dimension such as the following:
 
-        * 
+        * Sensory experience (e.g., KFC: "Finger lick'n good"; A&W: "That frosty mug sensation")
+        * Excitement, adventure (e.g., Nike: "Just do it"; Pontiac: "We drive excitement"; Club Med: "Do it now, do it fast, and do everything at the same time")
+        * Fun or pleasure (e.g., Mcdonald's: "I'm lovin' it"; Lay's: "Betcha can't eat just one")
+        * Emotion (e.g., harlequin: "Live the emotion"; Hallmark: "When you care enough to send the very best")
+        * Social value (e.g., Dr Beers: "Diamonds are forever"; AT&T: "reach out and touch someone")
+        * Responsiveness, customized, personalized (e.g., Burger King: "have it your)
+        * Safety or security (e.g., Allstate: "You're in good hands with Allstate"; Michelin: "Because so much is riding on your tires")
+        * Novelty, knowledge, or fantasy (e.g., Disney Online: "Where the magic comes to you"; Microsoft: "where do you want to go today?")
+
+Operational excellence is a strategy focused on cost effectiveness, efficiency, and customer convenience. Companies such as Zellers, WestJet Airlines, Dell and Ikea are tenacious at lowering costs and customer prices while making it more convenient to do business with them. Concerned with the creation of cost-sacrifice value, operational excellence positioning strategies focus on dimension such as the following:
+
+        * Price (e.g., Zeller: "The lowest price is the law"; Buy.com: "Canada's low price Internet superstore)
+        * Value (e.g., Ikea: "Swedish for common sense)
+        * Convenience (e.g., 7-Eleven: "Oh thank heaven"; American Express: "Don't leave home without it")
+        * Personal investment of time, effort, or energy (e.g., yellow Page: "Let your fingers do the walking")
+        * Risk (e.g., Levi's Jean: "Have you ever had a bad time in levi's?"; Listerine mouthwash: "Even your best friend won't tell you")
+
+* Another common positioning strategy is concerned with **symbolic-expressive value--differentiating your brand by the psychological meaning associated with it.** **Some products (luxury goods for example) appeal to consumers' self-concept and self-worth--that is, they make us feel good about ourselves.** Other products (such as music or comfort foods, among many others) have personal meaning--association with people or events that only have meaning to a particular consumer (such as an association with Tide because Mom used it). Products can also provide Volkswagen Beetle, or Body Shop lotions allow consumers to reflect or express their personalities, tastes, and values. **Still other products focus on social meaning--how others see us.** Products such as BMW cars, Birks jewellery, and Lee Valley Tools are purchased because of their prestige, status, or image. Brands can also be positioned on one or more of these four symbolic meaning dimension. For example:
+
+        * Self identity/concept/worth (e.g., L'Oreal: "Because I'm worth it")
+        * Personal meaning (e.g., Kodak: "Share moments. Share life")
+        * Self-expression (e.g., Canon: "Express yourself")
+        * Social meaning (e.g., Grey Poupon: "Pardon me. Do you have any Grey Poupon?"; Rolls-Royce: "Trusted to deliver excellence")
+
+* There are many other marketing strategy framework or typologigies that you will learn about in a marketing strategy course. However, there are some other ways to differentiate products and establish a brand's position in the marketplace. These include strategies that emphasize:
+
+        * Product class leadership: The Mazda Miata is a sporty convertible
+        * Relative positioning: The Pepsi Challenge claims "more people prefer the taste of Pepsi over Coke". (This is an example of head-to-head competitive positioning, **where other organizations try to associate their brand with the market leader**)
+        * Use occasions: Wrigley's gum is an alternative at times when smoking is not permitted
+        * user: Sunny Delight is the "Goodness kids go for"
+
+### Defendability
+* The choice of strategic orientation and the basis of differentiation is dependent on an organization's ability to defend the positioning. Analysis of your ability to defnd a particular positioning requires an assessment of the strengths and weakensses of your own organization and your ability to create sustainable competitive advantage, and the opportunities and threats in the external environment, in particular consumer behaviour and your assessment of the strategies and capabilities of your competitors (recall SWOT analysis).
+
+## ANALYZE COMPETITORS' POSITIONS
+
 
 READ TO PAGE 92
