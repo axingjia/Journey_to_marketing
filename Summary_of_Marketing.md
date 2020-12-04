@@ -8,4 +8,5 @@
 * Differentiation
 * Segment profile
 * Target Market Selection
+* Positioning
 
