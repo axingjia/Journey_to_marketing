@@ -731,6 +731,79 @@ Operational excellence is a strategy focused on cost effectiveness, efficiency, 
 * The choice of strategic orientation and the basis of differentiation is dependent on an organization's ability to defend the positioning. Analysis of your ability to defnd a particular positioning requires an assessment of the strengths and weakensses of your own organization and your ability to create sustainable competitive advantage, and the opportunities and threats in the external environment, in particular consumer behaviour and your assessment of the strategies and capabilities of your competitors (recall SWOT analysis).
 
 ## ANALYZE COMPETITORS' POSITIONS
+* SKIM
+
+## VALUE CREATION AND SUSTAINABLE COMPETITVE ADVANTAGE
+* The second aspect of an assessment of defendability is to assess your ability to create the value proposition and basis of differentiation that you intend in your brand concept, and you ability to sustain your strategic orientation in the face of comeptitive reaction. Different strategic orientations require different organizational strengths (capabilities), focus, and resource allocation, and they are often associated with different organizational cultures
+
+                Product leadership   Customer Intimacy   Operational Excellence    Symbolism/Meaning
+
+        Strategy  PL1                      CI1                OE1                       SM1
+
+        Structure   PL2                    CI2                OE2                       SM2
+
+        Culture     PL3                   CI3                 OE3                       SM3
+
+        Resource    PL4                    CI4               OE4                        SM4
+
+        Focus       PL5                   CI5                OE5                        SM5
+
+        PL1: Innovate, bring new products, to market quickly that have superior features, functions, performance or outcomes
+        PL2: Flat, organic, flexible
+        PL3: Entrepreneurial, creative, rewards innovation
+        PL4: Research & development
+        PL5: New product development, production, distribution
+        CI1: Develop exceptional customer experiences and tailored, customized solutions
+        CI2: Decentralized, empowerment, close to customer contact
+        CI3: Customer oriented, flexible, rewards customer satisfaction and loyalty
+        CI4: Customer research
+        CI5: Service quality, Customer support, Flexible manufacturing
+        OE1: Provide the best value by reducing costs, lowering prices, and by making it easy to do business with you
+        OE2: Strong centralized decisions focused on process of system improvements
+        OE3: Bureaucratic, run by accountants, cost savings are rewarded
+        OE4: Procurement
+        OE5: Distribution, Scale efficiencies, Manufacturing efficiencies
+        SM1: Develop superior symbolism or meaning for your product that creates psychological attachment to your brand
+        SM2: Centralized decision making to control corporate and brand image, strong brand management structure
+        SM3: Culture reflects and supports brand positioning. Brand management is rewarded
+        SM4: Marketing communications
+        SM5: Product quality, Brand management, Customer research
+
+* **This makes it difficult to be the industry leader in more than one of these areas. At issue is whether an organization has the skills, abilities, resources, organizational structure, and culture to create the intended offer such that it will be perceived as superior by members of the target market on the differentiation dimensions reflected in the positioning strategy; whether the organization can communicate this effectively to the target market; and whether it can continue to do this until its goals are met as an organization.** Marketers need to explain how they are going to be able to sustain the basis for value creating differentiation in the minds of its target customer.
+* There are three main ways to defend a positioning strategy. **The first is to continuously innovate to keep ahead of competitors. This is the approach typically followed by organizations adopting a product leadership strategy.** The second approach is to hide in a small enough niche market that competitors are not likely to enter--either because the market is not big enough to warrant attention, or because they are significant first-mover advantages in that market, such that followers into the market are at serious disadvantage. The third is to protect current source(s) of competitive advantage by erecting barriers to competition. Some of t hese barriers include:
+
+        * Marketing expertise: companies that are market oriented and customer driven can protect a customer intimacy positioning by being closer to and more understanding of customer needs, wants, and behaviours; by being more flexible; and by being more responsive to customer
+        * Customer loyalty: competitors find it difficult to get loyal customers to switch bransd. Companies who have developed loyal customers can protect their positioning by maintaining high levels of customer satisfaction. Some strategy experts argue that relationships are the only true source of sustainable competitive advantage as other barriers can eventually be eroded.
+        * Monopolization of a scarce resrouce: Retailers restrict competition by gaining exclusive access to retail locations. Other organizations secure exclusive supply or distribution contracts to limit the ability of competitors to enter markets.
+        * Proprietary technology: patent, copyrights, and other mechanisms that protect intellectual property can help protect current sources of competitive advantage
+        * Culture-based expertise: companies that develop core competencies or specialized knowledge in application, manufacturing, new product development, or other value creating activities within organizations can protect a positioning strategy based on that expertise if it permeates an organization's culture in a way that is difficult to emulate. Cultures take a long time to develop and it is very difficult for competitors to emulate culture-based expertise.
+        * Legislation or regulatory approval: cellphone companies and cable companies are partially protected from competition by the Canadian Radio-television and Telecommunciations Commision and the need for regulatory approval to set up cell networks or cable networks
+        * Capital requirements: high market-entry costs, such as the cost of specialized equipment, technology, or setting up a sales force or distribution channel, can be a barrier to competitors, particularly in small market niches that may support only one or two competitors
+
+## BRINGING A PRODUCT TO LIFE: THE BRAND PERSONALITY
+* The final element of a positioning strategy is creating a brand personality. Brands, like people, can be described in terms of personality traits. These descriptions might include words like cheap, elegant, sexy, bold, or wimpy. A positioning strate SKIM
+
+## IMPLEMENTING THE POSITIONING STRATEGY
+* **The success of a target marketing strategy hinges on a marketer's ability to identify and select an appropriate market segment or market segments** Then the marketer must devise a positioning that will set apart their offer from their competitors', that will be highly appealing to the target market, and that can be defended. The marketing mix decisions relating to product, pricing, distribution, and communication are then made in a way that supports the desired positioning. In effect, the marketing mix is the way that positioning get implemented. **Because everything else depends on segmentation and positioning decision, segmentation and positioning, together, are the two most important concepts in marketing.**
+* Montreal-based G.I Energy Drinks developed the following strategy when it introduced the Guru energy drink. The company segmented the market in terms of age and psycholographics, and then target a segment of 16- to 24-year-olds, whose profiles indicated they were into "new-age" beverages that would give them a feeling of energy without unhealthy additives. The company reached these consumers by selling its drinks at raves in Montreal and Toronto, advertising in club culture magazines, and sponsoring events like snowboarding demonstrations. A company spokeperson describe the Guru positioning strategy this way: "We really feel the best way to reach people is trhough trial and onsite promotions... We want to provide the consumer with a drink that will enhance the activity they are already participating in"
+* We previously discussed **some of the challenges in segmentation. The four main positioning challenge are: 1) vague positioning, where company do not clearly articulate their main point(s) of differentiation; 2) confused positioning, where the positioning strategy keeps changing (like McDonald's), making it difficult for consumers or customers to understand what the brand is supposed to mean to them; 3) off-target positioning, where companies do not differentiate themselves on dimension important to consumers or customers; and 4) over positioning, where companies position themsleves too narrowly, either appealing to too small a market segment or being unable to change or adapt their positioning with changing market condition.**
+* *Evaluate the target market's responses and modify the strategy*. The target marketing process is ongoing. Over time an organization like Molson may find that it needs to change the segments it targets, and the needs or wants of people in these chosen segments may change as well. Marketers need to monitor these changes and adjust their positioning strategies when necessary. Sometimes marketers redo a product's position to respond to marketplace changes.
+
+#### CHATPER REVIEW
+
+Marketing Concepts: Testing Your Knowledge
+1. What is market segmentation and why is it an important strategy in today's marketplace
+2. Explain consumer psychographic segmentation
+3. How can consumer behaviour be used for segmenting markets?
+4. List and explain the major demographic characteristics frequently used in segmenting markets
+5. What are the major dimensions used for segmenting business markets?
+6. List the criteria used for determining whether a segment may be a good candidate for targeting
+7. Explain undifferentiated, differentiated, concentrated, customized, and mass-customization marketing strategies
+8. What is product positioning? Describe the process marketers use to create product positions
+9. Describe the variokus ways positioning strategies may be defended
+10. What are positioning and perceptual maps and how are they used by marketers?
 
 
-READ TO PAGE 92
+# CHATPER 4: MARKET RESEARCH
+
+page 122

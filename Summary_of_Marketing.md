@@ -9,4 +9,6 @@
 * Segment profile
 * Target Market Selection
 * Positioning
+* Defendability
+* Brand Personality
 
