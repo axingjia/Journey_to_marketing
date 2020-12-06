@@ -805,5 +805,64 @@ Marketing Concepts: Testing Your Knowledge
 
 
 # CHATPER 4: MARKET RESEARCH
+Question to ask: 
+* How do tehy go about developing marketing objectives, selecting a target market, positioning--or repositioning their product, and developing product, price, promotion, and place strategies
+* brand rejuvenation effort
+* market share
+* Mearue awareness, consumption behaviour, and loyalty
 
-page 122
+* Marketing MIS and marketing intelligence SKIM
+* The process of collecting, analyzing, and interpreting data about customers, commpetitors, and the business environments to make a specific marketing decision is called marketing research
+* primary research, secondary research, data mining SKIM
+
+## THE STEPS IN THE MARKETING RESEARCH PROCESS
+* The collection and interpretation of strategic information is hardly a one-shot deal that managers engage in "just out of curiosity". Ideally, marketing research is an ongoing process, a series of steps marketers take to learn about the marketplace. Whether a company conducts the research itself or hire another firm to do it, the goal is the sam--**to help managers make informed marketing decision**
+
+        * **Define the problem**: 1. Specify the research objectives, 2. Identify the consumer population of interest, 3. Place the problem in an environmental context
+
+        ->
+
+        * **Determine the Research Design**: 1. Secondary data available, 2. Primary data required: exploratory research, descriptive research, causal research
+
+        ->
+
+        * **Choose the Data Collection Method**: Communication methods: mail questionaires, telephone interviews, face-to-face interview, online questionaires; observational methods: personal observation, unobstructive measures, mechanical obsercation
+
+        ->
+
+        * **Design the sample**: Probability sampling; non-probability sampling
+
+        ->
+
+        * **Colect the Data**: 1. Translation(if necessary), 2. Combining data from multiple sources (if available)
+
+        ->
+
+        * **Analyze and Interpret the data**: Tabulation and cross-tabulation; statistical anlayses; description of patterns of results
+
+        ->
+
+        * Prepare the Research Report: Executive summary; description of methodology; discussion of results; limitation; conclusion and recommendation 
+
+#### Define the problem
+* Defining the research problem as precisely as possible allows marketers to search for the right answers to the right questions. Sometimes marketers can not determine exactly what the problem is because they're focusing on symptoms, such as declining sales, and not on the underlying problem that's causing sales to drop. For example, a drop in sales of a sunscreen may be due to a new competitor, lack of cooperation from distributors, or even a fashion trend promoting a deep tan.
+
+Defining the problem has four components:
+1. Specify the management decision: the most important stage of the research process is figuring out what marketing (or other) decisions need to be made with the information being sought. For example, **is the key decision "What market segment should I target?" or is the key decision "How could I price this product?"** The research needed for making the first decision won't be useful for making the second decision or vice versa--**and generally, you can only focus on one key decision in any given piece of research because different decisions require different research questions, samples, and methods. Specifying the relative importance of the decision is also useful as it helps guide the scope of the research activity and how much time, effort, and resources should be allocated to the project.**
+2. Specify the research objectives or research questions. What questions will be research attempt to answer? Once the key decision is identified, **you need to ask yourself "what general questions do I need to answer to make that decision?" For example, if the key decision is "What market segment should I target?" some key questions (among others) that need to be answered are: What are the key alternative market segments? What are the profile and size of these segments? What brands are currently targeted at each segment? How is our brand positioned (or how might it be positioned) relative to competitors? What are sources of competitive advantage that will allow us to defnd our desired positioning?**
+* Often the importance of a research question surface during exploratory resarch. For example, Mercedes-Benz regularly monitors drivers' perceptions of its cars, partly through feedback from dealers. When the company started getting reports from its dealers that people were viewing the cars as being deserved only after they become "successful", it developed the "ice crean" television ad. It attempts to dispel the attitude that consuemrs should wait until their big promotion to indulge themselves. Often marketers want to know how much of a product they are likely to sell. There are many approaches to developing a sales forecast. Some of the common approaches are described in Appendix 4B.
+3. Identify the information needs. Once research specify the resarch questions or objectives, **they need to specify what needs to be learned or known, and from whom--indicating the population or group of interest.** For example, to answer the research question "What are the profile of each segment?" we would want to know specific information like: What are the benfit sought by each identified segment? What are the demographic dcharacteristics of each segment? (e.g., sex, age, income), what are the psychographic characteristics of each segment (e.g., lifestyle, interests, values), what are the media use behaviours for each segment (e.g., magazine and newspapers read, radio stations listened to, TV programs watched)
+* **These information needs are not the questions you would see in a questionaire or interview guide, but they inform those questions and give a researcher rationale for including or not including specific questions on a questionaire. If the question does not address an information need, it is not required on the questionaire.** Information needs also inform methodology, or the research technique, as different types of information can be gathered from different sources or by using different techniques.
+4. Place the problem in an environmental context. The problem definition should also specify the factors in teh firm's internal and external business environment that might be causing or influencing the situation. Placing the problem in the context of the firm's environment helps researchers structure the research, determine the specific types of questions to ask, and identify factors they will need to take into account when interpreting results. Environmental conditions also provide a valuable perspective. For example, when the economy is tight and sales of luxury cars are generally declining, the propulation to be studied might be narrowed down to a select group of consumers who are still willing and able to indulge in a luxury vehicle. Alternatively, consuemrs may be moving away from glitzt status-conscious materialism, so that the research question comes down to how promotional strategies can convey honest and basic values that go beyond "snob appeal".
+
+#### Determine the Research Design
+
+* explorative research: focus group and case study, ethnography SKIM
+* descriptive research and cross-sectional design 
+* longitudinal design
+* causal research
+* Interactive method: Survey, mail survey, telephone survey, face to face interview, online questionaire
+* Passive method: personal observation, unobstrusive measure, mechanical obsercation
+
+
+page 137
