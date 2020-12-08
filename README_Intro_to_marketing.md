@@ -918,7 +918,149 @@ Defining the problem has four components:
 #### Design the Sample
 * **Once the researcher has defined the problem, decided on a research design, and determined how to collect the data, the next step is to decide from whom to obtain the needed data.** Of course, the researcher could collect the information from every single customer or prospective customer, but this would be extremely expensive and time consuming, if possible at all. Instead, researchers collect most of their data from a small proportion or sample of the population of interest. Based on the answers of this sample, researchers hope to generalize to the larger population. Whether such inferences are accurate or inaccurate depends on the type and quality of the study sample. There are two main types of samples: probability and non probability samples.
 * **PROBABILITY SAMPLING**: **With a probability sample, each member of the population has some known chance of being included in the sample**. Using a probability sample ensures researchers that the sample is representative of the population and that inferences about the population made from the sample are justified. For example, if a larger percentage of males than females in a probability sample say they prefer action movies to "chick flicks", one can infer with confidence that a larger percentage of males than females in the general population also would rather see a character get sliced and diced.
-* **The most basic type of probability sample is a simple random sample in which every member of a population has a known and equal chance of being included in the study.** For example, if we simply take the names of all 40 students in your class and put them in a hat and draw one out, each member of your class has a 1 in 40 chance of being included in the sample. In most studies the population from which the sample will be drawn is too large for a hat, so marketers use a computer program to generate a random sample from a list of members of the population.
-* Sometimes researchers use a **systematic sampling procedure in which they select the nth member of a population after a random start. For example, if we want a sample of 10 members of your class, we might begin with the second person on the roll and select every fourth name after that; that is, the second, the sixth, the tenth, the 14th, and so on. Researchers know that studies that use systematic samples are just as accurate as simple random samples. Unless a list of members of the population of interest is already in a computer data file, it is a lot simpler to create a systematic sample. 
+* The most basic type of probability sample is a **simple random sample** in which every member of a population has a known and equal chance of being included in the study. For example, if we simply take the names of all 40 students in your class and put them in a hat and draw one out, each member of your class has a 1 in 40 chance of being included in the sample. In most studies the population from which the sample will be drawn is too large for a hat, so marketers use a computer program to generate a random sample from a list of members of the population.
+* Sometimes researchers use a **systematic sampling** procedure in which they select the nth member of a population after a random start. For example, if we want a sample of 10 members of your class, we might begin with the second person on the roll and select every fourth name after that; that is, the second, the sixth, the tenth, the 14th, and so on. Researchers know that studies that use systematic samples are just as accurate as simple random samples. Unless a list of members of the population of interest is already in a computer data file, it is a lot simpler to create a systematic sample. 
+* Another type of probability sample is **a stratified sample** in which a research divides the population into segments that are related to the study's topic. For example, imagine that you are interested in studying what movies are most likely by members of a population. You know from prevvious studies that men and women in the population differ in their attitude toward different types of movies--men like action flicks and women like romances. To create a stratified sample, you would first divde the population into male and female segments. **Then respondents from each of the two segments would be selected randomly in proportion to their percentage of the population.** In this way, you have created a sample that is proportionate to the population on a characteristic that you know will make a difference in the study results.
+* **Cluster sampling** also divides a population into groups, but in this approach the groups are representative microcosms of a population, in that each reflects the characteristics of the population as a whole. **In cluster sampling the population is divded into mutually exclusive and collectively exhaustive subpopulations and then a subset of the groups is chosen using a probability sampling technique like a simple random sample. Respondents are then chosen within the groups using another probability sampling technique.** Cluster sampling is quite cost effective because you only have to create a sampling frame (list of potential respondents) for the cluster groups chosen. **Political pollsters use cluster sampling to make national assessments of party popularity based on the responses of a few hundred voters.**
+* **NON-PROBABILITY SAMPLING** Sometimes researchers do not feel that the time and effort required to develop a probability sample are justified, perhaps because they need an answer quickly or they just want to get a general sense of how people feel about a topic. They may choose a non-probability sample, **which entails the use of personal judgment in selecting respondents--in some cases just asking whomever they can find**. With a non-probability sample, some members of the population have no chance at all of being included in the sample. Thus, there is no way to ensure that the sample is representative of the population. **Results from non-probability studies can be generally suggestive of what is going on in the real world but not necessarily definitive.**
+* A **convenience sample** is a non-probability sample composed of individuals who just happen to be available when and where the data are being collected. For example, if you simply stand in fron of the student union and ask students who walk by to complete you questionnaire, that would be a convenience sample.
+
+#### Colect the Data
+* Privacy Law (The Personal Information Protection and Electronic Documents Act, or PIPEDA) SKIM
+
+#### Analyze and Interpret the Data
+SKIM
+
+#### Prepare the Research Report
+
+## ONLINE RESEARCH
+* Cookies SKIM
+* Online Testing, Questionnaire, and Focus Group: 
+
+## CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. What is a marketing information system (MIS)? What types of information are included in a marketing information system? How does a marketing decision support system (MDSS) allow marketers to easily get the information they need?
+2. What are the steps in the marketing research process? Why is defining the problem to be researched so important?
+3. What is the goal of exploratory research? What techniques are used to gather data in exploratory research?
+4. What is descriptive research? What techniques are used in descriptive research?
+5. What is causal research?
+6. What are some advantages and disadvantages of telephone interviews, mail quesionnaires, face-to-face interviews, and online interviews? What unique data collection problems exist in foreign markets?
+7. What are some ways in which we can measure customer satisfaction? Describe the pro and cons of each
+8. How do probability and non-probability samples differ? What are some types of probability samples? What are some types of non-probability samples?
+9. What are single-source data? What are some ways that marketers use single source data?
+10. What is meant by reliability, validity, and representativeness of research results?
+11. What are online tracking studies? What are some strengths and weaknesses of Internet focus group
+
+Marketing Concepts: Discussing Choices and Issues
+1. Do you think marketers should be allowed to connduct market research with young children? Why or why not?
+2. Some marketers attempt to disguise themselves as marketing researchers when their real intent is to sell something to the consumer. What is the impact of this practice on legitimate researchers? What do you think might be done about this practice?
+3. Are you willing to divulge personal information to marketing researchers? How much are you willing to tell, or where would you draw the line?
+4. What is your overall attitude toward marketing research? Do you think it is beneficial activity from a consumer's perspective? Or do you think it merely gives marketers new insights on how to convince consumers to buy something they really doesn't want or need?
+5. Can you design a method to measure customer satisfaction that we have not discussed in this chapter?
+6. Sometimes firms use data mining to identify and abandon customers who are not profitable because they don't spend enough to justify the service needed or because they return a large proportion of the items they buy? What do you think of such practices? Is it ethical for firms to prune out these customers?
+7. Many consumers are concerned about online tracking studies and their privacy. Do consuemrs have the right to "own" data about themselves? Should governments limit the use of the Internet for data collection?
+8. One unobtrusive measure mentioned in teh chapter involved going through consuemrs' or competitors' garbage. Do you think marketers should have the right to do this? Is it ethnical?
+9. Consider the approach to tracking consumers' exposure to promotion via portable people meters, or PPM. How would you feel about participating in a study that required the use of a PPM? What would be the advantage of a PPM appraoch versus keeping a written diary of television shows you watched and ads you saw?
+
+Marketing Practice: Applying What You've Learned
+1. Your firm is planning to begin marketing a consumer product in several global markets. You have been given the responsibility of developing plans for marketing research to be conducted in Eastern Eruope, Western Europe, and China. In a role-playing situation, present the idfficulities you expect to encounter, if any, in conducting research in each of these areas?
+2. As an account executive with a marketing research firm, you are responsible for deciding on the type of research to be used in variokus studies conducted for your clients. For each of the following client questions, list your choices.
+
+        a. What do consduemrs like and dislike about shampoo?
+        b. What are the best media vehicles for a local insurance broker to use for its advertising?
+        c. How much label information on cereal boxes do consuemrs read before they make a purchase?
+        d. Are consumers more likely to buy brands that are labelled as environmentally friendly?
+        e. How do women determine if a particular perfume is right for them?
+        f. What types of people read the local newspaper?
+        g. How frequently do consumers switch brands of soft drinks
+        h. How will an increase in the price of a brand of laundry detergent affect sales
+        i. How do the different members of a family participate in the purchase of a new car
+
+3. Your marketing research firm is planning to conduct surveys to gather information for a number of clients. Your boss has asked you and a few other new employees to do some preliminary work. He has asked each of you to choose three of the topics that will be included in the project and to prepare an analysis of the advantages and disadvantages of mail surveys, telephone surveys, face-to-face surveys, or observation for each.
+
+        a. the amount of alcoholic beverages consumed in a city
+        b. young adult's use of illegal drugs
+        c. why a local convenience store has been losing customers
+        d. How heavily the compnay should invest in manufacturing and marketing home fax machine
+        e. the amount of money people spend on lottery tickets
+        f. reader recall of magazine advertisements
+        g. what local doctors would like to see changed in the hospitals in the city
+        h. consumers' attitude toward several sport celebrities
+
+Marketing Mini-Project: Learning by Doing
+* The purpose of this mini-project is to familarize you with research techniques used by marketers and to help you apply these techniques to managerial decision making.
+1. With a group of three other students in your class, select a small retail business or fast-food restaurant to use as a "client" for your project. Be sure to get the manager's permission before conducting your research. Then choose a topic from among the following possibilities to develop a study problem:
+
+        * Employee-customer interactions
+        * The busiest periods of customer activity
+        * Customer perceptions of service
+        * Customer likes and dislikes about offerings
+        * Customer likes and dislikes about the environment in the place of business
+        * The benefits customers perceive to be important
+        * The age groups that frequent the place of business
+        * The age groups that frequent the place of business
+        * The buying habit of a particular age group
+        * How customer complaints are handled
+
+2. Develop a plan for the research:
+
+        a. Define the problem as you will study it
+        b. Choose the type of research you will use
+        c. Select the techniques you will use to gather data
+        d. Develop the mode and format for data collection
+
+3. Conduct the research
+4. Write a report or develop a class presentation that includes four parts.
+
+        a. Introduction: a brief overview of the business and the problem studied
+        b. Methodology: The type of research used, the techniques used to gather data (and why they were chosen), the instruments and procedures used, the number of respondents, duration of the study, and other details that would allow someone to replicate your study.
+        c. Results: a compilation of the results (perhaps in table form) and the conclusions drawn
+        d. Recommmendations: A list of recommendations for actions management might take based on the conclusions drawn from the study.
+
+Real People, Real Surfers: Explore the Web
+* Monitoring changes in demographics and other consumer trends is an important part of the marketing intelligence included in an MIS. Today, much of this information is gathered by government research and is available on the Internet.
+* Statistics Canada provides talbed data for Canadian cites at its site, **www.statcan.ca**. Using both Statistics Canada data and any other data you can find on the Internet, develop a report on a Canadian city of your choice that answers the following questions:
+
+        1.What is the total population of the city
+        2. Describe the population of the area in terns of age, income, education, ethnic background, marital status, occupation, and housing
+        3. How does the city compare to the demographic characteristics of the entire Canadian populatiokn
+        4. What is your opinion of the different websites you used? How useful are they to marketers? How easy were they to navigate? Was  there information you wanted that was not available? Was there more or less information from the sites than you had anticipated? Explain
 
 # CHAPTER 5: Consumer Buying Behaviour
+
+## UNDERSTANDING CUSTOMERS
+* Compelling new products, clever packaging, and creative advertising surround us, clamouring for our attention--and our money. But consumers don't all respond in the same way to marketing activies. Each consumer is a unique person, with unique reasons for choosing one product over another. As Ron Outerbridge of Coast Tire knows, the first step in building long-term relationships is understanding your customer. Recall that the focus of the marketing concept is to satisfy consumers' wants and needs. **These wants and needs can be satisfied only to the extent that marketers understand why and how people buy products.** D-Code, for example, is a Canadian research firm that helps Canadian marketers understand 18- to 34-year-old "Nexus" consumers by answering such questions as, What are the attitudes and lifestyles of Nexus consumers, why do they prefer certain products, which ads do they respond to, and how do they purchase products? Uthink, another Canadian marketing research and strategy firm, offers similar services to help marketers understand 13- to 29-year-old. **Consumer behaviour is the process individuals or groups go through to select, purchase, and use goods, services, ideas, or experiences**. Marketers recognize that consumer behaviour is an ongoing process--it is more than what happens at the moment a consumer hands over money and, it turn, receives a good or service.
+* Although it seems as if some purchases are made spontaneously (and we may regret our rashness later), **in reality we make most buying decisions only after we have undergone a series of steps--problem recognition, information search, evaluation of alternatives, product choice, and post-purchase evaluation.**
+* Let's look at an example of a consumer purchase--one you yourself probably make on a regular basis: dry cereal. While this may seem like a simple purchase, in reality there are quite a few steps in the process that cereal marketers need to understand. The first decision in the process is where to buy your cereal. If you eat a lot of cereal, you may choose to make a special trip to a wearehouse-type retailer, such as Costco, that sells very large boxes of cereal. Of course, if you get a yearning for cereal in the middle of the night, you may dash to the local convenience store. Then there is the decision of the type of cereal. Do you eat only low-fat, high-fibre bran cereals, or do you go for sugar-coated varieties with marshmallows? As you can see, the purchase decision for something as simple as cereal can actually be quite complicated.
+* Traditionally, researchers have tried to understand how consuemrs make decisions by assuming that people carefully collect information about competing products, determine which products possess the characteristics or product attributes important to their needs, weigh the pluses and minuses of each alternative, and arrive at a satisfactory decision. But how accurate is this picture of the decision-making process?
+* Although it does seem that people undergo these steps when making an important purchase, is it realistic to assume that they do this for everything they buy? Researchers now realize that consumers actually possess a set of decision approaches, ranging from painstaking analysis to pure whim, depending on the importance of what is being bought and how much effort the person is willing to put into the decision. Researchers have found it convenient to think in terms of an "effort" continuum, which is anchored on one end by habitual (or routine) decision making (such as deciding t o purchase a can of pop) and at the other end by extended problem solving (such as deciding to purchase a computer). Many decisions fall somewhere in the middle and are characterized by **limited problem solving, which means that consumers do work to make a decision, but most likely rely on simple rules of thumb instead of learning about and conisdering all the ins and outs of every product alternative. For most of use, the dry cereal purchase decision described above falls into the limited problem solving category.** Some Internet marketers believe that the Internet can reduce the effort needed to make product decisions by offering so many products and services in one place. 
+* **Involvement** Determines the extend of effort a person puts into deciding what to buy. Involvement is the importance of the perceived consequences of the purchase to the person. **As a rule, we are more involved in the decision-making process for products that we perceive as being important, pleasurable, or risky in some way.** Perceived risk may be present if the product is expensive, complex, and hard to understand, or if the purchase of the wrong product could result in embarrassment or social rejection. For instance, some people perceive clothing purchases as risky because they feel a wrong choice could lead to negative social consequences. Perceived risk can also be a factor in the buying process for certain products. A study of condom buying among Canadian university students, for example, found that 66 percent of men and 60 percent of women reported being embarrassed when buying condoms and, therefore, do not buy them. As one researcher put it, "Approaching the cashier is the moment of truth. There is also the worry that a 'price check on a 12-pack of Durex condom' will be announced to the entire store". Marketers will sometimes refer to high- or low-involvement product, but this is misleading. **Products are not high or low involvement--decision are. What is a high-involvement decision for one consumer may be a low involvement decision for another.** Bill Gate, for example, probably doesn't spend a lot of time thinking about what type of television to buy. When marketers say that a car is high-involvement product, they really mean it is a high-involvement decision for most consumers.
+* When perceived risk is low, as in buying a pack of gum, the consumer feels low involvement in the decision-making process, the consumer is not overly concerned about which option he or she chooses because it is not especially important or risky. **In low-involvement situations, the consumer's decision is often a response to environmental cues, such as deciding to try a new type of chewing gum because it is prominently displayed at a store checkout counter.** Under these circumstances, managers must concentrate on how products are displayed at the time of purchase to influence the decision maker. **For example, a chewing gum marketer may decide to spend or to change the color of the gum wrapper to a bright pink to be sure it gets noticed among the other gums.**
+* For other purchase decisions, such as for a house, car computer, or interview suit, the consumer is more likely to carefully process all the available information and to have thought about the decision well before buying the item. **The consequences of the purchase are important and risky, especially because a bad decision can result in significant financial losses, aggravation, decreased performance, or embarrassment. These types of purchase decisions are high involvement decisions.** Products are not inherently high or low involvement, but the level of involvement engaged by a consumer is often associated with the price, importance, and perceived risk of the purchase decision. So for products purchased with a high-involvement decision process, managers must start to reduce perceived risk by educating the consumer about why their product is the best choice well in advance of the time that the consumer is ready to make a decision. To understand what goes on during each of the steps in the decision-making process, in the next section we'll follow the fortunes of one consumer, a student named Emma, who is in the market for a new notebook computer. This is a high-involvement purchase decision for her because of the cost of the product and because the performance of the computer will have an important impact on her own performance in courses and, perhaps, in future jobs.
+
+## Problem Recognition
+* Problem recognition occurs whenever the consumer sees a significant difference between their current state of affairs and some desired or ideal state. The consumer needs to solve a problem, which may be small or large, simple or complex. Emma has a problem. She needs t o have a computer for writing papers, doing research on the Internet, and sending e-mail, but the computers provided on campus are always busy when she needs a computer the most, such as at the end of term. Emma also wants her computer to be portable so that she can use it to take notes in classes and take it to the library while she researches her assignments. Thinking about the future, Emma realizes that, in her job, she will probably have a lot of work to do after hours. having a notebook computer will allow her to do the work in the comfort of her own apartment.
+* Do marketing decisions have a role in buyers' problem recognition? Although most problem recognition occurs spontaneously, **marketers can develop creative advertising messages that stimulate consumers to recognize that their current state--that old car--just doesn't equal a shiny, new convertible**
+
+                Stage in the Decision Process         Marketing Strategy            Example
+
+                Problem Recognition                     PR1                          PR2
+                Information Search                      IS1                          IS2
+                Evaluation of Alternative               EA1                          EA2
+                Product Choice                          PC1                          PC2
+                Post-Purchase Evaluation                PPE1                         PPE2
+
+                PR1: Encourage consumers to see that existing state does not equal desired state
+                PR2: TV commercials showing the excitement of owning a new car
+                IS1: Provide information when and where consumers are likely to search
+                IS2: Targeted advertising on TV programs with hih target market viewership; Sales training that ensures knowledgeable salespeople; make new car brochures available inn dealer showrooms; design exciting, easy to navigate, and informative websites
+                EA1: Understand the criteria consumers use in comparing brands and commmunicate own brand superiority
+                EA2: Conduct research to identify most immportant evaluative criteria; create advertising that includes reliable data on superiority of a brand (e.g., kilometres per litre, safety, comfort)
+                PC1: Understand choice heuristics used by consumers and provide communication that encourages brand decision
+                PC2: Advertise "Made in Canada"; stress long history of teh brand
+                PPE1: Encourage accurate consumer expectations; 
+                PPE2: Provide honest advertising and sales presentation
+
+## Information Search
+* Once Emma recognizes her computer problem, she needs adequate information to resolve it. During the information search part of the decision-making process, **consumers check their memory and survey the environment to identify what options exist to solve the problem. Marketing communication helps consumers in this task, and many advertisements are focused on generating awareness about brands.** When Virgin Mobile launched its new Virgin brand cellphone service in Canada, it kicked off its campaign with an innovative publicity stunt to create immediate awareness for its brand. Attached to a wire and dressed as Captain Canada, Richard Branson, the chair and founder of Virgin Group, jumped from a 15-storey media tower in Toronto's Dundas Square, and then proceeded to ride a monster truck over three cars representing his company's wireless competition. For her information search, Emma might rely on ads she has seen for notebook computers, recommendations from friends, and additional research she might do by reading Consumer reports and PC Magazine, or by signing onto websites for companies, such as Dell Canada and Apple Canada. She also might vist some electronics stores, like Future Shop, where she can discuss her purchase with salespeople and try out some computers.
+* Increasingly, consumers are using Internet search engines, portals, or "shopping bots" for information search. Search engines are sites such as Google, AltaVista, and Webcrawler that find information on the web by searching sites for keywords. Other sites such as Expedia simplify searches because they organize information from a lot of separate websites according to common themes. Consider the purchase of a new car. The car dealer was once the key source of information during the information search stage of a new car purchase. Now, most new car purchasers visit a car dealership only after extensive research on the Internet.
