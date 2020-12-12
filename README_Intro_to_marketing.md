@@ -1218,3 +1218,67 @@ Marketing Concepts: Discussing Choices and Issues
 5. Culture is not static. What values, beliefs, and customs of Canadian culture do you see changing? how are these changes affecting marketing? What products will be affected by these changes
 6. Consumers often buy products because they feel pressure from reference groups to conform. Does conformity exert a positive or negative influence on consumers? How do consumer demographics, psychographics, and lifestyles affect their readiness to conform? With what types of products is conformity more likely to occur?
 7. Many Canadians and consumers around the globe use C2C e-commerce to supplement their incomes or as their primary source of income. What do you think of the future of sites such as eBay? What opportunities does eBay provide for twenty-first-century entrepreneurs?
+
+Marketing Practice: Applying What You've Learned
+1. Assume that you are the director of marketing for a chain of camping and outdoor gear stores. Your firm is expanding and it is your job to develop general recommendations for store design. Prepare a summary of your recommendations for store design elements that you believe will provide the best shopping environment for your customers
+2. Assume that you are an account executive with an advertising agency. Your current client is a firm that makes swimwear. You know that swimwear purchases are often influenced by a variety of social or "other people" factors. Write a report that list these social influences, explain why each is important, and outline how you might use these influence in developing an advertising campaign.
+3. This chapter indicated that consumers go through a series of steps (from problem recognition to post-purchase evaluation) as they make purchases. Write a detailed report describing what you would do in each of these steps when deciding to purchase one of the following product
+
+        a. an automobile
+        b. a suit
+        c. a vacation
+
+4. Sometimes advertising or other marketing activities cause problem recognition to occur by showing consumers how much better off they would be with a new product or by pointing out problems with products they already own. For the following product categories, what are some ways in which marketers might try to stimulate problem recognition?
+
+        a. cellphone
+        b. toothpaste
+        c. vitamins
+        d. fast food
+
+5. You work for a firm that markets frozen foods and are concerned about the effects of current consumer trends, including the increasingly diverse ethnic makeup of the population, changing roles of men and women, increased concern for time and for the environment, and decreased emphasis on owning status goods. Others in your firm do not understand or care about these changes. They believe that the firm should continue to do business just as it always has. Develop a role-playing exercise with a classmate to discuss these two different points of view for your class. Each of you should include the importance of each of these trends to your firm and your suggestions for marketing strategies to address these trends
+
+Marketing Mini-Project Learning by Doing
+* The purpose of this mini-project is to increase your understanding of the roles of personal, social, and situational factors in consumer behaviour.
+1. With several other members of your class, select one of the following product categories (or some other product of your choice)
+
+        a. perfume
+        b. computers
+        c. women's or men's shoes
+        d. automobile
+
+2. Visit three stores or locations where the product may be purchased (try to select three thatare very differernt from each other). Observe and make notes on all the elements of each retail environment.
+3. At each of the three locations, observe people purchasing the product. Make notes about their characteristics (e.g., age and sex) and their actions in the store in relation to the product
+4. Prepare a report for your class describing the situation variables and individual consumer differences you discovered and how they relate to the purchase of the product.
+5. Present your findings to your class.
+
+# CHAPTER 6: Organizational Buying Behaviour
+
+## BUSINESS MARKETS: BUYING AND SELLING WHEN STAKES ARE HIGH
+* You might think most marketers spend their days dreaming up the best way to promote cutting edge web browsers or funky shoes. Not so. Many marketers know that the "real action" is more likely to be found in lead pipes, offcie supplies, safety shoes, meat lockers, or machine tools. In fact, some of the most interesting and most lucrative jobs for young marketers are in industries you probably have never heard of.
+* An individual consumer may decide to buy two or three T-shirts at one time, each emblazoned with a different design. Large companies such as Canadian Tire, Petro-Canada, Air Canada, and Cirque du Soleil buy hundreds, even thousands, of employee uniforms embroidered with their corporate logos in a single order. Like an end consumer, a business buyer makes decisions--with an important difference. The purchase may be worth millions of dollars, and both the buyer and seller have a lot at stake in making a wise decision.
+* In this chapter, we'll look at the big picture of the business marketplace, in which the fortunes of business buyers and sellers can hang in the balance of a single transaction. Then we'll examine how marketers categorize businesses and organiations to develop effective business marketing strategies. Finally, we'll look at business buying behaviour and the business buying decision process. 
+* To begin, consider these transactions: Moosehead Breweries, Canada's oldest independent brewery, sells its beer (such as Moosehead Lager) directly to food and beverage retailers and distributors. Procter & Gamble sells cases of Tide to RC Distributors, a Northern Ontario wholesaler. The Stratford Festival buys costumes, sets, and programs. Merck Frosst plans to purchase 1000 Dell computer systems for employee home use. BC Gas buys advice from Anderson Consulting. The Winnipeg Public Library buys a Canon copier. Rona buys drywall from the Canadian Gypsum Company.
+
+## Characteristics That Make a Difference in Business Markets
+* All of these market activities have one thing in common--they are part of business-to-business marketing. This is the marketing of goods and services that businesses and other organizational customers buy for some purpose other than personal consumption. Firms may resell these goods and services or may use them to produce still other goods and services to sell to other businesses or to support their own operations. Business-to-business customers include manufacturers, wholesalers, retailers, and a variety of other organizations such as hospitals, colleges and universities, and government agencies. Another name for business-to-business markets is organizational markets.
+* Business customers create vast opportunities for marketers. When measured in dollars, the market for business and organizational goods and services is four times larger than the consumer market.
+* To put the size and complexity of business markets into perspective, let's consider a single product--a pair of jeans. A consuemr may browse through several racks of jeans and ultimately purchase a single pair, but the store at which the consuemr shops has purchased many pairs of jeans in different sizes, styles, and brands from different manufacturers. Each of these manufacturers purchases fabrics, zippers, buttons, and thread from other manufacturers that, in turn, puchase the raw materials to make these components. In addition, all the firms in this chain need to purchase equipment, electricity, labour, computer systems, office supplies, packing materials, and countless other goods and services. So, even a single purchase of the latest style of Diesel jeans is the culmination of a series of buying and selling activities among many organizations--many people have been keeping busy while you're out shopping.
+* In theory, the same basic marketing principles hold in both comnsumer and business markets--firms identify customer needs and develop a marketing mix to satisfy those needs. For example, imagine the company that made the desks and chairs in your classroom. Just like a firm that markets consumer goods, **the classroom furniture company first must create an important competitive advantage for its target market of colleges and universities.** Next the firm develops a marketing mix strategy beginning with a product--classroom furniture that will withstand years of use by thousands of students while providing a level of comfort required of a good learning environment. The firm must offer the furniture at prices the school will pay and must develop a sales force or other marketing commnication strategy to make sure your school (and hundreds of others) consider--and hopefully choose--its products when furnishing classrooms. Although marketing to business customers does have a lot in common with consumer marketing, there are differences that make this basic process more complex. 
+
+
+| Organizational Markets  | Consumer Markets  |
+|---|---|
+| Purchases made for some purpose other than personal consumption  | Purchase for individual or household consumption  |
+| Purchases made by someone other than the user of the product  | Purchase usually made by ultimate user of the product   |
+| Decision frequently made by several people  | Decision usually made by individuals  |
+| Purchase made according to precise technical specifications based on product expertise  | Purchases often made based on brand reputation or personal recommendations with little or no product expertise  |
+| Purchases made after careful weighing of alternatives  | Purchases frequently made on impulse  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
