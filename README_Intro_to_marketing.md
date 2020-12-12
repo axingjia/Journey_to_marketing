@@ -1165,6 +1165,56 @@ As well as understanding the mechanics of the consumer decision-making process, 
 * **PSYCHOGRAPHICS**: SKIM
 
 ## Situational Influences on Consumer Decisions
-SKIM
+* Physical environment: decor, smell, the "feel" of natural fabrics
+* arousal and pleasure
+* sight, sound, smell
+* in-store displays
+
+## Social Influence on Consumer Decisions
+* Culture
+* green marketing
+* Social class
+* status symbols
+* reference group
+* opinion leader
+
+## Vitural Community:
+* Game
+* chat room
+* boards
+* auction sites
+* product rating sites
+* protest site
+* blogs
 
 Page 184
+
+## CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. What is consumer behaviour? Why is it important for marketers to understand consumer behaviour?
+2. How does the decision process differ under conditions of high involvement and low involvement? What are the steps in the decision process and what activities occur in each?
+3. What is perception? For marketers, what are implications of each component of the perceptual process?
+4. How are consumers motivated to buy certain products over others? How has Maslow's hierarchy of needs contributed to an understanding of consumer behaviour?
+5. What behavioural and cognitive learning theories are important to marketers? How do these perspectives differ when applied to consumer behaviour?
+6. How do the three components of attitudes account for consumer decision making and purchasing behaviour?
+7. What is personality? How is consumer behaviour influenced by an individual's personality and self-concept?
+8. Why is self-concept such an important personal influence on purchasing behaviour? How do age and the family life cycle influence consumers? What is the significance of lifestyles in understanding consumer behaiovur and purchasing decisions?
+9. Why is an understanding of social influences such as culture and subculture important to marketers? What is the significance of social class to marketers? What are reference groups, and how do they influence consumers? What are opinion leaders?
+10. What are the situational influences on consumer purchasing behaviour? How does each affect purchasing decision?
+11. What is peer-to-peer e-commerce? What are virtual communities, gaming, chat rooms, boards, and blogs, and how are they related to consuemr behaviour?
+
+Marketing Concepts: Discussing Choices and Issues
+1. Some consumer advocates have criticize marketing messages that link products to idealized people and situations and encourage the belief that the products will change consumers' lives in the portray directino. Do you agree or disagree? Explain your reasoning.
+2. This chapter raised the question, "Do we buy what we are?" What answer would you give based on your experience? Provide examples that support your opinion.
+3. A number of current demographic or cultural trends are important to marketers. What are some important trends that may affect marketing of the following products?
+
+        a. housing
+        b. home health care
+        c. newspapers
+        d. education
+        e. travel and tourism
+
+4. Affect, cognition, and behaviour are three components that can be used by marketers to shape people's attitudes about products. Identify the product categories you think are most likely to be influenced by each component and discuss the merits of trying to change people's attitude
+5. Culture is not static. What values, beliefs, and customs of Canadian culture do you see changing? how are these changes affecting marketing? What products will be affected by these changes
+6. Consumers often buy products because they feel pressure from reference groups to conform. Does conformity exert a positive or negative influence on consumers? How do consumer demographics, psychographics, and lifestyles affect their readiness to conform? With what types of products is conformity more likely to occur?
+7. Many Canadians and consumers around the globe use C2C e-commerce to supplement their incomes or as their primary source of income. What do you think of the future of sites such as eBay? What opportunities does eBay provide for twenty-first-century entrepreneurs?
