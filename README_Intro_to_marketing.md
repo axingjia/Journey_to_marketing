@@ -1647,10 +1647,145 @@ Marketing Mini-Project Learning by Doing
 * Just as there are differences among consumers in their eagerness to adopt new products, businesses and other organizations are not alike in their willingness to buy and use new industrial products. Firms that welcome product innovations are likely to be younger companies, in highly technical industries, with younger managers and entrepreneurial corporate cultures. Early adopter firms are likely to be market-share leaders that adopt new innovations and try new ways of doing things to maintain their leadership. Firms that adopt new products only when they recognize they must innovate to keep up are in the early majority. Late majority firms tend to be oriented toward the status quo and often have large financial investments in existing production technology. Laggard firms are probably already losing money.
 * Business-to-business products, like consumer prodcuts, can possess characteristics that will increase their likelihood of adoption. Organization are likely to adopt an innovation that helps them increase gross margins and profits. It is unlikely that firms would have adopted new products like voice mail unless they provide a way to increase profit by reducing labour costs. Organizational innovations are attractive when they are consistent with a firm's ways of doing business. Cost is also a factor in the new products firms will adopt. Firms are more likely to accept a new prodcut if they perceive the improvement to be large in relation to the investment they will have to make.
 
+## Chapter Review
+Marketing Concepts: Testing Your Knowledge
+1. List and explain some popular objectives and strategies used for individual and multiple products.
+2. What is a product? (Hint: the term product is used differently in marketing than in everyday language)
+3. What is meant by the core product, the functional product, the augmented product, and the potential product?
+4. Explain how understanding the layers of a product leads a marketer to build competitive advantage
+5. Explain the good-service continuum and its importance.
+6. What are some key characteristics of services taht distinguish them from goods? Why is this understanding important?
+7. What is a new product? Why is understanding new products so important to marketers?
+8. List and explain the steps in developing new products
+9. Explain the different types of innovations based on their degree of newness.
+10. List and explain the stages in an individual's adoption of an innovation
+11. List and explain the categories of adopters
+12. Describe the product factors that affect the speed of adoption for (a) consumers and (b) business organizations
+
+Marketing Concepts: Discussing Choices and Issues
+1. This chapter discuss the core prodcut, functional product, augmented product, and potential product. Does this mean that marketers are simply trying to make products that are really the same seem different? When marketers understand these four layers of the product and develop products with this concept in mind, what are the benefits to consumers? What are the benefits to marketers?
+2. Can you provide examples of core versus potential products? How easy or hard was it for you to come up with these examples? Do you find your thinking about product strategy (and building competitive advantage, in general) has cahnged as a result of learning these concepts?
+3. Some people argue that there is no such a thing as a tangible good; everything is a service (that is, an experience) What do you think/ What are some advantage and disadvantage of such thinking?
+4. The phrase "new and improved" has been used so many times that, for many people, it is meaningless. Why has this occurred? What challenge does this present to marketers?
+5. Discontinuous innovations are totally new products--something seldom seen in the marketplace. What are some examples of discontinuous innovations introduced in the past 50 years? What do you think the future holds for new products? Will they be continnuous or discontinuous innovations?
+6. This chapter explained that knock-offs are slightly modified copies of original product designs. Should knock-offs be illegal? Who is hurt by knock-offs? Is the marketing of knock-offs good or bad for consumers in the short run? In the long run?
+7. It is not necessarily true that all new prodcuts benefit consumers or society. What are some new products that have made our lives better? What are some new products that have actuall been harmful to consumers or to society? Should there be a way to monitor new products that are introduced to the marketplace?
+
+Marketing Practice: Applying What You've Learned
+1. Assume that a firm marketing a new low-calorie, fat free chocolate candy bar has recently hired you. Because of your knowledge of new product adoption, you know that consumers go through a series of stages in adopting new product--awareness, interest, and so on. You also realize that it is important for marketers to "help" customers move from one stage to the next. Develop your recommendations for marketing activities that would be appropriate for each stage in the adoption process.
+2. As a member of a new product team with your company, you are working with engineers in developing the world's first practical, battery-powered automobile. You know that different product characteristics (relative advantage, compatibility, and so on) influence the speed of adoption of the product. Considering such product characteristics, make a list of suggestions for the engineers (or for the marketing department) that will speed the adoption of the new product when it is introduced.
+3. Assume that you are employed in the marketing department of the firm in the preceding example. How would you use your knowledge of goods and services to communicate the benefits of this car? Can you think in terms of core versus potential products when you provide your answer?
+4. Firms go to great lengths to develop new product ideas. Someimtes new ideas come from brainstorming, in which groups of individuals get together and try to think of as many different, novel, creative--and hopefully profitable--dieas for a new product as possible. With a group of other students, participate in brainstorming for new product ideas for one of the following (or somme other product of your choice). a. an exercise machine; b. computer software; c. a new type of college or university. Then, with your class, screen one or more of the ideas for possible further product development.
+
+Marketing Mini-Project: Learning by Doing
+* What product characteristics do consumers think are important in a new product? What types of service components do they demand? And most important, how do marketers know how t odevelop successful new products? This mini-project is designed to let you experiecne making some of these decisions.
+1. Create (in your mind) a new product item (a good or service) that might be of interest to students like you. Develop a written description and possibly a drawing of this new product
+2. Show this new product description to a number of your fellow students who might be potential users of the product. Ask them to tell you what they think of the product. Some of the questions you might ask them are:
+
+        a. What is your overall opinion of the new product?
+        b. What basic benefits would you expect to receive from the product?
+        c. What about the physical characteristics of the product? What do you like? Dislike? What would you add? Delete? Change?
+        d. What do you like (or would you like) in the way of product packaging? (if the product is a service, think how you would communicate its existence and benefits)
+        e. What sort of services would you expect to receive with the product?
+        f. Do you think you would try the product? How could marketers influence you to buy the product
+
+3. Develop a report based on what you found. Include your recommendations for changes in the product and your feelings about the potential success of the new product.
+
+Real people, Real Surfer: Exploring the Web
+* Visit the websites for three fashion retailers: Root(www.roots.com), the Gap(www.gap.com), and le Chateau (www.lechateau.ca). After you have visited teh company webistes, explore the internet for additional information on each firm. Based on your experience on the Internet, answer the following questions:
+1. Describe the number and variety of consumer and busienss-to-business products each company produces
+2. Is an emphasis on product development evident in the description of the companies from their websites?
+3. Does the webstie provide opportunities for consumers to purchase products? To provide input about existing products? To offer new product ideas?
+4. What can you find out about each firm's new product development process? How does the process lead to extraordinary new products?
+5. What is your evaluation of each website? Does the website focus more on the comapny's products or on some other aspect of the company? Does it provide easy access to important information about the company's products? What visitors would be attracted to the website? Is the website designed  in such a way as to encourage visitors to return to the site?
 
 # CHAPTER 8: Product Management
 
+## THE PRODUCT LIFE CYCLE AND THE DECISION-MAKING PROCESS
+* Product life cycle management is an all-encompassing vision for managing all data linked to design, production, support, and ultimate disposal of manufactured goods. In marketing, the product life cycle concept was first used where safety and control were extremely critical, notably in the military and aerospace industry. Product life cycle management is part of the process of commpetitive positioning and finding market opportunities. Proper decisions related to the product life cycle will **maximize the return at every stage by adapting or retiring unprofitable and introducing new ones**.
 
+## MARKETING THROUGHOUT THE PRODUCT LIFE CYCLE
+* The zipper, redesigned by Swedish-American Gideon Sundback in 1913, is an example of a hunble, low-tech product that has managed to live an exceptional ly long life. Altough the zipper was invented in the 1800s, it was not used in men's clothing until the 1930s. These "hookless fasteners", as they were once called, were originally intended for use on high-buttoned shoes. it took time for them to be used in men's trousers, because competitors argued that this "newfangled gadget" could result in serious injuries. In 1936, the Price of Wales adopted the zipper and was the first monarch to "sit on a throne bezippered".
+* Like the zipper, many products have very long lives. The **product life cycle** is a useful way to look at how product features change over the life of a product. In Chapter 7, we discussed objectives of product decisions, the product concept, and how marketers introduce new products; but launching a product is only the beginning. Product marketing strategies must evolve as they continue through the product life cycle.
+* The concept of the product life cycle does not relate to a single brand but to the generic product category. Thus, we talk about the life cycle of personal computers, not Compaq computers, of automobiles, not the Focus. Some individual brands have short life expectancies: Who remembers the Bricklin car or Evening in Paris perfume? Others seem almost immortal: Think of such brands as Campbell's soup, Ivory Soap, or American Express.
+
+### The Introduction Stage
+* We can divide the life of a product into four separate stages. The first stage of the product life cycle, **as figure below, is introduction--customers get their first chance to purchase the good or service. During this early stage, a single company usually produces the product. If the product is accepted and profitable, competitors will follow with their own versions.**
+
+        -Introduction Stage: No profits because the company is recovering R&D costs
+        -Growth stage: profits increase and peak
+        -Maturity stage: Sales peak and profit margins narrow
+        -Decline stage: market shrinks, and sales fall, and profit fall
+
+* **During the introduction stage, the goal is to get first-time buyers to try the product. Sales (hopefully) increase at a steady but slow pace.** As shown below, **the company does not make a profit during this stage, due to research and development (R&D) costs and heavy spending for advertising and other promotion.**
+
+        Characteristic: Introduction->Growth->Maturity->Decline
+
+        Product: Single company produces single product->new commpetitors enter the market, creating new variations of the product-> New features added: Sales are mostly replacement products->number of variations reduce
+
+        Goals: Get first-time buyers to try the product-> Encourage brand loyalty-> Attract new users-> Remain profitable, decide whether to keep or phase product out
+
+        Sales: Increase at a steady but slow pace-> Rapid increase-> Peak, then level off, often decline-> Continue to decline
+
+        Profit: Negative-> Increase and peak->Profit margins narrow-> Declining
+
+        Pricing: High: recover R&D costs; Low: attract large numbers of customers-> May need to reduce because of increased competition -> Price to maintain market share -> May reduce if can remain profitable
+
+        Market Communication: Informing customers -> Heavy advertising to counter new competition -> Reminder advertising -> Decreased to maintain profitability
+
+* Pricing may be high to recover the R&D costs (demand permitting) or low to attract large numbers of consumers. The Hitachi advertisement is designed to appeal to consumers who are willing to pay for the latest technological advances.
+* For a new product to be successful, consuemrs must first know about it and believe that it is something they need. Thus, marketing during the introduction stage often focuses on informing consumers about the product, how to use it, and its benfits.
+* How long does the introduction stage last? For the microwave oven, it was several years. How long the introduction stage lasts depends on a number of factors, including marketplace acceptance and producer willingness to support the product during its startup. In the case of the microwave, sales in countries such as Japan were much stronger, because the companies supported the product through its long introduction stage.
+* Not all products make it past the introduction stage. In fact, the failure rate for new products has been cited to be as high as 90 percent. One of the most noted examples of products that never got past the introduction stage is the Ford Edsel automobile. Introduced in 1957 and named after the only son of Ford's founder, the Edsel was designed to compete with such cars as the Chrysler New Yoker. It boasted high horsepower, tail fins, three-tone paint jobs, wraparound windshilds, a "horse-collar" girlle, and a push-button gearshift. The problem was that consumers didn't like the Edsel. Only 110847 Edsels were made before Ford abandoned the car, making the word Edsel synonymous with product failure.
+
+### The Growth Stage
+The second stage in the product life cycle, the growth stage, sees a rapid increase in sales while profit increase and peak. Marketing's goal here is to encourage brand loyalty by convincing the market that this brand is suerprior to others in the category. **In this stage, marketing strategies may include the introduction of product variations to attract market segments and grow market share. When competitors appear, marketers must use heavy advertising and other types of promotion. Price competition may develop, driving profits down. Some firms may seek to capture a particular segment of the market by positioning their product to appeal to a certain group.**
+
+### The Maturity Stage
+The maturity stage of the product life cycle is usually the longest. Sales peak and then begin to level off and even decline while profit margins narrow. Competition grows intense when remaining competitors fight for a piece of a shrinking pie. Because most customers have already accepted the product, sales are often to replace a worn-out item or to take advantage of product improvements. For example, almost everyone owns a televisions, so commpanies typically sell new TVs to consumers whose sets have broken down. During the maturity stage, firms try to sell their product through all suitable retailers, because product availability is crucial in a very commpetitive market. Consuemrs will not go far to find one brand when others are closer at hand.
+* To remina competitive and maintain market share during the maturity stage, firms amy tinker with the marketing mix, coming out with new version of the product that include new features. For example, television manufacturers try to invigorate sales with flat-screen TVs. Warner-Lambert Canada introduced Listerine oral care strips, the first product extension of Listerine mouthwash. The strips offer the same breath freshening benefit of the original Listerine, but are small and dissolve in the mouth, thereby making the Listerine product portable and offering consuemrs a new benefit.
+* Attracting new users of the product is another strategy used in the maturity stage. As we saw in Chapter 7, market development means introducing an existing product to a market that doesn't currently use it. Many Canadian firms are finding new markets for their products in countries around the world. To find new users for their products, firms in the Canadian wine industry, for example, have been actively pursuing markets in Pacific Rim countries such as Korea and China.
+
+### The Decline Stage
+* The decline stage of the product life cycle is characteristized by a decrease in product category sales. This is often because new technology has made the product obsolete, as when computer caused the decline of the typewriter. Although a single firm may still be profitable, the market as a whole begins to shrink, profits decline, and suppliers pull out. In this stage, there are usually many competitors with no one having a distinct advantage. 
+* A firm's major product decision in t he decline stage is whether to keep the product. Once the product is no longer profitable, it drains resources from the firm--resources that could help develop newer products. **If the decision is to drop the product, elimination can be handled in two ways: Phase it out by cutting production in stages and letting existing stocks run out, or drop the rpoduct immediately.** If the established market leader anticipates that there will be somem residual demand for the product for a long time, it may make sense to keep the product on the market. The idea is to sell a limited quanity of the product with little or no support from sales, merchandising, advertising, and distribution, and let it "wither on the vine". Somme classic products have been able to hang on with little or no market support. For example, the Hilti launched its power-actuated fastening system program in 1948. Despite sleeker and less costly competitors, the Hitlti "shot-gun" maintains its reputation as the heavy-duty tool.
+
+## SERVICE STRATEGY
+* Once a product strategy is established, it is important to recognize that any product needs to be supported by a sound service strategy. To offer good-quality service, any firm should reconigze that **the main parameter in a service strategy is time**, dealing with the "before", "during", and "after" phases of a product delivery. For the "before" phase, to obtain full value **firms need to provide relevant information about the product offered, rangin from schdules to operating instructions, user warning instructions, and price. In addition, a dialogue with customers is essential to meet customer requirements and develop a tailored solution. Soon after, the firm should make it easy for customers to place orders. This might sound obvious, but many firms forget that the choice of communication channels, time, and location should be convenient for customers to place an order**. For example, servers in many restaurants are now taking orders with a handheld wireless device to provide better and faster service.
+* For the "during" phase, **the delivery, installation, and guarantees offered are key elements in the service offered by the firm. This step includes proper billing and payment requirement practices.** Finally, in the "after" phase, firms should provide after sales service that includes maintenance and repair support. This phase is critical in **that firms need to allow customers to give feedback on the quality of the service.** In turn, that feedback can be used to make future readjustments.
+
+## CREATING PRODUCT IDENTITY: BRANDING DECISIONS
+* Knowing the stage of their product in the product life cycle helps marketers successfully manage the product. Equally important is giving that product an identity: Branding is an extremely important element of product strategies. In this section, we examine what a brand is, the importance of branding, and how firms make branding decisions.
+
+### What's in a Name (Or a Symbol)?
+* How do you identify your favorite brand? By its name? By the logo (how the name appears)? By the packaging? by some graphic image or symbol, such as Canadian Tire's red triangle and green maple leaf? A brand is a name, term, symbol, or any other unique element of a product that identifies one firm's product(s) and sets it apart from the competition. Consumers easily recognize the Coca-Cola logo, the pink Energizer bunny (a trade character), and the triangular blue Nabisco logo (a brand mark) in the coner of the box. Branding provides the reconition factor products need to succeed in regional, national, or international markets.
+* **CHOOSING A BRAND NAME, MARK, OR CHARACTER** There are several important consideration in selecting a brand name, brand mark, or trade character. It must have a positive connotation and be memorable. Consider Toro's experience when it introduce a lightweight snow thrower called the "snow Pup". Sales were disappointing, because "pup" conveyed a small, cuddly, animal, not a desirable image for a snow thrower. Renamed the "Snow Master", its sales went up markedly.
+* A brand name is probably the most used and most recognized form of branding. Kool-Aid, a word that most kids know, has been used to maintain a long-term relationship with consuemrs. Kool-Aid now markets ice tea versions of its beverages to appeal to adult tastes.
+* A good brand name can position a product by conveying a certain image or personality (Molson Canadian) or describing how it works (Drano), or else it may be ambiguous, such as Exxon, Ajax, and Lotus. Brand names sometimes need to change over time. For example, Kentucky Fried Chicken became KFC when "fried" went out of style, the Canadian Imperial Bank of Commerce became CIBC to avoid the use of "imperial", and for similar reasons the Hudson's Bay Company became HBC.
+* How does a firm select a good brand name? **Good brand designers say there are four "easy" test: easy to say, easy to spell, easy to read, and easy to remember. Consider P&G's Tide, Cheer, Gain, Downy, and Ivory Snow. And the name should also "fit" four ways: fit the target market, fit the product's benefits, fit the customer culture, and fit legal requirements.** When the Mutual Life Assurance Company of Canada decided to change its brand name, it chose a very non-traditional name for the insruance market: Clarica. A multimillion-dollar advertising campaign supported the name change, but the name was criticized by many marketers for, among other things, sounding more like a skin cleanser than an insurance company. 
+* When it comes to graphics for a brand symbol, name, or logo, the rule is: it must be recognizable and memorable. No matter how small or how large, the triangular Nabisco logo in the corner of the box is a familiar sight. And it should have visual impact. This means that from across a store or when you are quickly flipping the pages in a magazine, the brand will catch your attention. One product that made the wrong kind of visual impact with its brand name was a snack product called HITS. it was on the shelves for only a short time, because the manufacturer realized that when the packages were were put end to end on store shelves, the logos produced an unintended effect: HitsHitsHitsHitsHits.
+* Some marketers enhance brand recognition by creating a trade character, such as the Pilsbury Dough Boy, the Jolly Green Giant, or Mr. Clean. A&W uses the Root Bear to strengthen brand reconition.
+* TRADEMARK: The legal term for a brand name, brand mark, or trade character is trademark. Marketers can legally register brands as trademarks to make their use by compeititors illegal in Canada. However, it is possible for a firm to have protection for a brand even if it has not legally registered it. Common-law protection exists if the firm has used the name and established it over a period of time. Although a registered trademark prevents other from using on a similar product, it may not bar its use for a product in a completely different type of business.
+
+### The Importance of Branding
+* Marketers spend vast amounts of money on new product development, advertising, and promotions to develop strong brands. If successful,  the investment creates **brand equity**, which is a brand's value to its organization. Brand equity means that a brand has **high customer loyalty, perceived quality, and brand name awareness**. For a firm, brand equity provides a competitive advantage, because it gives the brand **the power to capture and hold onto a large share of the market and to sell at prices with higher profit margins**. Somme of the most valuable brands in teh world are BMW, Nike, Nokia, and Ikea.
+
+        Research shows that the following factors make a brand successful:
+        -The brand excels at delivering the benefits customers truly desire.
+        -The brand stay relevant.
+        -The pricing strategy is based on consuemrs' perceptions of value.
+        -The brand is properly positioned.
+        -The brand is consistent
+        -The brand portfolio and hierarchy make sense.
+        -The brand makes use of and coordinates a full range of marketing activities to build equity.
+        - The brand is given proper support, and that support is sustained over the long run.
+        -The company monitors source of brand equity.
+
+* When brands possess strong brand equity, they provide important opportunities for a firm. A firm leverage a brand's equity with **brand extension**, new prodcut sold with the same brand name, such as Listerine oral care strips and Dentyne Ice mentioned earilier. If existing brand equity is high, the firm is able to sell the brand extension at a higher price than if it had given it a new brand, and the brand extension will attract new customers immediately. However, if the brand extension does not live up to the quality or attractiveenss of the original brand, brand equity will suffer, reducing brand loyalty and sales.
+
+### Branding Strategies
+* As marketing strategists know, brands are important to a marketing program's success, so decisions about branding strategies are a major part of product decision making. Marketers have to determine whether to create individual or family brands, national or private-label brands, or to co-brand.
+* **INDIVIDUAL BRANDS VERSUS FAMILY BRANDS** Part of developing a branding strategy is deciding whether to use a separate, unique brand for each product item--*an individual brand strategy*--or to market multiple items under the same brand name--a family brand--an umbrella brand strategy. Individual brands may do a better job of communicating clearly and concisely what the consuemr can expect from the product, whereas family brands allow a firm to develop a brand for an entire product line. Thus, **the decision to use an individual or family branding strategy often depends on characteristics of the product and whether the company's overall product strategy calls for introduction of a single, unique product or for the development of a group of similar products.** Pillsbury Canada uses family branding with its Green Giant, Pillsbury, Old El Paso, underwood, and Accent family brands Under the Old El Paso name are such Mexican foods as salsa and Machips; under its Green Giant name are frozen and canned vegetables and other frozen products; and under the Pillsbury name are Pizza Pops, Toaster Strudel, and refrigerated baked goods.
 
 
 page 274
