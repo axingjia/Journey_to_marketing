@@ -2020,7 +2020,80 @@ As Leonard Hendricks and the management team at Telus understand, the question o
 SKIM
 
 #### Geographic Pricing
+F.O.B PRICING, ZONE PRICING, UNIFORM DELIVERED PRICING, FREIGHT ABSORPTION PRICING SKIM
+
+#### Psychological Tactics
+ODD (EVEN) NUMBER PRICING, PRICE LINING SKIM
+
+#### Price Discounts, Terms, and Condition
+TRADE OR FUNCTIONAL DISCOUNTS, QUANTITY DISCOUNTS, CASH DISCOUNTS, SEASONAL DISCOUNTS, SKIM
+
+### LEGAL AND ETHICAL CONSIDERATION IN PRICING
+Deceptive Pricing practices, predatory pricing, price discrimination, price maintenance SKIM
+
+### MAKING PRICING DECISION
 SKIM
 
+#### Environmental Considerations
+*SKIP
+
+### PRICING WITH ELECTRONIC COMMERCE
+SKIM
+
+## CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. Explain how pricing decisiosn are important to firms
+2. Explain variable costs, fixed costs, average variable costs, average fixed costs, and average total costs
+3. What is break-even analysis? How do marketers use break-even analysis
+4. What are some common pricing objectives and strategies to achieve them?
+5. What are the advantages and disadvantages of pricing strategies based on demand? Explain yield management
+6. For new products, when is skimming pricing more appropriate and when is penetration pricing the best strategy? When would trial pricing to be an effective strategy?
+7. Explain key pricing tactics used by marketers and when they would be appropriate.
+8. Explain these unethical or illegal pricing practices: bait and switch, predatory pricing, price discrimination, price maintenance, bid rigging.
+9. How are pricing decisions interrelated with other elements of the marketing mix?
+10. What are some ways in which external environmental factors affect price planning?
+11. Why do marketers use trade or functional discounts, quantity discounts, cash discounts, and seasonal discounts in pricing to members of the channel? What is dynamic pricing? Why does the Internet encourage the use of dynamic pricing?
+12. Explain these psychological aspects of pricing: pirce-quality inferences, odd-even pricing, internal reference price, and price lining
+13. What is price elasticity and what external influences affect demand elasticity?
+14. What are the pricing implications of the Internet?
+
+Marketing Concepts: Discussing Choices and Issues
+1. Government sometimes provide price subsidies to specific industries; that is, they reduce a demestic firm's costs so that they can sell products on the international market at a lower price. What reasons do governments (and politicians) use for these government subsidies? What are the benefits and disadvantages to domestic industries in t he long run? How about to international customers? Who would benefit to lose if all price subsidies were eliminated?
+2. Critics of business often accuse marketers of taking advantages of consumers by setting prices that are far above the cost of producing the good and service--sometimes 10 or 20 or more times the cost. How do you feel about this? What reasons might a manufacturer of luxury product have for setting very high prices? Why might a pharmaceutical firm set the rpices of its life-saving medicines higher than the cost of production requires?
+3. With a price leadership strategy, firm can avoid price competition and yet not be guilty of illegal collusion--getting together to set prices. Although it is legal, is a price leadership strategy ethical? how does a price leadership strategy hurt and how does it help the industry? What benefits does it provide and what problems does it pose for customers?
+4. Everyday low pricing strategy have met with limited success. What do you think are the advantages and disadvantages of EDLP? Are some products more suited to it than others? Why have customers not been more responsive to EDLP? What do you think its future will be?
+5. Two-part pricing and payment pricing are pricing tactics that are designed to make price more palatable to customers and to better meet their needs. But do these policies always benefit consumers? What are the advantages and disadvantages of these pricing approaches for hte average consuemr? For business customers?
+6. Technology is said to be creating a pricing revolution. How is electronic commerce changing pricing strategies? In what ways are such changes good for customers? In what ways are the change good for sellers?
+7. In pricing new products, marketers may choose a skimming or a penetration pricing strategy. While it's easy to see the benefits of these practices for the firm, what is the advantage or disadvnatage of the practice for consumers? For the inudstry as a whole?
+
+Marketing Practice: Applying What You've Learned
+1. Assume that you are the director of marketing for a large Rocky Mountain ski resort. It is essential that the resort maintain a high occupancy rate during the skiing season. Pricing is an important part of your marketing strategy, because the demand for rooms at your resort is very price elastic. For this reason, you feel that you should develop contingency pricng plans for use during changes in the economic environment (inflation and recessions, for example). List the economic conditions that might warrant changes in the pricing strategy, and gave your recommendatinos for each possibility.
+2. Assume that you are the assistant director of marketing for a firm that manufactures a line of hair-care product (e.g., shampoos, conditioners). This morning, your boss came into your office and announced that she is going to recommend a dramatic price increase. You respond by saying: "Well, I guess that means we need to totally revamp our marketing plan." To this, she relies, "No, all we're going to do is raise the price. We're not going to mess with anything else". After she leave you think, "I've got to convince her that we can't make pricing decisions without considering the other elements of the marketing mix. It's all interrelated."
+* In a role-playing situation with one of your classmates, explain to your boss why you think the marketing department should consider the implications of the price increase on the other marketing mix elements, what you feel these implications are, and what recommendations for change might be suggested.
+3. As the vice-president for marketing in a firm that markets computer software, you must regularly develop pricing strategies for new software products. Your latest product is a software package that automatically translates any foreign-language email messages into the user's preferred language. You are trying to decide on the pricing for this new product. Should you use a skimming price, a penetration price, or something in between? With a classmate taking the role of another marketing professional with your firm, argue in front of your class the pros and cons of each alternative.
+4. Assume that you are working in the marketing department of a firm that manufactures furnaces and air conditioners. Previously, your fim has limited its operations to manufacturing units for other OEM companies. Now your firm is expanding, you will be manufacturing your product for sale with your own brand name and will be selling to heating and air-conditioning distributors across the country. What pricing objectives, strategies, and tactics will you adopt?
+5. Assume that you and your friend have decided to go into business together manufacturing wrought-iron birdcages. You know that your fixed costs (rent on a building, equipment, for example) will be $60,000 a year. You expect your variable costs to be $12 per birdcage.
+
+                a. If you plan on selling the birdcages to retail stores for $18, how many must you sell to break even?
+                b. Assume that you and your partner feel that you must set a goal of achieving $10,000 profit with your business this year. How many units would you have to sell to make that amount of profit?
+                c. What if you feel that you will be able to sell no more than 5000 birdcages? What price will you have to charge to break even? To make $10,000 in profit?
+
+Marketing Mini-Project: Learning by Doing
+* Organizations develop pricing strategies to meet pricing objectives. These objectives may be related to sales, profit, the competition, customer satisfaction, or the image of the product. The purpose of this mini-project is to help you understand how different pricing objectives are important in marketing planning.
+* Many universities are having trouble filling up their existing dormitory space, as more and more students choose to live off campus in houses or in apartments. Identify your university's existing pricing objectives and develop recommendations for changes.
+1. First, with two or three of your classmates, interview someone who participates in your university's pricing of dormitory space. It may be the vice-president for student affiars, the dean of students, the director of student life, or the vice-president for business and finance. Try to find out:
+
+                a. The current prices charged for dormitory space
+                b. What the pricing objectives for dormitory space are
+                c. How the prices are calculated
+                d. The part that costs, demand, customer satisfaction, and competitive housing prices play in setting the dorm prices.
+2. Next,talk with students in your school to find out:
+
+                a. Students' attitudes toward the prices charged for dormitory space
+                b. What a customer-pleasing price would be for dormitory space
+                c. The type and price of alternative housing used by students
+                d. Any other relevant student attitudes toward dormitory housing
+        
+3. Develop a report that includes your findings and the recommendations you would make to your university. Be sure to focus on the pricing objectives currently in use and the alternative objectives that might be considered. What pricing strategies do your findings suggest? Present your results to your class.
 
 page 306
