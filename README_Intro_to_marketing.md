@@ -2587,5 +2587,103 @@ Retailers have taken many forms over time, including the simple peddler who hawk
 * A firm can analyze and compare t he performance of salespeople in different territories, though again it is often difficult to rule out other factors that make some sales force more effective than others. Public relations activities are perhaps the hardest to assess, because they often are intended to result in building favourable relationships over a long period of time.
 * **EVALUATING INTEGRATED MARKETING COMMUNICATIONS** The IMC perspective takes a broad view of the world: Learning about a good or service comes from many sources, and beliefs develop over time. For those reasons, traditional measurement techniques that focus on the impact of one message at one point in time are not adequate to assess the impact of an entire communication program. **Instead, marketers track consumer responses to communication efforts and interactions with the brand and/or company over time. They also conduct research to assess consumer attitudes toward the brand and/or  organization. Although they don't always accurately predict purchases, customers' attitude toward an item still are immportant pieces of information, especially when changes in attitudes are tracked over time. ideally these pieces of informaiton are collected on an ongoing basis and fed back into a database, where they will be used to update and refine the integrated strategy.**
 
+## COMMUNICATION BRIEFS
+* ***Communication plans are internal documents created by organizations that provided rationale for, and guide, their communication strategy for a specified period of time.*** **People in an in-house creative department or communication/advertising agency do not have time to read a lengthy communication plan. They rely on a communication brief, which is typically a one- to three-page summary of the elements of a communication plan that precedes creative execution--and for small projects it may replace the communication plan if the other elements of the plan are considered in the brief.** **The advantage of writing a formal communication brief, rather than just explaining the strategy for a campaign to the creative tieam, is that verbal explanations can be misinterpreted or modified in sequential telling within the creative team. If a lot of time is wasted in wrestling projects back on track (and at rates of $100 to $150 dollars an hour for each person in the room), it can be very expensive not having a clear understanding of the creative task. It is not easy capturing the essence of a 15- to 25 page communication plan in one- to three-page brief, but as one marketing executive suggested, "The creative has to be brief so the brief has to be creative". The idea is to set the strategic parameters in which the creative team operates and to gain agreement from the client that the brief represent the intended strategy. One retired president of a large new York agency described the brief as needing to be "as hard and brilliant as a diamond, and as tight and confining as a pair of handcuff." For example, the heart of t he creative brief for the now acclaimed Absolut Vodka campaign was "You can do anything you want creatively, but you must always show the product and no headline can be longer than two words and one of those words must be Absolut"
 
-page 444
+### CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. What is integrated marketing communications (IMC)?
+2. What is marketing communication? What are the goals of communication?
+3. How does communication theory help marketers develop more effective communication strategies?
+4. List and describe the elements of the communication mix
+5. What are word-of-mouth marketing, buzz marketing, and viral marketing? Why are usch activities gaining in popularity?
+6. Explain what guerrila marketing means
+7. What is database marketing? how do marketers use databases to better meet the needs of their customers?
+8. List and explain the steps in the development of a communication plan.
+9. Why should communication objectives be phrased in terms of communication tasks? What are some examples of communication task objectives?
+10. How does the communication mix vary with push versus pull strategies? How does it vary in different stage of the product life cycle (PCL)?
+11. Explain each of the following budgeting methods
+                a. percentage-of-sales method
+                b. competitive-parity method
+                c. objective-task method
+12. What are some methods for evaluating the effectiveness of marketing communication?
+
+Marketing Concept: Discussing Choices and Issues
+1. Increasingly, marketers are seeking new ways to communicate with consuemrs. Advertising is being placed on washroom walls, in high-school caferias, and and even in the halls of university and college classroom buildings. Develop debate arguments for and against this proliferation of commercial messages.
+2. One reason to build a database is advance a political or social agenda by identifying and mobilizing a core of supporters. For example, Philllip Morris has built a database  with 25 million names, which the tobacco company uses to rally customers to the cause of smokers' rights. What are the ethical issues related to this use of databases.
+3. Advertisers who spend millions of dolalrs for ads during special events such as the Olympics may be more interested in achieving aesthetic goals--having the most highly rated ad--than in selling products. Does it make sense for advertisers to focus on aesthetic goals rather than on marketing goals? Explain.
+4. With an IMC program, firms need to coordinate all their marketing communication activities. What do you see as the problems inherent in implementing this?
+5. Consuemrs are becoming concerned that the proliferation of databases is an invation of an individual's privacy. Do you feel this is a valid concern? How can marketers use databases effectively and, at the same time, protect the rights of individuals?
+6. Some argue that IMC is just a passing fad ad in marketing communication. What do you think?
+
+Marketing practice: Applying What you've Learned
+1. As a marketing consultant, you are frequently asked by clients to develop recommmendations for communication strategies. Outline your recommendations for the use of different communication mix element for one of the following products:
+
+                a. a new brand of laundry detergent
+                b. a familiar brand of cereal
+                c. a political candidate
+                d. equipment for a new manufacturing facility
+
+2. As the director of marketing for a small firm that markets specialty salad dressing, you are in the process of developing a communication plan. With one or more of your classmates, develop suggestions for each of the following. Then, in a role-playing situation, present your receommendations to the client.
+
+                a. communication objectives
+                b. a method for determining the communication budget
+                c. the use of a push strategy or a pull strategy
+
+3. As an account executive for a commmunication services firm, you have been assigned to a new client, a manufacturer of a popular brand of toothpaste. As you begin development of the creative strategy, you are considering different types of apepals.
+
+                a. information apepal
+                b. comparative advertising
+                c. a fear appeal
+                d. a celebrity endorsement
+                e. a slice-of-life ad
+                f. sex appeal
+                g. humor
+
+Outline the strengths and weaknesses of using each of these appeals for advertising the toothpaste.
+4. As the marketing manager for a chain of bookstores, you are interested in developing a database marketing plan. Give your recommendations for the following:
+
+                a. How to generate a customer database
+                b. How to use the database to better understand your customers
+                c. How  to increase sales from your existing customers using your database
+                d. How to get new customers using your database
+5. As a member of the marketing department for a manufacturer of sport equipment, you have two agencies to submit proposals. One agency recommends an integrated marketing commmunications plan, and the second agency has developed recommendations for a traditional advertising plan. Write a memo to explain each of the following to your boss.
+
+                a. what is different about an integrated marketing communication plan?
+                b. Why is the IMC plan superior to merely advertising
+                c. Why do some agencies resist changing from traditional communication planning?
+
+Marketing Mini-Porject: Learning by Doing
+* The purpose of this mini-project is to give you an opportunity to experience the advertising creative process.
+
+                1. With one or more classmates, create (imagine) a new brand of an existing product, such as a laundry detergent, toothpaste, perfume, or soft drink.
+                2. Develop a communication brief for this new product
+                3. Develop at least three creative concepts for implementing the strategy summarized in your brief and mock-up magazine ads as one element of a campaign. Your magazine ads should have a headline, a visual, and copy to explain your product and to persuade customers to purchase your brand
+                4. Present your brief and ads to your class. Discuss the advertising appeal your selected, and explain your ad execution.
+
+
+### Chapter 13: Communications Mix and Tactics
+
+## COMMUNICATIONS MIX REVISITED
+*  In the previous chapter we discussed the range of decisions involved in developing a marketing communication strategy. In this chapter we revisit the communication mix to get **a deeper understanding of the tactical tools available** to marketers to get their messages in front of audiences. While advertising is often the most visible of communication mix elements, organizations that follow an IMC strategy recognize that other elements can be highly effective--and that is the choice facing Mario Demers at Saputo Dairy Products Canada. Microcell Solutions, for example, supports its fido (cellular phone system) brand's communications strategy with a strong public relations program, sales promotion, and personal selling. In the greater Toronto area, Microcell's objective was to increase awareness and trial of Fido and leverage the emotional relevancy of the brand to reach customers one-to-one. The company linked a variety of experiences--key messages, images, sounds, and activities--to the brand under the theme "Fun & Freedom". It launched the campaign with a "fido mobile", a vintage 1942 bus pulled by a dozen dogs, which attracted significant media attention. Fun & Freedom events were held throughout greater Toronto--augmented by free photographing of prospective customers and their pets, having dogs perform tricks to demonstrate Fido's features and benefits, and allowing prospective customers to make free calls anywhere in Fido's coverage area. Fido also chose to involve Canine Vision Canada in the campaign, because both Fido and guide dogs represent freedom to their masters. Advertising supported the public relations efforts by visually linking Fido to fun and freedom imagery, such as sunglasses, beach balls, and fireworks. Sales promotions, including a grand prize sweepstakes and at-event contests for T-shirts, baseball caps, Fido phones, and airtime packages, futher enhanced the overall strategy. The campaign was successful in making the Fido brand personally relevant to thousands of pet owners. Having a better understanding of these communication mix elements will allow you to make more informed communication mix decisions.
+
+### ADVERTISING
+* Wherever we turn, we are bombarded by ads in the form of television commercials, radio spots, banner ads on the Internet urging us to "click here", or huge billboards screeaming "Buy Me!" As indicated in the previous chapter, advertising is non-personal communication paid for by an identified sponsor using mass media to persuade or inform an audience. Advertising is the most common element of a communication mix because it can be fun to crete, glamorous to be involved with, and often involves large budgets, travel, and celebrities. it gives a marketing manager or executive something tangible that says "I helped create that" inspiring, magical, humourous, provocative, or otherwise creative piece of art. Be honest, wouldn't you rather spend $200,000 of someone else' money creating a television ad with Shania Twain or Justin Timberlake than developing a coupon or hiring another sales rep? Of course, actually creating the television ad can be time consuming, heavily detail-oriented, and boring (such as waiting for the paint on the set to dry or taking five or six hours of retakes to shoot a three-second scene), but overall, advertising attracts a lot of a communication budget because it is fun to do.
+* Of course, advertising is also very effective. Advertising is often unparalleled in its ability to demonstrate products **(particularly services)**, use sights and sounds to crete desire, and repeat the message as often as deemed necessary for it to have an impact on receiveers. IAdvertising is such a big part of our culture that it both reflects and shapes our culture, and it is so effective that there are laws limiting its use for vulnerable audiences like children and the promotion of social undesirable products like cigarettes. And that's also why Canadian busienss spend close to $12.6 billion a year on advertising.
+* We talked about the planning that goes behind the creation of advertising in Chapter 12. Here we will discuss how to create effective advertising and how to evaluate or critique its effectiveness.
+
+### Creating Advertising
+* A poor strategy or poor exeuction can result in annoying, boring, or otherwise ineffective advertising. you know, the ones you flip the TV channel to avoid watching or the ones you don't even look at when reading your favorite magazine. 
+* When people give examples of effective advertising, they are likely to recall the provocative poses in Calvin Klein ads, the charming dialogue between Frank and Gordon, or vomiting Playland customers--advertising that was memorable because it stood out and uniquely appealed to its intended audience. These are all examples of **product advertising**, in which the message focuses on a specific good or service. Product advertising usually has one of three purposes: **to educate audience to try it or choose it over other options, or to ensure that people won't forget about the product and the things they already know about it.** **Institutional advertising** **promotes the activities, personality, or point of view of an organization or company. Another use of institutional advertising is to build demand for a product category, such as the Canadian egg producers' ads that encourage consumers to "Get Cracking".**
+* Some institutional messages state a firm's position on an issue in order to sway public opinion, a strategy called advocacy advertising. For example, the R.J Reynolds company ran an ad titled "Of Cigarettes and Science", which attempted to refute arguments about the relationship between smoking and health. **Public service advertising (PSA)** are advertisements the media runs free of or to champion an issue such as increasing literacy or discouraging drunk driving. The ad created by Toronto ad agency Downtown partners was first produced for the Red Cross and World First Aid Day. The ad tries to convince Canadians to learn first aid and CPR--the tag line is "know what to do. Learn First Aid". often advertising agencies will take on one or more public service campaign on a pro bono basis (for free)
+* **WHO CREATES ADVERTISING?** An **advertising campaign** is a coordinated, comprehensive plan  that carries out promotion objectives and results in a series of advertisements placed in media over a period of time. For example, the long-running advertising campaign for Buckley's Mixture--"it tastes awful. And it works"--**has included both print advertising and a series of humourous television commercials that all work together to build brand loyalty for the cough medicine. i nfact, the Buckley's campaign is considered one of the most effective in Canadian advertising history. The brand is the number-one selling cough syrup in Canada, even though it spends far less on advertising every year ($458,600) than its closest competitor, Robitussin DM ($1.7 million)
+* Creating and executing an advertising campaign ofte nrequires many companies working together and a broad range of skilled people to do the job right. Some firms may do their own advertising by creating an *in-house agency*. In many cases, though, the firm retains one or more outside advertising agencies to develop advertising messages on its behalf. A *limited-service agency* provides one or more speicalized services, such as **media buying or creative development** (we'll see what these tasks are later). A *full-service agency* provides most or all of the services needed to moun a campaign, including research, creation of ad copy and art, media selection, and production of the final messages. in keeping with the move to integrated communication strategies discussed in Chapter 12, most Canadian advertising agencies have transformed themselves into full-service *communication service companies*, which provide clients with advice and service in all areas of communications decision making, including advertising. Many different tasks are required to produce an advertising campaign. Big or small, an advertising agency or communications services company joins the talents of speicalists who together craft a message and make the communications concept a reality.
+* **Account management** The account executive, or account manager or suit, **is the "soul" of the operation** **The person develops the campaign's strategy for the client. The account executive supervises the day-to-day activities on the account, and is the primary liaison between the agency and the client. The account executive has to ensure that the client is happy while verifying that people within the agency are executing the desired strategy.
+* **Creative services**: Creatives are the "heart" of the communciation effort. These are the people who actually dream up and produce the ads. They include the agency's creative director, copywriter, and art director. Creatives are the artists who breathe life into marketing objectives and craft messages that (hopefully) will excite, arouse, or interest consumers.
+* **Research and marketing Services**: Researchers are the "brain" of the campaign. They collect and analyze information that will help account executives develop a sensible strategy. They assist creatives in getting consumer reactions to different versions of ads, or by providing copywriters with details on the target group.
+* **Media Planning** The media planner is the "leg" of the campaign. The media planner helps to determine which communications vehicles are the most effective and recommends the most efficient means for delivering the ad by deciding where, when, and how often it will appear.
+
+### Media Choices
+* What does a 130-centimetre television with Dolby Surround Sound have in common with a matchbook? Each is a media behicle that permits an advertiser to communciate with a potential customer. Depending on the intended message, each medium has its advantages and disadvantages. let's look at the major categories of media. The pros and cons of each type are summarized at table below.
+
+page 464
