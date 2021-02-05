@@ -2686,4 +2686,134 @@ Marketing Mini-Porject: Learning by Doing
 ### Media Choices
 * What does a 130-centimetre television with Dolby Surround Sound have in common with a matchbook? Each is a media behicle that permits an advertiser to communciate with a potential customer. Depending on the intended message, each medium has its advantages and disadvantages. let's look at the major categories of media. The pros and cons of each type are summarized at table below.
 
-page 464
+                Television
+                        Pros: 
+                        *Extremely creative and flexible
+                        * Network TV is the most cost-effective way to reach a mass audience
+                        * Cable and satelite TV allow the advertiser to reach a selected group at relatively low cost
+                        * A prestigious way to advertise
+                        * Can demonstrate product in use
+                        * Can provide entertainment and generate excitement
+                        * Messages have high impact because of the use of sight and sound
+
+                        Cons:
+                        * The message is quickly forgotten unless it is repeated often
+                        * The audience is increasingly fragmented
+                        * Although the relative cost of reaching the audience is low, prices are still high on an absolute basis--often too high for smaller companies. A 30-second spot on a prime-time TV sitcom costs well over $250,000
+                        * Feweer people are viewing network television
+                        * People switch from station to station zapping commercials
+                        * Rising costs have led to more and shorter das, causing more clutter.
+                
+                Radio:
+                        Pros: 
+                        * Good for selectively targeting an audience
+                        * Is heard out of the home
+                        * Can reach customers on a personal and intimate level
+                        * Can use local personalities
+                        * Relatively low cost, both for producing a spot and for running it repeatedly
+                        * Because of short lead time, radio ads can be modified quickyl to reflect changes in the marketplace
+                        * Use of sound effects and music allows listeners to use their imagination to create a vivid scene
+                        
+                        Cons: 
+                        * Listeners often don't pay full attention to what they hear
+                        * Difficulty in buying radio time, especially for national advertisers
+                        * Not appropriate for products that must be seen or demonstrated to be appreciated
+                        * The small audience of individual stations means ads must be placed with many different stations and must be repeated frequently
+                
+                Newspaper:
+                        Pros:
+                        * Wide exposure provides extensive market coverage
+                        * Flexible format permits the use of colour, different size ads, and targeted editions
+                        * Ability to use detailed copy
+                        * Allow local retailers to be in with national advertisers
+                        * people are in the right mental frame to process advertisements about new products, sales, etc
+                        * Timeliness. i.e., short lead time between placing ad and having it run
+
+                        Cons: 
+                        * Most people don't spend must time reading the newspaper
+                        * Readership is especially low among teens and young adults
+                        * Short life span--people rarely look at a newspaper more than once
+                        * Very cluttered ad environment
+                        * The reproduction quality of images is relatively poor
+                        * Not effective in reaching specific audiences
+
+                Magazines:
+                        Pros: 
+                        * Audience can be narrowly targeted by specialized magazines
+                        * High credibility and interest level provide a good environment for ads
+                        * Magazines have a long life and are often passed along to other readers
+                        * Visual quality is excellent
+                        * Can provide detailed product information with a sense of authority
+
+                        Cons: 
+                        * Expensive: With the exception of direct mail, the highest cost per exposure. The cost of a full-page four colour ad in a general-audience magazine typically exceeds $100,000
+                        * Long deadlines reduce flexibility
+                        * The advertiser must generally use several magazines to reach the majority of a target market
+                        * Clutter
+                
+                Outdoor
+                        Pros:
+                        * Most of the population can be reached at low cost
+                        * Good for supplementing other media
+                        * High frequency when signs are located in heavy traffic areas
+                        * Effective for reaching virtually all segments of the population
+                        * Geographic flexibility
+                
+                        Cons: Hard to communicate complex messages because of short exposure time
+                        * Difficult to measure advertisement's audience
+                        * Controversial and disliked in many communities
+                        * Can not pinpoint specific market segments
+                
+                Direct response
+                        Pros:
+                        * Ads can target extremely narrow audiences
+                        * Message can be timed by the advertiser at his or her convenience
+                        * Easy to measure the effectiveness of ads
+
+                        Cons: 
+                        * High cost per exposure
+                        * Target lists must be constantly updated
+                        * Ads lack credibility among many consumers
+
+#### Traditional media
+* Television: Because of television's ability to reach so many people at once, this medium is a favourite choice for regional or national companies. Ninety-nine percent of Canadian live in households that have a TV, and 65 percent of Canadians live in households with more than one TV. On an average day, 86 percent of Canadians watch TV at least once. There are two English (CBC and CTV) and two French (Radio-Canada and TVA) national television network in Canada, which can offer both regional and national advertising exposure. There are 18 regional networks, three of which are in French. Yet another option for TV advertising is specialty channels, which provide a specific programming format (The Comedy network) or audience (Women's Television network) and can, therefore, provide easy access to a particular market segment. In 2007, 36 percent of homes in Canada reported that they subscribed to pay TV.
+* One disadvantage of advertising on television is cost. In addition to the cost of placing ads in media, production costs range from $80,000 to $250,000 for a 30second television ad. This high cost of production has led some companies to consider advertising on TV without using commercials. Product placement is a method of advertising on television (and in movies), where the product is seen as part of the TV show (or movie) rather than in a separate ad. Recent product placements in Canada TV shows include Nortel phones used on the Newsroom, Ruffles Chips on Degrassi: The Next Generation, Rona building products used in the Quebec home renovation show Ma Maison Rona, and Sony Ericsson phones being used on Train 48. **MMI Product Placement**, the largest product placement company in Canada, claims that the advantages of product placement include image reinforcement when a 'star" uses the product, brand awareness, extensive reach (during reruns as well as during first runs), and the protection of the product from zapping (since consuemrs often use zapping to avoid ads, not TV shows)
+* Radio: One advantage of radio advertising is flexibility. Marketers can change commercials quickly, often on the spot by an announcer and a recording engineer. Radio is attractive to advertisers seeking low cost and the ability to reach specific consumer segments. There are hundreds of radio stations in Canada, with formats ranging from contemporary hit to classical. The growth of online radio also presents future opportunities for reaching large numbers of consumers in a cost-effective manner. Radio reaches 92 percent of Canadians 12 years old and older in an average week. While we have seen a sligh decline in radio listenership among teens and young adults, weekly multi-media campaign, TD Canada Trust used radio to help luanch a promotion to give away five applicances to 61 winners across the country. A ballot to enter the contest was given out with each eligible application for a home equity line of credit or a mortgage. TD Canada Trust radio to cost-effectively reach customers across the country.
+* Satellite arrived in Canada in late 2005. There are currently two major players selling satellite in Canada--Sirius Canada and XM Radio. Satellite radio is commercial free and is supported through subscriber fees. Although some industry expoerts expected satellite radio to take market share from traditional radio, since its launch, satellite radio has had little measurable impact on traditional radio.
+* Newspaper: The newspaper is one of the oldest media vehicles. Retailers in particular have relied on newspaper ads since before the turn of the century to inform readers about sales and deliveries of new merchandiser. Newspapers are an excellent medium for local advertising and for events (such as sales) that require a quick response. Many newspapers, such as The Globe and Mail and the National Post, offer online versions of their papers to expand their exposure.
+* Magazine: Magazine ads provide high-quality images and can reach specific segments of consuemrs. new technologies such as selective binding allow publishers to personalize their editions so that advertisements for local businesses can be include in issues mailed to specific locations. **Desktop publishing** software allows magazines to close their pages just before going to press--no more long lead times that used to plague advertisers that wanted to hit their market with timely information.
+* **Directories** **Directory advertising is the most "down-to-earth", information-focused advertising medium.** Today, the Yellow Pages has revenues of over $9.5 billion, and more than 6000 directories are published in North America alone. **These listings are usually referneces used just before the consumer makes the decisions to buy, so the advertiser has the opportunity to influence the buyer immediately before the decision**
+* **INTERNET ADVERTISING** The web gives marketers the ability to reach customers in new and excting ways. Online advertising has grown to over $801 million a year in Canada, with major firms like General Mills, Inc. and Kraft Foods increasing their spending and the number of brands they promote online. The reason? The Internet had the third highest media consumption time among Canadian adults--just behind television and radio. Sixteen percent of the time Canadian consuemrs spend with all media is now online. online advertising offers several advantages. First, the Internet provides new ways to finely target customers. Web user registration and cookies allow sites to track user preferences and deliver ads based on previous internet behavaiour. In addition, because the website can track how many times an ad is "clicked", advertisers can meausre how people are responding to online messages. Finally, online advertising can be interactive--it lets consumers participate in the advertising campaign, and in some cases they can even become part of teh action. Viewers who logged on to a special website were able to "direct" TV commercials for the Ford Probe by pciking the cast and plotlines that would be used to create actual spots. Similarly, during its "whatever.com" campaign, Nike sent consumers to the web to pick the endings of three cliffhanger TV spots.
+* Specific forms of Internet advertising include banners, buttons, popup ads, search engines and directories, and email
+
+                * Banners: Banners are rectangular graphics at the top or bottom of webpages
+                * Buttons: Buttons are small banner-type advertisements that a company can place anywhere on a page.
+                * Search engine and directory listings: jsut as the yellow pages and other directories are advertising media, so too are search engines and online directory listings. Who have you Googled today? In Canada 35 percent of online advertising revenue comes from search engine advertising.
+                * Popup ads: A popup ad is an advertisement that appears on the screen while a webpage is being loaded or after it has loaded.
+                * Email: For advertising, email is becoming a pervasive as radio and television. it is one of the easiest ways of communicating with consumers because marketers can send unsolicited email advertising messages to thousands of users by spamming--sending unsolicited email to five or more people not personally known to the sender. many websites that offer email give surfers the opportunity to refuse unsolicited email via junk email blockers. This permission-based marketing gives the consumer the pwoer to opt in or out. marketers in the United States send about 200 billion email to consuemrs every year, so they hope that a good portion of these will be opened and read rather than being sent straight to the recycle bin.
+
+* Search Engine Marketing: Search engines like Google are the primary destination for people wanting to find things on the internet. Getting your website to show up in search engines is one of the most important things you can do in online marketing. The process of increasing a website's performance in search engines is known as search engine marketing, or SEM. The top three search engine, Google, Yahoo, and MSN, account for most fo the Internet serach traffic, with Google alone accounting for over half of the World's Internet search. Therefore, when we talk about SEM, it is usually easiest just to talk about increasing a website's performance in Google. Google provides a full range of good SEM tools, and most of the concepts transfer to any search engine.
+* Search engine use complex algorithm to sort through billions of webpages on the Internet. They send out robot known as "spiders" that crawl through the web reading information and storing their findings in the search engine's database. users then go to the search engine and enter a search term, called a query. The search engine then delivers a long list of websites it think are somehow realted to the query. The page these results are shown on are called search engine resuls pages or **SERP**, and the position of a result in the SERP's is called a rank. Website owners can pay to have their website show up in the "paid" or "sponsored" results section, which can be found along the right-hand side or top of Google's SERPs. The main list of results, known as "organic" or "natural" results, appears down the left of the SERPs. It is most desirable to have your site appear in the organic results section because these links are free and generally atract more clicks than paid results.
+* Search Engine Optimization (SEO) A typical serach in Google will return hundreds of millions of results, but all that really matter are the first 10 to 50. Once your site has been indexed, the real challenge becomes battleing your way to the top of the organic results. Search Engine Optimization (SEO) is the process of improving a website's rank in organic search engine results.
+* Using techniques that legitimately improve a site's search engine visibility through website design or content improvements is known as White Hat SEO. Using tricks solely for the purpose of boosting organic search ranking is known as Black Hat SEO, and can result in a website being banned from search engines like Google. Black Hat techniques include things like making text the same colour as the background so that it is invisble to user but still appear in the website's code. Some Black Hat techniques can get your site t o the top of the results quickly, but once you get labelled as a search engine spammer it can be tough toever get back into the top 50.
+* When you're optimizing your site for search engines, it may help to consider the four Rs of SEO: 
+
+                * Readability: Can search engines find and read your website
+                * Relevance: Based on a given query, what are the chances the searcher is looking for information on a page in your website
+                * Reliability: How credible is your website
+
+* **MOBILE MEDIA** In this age of the Internet, it seems as if we jsut get used to a dozen or so new terms when they are replaced by an equal number of new ones. M-commerce is new buzzword that many marketers are talking about. The "m" stands for mobile. M-commerce is the promotional and other e-commmerce activities transmitted over mobile phone and otehr mobile devices such as personal digital assistants (PDAs)
+* M-commerce had made its way to Canada and the United States. Even the MTV Music Video Awards now include a wireless advertising campaign to promote the event. Millions of consumers who use such networks as Telus, Bell Mobility, Palm, and OmniSky will get messages urging them to tune in.
+* What's the big attraction? Canadians have embraced wireless phones; these devices have become one of the fastest growing consumer products in Canada. In 2007, 74 percent of 18-34-year-olds in Canada had access to a wireless device. This is up dramatically from 45 percent in 2000. While young people in particular are big users of wireless devices, the number of Canadians with access to a wireless device has grown in all age categories, with 72 percent of 35-54-year-olds and 48 percent of adults aged 55 and older having access to a wireless device.
+* More and more companies are using cellphones as another way to reach consumers with advertising. This technique, known as short-messaging system marketing (SMS), is becoming increasingly popular in Canada. Lancome recently ran a national text messsage marketing campaign for its new line of eye makeup, Color Design. The campaign targets consumers 18 to 35 years old. Ads were placed in women's washrooms in restaurants and bards, inviting consumers to text message "Color" to a six-digit code. They then received an instant message with a toll-free number to call to book a free Lancome Eye Design makeup session at the Bay. Consumers then received a second message reminding them of their makeup session. At the appointment they received a Color Design eye shadow, worth $19.
+* Mcdonald's used SMS marketing to encourage consumers to try its new deli sandwich. The promotion was centred on the World Ski and Snowboard Festival in Whistler, British Columbia. Signage around the event invited users to "Text in to get toasted". After consumers sent the text as directed, the message they got back was "Congratulation, you've won a coupon for a free deli sandwich", with instructions to visit the on-site McDonald's kiosk for a coupon that could be redeemed there, or later at another restaurant. More than 7000 samples of Toasted Deli Sandwiches were distributed during the weekend event. McDonald's sales in Whistler rose by 38 percent overall, with an average increase in Toasted Deli Sandwich sales of 12 percent. The campaign was a success.
+* M-commerce messages can reach specific types of consumers. A campaign for readers of Men's Health magazine sent a customized daily menu via cellphone to help interested readers curb calories. So what are the advantages of m-commerce to consumers? First, m-commerce provides incredible consumer convenience. You can use your mobile phone to buy tickets for a concert without standing in line. You can even buy soft drinks from a vending machine through the phone--a service already available in Europe.
+* But the potential for m-commerce is even greater. Perhaps you're in the market for a new computer. You visit a local retailer and decide what you want. While you're there, you use your mobile phone or PDA to check prices of the same computer on the Internet. If you decide you have the best price, you'll be able to handle the transaction on your phone as well, paying for the computer through a secure Internet connection.
+* For marketers the opportunities for m-commerce are even more exciting. Using sohpisticated location-based technologies including satellites, a retailer will be able to know when you are only a few blocks away from her store and she can send you messages about a special sale. And as you pass McDonald's your phone will beep to remind you how great a Big Mac combo would taste right about now. Of course, such opportunities bring a whole host of privacy issues that msut be settled before these scenarios can become a reality.
+* In the past, SMS campaigns were typically one way--once the mobile campaign was over, advertisers ended the mobile relationship. Advertisers are now starting to see the benefits of an ongoing relationship with customers who have, in effect, inititated a relationship when they texted a code to the advertiser. Molson, for instance, deploys SMS campaigns at most major events where it is a sponsor. The "Canadian Rocks" campaign, for example, enticed audiences at the Molson Amphithreatre in Toronto with the opportunity to upgrade their seats to the "best seats in the house". All that consumers had to do was type the Molson short code and a specific keyword promoted at the event into their cell to be notified just before the headliner hit the stage. Molson continued the relationship by sending a text to all users who responded to the promotion asking them if they'd like to receive ongoing information about music and join the Molson "Insider" program, which provides them with special insider benefits. Molson has enjoyed an opt-in rate of 15-30 percent with this SMS program--very impressive.
+* One study predicts that despite the slow start, about 90 million North Americans will be participating in m-commerce by 2007, generating more than $50 billion in revenues. That's opportunity calling.
+* **OUT-OF-HOME MEDIA** Out-of-home media such as blimps, transit ads, and billboards reach people in public places. This medium works best when it tells a simple, stragihtforward story.
+* Marketers are constantly searching for new ways to get their messages
+
+
+page 470
