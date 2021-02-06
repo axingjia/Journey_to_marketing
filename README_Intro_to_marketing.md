@@ -892,7 +892,7 @@ Defining the problem has four components:
 * Causal research refers to techniques that attempt to understand cause-and-effect relationships. In causal research, marketers want to know if a change in something (for example, layout used in a store) is responsible for a change in something else (for example, an increase in produce sales). They call the factors that might cause such a change independent variables and outcomes dependent variables. In this example, the layout of the store is an independent vairable and sales data for producre are a dependent variable.
 * To rule out alternative exaplanations, researchers must carefully design experiments that test specified relationships among variables in a controlled environment. Because this approach tries to eliminate competing explanations for the outcome, respondents may be brought to a laboratory where the researcher can be sure that they are reacting to precisely what they should be and nothing else. For example, a study testing whether the layout in a grocery store influences the likelihood that shoppers will buy more produce might bring a group of people into a testing facility, where they are shown a "virtual store" on a computer screen and asked to fill a grocery cart as they click through the "aisle". The experiment might vary the interior of the store as a market style layout or a more typical grid layout to see if this affects whether people put more produce into their carts. SKIM
 
-### Choose t he Method for Collecting Data
+### Choose the Method for Collecting Data
 * When the researcher decides to conduct descriptive research, the next step in the marketing research process is to figure out just how to collect it. **The two main primary data collection methods can be broadly described as interactive and passive**.
 * **INTERACTIVE METHODS** Interactive methods involve some kind of interview or other direct contact with respondents who answer questions. These responses are then combined with those of other respondents to arrive at some general conclusions. **The most common interactive instrument is a survey, a questionaire asking participants about their beliefs or behaviours**. For example, when Virgin Mobile wanted to find a theme for its new promotional campaign, it conducted a survey of Canadian cellphone users to find out what it would take for consumers to switch from their current cellphone provider. The survey found that 40 percent of Canadian respondents indicated that if they could retain the cellphone numbers, they would switch. Virgin used this insight to develop a new campaign centred around the "you can switch" concept. Surveys can be administered on the phone, in person, through the mail, by fax, or over the Internet.
 * Surveys or questionaires differ in their degree of structure. With a totally unstructured questionaire, the researcher loosely determines the questions in advance. Questions may evolve from what the respondent says to previous questions. At the other extreme the researcher uses a completely structured questionaire. She asks every respondent the exact same questions and each participant responds to the same set of fixed choices. You have probably experienced this kind of questionaire, where you might have had to respond to a statement by saying if you "strongly agree", "somewhat agree", and so on. Moderately structured questionaires ask each respondent the same questions, but the respondent is allowed to answer the questions in his own words.
@@ -2856,7 +2856,135 @@ Marketing Mini-Porject: Learning by Doing
 * **ENHANCING THE IMAGE OF AN ORGANIZATION OR ENTITY** 
 * **CALLING ATTENTION TO A FIRM'S INVOLVEMENT WITH THE COMMUNITY** To help improve their corporate image, Canadian insurance companies, **such as Royal Insurance, are providing financial aid and employee's time to support community initiatives, such as injury awareness campaigns, sailing regattas, block parent associations, and neighourhood watches.** these companies have realized what other organizations that support little league teams, youth associations, and community events have known all along--being involved in community interests helps win friends and influence people. Many companies find value in sponsorship of large-scale events, such as the Olympic Games, the HSBC Celebration of Light (formerly the Benson & Hedge Symphony of Fire), the Montreal International jazz Festival , or the Molson Indy. Public relations specialists work behind the scenes to ensure that a sponsored event receives amply press coverage and exposure for the organization. Changes to Canadian sponsorship law banned the tobacco company sponsorship of cultural or sporting events and left many events searching for new sponsors. **Atracting new sponsors has proven difficult for some events as sponsor organizations are increasingly questioning the value of such sponsorship, setting specific measurable communication objectives for their sponsorhsip and basing sponsorship decisions on return on investment.**
 * **DEMONSTRATING SOCIAL RESPONSIBILITY** With help from Toronto-based social marketing firm Manifest Communciations, Swedish telecom giant Ericsson launched a program called Ericsson Response, a worldwide initiative to aid the cause of disaster relief by providing mobile and satiellite telephone systems to humanitarian relief workers. Crabtree & Evelyn of London, Ontario, donates $2 for every bath gel sold in the month of October to the Canadian Breast Cancer Foundation, which helps raise the company visibility.
-* **DEVELOPING POSITIVE EMPLOYEE OR INVESTOR RELATIONS** Petro-Canada uses PR to influence, albeit indirectly, government legislation. It has also understaken an internal communications program in an effort to enlist
+* **DEVELOPING POSITIVE EMPLOYEE OR INVESTOR RELATIONS** Petro-Canada uses PR to influence, albeit indirectly, government legislation. It has also understaken an internal communications program in an effort to enlist its 4500 employees in the cause to redirect public concern about gas prices--recognizing that its employees are the best ambassadors. Husky Injection Moulding System introduced a program that allows its 3000 workers to earn company shares for acting green and helping others. While this has social responsibity and community involvement messages, it also makes employees more committed to the organizations and help shape organization culture. Electronic bulletin boards, newsletters, golf tournaments, and staff picnics are among many vehicles used to develop positive employee relations. Company tours, open houses, annual reports, quarterly reports, annual general meetings, technical briefing, and one-on-one interview are some of the methods used to develop relationships with investors and potential investors.
+* **HANDLING COMMUNICATION ISSUES AND CRISES** A few years ago, PepsiCo was rocked by claims that hypodermic needles had been found in Diet Pepsi cans. The company assembled a crisis team to map out a response and supplied video footage of its bottling process to reassure people that foreign objects could not be inserted at the factory. The claims turned out to be false, and PepsiCo ran ads designed to let people know there was nothing to worry about. Pepsi's calm, coordinated response averted a public relations disaster. Similarly, Bridgestone/Firestone Canada Inc. decided to act proactively and voluntarily recalled a million sport utility vehicle (SUV) tires when it was learned that some Firestone tires had failed in the United states under conditions of high temperatures, high speed, and low tire pressure. This PR initiative cost Bridgestone/Firestone over $212 million in Canada but is expected to foster stronger long-term relationships with SUV owners. McDonald's, on the other hand, decided to sue a London, England-based environmental group in the 1980 to prevent it from publishing a pamphlet that accused McDonald's of numerous wrongdoing. McDonald's won the suit, but it took 10 years and cost $23 million in legal fees, and the processings were covered by the global media for a decade. Supporters of the defendants established a website that is still frequently updated to bring public scrutiny to McDonald's business practices.
+
+### Planning a Public Relations Campaign
+* A public relations campaign is a corrdinated effort to communicate with one or more of the firm's stakeholders. It requires a three-step process of developing objectives, executing, and evaluating.
+* The organization must first **develop clear objectives** for the PR program that **define the message it wants people to hear.** **Raincoast Books, for example, want to ensure that it got the "most bang for the time" in terms of favourable publicity surrounding J.K. Rowling's visit to Canada. After determining the objective, the PR specialists create a campaign strategy, which includes these elements:
+
+* **A statement of the problem**
+* **A situation analysis**
+* **Specification of target audience (publics)**
+* **message to be communiated**
+* **Specific program elements to be used**
+* **A timetable and budget**
+* **Discussion of how the program will be evaluated**
+* The international Apple Institute, a trade group devoted to increasing the consumption of apples , had to decide if a campaign should get consumers to cook more with apples, drink more apple juice, or buy more fresh fruit. Because fresh apples brought a substantially higher price per kilogram to growers than apples used for applesauce or apple juice, the group decided to push the fresh fruit angle. It used the familiar theme "An apple a day..." and mounted a focused campaign to encourage people to eat more apples by placing articles extolling the fruit's health benefits in consumer media.
+* Execution of the campaign means deciding precisely how the message should be communicated to the stakeholders of interest. An organization can get out its positive messages in many ways, **ranging from news conferences and sponsorship of charity or sporting events to creating attention-getting promotional events. Palmer Jarvis DDB Toronto created the public service announcemnt for the Canadian Foundations for Phsyically Disabled Persons. It used a strong visual to communicate the social issue of wheelchair access. 
 
 
-page 470
+                Tools of Public Relations
+                        Interactive:
+                                * Email
+                                * Website
+                                * open houses
+                                * Ceremonies
+                                * Meetings
+                                * Events
+                                * Speeches/Addresses
+                                * Trade Shows & Exhibits
+                                * News Conferences
+                                * Annual General Meeting
+                                * Corporate Social Events
+                                * Employee Volunteering
+                        Proactive:
+                                * Newsletters
+                                * News Releases
+                                * Video news Releases
+                                * Disaster Planning
+                                * Issue Management
+                                * Lobbying
+                                * Brochures
+                                * Pamphlets
+                        Responsive
+                                * Letters to Customers
+                                * Annual reports
+                                * Bulletin Boards
+                                * Suggestion Boxes
+                                * Surveys
+                                * Environmental Scanning
+                        Indirect & Association
+                                * Social / Cause Advertising
+                                * Public Service Announcements
+                                * Celebrity Endorsements
+                                * Product Placements
+                                * Fundraising
+                                * Sponsorships
+                                * Advertorials
+
+### Public Relations Program Elements
+* Sometimes, these efforts involve **lobbying government officials to persuade them to vote a certain way on pending legislation, or writing speeches for company executives to deliver, PR specialists may provide input on corporate identity materials, such as logos, brochures, building design, and even stationery, which communicate a positive image for the firm.** Or the organization can simply try to get media exposure for the achievements of an employee who has done some notable charity work or for a product it developed that saved someone's life. For example, the Canadian pharmaceutical firm Boehringer Ingelheim (Canada) Ltd. sent large My Buddy dolls wearing respirator mask to Canadain pediatricians. The dolls helped doctors ease their young patients' fear about putting a mask over their mouths and noses. **In return, Boehringer Ingelheim received a lot of favourable publicity when newspapers across the country featured the campaign.**
+* As the My Buddy doll example illustrates, publicity is a powerful PR tool. **The most common way for public relations specialists to communciate to the media is through a *press release*, a description of some event that an organization produces itself and sends to the media in the hope that a reporter will write an article about it.** A newer version of this idea is a **video news release (VNR)**, aimed at the broadcast media, that tells the story in a film format. Some of **the most common types of press releases** are:
+
+* **Timely topics deal with hot topics in the news. Levi Strauss promoted casual Friday (and presumably sales of its casual dress pants suchas Dockers and Slates) by highlighting how different corporations around the country are adopting a relaxed dress code.**
+* Research stories summarize research projects, such as articles that universities send out that highlight recent breakthroughs by faculty members or public opinion polls that are released by political parties. **Ralston Purina released the results of a survey that asked people how they show love to their pets: It was picked up by media across the country, earning 22 million impression based on readership, viewership, and circulation of the media.**
+* **Consumer information releases** provide information to help consumers make better product decisions. The British Columbia **Ministry of Health's Food Safe Program distributes helpful tips about properly preparing foods for Thanksgiving, barbecuing, and other seasonal activities.**
+
+* Internal public relations activities aimed at employees often include company newsletters and closed-circuit television. **These sources of information help keep employees informed about company plans, successes, changes, and so on. Often company newsletters are distributed outside the firm to suppliers or others outside the company.
+* **Sponsorships** are PR activities through which companies provide financial support to help fund an event in return for publicized recognition of the company's contribution. Many comapnies today find that their promotion dollars are far better spent on sponsoring **a golf tournament, a building, an athlete or team, a symphony concert, or global events such as the Olympics or World Cup soccer competition.** These sponsorships are particularly effective because consumers often connect their enjoyment of the event with the sponsor, thus creating brand loyalty. Sony Canada recently signed a $10 million 20-year title sponsorship agreement with Toronto's Hummingbird Centre--now called the Sony Centre for the Performing Arts. The centre will be renovated and equipped with state-of-the-art Sony products.
+* Because different events cater different consumers, **sponsorship are a good way to target specific market segments. Philishave, for example, is the official eletric shaver of the Toronto maple leafs and Raptors--using the team websites and events to promote its association with the team and endear itself with Toronto sports fans.**
+* The Olympic Games offer interesting sponsorship opportunities as every two years there is worldwide media coverage of a summer or winter Olympic Games. Visa Canada has jumped on the Olympic bandwagon with a sponsorship program called "Team Visa". The program entails long-term support of 19 athletes as well as financial, media, and sports mentoring from financial aadvisers and retired Olympic athletes. Visa ran ads featuring each sponsored athlete prior to the 2008 Beijing Olympics to foster public interest and support. The program will continue for the 2010 Vancouver Winter Games.
+* **Guerrilla marketing**, which waas introduced in Chapter 12, involes "ambushing" consumers with promotional content in places they are not expecting to encounter this kind of activity. **The Canadian Tourism Commission (CTC) recently undertook guerrilla marketing to encourage Canadians to "explore Canada". Building on its new theme, "Keep Exploring", the CTC targeted Canadians who usually vacation outside of the country to let them know about all the places they can explore in Canada. The program launched on Canada Day, with performances of original poetry by two spoken-word artists on stage at the celebritions in Ottawa. Street teams "ambushed" Canadians at select events and festivals across the country throughout the summer to encourage them to explore Canada. The teams are armed with viewfinders showcasing images of some of Canada's "hidden" destination gems, and giveaways include magnet touting an interactive contest, as well as CDs and screensaver.**
+* Today, big companies are buying into guerrilla marketing strategies big time. When RCA Records wanted to create a buzz around pop singer Christina Aguilera, the label hired a team of young people to swarm the web and chat about her on popular teem sites like alloy.come and gurl.com. They posted information casually, sometimes sounding like fans. Just before one of her albums debuted, RCA also hired a direct marketing company to email electronic postcards filled with song snippets and biographical information to 50,000 web addresses. The album quickly went to number one on the charts.
+* **One barrier to greater reliance on public relations campaigns by many organizations is the PR focus on long-term relationships across a wide variety of stakeholders, making it *difficult to assess the effectiveness of specific program elements.*** For example, no one knows precisely what impact a series of appearances by company executives on talk shows or sponsorship of a charity event has on sales: Any one effect can not be isolated. **Marketers do, however, use such research tools as focus groups, interviews, and quantittative surveys (described in Chapter 4) to measure PR effectiveness by tracking changes in attitudes, opinions, and behaviours over time.** **Measuring media exposure from publicity efforts** is relatively more straightforward, although it is more difficult to gauge what impact that coverage has had. Table below describes some of the most common publicity measurement techniques.
+
+                Measuring Effectiveness of Publicity Efforts
+                Method: In-house assessment conducted by a PR manager
+                Description: analyze media coverage in publication, **looking for number and prominence of mentions**
+                Pros: relatively inexpensive because the major cost is the manager's time.
+                Cons: Can not guarantee objectivity in the analysis: crucial to specify up fron what the relevant indicators are
+
+                Awareness and preference studies
+                Description: **Assess company's standing in the minds of customers** relative to competition
+                Pro: Good for broad-based strategy setting or to demonstrate the progress of a large program
+                Cons: Difficult to connect results to specific PR events and to identify which actions had what level of impact on awareness; **very expensive**
+
+                Measurement of print and broadcast coverage and broadcast coverage generated by PR activities
+                Description: The basic measurement tool in PR
+                Pros: provides a quantifiable measure of a press coverage; relative inexpensive
+                Cons: Quantitative only; does not consider the content of the press coverage
+
+                Impression counts:
+                Description: Measure the size of the potential audience for a given article
+                Pros: Because a similar measure is used to assess advertising effectiveness, this method provides a common measure for comparison
+                Cons: Usually limited to the circulation of selected publications, so this method does not include passalong readership; can be expensive
+
+                MY: I don't get it
+
+### SALES PROMOTION
+* Walking into your student union, you have to be prepared to be ambushed by **people eager for you to enter a contest, taste a new candy bar, or take home a free T-shirt with a local bank's name on it. These are examples of sales promotion, programs marketers design to build interest in or encourage you to purchase a product or service during a specified time period.** Sales promotions can sometimes be elaborate and far-reaching. Pepsi-QTG Canada launched the "Get Your Game On with Sidney Crosby" promotion. Consumers of Pepsi brands such as Lay's, Pepsi, Doritos, and Gatorade had a chance to win the grand prize--a meeting with Sidney Crosby, the rising Canadian hockey star--during a game in Atlanta. The contest gave away one prize every hour for 56 days--this price level is very gigh relative to most contests. Consumers who bought specially branded packadges had the chance to win one of 1344 prizes after finding an entry or UPC code and registering online. In addition to the grand prize, prizes included NHL video games, Xbox 360 systems, televisions, replica jerseys signed by Crosby, and four NHL All-Star Game VIP experiences in Atlanta. To publicize the contest, ads ran on TSN and NHL networks.
+* How does a sales promotion differ from advertising? They are similar in that they are both paid messages from identifiable sponsors intended to bring about a change in behaviour or attitudes. In some cases, the sales promotion itself is publicized using a traditional advertising medium, such as the Diet Coke commercials that ran after Friends. But although many advertising campaigns are carefully **crafted to create long-term positive feelings about a brand, company, or store**, **sales promotions tend to focus on more short-term objectives**, such as an immediate boost in sales of Diet Coke. There are exceptions, however. Perpetual promotions like McDonald's Monopoly game, Canadian Tire's "Canadian Tire money", and Tim Hortons "Roll up the rim to win" contest are all examples of sales promotions targeted to support or reward anexisting customer base, rather than boost short-term sales. Marketers also recognize that a series of short-term sales promotions can help to create long-term brand association, image, and equity.
+* Sales promotions are very useful if the firm has an immediate objective, such as quickly bolstering sales for a brand or encouraging consumers to try a new product. The objective may be to create enthusiasm among dealers who carry the product by convincing them to take a chance on a new product or provide more shelf space for an item they already carry. Thus, like advertising, sales promotions can be targeted to channel partners and to the firm's own employees in the form of trade promotions as well as to end consumers.
+
+#### Trade Promotions
+* Trade promotions take one of two forms. Some sales promotions give the retailer a discount on the product's cost or on the expense of advertising it to encourage the store to stock the item and to make sure it's given a lot of attention. **Other sales promotions generate awareness and increase sales by creating enthusiasm among salespeople.**
+* **DISCOUNT AND DEALS** One form of trade promotion is a **price break**. **A manufacturer can reduce a channel partner's costs through sales promotions that give a discount on its own products.** For example, a manufacturer can offer a **merchandise allowance, which reimburses the retailer for in-store support such as shelving.** **A case allowance provides a discount to the reatiler or wholesaler based on the volume of product ordered.**
+
+                Sales Promotion Techniques: A Sampler
+                
+                Techniques: Trade shows
+                Primary Target: Trade
+                Description: Many manufacturers showcase their products to convention attendees.
+                Example: The National Kitchen and Bath Association organizes several shows a year. Manufacturers display their latest wares to owners of kitchen and bath remodeling stores
+
+                Techniques: Incentive programs
+                Primary Target: Trade
+                Description: A prize is offered to employees who meet a prespecified sales goal or who are top performers during a given period
+                Example: Mary Kay cosmetics awards distinctive pink cars to its top selling representative
+
+                Techniques: Point-of-purchase displays
+                Primary Target: Trade and consumers
+                Description: In-store exhibits make retail environments more interesting and attract consumers' attention
+                Example: As sombre music plays in the background, a huge plastic rat draped in a black shroud lies next to a tombstone to promote the Farnam Company's Just One Bite rat poison
+
+                Techniques: Push money
+                Primary Target: Trade 
+                Description: Salespeople are given a bonus for selling a specific manufacturer's product
+                Example: A reatil salesperson at a cosmetics counter at a Nordstrom store in Seattle gets $5 every time she sells a bottl of Glow by J-lo
+
+                Techniques: Promotional products
+                Primary Target: Trade and consumers
+                Description: A company builds awareness and reinforces its image by giving out items with its name on them
+
+page 480
