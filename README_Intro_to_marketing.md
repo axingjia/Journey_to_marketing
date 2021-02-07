@@ -2986,5 +2986,61 @@ Marketing Mini-Porject: Learning by Doing
                 Techniques: Promotional products
                 Primary Target: Trade and consumers
                 Description: A company builds awareness and reinforces its image by giving out items with its name on them
+                Example: Coors distrubtors provide bar owners with highly sought-after "Coors Light" neon signs
+
+                Techniques: Cross promotion / cooperative promotions
+                Primary Target: Trade and consumers
+                Description: Companies team up to promote their products jointly
+                Example: Burger King promotes its Spidey Sense game in conjunction with Columbia Pictures' Spider Man 2
+
+                Techniques: Coupons
+                Primary Target: Consumers
+                Description: Certificates for money off on selected products, often with an expiration date, are used to encourage product trial.
+                Example: Crest offers $5 off its WhiteStrips
+
+                Techniques: Samples
+                Primary Target: Consumers
+                Description: Retailers might get a demonstration product to help in sales presentations; consumers get a free trial size of the product
+                Example: A free small bottle of Clairol Herbal Essences shampoo arrives in the mail
+
+                Techniques: Contest / sweepstakes
+                Primary Target: Trade and consumers
+                Description: A sales contest rewards wholesalers or retailers for performance; consumers participate in games or drawings to win prizes; builds awareness and reinforces image.
+                Example: Publisher's Clearing House announces its zillionth sweeptstakes
+
+                Techniques: Special/bonus packs
+                Primary Target: Consumers
+                Description: Additional product is given away with purchase; rewards users. Note that bonus packs usually mean the package must be altered in some way to accommodate the extra merchandise.
+                Example: Maxell provides 10 free blank CDs with purchase of a pack of 50.
+
+                Techniques: Gifts with purchase
+                Primary Target: Consumers
+                Description: A consumer gets a free gift when a product is bought; reinforces product image and rewards users.
+                Example: A free makeup kit comes with the purchase of $20 worth of Clinique products
+
+* **INDUSTRY BOOSTING AND BOASTING** Other types of trade sales promotions increase the visibility of a manufacturer's products to channel partner. Whether an elaborate exhibit at a convention or a coffee mug with the firm's logo mailed to clients, these orate exhibit at a convention or a coffee mug with the firm's logo mailed to clients, these efforts seek to keep the company's name topmost when distributors and retailers make decisions about which products to stock and push. These forms of sales promotions include:
+
+                * Trade shows. Hundreds of industry trade shows are held in Canada each year, and over 9000 shows are held in the United States. These are major vehicles for manufacturers to show off their product lines to wholesalers and retailers. Large trade shows are often held in big hotels or convention centres where many companies set up elaborate exhibits to **show their products, give away samples, distribute product literature, and troll for new busienss contacts.** Some large Canadian companies, such as Home Hardware Store Ltd. and Shopper Drug Mart, focus their marketing strategies on private trade shows where key suppliers can interact more closely with buyers and store managers and do more deal making than is possible in a standard show where suppliers interact with many competing customers.
+                * Promotional products: We have all seen them--coffee mugs, visors, T-shirts, key chains, and countless other doodads emblazoned with a company logo. These are promotional products. Unlike licensed merchandise sold in stores, these goodies are given away free to build awareness of the sponsor. Although some of these freebies are distributed directly to consumers, many, like 3M Post-it notes, are intended for channel partners, such as retailers and vendors, to build name recognition and loyalty.
+                * Incentive program. In addition to motivating distributors and customers, some promotions are designed to light a fire under the firm's own sales force. These incentives, known as push money, may come in the form of cash bonuses, trips, or prizes. Mary Kay cosmetics is famous for giving its more productive distributors pink cars as a reward for their efforts. Involving employees in a promotion is a great way to get them excited about what they sell. When Frito-Lay sponsored a promotion giving away six million bags of its new Nacho Cheese Doritos around the United States in one day, one objective was to psych up its own employees. **Frito-Lay had its salespeople distribute the free goodies to people on the street, and a full-page ad in USA Today featured employees who worked on the brand.**
+
+#### Consumer Promotions
+* Since 1970, Gillette has **run the Gillette Cavalcade of Sports promotion, using large prizes, huge displays, and major sports stars to draw consumers across Canada into retail outlets to buy popular and less well-known Gillette products.** Each year, it fine-tunes the **$2 million prmotion to keep it fresh**, but the basic strategy is impact--go big or go home. Year after year it works, and the company experiences a 30 percent dollar sales increase during the event.
+* Gillette's efforts and the Fido example, discussed earlier in the chapter, illustrate how major companeis are creating unusual and attention-getting forms of promotion. As with trade promotions, sales-boosting efforts try to stimulate purchase by attracting consumers with price breaks or attracting their attention with novel incentives.
+* **PRICE-BASED CONSUMER PROMOTIONS** Many sales promotions aim for consumers' wallets. They emphasize short-term price reductions or refunds, thus **encouraging people to choose a brand--at least while the deal is on.**
+
+                * Coupons. Try to pick up any Wednesday newspaper without spilling a pile of coupons. Coupons are certificates redeemable for money off a purchase and are the most common price promotion. Indeed, they are the most popular form of sales promotion overall. Over 3.6 billion coupons are distributed annually in Canada, with redemptions valued at $134 million. Consumers can also now find coupons online at sites like www.savingyoumoney.com.
+                * Price deals, refunds, and rebates. Manufacturers often offer temporary price reductions to stimulate sales. This price deal may be printed on the package itself, or it may be a price-off flag or banner on the store shelf. Sometimes companies offer *rebates*, which allow the customer to recover part of the product's cost directly *from the manufacturer.* Chapters Inc. offered a new twist on the common "scratch $ save" promotion by offering web surfers *a chance to scratch a real-sounding card on its website*
+                * Special packs. Another form of price promotion is giving the shopper more of the product instead of lowering its price or bundling another product for the same price. Kraft Canada, for example, recently included Famous Players movie coupons in a Post cereral promotion
+
+* **ATTENTION-GETTING CONSUMER PROMOTIONS** Attention-getting consumer promotion stimulate interest in and **publicity for a company's products**. Labatt Breweries, for example, recently made a 14-stop tour of Ontario parks and beaches to promote its kokanee brand of beer. The tour included a 7.5-metre-high inflatable glacier, bikini and muscleman contests, ultimate Frisbee games, and kayak races. Some typical types of attention-getting promotions are:
+
+                * Contests and sweepstakes. A contest is a test of skill, while a sweepstakes is based onchance. Guinness Import Company's "Win Your Own Pub in Ireland" contest gave away an actual pub to winners of the essay contest "Why Guinness is My Perfect Pint". Tim Hortons "Roll up the rim to win" contest has become so ingrained in Canadian culture that Tim Hortons ran an advertising campaign in which a traveller "proved" Canadian citizenship by spouting the "Roll up the rim to win" slogan. A Kool-Aid promotion helped launch Kool-Aid Magic, a Kool-Aid product aimed at 6- to 12-year-olds that changes color when water is added.
+                * Premiums. Premiums are **items offered for free to people who have bought a product. A premium is often a novelty item**, such as the free, removable tatoos called Barqtoos that Barq's root beer gives away to its customers. A Pokemon card in a box of cereal, a replica Stanley Cup in cases of Labatt's Blue, or a movie pass in Humpty-Dumpty potato chips are all examples of premiums. The latest craze in premiums is prepaid phone cards that enhance brand identification. **Phone cards make ideal premiums, because they are compact in size, brand logos or graphic provide opportunities for repeat exposure, and the issuer can track card usage and build databases by determining where calls originate.** Labatt struck retail (and promotion award) gold for its Coldies--bottles of Labatt Blue dressed in a sleeve designed like one of 30 NHL teams.
+                * Sampling. How many people at one time or another have managed to scrape together an entire meal by scooping up free food samples at their local grocery store? Sampling gets people to try a product by distributing trial-size versions in stores, on street corners, or through the mail. Effem, the Canadian subsidiary of Mars Corp. that owns the Whiskas brand of cat food, used sampling to encourage cat owners to try Whiskas' wet pack product. It sent 250,000 samples to cat owners and increased sales by 20 percent.
+                * Point-of-purchase promotion. A point-of-purchase (POP) promotion attempts to influence consumers in teh store by **catching their attention with displays or signs.** Marketers are challenged to come up with new and innovative POP displays that will grab people's attention. For example, Bausch & Lomb conducted a promotion in Spain to encourage consumers with good vision to buy contact lenses to change their eye color. The in-store display allowed shoppers to see what they would look like with five different colors of eyes before they actually inserted the contacts. POP activities also include the sue of in-store media, including placards on shopping carts or even chosed-circuit television, which promote specific products. As the CEO of one company that produces these in-store messages put it, "Does it make any sense to spend millions of dollars talking to people in their living rooms and cars and then let them wander around a supermarket with 30,000 product choices **without something to remind them to buy your product**?"
+
+* **LOYALTY GENERATING PROMOTIONS** Continuity programs, membership programs, and loyalty programs are all terms used to describe the practice of award discounts, bonuses, or such other incentives as redeemable "points" to frequent and other high-value customers.
+
 
 page 480
