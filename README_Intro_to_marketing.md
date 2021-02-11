@@ -3211,15 +3211,220 @@ Marketing Mini-Project: Learning by Doing **(MY: THIS IS GOOD)**
                 * Your objectives and key strategies to achieve these objectives
                 * Key expected outcomes (financial and non-financial)
 
-* Therefore, reading the Executive Summary tells us what objectives will be pursued and how, and what rewards await us at the end of the plan period if we implement our strategies well. The Executive Summary should be able to read as a stand-alone document. It is not an introduction, it is a snapshot of your plan. An executive summary is typically one page or less in length. It typically does not include the rationale for your decisions (this is in the body of your plan).
+* Therefore, reading the Executive Summary tells us what objectives will be pursued and how, and what rewards await us at the end of the plan period if we implement our strategies well. The Executive Summary should be able to read as a stand-alone document. It is not an introduction, it is a snapshot of your plan. An executive summary is typically one page or less in length. **It typically does not include the rationale for your decisions (this is in the body of your plan).**
 * **SECTION II. TABLE OF CONTENTS** After the Executive Summary section, a Table of Contents section appears so that one can see what areas the plan covers. This helps the reader navigate more easily through the marketing plan.
 * **SECTION III. ENVIRONMENTAL ANALYSIS** In this section of the plan we provide the foundation of analysis on which our plan is built. This section typicallyhas four key elements.
 
-1. SWOT Analysis Summary. Your full SWOT analysis should go in an exhibit. What you want to report here are the key factors in the internal and external environment that influence your marketing strategy decisions. Recall from Chapter 2 that SWOT analysis involves identifying the strategic implications of key environmental factors. It is the relevance of those strategic implications that determine how important they are to your marketing decisions. Note that the environmental analysis on which the SWOT analysis is based is also often included in an appendix so that the readers and users of the plan can be confident that the plan is based on a solid understanding of the decision environment.
-2. Segmentation. Your SWOT analysis would have included a consumer analysis, but here you should identify the major segments in the market (which you need to define or specify here); justify your segmentation approach; and estimate the relative size of these segments (providing evidence to support your estimates if possible). A short (three- or four-sentence) description of each segment (key attributes and differentiating factors) will help the reader understand wha the segments are all about. These profile summaries should brief identify the key needs, wants, and preferences of the segment and how these may be changing over time.
-3. Positioning Map. Your SWOT analysis would have included competitor analysis, but a series of positioning maps that illustrate that relative positioning of key brands in the market will help communicate the competitive landscape. Annotating your positioning maps with assessments of the competing organizations and brands can be helpful.
-4. Other Analysis. As you progress through your marketing and business education you will learn more tools and concepts that can help you and readers of the plan better understand the decision environment. Some key concepts in this text such as diffusion of innovation, the product life cycle, services considerations, the BCG Growth-Share Matrix, and the FCB grid could also be used effectively to understand the decision environment.
+1. **SWOT Analysis Summary.** Your full SWOT analysis should **go in an exhibit**. What you want to report here are the **key factors in the internal and external environment that influence your marketing strategy decisions.** Recall from Chapter 2 that SWOT analysis involves identifying the strategic implications of key environmental factors. It is the relevance of those strategic implications that determine how important they are to your marketing decisions. Note that the environmental analysis on which the SWOT analysis is based is also often included in an appendix so that the readers and users of the plan can be confident that the plan is based on a solid understanding of the decision environment.
+2. **Segmentation.** Your SWOT analysis **would have included a consumer analysis**, but here you should identify the major segments in the market (which you need to define or specify here); justify your segmentation approach; and estimate the relative size of these segments (providing evidence to support your estimates if possible). **A short (three- or four-sentence) description of each segment (key attributes and differentiating factors) will help the reader understand wha the segments are all about.** **These profile summaries should brief identify the key needs, wants, and preferences of the segment and how these may be changing over time.**
+3. Positioning Map. Your SWOT analysis would have **included competitor analysis, but a series of positioning maps that illustrate that relative positioning of key brands in the market will help communicate the competitive landscape. Annotating your positioning maps with assessments of the competing organizations and brands can be helpful.**
+4. Other Analysis. As you progress through your marketing and business education you will learn more tools and concepts that can help you and readers of the plan better understand the decision environment. Some key concepts in this text such as **diffusion of innovation, the product life cycle, services considerations, the BCG Growth-Share Matrix, and the FCB grid** could also be used effectively to understand the decision environment.
 * As you can see, up to this point we have assessed the marketplace and come to certain conclusions about what major issues we will have to address during the next year. At this point it should be fairly clear what actions we will need to take to serve the market well and be an effective competitor. In other words, the marketing plan should almost write itself (with your help)!
+* **SECTION IV. OPPORTUNITY IDENTIFICATION, ASSESSMENT, AND ASSUMPTIONS**. In this section, we draw conclusions from our analysis and specify what **opportunity (or problems issues)** we plan to take advantage of, or address, in our marketing plan. **We justify our focus on this/these opportunities (or problems) and not others, and clearly state what market(s) we plan to serve with what product(s), using what technologies (know-how). If possible, we qualitify this opportunity by using market research to assess *how attractive it is, what piece of market we can expect to attain, what slice of the market our competitors already have, and other factors that may impact our ability to create value for customers.*** However, it is not always possible to have conducted extensive market research before writing a plan, so **we also identify here any key assumptions about the market, the opportunity, and the decision environment on which our plan is based.**
+* **SECTION V. OBJECTIVES TO BE ACHIEVED BY THE MARKETING PLAN** In the previous section we identified the major issues to be addressed by the marketing plan. However, if we left it at that, we would not have any way of monitoring the success or failure of the marketing plan. Therefore, **we need to establish certain objectives to be achieved by the plan.**
+* In this section we begin by **establishing *financial objectives* to be achieved by the marketing plan.** These objectives are stated **in the form of revenues and profits (which might be a break-even target for a non-for-profit organization).** **Next, we convert these financial objectives into actionable marketing objectives and highlight other functional objectives, if appropriate (e.g., sales, HR).** Objectives should be SMART: Specific, Measurable, Actionable, Realistic, and Time bounded. **Writing down financial objectives by themselves will not ensure that we actually achieve them. We have to perform some marketing actions to make an impact in the marketplace and thereby achieve our financial objectives. These marketing objectives enable us to develop specific marketing actions. We turn  to this in the next section.
+* **SECTION VI. MARKETING STRATEGIES** This section is **the engine** that drives the marketing plan. **It outlines our efforts to specify the value proposition for customers by selecting our target market(s), developing detailed profiles of our target market(s), then specifying the positioning that we want to establish in the minds of those customers.** You should provide **rationale for why you have selected the target markets you have chosen and why you rejected other viable alternatives.** **Recall from Chapter 3 that positioning involves specifying the basis of differentiation for your brand, your strategic orientation (how you will compete, create value, and develop competitive advantage), how you will be able to defned your desired positioning, and your brand personality. The strategies tell us generally how we will compete and achieve our objectives. They are executed by our specific marketing mix decision.**
+* **SECTION VIII. IMPLEMENTATION AND EVALUATION** In this section we examine our strategies from the previous section and, **for each strategy, we delineate our tactical action plans for how the strategy will be executed. We have to be very specific about what needs to be done (action steps), when it will be done, who will do it, what resources will be needed, and what we will do in case of "roadblocks" to our plan.** This often includes **a task schedule that specifies who will do what, by when. An evaluation and control plan specifies how the results will be assessed. Performance benchmarks (targets) need to be specified (with a timeline) to determine whether or not the strategy has been successful.** Systems are specified for tracking the monitoring information and measures are identified for the key variable of interest--such as satisfaction or loyalty. You will learn more about this later in this chapter.
+* A marketing plan is a living, breaking document. As such, it needs to be monitored constantly to ensure goals are being met and progress is being made. **If the targets are not met then corrective action needs to be taken, and this is the focus of a contingency plan--what you will do if the original strategy and tactics do not work as expected.** Because you have **had to make some key assumptions to write your plan**, you need a section that outlines: **a) which of these assumptions need to be tested (an assessment which is based on *sensitivity analysis*), and b) your research plan to get the needed information. Finally, we need to specify what it will cost to implement the plan. A budget is created that specifies *what resources are needed, where those resources will come from, and how they will be spent (sources and uses of funds statement).* Also typically included is a pro-forma (forecast) income statement that specifies the *expected revenues, expenses, and profit (or loss) from implementing the plan.* This pro0foma income statement needs to be annotated (footnoted) to explain the key assumptions in the financial analysis--such as sales forecast and costs, and how you came up with the number you have used.**
+* Many marketing plans go astray because they lack a detailed implementation section. This is the way we assign responsibility for implementing the plan and ensuring that the plan does not get placed on a shelf somehwere to be forgotten.
+* Before we implement a marketing plan we need to assess whether it makes sense to do so at all. We really can't make that assessment until the plan is written because the likely success of the plan depends on the strategies and tactics that we have devised. **We make this assessment from two perspectives: value to the organization and value to the customer.** **As a marketing organization, our "prime directive" is to achieve the long-term goals of the organization. Thus we need to assess whether our plan helps us do that. Sepcifically, we conduct financial analysis by examining the pro-forma income statement created in the previous section and comparing the expected results to either organization standards** (Microsoft, for example, only enters markets where it can expect dominant market share), **internal cost of capital (comparing the returns to a standard expected return), or the returns of other projects (comparing the expected outcomes to the expected outcomes of other projects).** **This financial analysis might also include scenario analysis where best case, worst case, and perhaps other scenarios (differences in assumption for key figures in the analysis) are compared.**
+* Also typically included is a **cost-benefit analysis. Cost-benefit analysis compares all the advantages of implementing the plan to all the disadvantages. Some of these advantages and disadvantages are quantitative (number based ) and some are qualitative (judgment based). The data for the cost-benefit analysis comes from your SWOT analysis, consumer analysis, competitive analysis, and all the other analyses conducted in creating your plan. More sophisticated approaches try to quantify the qualitative factors so that the cost-benefit of one project can be compared objectively to the cost-benefit of another project.**
+* In the end, **the decision makers have to make a recommendation. That is, they have to decide whether or not to implement the plan. The rationale for this decision comes from the previously conducted financial analysis and cost-benefit analysis, drawing on marketing concepts, tools, and principles.**
+* **Value is also assessed from the customer's perspective. In the end, no one will buy what you have to offer unless they think it is more valuable than the money they have in their pocket (or bank account). Market research is conducted to test perceived value and purchase intention. Value-in-use analysis attempts to quantify the cost-benefit analysis from mthe customer's perspective, specifying what the customer will gain or save by using the product relative to the cost of buying, using, and disposing of the product.**
+* **SECTION IX. APPENDICES** By now you will have realized that a lot of analysis goes into writing a marketing plan. Readers of the plan do not want to sort thorugh pages and pages of analysis. They want to know that the analysis has been done well, can be relied upon, and what conclusions should be drawn from it. Consequently, a lot of analytic details can go in an appendix--available for review but not burdensome for the reader. Typical appendices include **environmental analysis, SWOT details, detailed segment profiles, an annotataed maps, and other details such as illustrative communication elements.** Be sure to reference appendix material in the main body of the plan. **It is also important to summarize the content of each appendix in the marketing plan when you refer to it, so that the reader does not have to look at the appendix** to understand the main conclusion(s) from the analysis.
+
+## DO AND DON'TS IN DEVELOPING A STRONG MARKETING PLAN
+* Table below lists dos and don'ts that need to be followed to develop strong marketing plans. 
+* As we discussed in Chapter 2, the marketing plan is the foundation upon which all other plans are built. Therefore, **keep the focus of the marketing plan on major strategies and tactics to be implemented during the time period (i.e., one year) to create value for your customers.** Do not try to do it all next year. As has been wisely suggested, you are better off being short on strategy and long on implementation, rather than the other way around.
+* A good marketing plan should be a highly actaionable document. So, keep the plan **short (appropriately 10-15 pages, single spaced)** and simple. As necessary, individual "brand" plans may be developed for each product (e.g., goods, services offered, programs) or separate plans can be created for each target market. **Do not provide information that is interesting but does not directly impact your strategies to serve customers.**
+* To ensure you have a short and actionable plan, focus on the implications, the "so what" of data, and not on the data itself. Spend time gathering relevant information (section III) and then spend a lot of time thinking about what the information means (section IV). This time invested up front, is well spent and will enable you to develop meaningful strategies and tactics as you write the plan. Unfortunately, many marketing plans end up being very voluminous and not actiaonable because the marketing strategies focused on the data rather than their implications. Try not fall into this trap.
+* The marketing plan should be developed for a period of one year. However,it is neccessary to meet periodically (i.e., every quarter) to assess progress and make any corrections to the plan.
+* Do not forget that the marketing plan template in this chapter is directional. This means that you should not view the template as a checklist. Examine each section carefully and assess what it is asking of you. For example, in the section on situational/environmental analysis, only one thing is paramount: Where is there an opportunity to create value? The rest (e.g., consumer analysis, competitive analysis, industry analysis) is merely background material to help you in your analysis of how best to create the value.
+
+## BUSIENSS SUCCESS IS NOT DETERMINED BY THE PRODUCER BUT BY THE CUSTOMER
+* Years ago, Thomas Bonoma, a Harvard professor, coined the term "marketing inertia" to describe a busienss organization's inability to adapt to market changes. he argue that a firm's success makes it complacent such that managers are relutant to tamper with marketing strategies that have been successful in the past. The thinking is, "if it ain't broke, why fix it?"
+* In this book we have provided you with framework, concepts, and marketing tools to be successful. So it is only fitting that in the last chapter, we show you how t o avoid getting trapped by your own success.
+* ultimately, it is the customer who determines whether a business succeeds or not. it is for this reason that business organization pay so much attention to the topic of this chapter--customer satisfaction and customer retention.
+
+## IMPORTANCE OF MONITORING CUSTOMER SATISFACTION AND CUSTOMER RETENTION
+* Research has shown that customer retention (customer loyalty) is the single most important driver of long-term financial performance. But what is the key to customer retention? As shown in Figure below, it is customer satisafaction, which explains why business organization are so concerned about monitoring customer satisfaction and customer retention. To be successful, a business needs loyal (retained) customers. This is because retained customers are less costly to serve and tend to be more price insensitive.
+* Think about your own behaviour for a minute. Do you have favourite brands? The firms that supply those brands do not need to spend previous marketing communication dollars to attract you because you are already familiar with the brands. Further, it is possible that, in spite of a price increase, you will continue to be loyal to this brand.
+* Customer satisfaction is the key to customer retention. According to Philip Kotler, a high satisfied customer:
+
+                * Stay loyal longer
+                * Buys more as the company introduces new products and upgrades existing products
+                * Talks favourably about the company and its products
+                * Pays less attention to competing brands and advertising, and is less sensitive to price
+                * Offers product/service ideas to the company
+                * Costs less to serve than new customers because transactions are routinized.
+
+* Given the crucial role played by customer satisfaction and customer retention, **it is no wonder companies take these topics seriously.**
+* Lexus is well known in the industry for its high standards of customer care. When the brand was initially introduced in the mid 1980s it took on luxury car brands from Germany by going above and beyond to satisfy the customer. For example, shortly after its launch, a minor defect was discovered in the car. Lexus immediately issued a recall notice, went to each Lexus owner's home, picked up the car, performed the minor repair, and delivered the car (after a thorough wash) back to its home. Such customer service has helped propel Lexus into the ranks of established luxury automobiles.
+
+## CAUSES OF CUSTOMER SATISFACTION AND DISSATISFACTION
+* Customer satisfaction can be defined as the **consumer's fulfillment response.** It is **a judgment that a product or service feature, or the product or service itself, provides a pleasurable level of consumption-related fulfillment.** Satisfaction is the difference between a customer's needs and expectations and the customer's perception that the good or service has met those needs and expectations. Figure below adapted a well-known concept in services marketing called service quality, shows this.
+
+                Understanding Customer Needs
+
+                ->
+
+                Designing Goods and Services
+
+                ->
+
+                Delivering Goods and Services -> HT Training/Distribution -> Marketing Communications ->  Customer Communication -> Customer perception | Customer needs and expectations
+
+                ->
+
+                Customer perception  -> Research
+
+                ->GAP=Satisfaction->
+
+                Customer needs and expectation -> Research | Understanding Customer Needs
+
+* Failure to meet the customer's needs and expectations results in dissatisfaction. According to Figure above, **a customer can be dissatisfied because the good or service does not meet expectations**. But the customer can also be dissatisfied even though the good or service performs as it should **if the customer's perception is that it does not perform as it should. For this reason, we show in Figure above that communicating with the customer is key. Customer communications can influence both customer expectations and customer perceptions.** HSBC knows this very well. Its advertising is clearly aimed at shaping customer expectations about what they can expect from the bank: local expertise.
+* Let us examine Figure above in more detail to see how a business can shape customer satisfaction and dissatisfaction.
+
+### Understanding Customer Needs
+* At the heart of any successful strategy to monitor customer satisfaction is the firm's ability to understand the needs and expectations of its customers. Most successful business organization use a combination of the methods listed in Table below. Many average or underperforming firms either do a poor job of understanding customer needs, or do a poor job of incorporating customer needs into their strategies.
+
+### Designing Goods and Services to Satisfy Customer Needs
+* Unless a business organization has done a first-rate job of understanding customer needs, it can not develop goods and services to satisfy its customers. Clorox, for example, uses its understanding of customer needs to make life a little easier for its customer.
+
+### Delivering Goods and Services
+* The way in which a good or service is delivered affects customer perceptions and, in this way, impacts satisfaction. Business organizations go to great lengths that the delivery of goods to ensure that the delivery of goods and services to customers is seamless. Harry Rosen, a high-end clothier across Canada, demonstrates this point in its ad. Harry Rosen not only makes it easy to find the perfect figt through its stores or online, but reassures customers through its no-hassle policy that shopping at its stores is a breeze.
+
+                Table: Tools to Understand Customer needs
+
+                * Marketing Research: As discussed in Chapter 4, many qualitative as well as quantitative marketing research tools are available at a firm's disposal. Common methods to understand customer needs are focus groups and surveys.
+
+                * Frontline Personnel: Employees who come in direct contact with customer (e.g., sales force, customer service, technical service) are excellent sources of customer information. Unfortunately, these sources are not very well utilized in many organizations. To full utilize these sources, it is important to develop formal mechanism to capture, store, and disseminate frontline personnel information.
+
+                * Customer Complaints: Strong marketing organizations make it easy for their customers to complain or offer suggestions. Procter & Gamble, for example, provides toll-free phone numbers and websites so that ustomers can register a complaint or a suggestion. Such corporation correctly recognize that a customer complaint is actually a form of free marketing research.
+
+## TOOLS TO MEASURE CUSTOMER SATISFACTION
+* As described in Chapter 4, there are different ways to measure customer satisfaction. Some are shown in Table below, Validity is a key challenge, however. General questions can be interpreted differently by different respondents, and they might not really be answering the same question. For example, imprecise words like "quality" mean different things to different people. In a hotel, quality could mean high-end furniture and fixtures to one respondent and customer service responsiveness to another. Customer service is another term that means different things to different people. When designing a customer satisfaction survey we try to be as precise as possible in what attributes we want customers to rate, and then choose among prioritized attributes to keep the number of questions reasonable.
+* There is also the issue of variability. Some respondents hold stronger convictions than others, so the same rating, such as 4 out of 5, might be given by one respondent whose response would not vary over time, and by another respondent whose response might change depending on how they feel on a practical day.
+
+                Table: Tools Measure Customer Satisfaction
+
+                Custoemr Satisfaction Surveys
+                        Most customer satisfaction surveys have three sections:
+                        1) a global satisfaction index with the good, service, or firm (typically measured on a 5-point scale, with "Very Dissatisfied" and "Very Satisfied" being the two end points)
+                        2) a detailed evaluation of goods and services offered by the firm
+                        3) intentions to repurchase the firm's offerings
+                
+                Mystery Shopping:
+                        A form of marketing research, mystery shopping involves a researcher buying the firm's goods and services and assessing the purchase experience versus the firm's competitors
+
+                Customer Complaint Analysis
+                        Analyzing customer complaint is another way to understand customer satisfaction.
+
+                Lost Customer Analysis:
+                        Some business organization contact customers who have stopped being repeat purchasers to assess what went wrong. This provides a good assessment of customer satisfaction levels and what needs to be done to retain customers.
+
+## MOVING FROM CUSTOMER SATISFACTION TO CUSTOMER RETENTION
+
+### Why Is Monitoring Customer Satisfaction Not Enough?
+* We discussed in Chapter 4 that complete customer satisfaction is required to retain customers, and research **shows the respondents who give a score of 5 (out of 5) are six times more likely to be repeat buyers than ones who give a score of 4.** This is why marketers focus on customer satisfaction as a key determinant of customer loyalty, but the focus is on customer loyalty and retention.
+* Figure below demonstrates how the competitive environment affects the satisfaction--loyalty relationship. As can be seen from the figure, any drop from total satisfaction (e.g., in the automotive industry) resuls in a precipitous drop in customer loyalty.
+
+### How Should You Use Customer Satisfaction Research?
+* Table 14.6 outlines three stages of actions a firm can take, depending on the bulk of responses to a customer satisfaction survey.
 
 
-page 507
+                Non-Competitive Zone: 
+                        Regulated monopoly of few substitutes
+                        Dominant brand equity
+                        High cost of switching
+                        Powerful loyalty program
+                        Proprietary technology
+
+                Highly Competitive Zone:
+                        Commoditization or low differentiation
+                        Consumer indifference
+                        Many substitutes
+                        Low cost of switching
+
+                Slope between satisfaction on customer loyalty
+                Automobile: slowest slope
+                Personal computer: second slowest
+                Hospitals: third fastest
+                Airline: second fastest
+                local telephone: fastest
+
+                Table 14.6 how to Use Customer Satisfaction Information
+
+                        Stage 1: 
+                        Bulk of Responses: 2-3 (dissatisfied)
+                        Strategic Response: Deliver the basic product or service elements as expected of anyone in the industry
+
+                        Stage 2: 
+                        Bulk of Responses: 3-4 (neutral)
+                        Strategic Response: Provide an appropriate range of supporting services. Develop proactive service recovery to make amends when something goes wrong.
+
+                        Stage 3:
+                        Bulk of Response: 4-5 (satisfied)
+                        Strategic Response: Understand and achieve results in customers' terms
+
+* According to Table 14.6, a disatisfied customer (scores of 2 or 3) is not even receiving the basic good or service expected by customers in the industry. This is the equivalent of ordering a meal in a restaurant and not receiving one. Such customers are best served by reviewing the delivery of basic goods and services and making changes to keep pace with industry and technological trends.
+* A score of 3 or 4 indicates a neutral customer, one who is satisfied with the basic good or service but **desires a set of supporting services (e.g., procedures in place when service delivery fails). This is similar to going to a restaurant where you are happy with the food and service, except that when the restaurant gets busy , the level of service tends to fall short.** A neutral customer is best served by putting in place proactive service standards to handle situations when service delivery fails.
+* Finally, a score of 4 or 5 indicates a completely satisfied customer. Companies that excel at this define the good or service experience from the customer's perspective.
+* Lexus is a good example. It recognized that most dealerships define the experience of getting a car fixed from their own (i.e., internal) perspective. But customers define the experience as the hassle of going to the dealership and dropping off the car, the inconvenience of going without a car, and the hassle involved in picking the car up. So, Lexus, in its quest to completely satisfy the customer, picks up the car at the customer's home or office, repairs and cleans the car, and drops it back at the customer's location.
+
+## CHAPTER REVIEW
+Marketing Concepts: Testing Your Knowledge
+1. Draw a figure explaining the relationship between a strategic plan, marketing plan, and functional plan.
+2. List five reasons why firms should develop marketing plans.
+3. List the step needed to develop and implement a sound marketing plan.
+4. Why is it important to have a control section in a marketing plan?
+5. Provide a definition of customer satisfaction in your own words.
+6. What is the difference between customer satisfaction and customer retention? Why are these terms so important to a business organization?
+7. What are some ways in which we can measure customer satisfaction? Describe the pros and cons of each
+8. Why do we focus on customer retention? What are some factors that affect customer retention?
+
+Marketing Concepts: Discussing Choices and Issues
+1. In this chapter, we asserted that the marketing plan provides a common foundation for the development of other functional plans. Do you see any problems with this approach?
+2. Can you think of any situation where a business may not want to develop a marketing plan?
+3. Critique the marketing plan template provided in this chapter. Are there any sections missing? If so, what are they? If not, provide a rationale for your answer.
+4. In this chatper we argue that customer satisfaction and retention are key to business success. Do you agree? Describe situations where these variables may not be the best options for a firm.
+5. Can you design a method to measure customer satisfation that we have not discussed in this chapter.
+
+Marketing Practice: Applying What You've Learned
+1. Search on the Internet for a marketing plan. Read and critique the plan.
+2. Working with four to six classmates, select a prodcut that you all use. Identify the different brands used by each person in the group and find out what product attributes contribute to satisfaction or dissatisfaction. Summarize your finding.
+3. You have been asked by your college or university's admission director for help in conducting a student satisfaction study. Advise her on the main study methods you can use in this situation.
+
+Marketing Mini-Project: learning by doing
+* The purpose of this project is to gain an understanding of developing marketing plans through actual experience.
+1. Select one of the following:
+                a. An existing product (e.g., Crest toothpaste, John Deere tractors)
+                b. An existing business (e.g., Apply computers, your local dry-cleaning establishment)
+                c. A product of business you want to launch
+
+2. Next, develop a marketing plan for your product or business. For an existing product you may have to draw certain conclusions based on your research. For example, comparing toothpaste brands in a supermarket will enable you to understand pricing, packaging, and positioning. Depending on your product or business choice, you may not have the capability to develop detailed tactical plans (e.g., for Crest toothpaste, it will be hard to develop tactical plans; for your local dry-cleaning establishment this should present no problem)
+3. Present your results as a set of recommendations the product or busienss should follow to be a better competitor.
+
+Real People, Real Surfers: Exploring the Web
+* For the four products listed below, visit the company's website and answer these questions.
+
+        * Harley Davidson motorcycles
+        * Levi's jeans
+        * Boeing aircraft
+        * McDonald's
+1. What objectives does the organization hopes to achieve in the next five years?
+2. What customers does the organization want to serve
+3. What is the external environment facing the firm. (e.g., competitors, macro environmental factors)
+4. Do you think the organization's strategies are consistent with its external environment?
+5. Develop a report based on your findings and present your recommendations to the class.
+
+# APPENDIX: MARKETING PLAN: J.LOVE HANDBAGS
+
+## EXECUTIVE SUMMARY
+* j.love handbags is a unique, upscale boutique that enables fashion-savvy women to participate in the process of creating a one-of-a-kind handbag that reflects their own style, personality, and needs. This customer handbag boutique offers 10 style prototypes and over 50 different fabric to choose from. Customer see, feel, and experience different styles while working through the design process.
+* The marketing strategy will be based on an experiential image branding approach intended to generate lasting customer relationships and brand loyalty comparable  to that of competitors. The three-step approach to marketing will utilize many resources to increase brand awareness, introduce the custom handbag concept, and encourage customers to benefit from the unique nature of the products. Marketing for j.love handbags will focus on its unique product concept and its affordability.
+* Two different market segments have been identified in the target market: the Mall Rats and the Urbanites. These segments exhibit different purchasing patterns and consumer behaviours. However, marketing efforts to reach these distinct groups will be uniform.
+* As in-dept competitor analysis revealed that j.love handbags' two main competitors are 1154 Lill Studio, because of its similar business comncept, and Matt & Nat for its ability to recognize current trends. The two largest risks of facing the busienss are a possible failure to penetrate existing brand loyalties and difficulty in creating brand awareness. The innovative concept behind j.love handbags will likely minimize the effects of these two risks.
+* A marketing budget has been established based on projected 
+
+page 528
