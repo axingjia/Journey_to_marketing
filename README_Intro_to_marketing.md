@@ -3582,5 +3582,168 @@ Real People, Real Surfers: Exploring the Web
 * **HOURS AND STAFFING** Open hours would be from 11:00am to 6:00pm on Tuesday, Wednesday, and, Saturday, and 11:00am to 9:00pm on Thursday and Friday. These hours are when urbanites and Mall Rats are most likely to shop. One staff member will be hired for 200 hours per month to help greet customers and interact with them, and ring in orders. Mondays and morning hours before 11:00am will be used to making or supervising the making of, the bags.
 * **SUPPLY CHAIN MANAGEMENT** Standard materials and notions will be sourced through a local wholesaler until the business is large enough to warrant buying trips. Through relationship building, the wholesaler will be made aware of the types of materials and notions that are needed and will look out for novel item on my behalf. The hours before 11:00am will also be used for purchasing non-standard materials and notions.
 
+### Communication
+* **OBJECTIVES** The main communication objectives are to:
+1. Create awareness of the brand among Urbanites and Mall Rats
+
+                a. A specific objective is to have 30 percent unaided awareness among Urbanites and Mall Rats in the first year and 50 percent in the second year, as measured by office and school intercept surveys.
+
+2. Generate 50 store visits per day
+
+                a. Sales of seven to ten handbags a day are needed to memet financial objectives. Fifty store visits per day are needed with 15- to 20-percent conversion rate.
+
+* **APPROACH** j.love handbags will primarily exercise a pull strategy to inform customers and increase awareness of the custom handbag concept. As i will not be working with distributors, appealing directly to customers to comme into the store makes sense. Without the resources for two-way communication except through in-store consultations, communication of the benefits of customization and participation in the design process will be mainly one way (except for customer satisfaction research) and symmetrical
+* **POSITIONING STATEMENT, KEY MESSAGES, AND TACTICS** j.love handbags offers affordable fashion self-expression with personal meaning. Our key messages are:
+
+                1. affordable customization that allows you to express yourself--create a statement of your personal style
+                2. stylish handbag designs for every occasion and season--a whole new meaning to the expression "bag lady"
+                3. design fun--be part of the design process and unleash the creative you
+                4. quality Canadian craftsmanship--quality you can trust and rely on, five year guarantee
+
+* These messages were chosen to reflect and communicate our "Affordable Self-Expression with Personal Meaning" positioning. They have yet to be refined and tested through focus groups. Emotional appeals and feminine wit will be the main tactics to get the attention of target customers. While handbag purchases start as moderate involvement decisions for Urbanites,  the ultimate purchase decision is made on an emotional basis (e.g., I'll feel better if I buy it; I want it). Mall Rats generally make the decision emotionally. Feminine wit is appropriate because, consistent with the brand personality, the target customers are smart, spirited, independent, and feminine. They like to feel hip, even if it is just while out shopping j.love is also bold, so bold colours will be used in the commmunication strategy. The first campaign will focus on creating brand awareness and will use the tag line "i love j.love".
+* **COMMUNICATION MIX** Several months prior to the opening of the boutique, a website will be created that describes the concept and informs viewers of the anticipated store opening. On or shortly after the launch of the physical store location, the website will also offer online handbag customization and a selection of pre-made designs. The intent is not for customers to order online, but for them to be able t osee the different handbag styles and begin to make custom choices on their own before coming into the store for expert advice. A website is a cost-effective way to keep communication current because the targeted customers are web savvy.
+* Publicity will be a primary focus as the story of a young female entrepreneur should be newsworthy to local reporters. Media coverage will be facilitated by a media kit for reporters and by sending a figt of a handbag to female local on-air personalities. I also plan to have a launch event where I make a custom handbag for a high-profile celebrity, such as Pamela Anderson or Nelly Furtado, who would use the bag for a month and then donate it to raise money for a local charity. I will also donate certificates for custom handbags to charity fundraisers of interest to my customers, such as the local office of the Canadian Breast Cancer Society or high school and university women's organizations. By doing this, my brand will be seen by many potential customers. I  can also leverage the resources of others by partnering with other, complementary, fashion retailers and putting their signage in my store if I can put my signage in theirs.
+* Most of the communications budget will go into street and store signage. j.love needs to lvoe stylish and welcoming in order to catch the attention of women passing buy. They may not make a purchase the first time they come in, but my tags and bags will direct them to the website, where they can explore options without feeling pressured.
+* With a limited communication budget, radio is the best option for paid space. I plan to develop 15-second radio ads for morning and after school drive-time placement on local light rock stations. I also plan to develop a cellphone text message viral marketing element for Mall Rats as part of the "i.love j.love" campaign. Details of this plan are still being worked out.
+* For Valentine's Day, I plan to deliver boxes of individually wrapped chocolates with "i.love j.love" and the store's web addrerss on them to offices within a three block radius of the store for distribution to their staff members and customers.
+* **BUDGET AND ALLOCATION** The marketing communication budget is as follows:
+
+                Stand Up
+                        Signage & Visual Identity  $4000
+                        Launch Event               $2000
+                        Viral Marketing            $2500
+
+                Monthly
+                        Radio Advertising          $1000 to $1250
+                        Publicity & Donation       $250
+                Yearly
+                        Valentine's Promotion      $1500
+
+## IMPLEMENTATION AND EVALUATION
+* **ACTION PLAN AND TASK SCHEDULE** I won't be starting my store until I finish a one-year fashion design program. I plan to implement my concept in February of 2010, after finishing that program.
+* The most important implmentation issue is location. The next year and a half will be spent scouting appropriate locations and determining which of them might be available near the desired start-up time. A six-month lease with options to extend for a year or beyond is preferred. Six months should be sufficient time to determine if the concept is going to be successful.
+* Some of this time will also be spent making a pre-made inventory of 200 units so that there is a two month's supply on hand at launch. Having more than two months' worth of pre-made inventory is not a good idea because it's not known which styles will be most popular.
+* Appropriately four months before the intended launch, a creative agency will be hired to work with me on the store's visual identity, signage, packaging, media kit, radio advertisements. A creative boutique with experience in fashion retailing and a reputation for bold, stylish, eye-catching creativity will be approached for this. A creative boutique agency is a better choice than a full function agency because i can provide a lot of the strategic thinking, and it is undesirable to be the smallest account of a big agency. A computer science student with an interest in marketing will be hired to help with the technical aspects of the viral marketing campaign. At the same t ime, i will be buying fabric and notions and hiring an assistant to help run the store when it opens.
+* Appropriately a month before the intended launch date of j.love handbags, i will write a short press release and create a media kit that will be sent to all the local reporters and possibly some newspapers in Vancouver. To find a celebrity to participate in my launch event, i will use my personal network and tap into the network of faculty and mentors at the University of Victoria.
+* **EVALUATION AND CONTROL** There are four possible ways to evaluate whether marketing efforts, as described in this plans, are generating enough interest and sales to be worth their expense.
+1. The objectives of 30 percent unaided awareness among Urbanites and Mall Rats in the first year and 50 percent in the second year will be measured using office and school intercept surveys. A university student who has taken a market research course will be hired to do this work so that the interviewer will be unbiased. An office building and a schokol will be randomly selected and permission for the survey will be sought from the building owner or major tenant, and from the school principal. At each location, approximately 100 people would be intercepted and asked to identify places to shop for handbags. Our ranking in this unaided list will be recorded, as will the first five stores named, in order to determine what the consideratinos set of the customers i.
+2. Store visits and conversion rates will be tracked. The objective is 50 store visits per day and this is expected to be achieved by the end of the second month. if this volume is not achieved, then the communication strategy and concept must be reviewed.
+3. Sales of seven to ten handbags a day are necessary to meet the financial objectives. Sales will be tracked by product type and an evaluation of average daily sales will be done at the month's end.
+4. To track the effectiveness of the communication mix, an attempt wil lbe made to measure what communication vehicle brought customers to the store: street signage, website, publicity, radio ads, or sales promotion. Customers in the store will be asked more questions.
+* Following are several aspects that must be monitored closely, especially in the first year of business:
+
+                * Expenses, monthly and annual: to ensure that spending remains within the marketing budget and is allocated evenly throughout the year
+                * Repeat busienss: computerized records of all customers will help determine if any are repeats
+                * Customer satisfaction: sending a questionaire to customer via email or mail, with an incentive for their honest answers, can help determine which areas are generating satisfaction and which need improvement.
+
+* **CONTINGENCY PLAN** There are many difficulties and risks that j.love handbags may experience if the proper precautions are not taken. The following are the major risk areas in which this business might encounter difficulties: 
+
+                * finding suitable employees
+                * convering monthly expenses in the event of lower than expected sales
+                * securing cost-effective relationships with fabric suppliers
+                * generating brand awareness
+                * meeting demand, given the nature of handmade products
+                * managing all aspects of the business equally and simultaneously
+                * generating visibility, in the event of non-street-front location
+                * unexpected and excessive cost increases
+                * overly aggressive and debilitating actions by competitors
+                * a parallel entry by a new or existing competitor
+
+* If target sales are not reached by the end of the first four months, market research will be conducted to determine if it is a communication issue or a product issue. (it is unlikely to be a pricing issue). If it is product concept issue, then the business will be closed. If it is a communication issue, $4000 will be invested in a new campaign over two subsequent months in an effort to increase sales. if this attempt to reach break-even sales is unsuccessful within six months, the business will be clsoed and other venture concepts explored.
+
+<img src="./assets/pro_forma.jpeg">
+
+* **RESEARCH PLAN** Informal focus groups have been conducted with the Mall Rat segment, and these have generated positive feedback on both the concept and the design. More than 80 pre-made bags have already been sold through a sales booth on campus and at an off-campus craft fair. However, before the concept is launched it will be testd again by first conducting two focus group, one of urbanites and one of Mall Rats in Greater Victoria, and then by conducting a mall intercept survey. A professional moderator will conduct the focus group. The main purpose of these is determining a) what the segment thinks of the concept, b) whether these individuals would buy a custom j.love handbag (why or why not) and c) what price point they would expect to pay for a custom handbag. A professional does not need to be hired for the mall intercept survey. This survey could be used to determine purchase intentions and an estimated demand for the product from women in these two target markets.
+* **BUDGET AND FINANCIAL** A marketing budget is provided in a two-year pro forma income statement. In summary, sales of two pre-made handbags and five custom handbags per day in the first year, at an average selling price of $69, are expected. I also expected to sell $50 worth of other merchandise per day. Assuming 300 sales day in the year, total expected revenue is 160,500 in the first year. In the second year, sales of ten handbag units and seven other merchandise units a day are expected for total revenues of 222,000. The average variable cost per handbag is $29, which includes $15 for manufacturing. it takes a skilled sewer about 30 minutes to make a handbag. An amount of $18,500 in one time start-up costs has been budgeted, along with $7500 in monthly fixed costs ($7800 in the second year) and $2000 in yearly fixed costs for a total of $108,500 in fixed costs in teh first year and $90,000 in the second year. This is expected to generate a $250 loss in teh first year and a $50,000 profits in teh second year. With a six month first lease, store operating expenses are expected to be $63,500. These funds can be raised through family.
+
+### Financial Analysis
+* A two year pro forma income statement is shown. First year break-even point is seven handbag sales per day and just over $50 of other merchandise sales per day. Second year break-even point is five handbag sales per day, but higher sales are anticipated. These are attainable figures as seven handbags a day is an average of only one per hour.
+
+### Cost-Benefit Analysis and Overall Recommendation
+* There is a number of advantages to this venture. I would be able to do something for a living that I love to do; my creative talent would be developed and used to help people express their own creativity; there would be valuable opportunities for interesting social interactions, and it would be an opportunity to use the entrepreneurial expertise I developed at university. one store is expected to generate a reasonable profit for a lifestyle busienss, and there is potential to exceed financial projections and potential in the franchising concept. There is, of course, some risk in doing this. All or part of the entire $63,500 investment could be lsot. There is some social and family relationship risk in the potential for failure, but my family is very supportive and $63,500 is a manageable investment.
+* The potential upsides significantly outweigh the potential downsides, and i plan to implement the concept as soon as I finished design school.
+
+### Competitive Analysis
+
+###### 1154 LILL STUDIO STRATEGY
+* Objectives:
+
+                * Allow customers to use their creativity
+                * Foster self-expression and individuality
+                * Create a comfortable community among customers and employees
+                * Build trust with customers to encourage them to come back
+                * Continually innovate and grow as a company
+                * Remain the front runner in teh custom-handbag industry
+* Strategy
+
+                * Use only the highest quality materials
+                * Use a local design team, chosen by the owner
+                * Offer over 25 styles and over 100 samples of fabric to choose from
+                * Guarantee orders to be completed within three to four weeks
+                * Offer only a limited return policy: 14 days for Lill designs, final sale on custom bags
+                * Price products from $26 to $185, based on style not fabric chosen
+                * Change fabric selection every few weeks
+                * Frequently review company mission and vlaues by entire company to ensure  they are being met.
+                * Diversify by offering handbag home parties and bridal packages.
+* Strengths and Weakness
+
+                * It is the originator and fron runner in teh custom-handbag industry
+                * Maintains strong company values
+                * Uses only high-quality materials for bags
+                * Ensures a high standard of quality by using a local design team
+                * Obtains celebrity endorsements and media attention.
+                * Owns trademarks on innovative handbag party concept
+                * Maintain an aesthetically pleasing, easy-to-navigate website
+                * The price range is expensive for most consumers
+
+* POtential Reactions
+
+                * Ill feelings may be generated by perception of a copycat concept
+                * There is potential to enter the Canadian market
+                * The company may feel confident because of perceived customer loyalty
+
+###### MATT & NAT
+* Objectives:
+
+                * Make a difference in the world and in the fashion industry
+                * Differentiate itself from competitors
+                * Offer quality, leather-like bags without sacrificing the lives of animals
+                * Foster self-expression and individuality.
+                * Grow and expand internationally
+                * Successfully expand its product line to include vegans friendly items
+
+* Strategy
+                * use only the finest synthetic leather
+                * Be vegan friendly while remaining fashion forward
+                * Publicly support earth-friendly associations, such as PETA.
+                * Maintain a price range of $25 to $150
+                * Obtain a large amount of media attention
+
+* Strengths and Weakness
+
+                * Combines fashion with a worthy cause
+                * Maintain a high standard of quality
+                * Attracts frequent media attention and celebrity endorsement
+                * Products are reasonably priced
+                * Synthetic materials are not as durable as leather
+                * Website does not emphasize the vegan nature of the company
+                * Website lacks vital information and is not easy to navigate. 
+                * Production in China may contradict company's stated philosophies
+
+* Potential Reactions:
+
+                * Consumers may fail to notice the company right away.
+                * It's not threatened by competitors because concepts are quite different.
+
+## REFERNCE
+* www.corporate.canada.travel: The official Business Site of Canadian Tourism Commission
+* www.csca.ryerson.ca: The Center for the Study of Commercial Activities
+* www.plunkettresearch.com: Industry Statistics, Trends and In-depth Analysis of Top Companies
+* www.freddyandma.com
+* www.1154lillstudio.comm
+* www.mattandnat.com
+* www.bcstats.gov.bc.ca: The central statistical agency of the Provincial of British Columbia
+* www.reuters.com: The world's largest international multimedia news agency
+* www.ambottawa.um.dk
 
 Page 531
