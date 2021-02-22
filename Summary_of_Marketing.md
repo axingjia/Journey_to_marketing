@@ -11,4 +11,5 @@
 * Positioning
 * Defendability
 * Brand Personality
-
+* Relationship marketing
+* demograhpics and psychographics
