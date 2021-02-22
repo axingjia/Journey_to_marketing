@@ -13,3 +13,5 @@
 * Brand Personality
 * Relationship marketing
 * demograhpics and psychographics
+* Weber's law
+* Colour's meaning
