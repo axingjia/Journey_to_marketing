@@ -19,4 +19,5 @@
 * How to associate your brand to a positive emotion
 * how to positive reinforce a consumer to do an action
 * Use analogical learning to fasten the speed consumer adapt to information
-
+* Motivational conflict
+* Attitude and attitude change
