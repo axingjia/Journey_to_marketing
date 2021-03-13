@@ -21,3 +21,4 @@
 * Use analogical learning to fasten the speed consumer adapt to information
 * Motivational conflict
 * Attitude and attitude change
+* How consumer reduces his cognitive dissonance
