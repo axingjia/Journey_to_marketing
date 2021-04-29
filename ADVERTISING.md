@@ -167,6 +167,267 @@
                 Marketing is an organizational function and a set of processes for creating, communicating and delivering value to customers and for managing customer relationships in ways that benefit the organization and its stakeholders.
 
 * In order to facilitate the relationship, comapnies build database containing customer names; geographic, demographic, and psychographic profiles; purchase patterns; media preferences; credit ratings; and other characteristics. Marketers use this information to target consumers through a variety of IMC tools thereby enhancing the relationship. With so many tools, and since their customers are involved so closely with the firm, the need for consistency and coordination becomes even more critical.
-* **Consumer Adoption of Technology and Media** the expanded use of integrated marketing communication is more critical due to consuemr adoption of technology and media. For example, technology has vastly expanded the number of channels available to viewers. As a result, audiences are more fragmented and television advertising reaches smaller and more selective audiences. This requires brands to ensure their messages are attended to in other media 
+* **Consumer Adoption of Technology and Media** the expanded use of integrated marketing communication is more critical due to consuemr adoption of technology and media. For example, technology has vastly expanded the number of channels available to viewers. As a result, audiences are more fragmented and television advertising reaches smaller and more selective audiences. This requires brands to ensure their messages are attended to in other media or other IMC tools. Thus, the more selective television ad might direct the viewer to seek out the brand's website for a coupon or sample, or to read about its charitable sponsorship activities. **TV ads also direct vieweres to the brand's social media like Facebook for similar reasons with thee goal of encouraging them to become "fans".**
+* Online services provide information and entertainment as well as the opportunity to shop and order a vast array of products. Marketers are responding by developing websites where they can advertise their products and services interactively as well as transact sales. New applications for advertising on the Internet are invented each year, allowing marketers greater opportunity to reach particular audiences. For instance, brands have initiated "sponsored groups" on Facebook where consumers can join and receive brand messages and promotional offerings like contests and samples. Toyota created the FI Canada group and offered desktop wallpapers and ringtones for its 3,000 members. Other applications included targeted banner ads based on consumer profile variables like demographics, psychographics, and media consumption preferences. Telus experimented with a virtual-reality world that 120,000 of its 1.2 million customers experienced; word of the new venture spread through blogs and newspaper articles. With essentially no monetary investment in the venture, the media exposure Telus received helped convey it as a technologically advanced company. More importantly, Telus ultimately planned promotions to customers based on the behaviours exemplified in the simulated game.
+* **Planning Efficiency and Effectiveness** A final reason for IMC importance is that marketers understand the value of strategically integrating the communication functions rather than having them operate autonomously. By coordinating their marketing communications efforts, companies can avoid duplication, take advantage of synergy among promotional tools, and develop more efficient and effective marketing communication programs. Advocates of IMC argue that it is one of the easiest ways for a company to maximize the return on its investment in marketing and promotion. Empirical research supports this contention as strong IMC performance leads to strong market performance. Exhibit 1-13 shows a marketing effort where planning is paramount. Much of Shoppers Drug Mart's success in their "Fabulous 50" campaign hinged on a dedicated 30-person cross-funcitonal team in charge of the IMC plan who ensured consistency across all audience contact points.
 
-page 19
+## Integrated Marketing Communication Planning
+* In developing an IMC strategy, a company combines the promotional mix elements to produce an effective program for marketing communication. **IMC planning** involves the process of conceiving, executing, evaluating, and controlling the use of promotional mix elements to communicate effectively with target audiences. The marketer decide which promotional tools to use and how to combine them to achieve IMC objectives. Furthermore,  the marketer decides on the role and function of the specific elements of the promotional mix, develops strategies for each element, and implements the plan. The resulting **IMC plan** provides the framework for developing, implementing, and controlling the organization's IMC program. A model of the IMC planning process is shown in Figure 1-7. The remainder of this chapter explains the model and expresses the steps in developing a marketing communication program. IMC Perspective 1-2 shows these ideas in action with Maple Leaf Foods.
+
+                Figure 1-7: An integrated marketing communications planning model
+
+                Reivew the Marketing plan
+
+                ->
+
+                Assess the marketing communication situation
+
+                ->
+
+                Determine IMC plan objectives
+
+                ->
+
+                Develop IMC programs
+
+                ->
+
+                (
+                Advertising<->Advertising objectives<->Advertising strategy<->Advertising message and media strategy and tactic
+                
+                Direct marketing<->Direct marketing objectives<->Direct marketing strategy<->Direct marketing message and media strategy and tactics
+
+                Interactive/Internet marketing<->Interactive/Internet marketing objectives<->Interactive Internet marketing strategy<->Interactive/Internet message and media strategy and tactics
+
+                Sales promotion<->Sales promotion objectives<->Sales promotion strategy<->Sales promotion message and media strategy and tactics
+
+                PR/publicity<->PR/publicity objectives<->PR/publicity strategy<->Public relations message and media strategy and media strategy and tactics
+                )
+
+                ->
+
+                Implement and control the IMC plan 
+
+        
+                Figure 1-7: An integrated marketing communications planning model
+
+                * Review the Marketing Plan: 
+                        Focus on market, comapny, consumer, competitive, and environmental information; examine marketing objectives, strategy, and programs; 
+                        understand role of promotion within marketing plan
+                * Asses the Marketing Communications Situation: 
+                        Internal analysis 
+                                Relative strengths and weaknesses of products/services; Previous promotional programs; 
+                                brand image; 
+                                promotional organization and capabilities, 
+                        external analysis      
+                                Customer behaviour analysis, 
+                                competitive analysis, 
+                                environmental analysis
+                * Determine IMC Plan Objectives: 
+                        Establish IMC communication objectives; 
+                        establish IMMC behavioural objectives
+                * Develop IMC Programs: 
+                        For advertising, sales, promotion, public relations, direct marketing, and Internet marketing 
+                                Set specific communication and behavioural objectives for each IMC tool; 
+                                Determine budget requirements; 
+                                Develop relevant message strategy and tactics; 
+                                Select suitable media strategy and tactics; 
+                        Investigate integration options acrss all five programs
+                * Implement and Control the IMC Plan:
+                        Design all promotional materials inernally or with agencies and buy media space/time
+                        Measure promotional program results/effectiveness and make adjustments
+
+### REVIEW THE MARKETING PLAN
+* Before developing an IMC plan, promotional planners must understand where the company (or the brand) has been, its current position in the market, where it intends to go, and how it plans to get there. Most of this information should be contained in the **marketing plan**, a written document that describes the overall marketing strategy and programs developed for an organization, a particular product line, or a brand. Marketing plans can take several forms but generally include five basic parts:
+
+                * A detailed situation analysis that consists of an internal marketing review and an external analysis of the market, company, consumer, competition, and macro-environment
+                * Specific marketing objectives that provide direction, a time frame for marketing activities, and a mechanism for measuring performance
+                * A marketing strategy and program that includes selection of target market(s) and decisions and plans for the four marketing mix elements.
+                * A program for implementing the marketing strategy, including determining specific tasks to be performed and responsibilities
+                * A process for monitoring and evaluating performance and providing feedback to permit proper control and allow for strategic or tactical revisions
+
+* The promotional plan is developed similarly to the marketing plan and often uses its detailed information. However, some IMC strategy decisiosn require more comprehensive or specific information, or more detailed analysis and specific consideration of existing information, therefore requiring a situation analysis for marketing communication.
+
+### ASSESS THE MARKETING COMMUNICATIONS SITUATION
+* In the IMC program, the situation analysis focuses on relevant internal and external factors for developing a promotional stratey much like the marketing situation analysis.
+* **Internal Analysis** The **internal analysis** assess four relevant areas: product, previous promotional programs, firms or brand image, and organizational capabilities (Figure 1-8).
+* The internal analysis assess the relative strengths and limitations of the product; the product's unique selling points, attributes, or benefits; and its packaging, price, and design. This information is important to the creative personnel who must develop the brand's advertising message and ocmmunicate aspects of the brand.
+* Since the firm is planning a new promotional plan, it is imperative that a review of previous promotional objectives, budgets, strategies, and tactics of all elements should occur to understand the strengths and limitations. Furthermore, if the firm has utilized marketing research to track the results of previous programs, the information needs to be examined  closely. This step helps determine what promotional decisiosn should be retained, revised, or withdrawn.
+* The strengths and limitations of the firm or the brand from an image perspective will have a significant impact on the way it can advertise and promote itself as well as its products and services. Comapnies or brands that are new to the market or those for whom perceptions are negative may have to concentrate on their images. Firms with a strong image need to understand how to maintain their image.
+* For example, Starbucks has an outstanding image that is a result of the quality of its coffee and other products as well as its reputation as a socially responsible company. The company is recognized as a good citizen in its dealings with commmunities, employees, suppliers, and the environment. Starbucks understands that being identified as a socially responsible company is an important part of its success, which guides the selection of its promotional decisions. For example, Starbucks publishes a Corporate Social Responsibility Annual Report each year that describes the commpany's social, environmental, and economic effects in the communities it serves.
+* Reviewing the capabilities of the firm and its ability to develop and implement a successful promotional program, and the organization of the promotional department, the analysis may indicate the firm is not fully capable of planning and implementing the promotional program. If this is the case, it would be wise to look for assitance from an advertising agency or other promotional facilitator. If the organization is already using an ad agency, the focus wil lbe on the quality of the agency's work and the result achieved by past and/or current campaigns.
+
+
+
+                Figure 1-8: Areas covered in the situation analysis
+
+                Internal Factors:
+                * Assessment of firm's promotinal capabilities
+                        Organization of promotional department
+                        Capability to develop and execute promotional programs
+                        Role and function of all agencies
+                * Assessment of firm's previous promotional programs
+                        Promotional objectives
+                        Promotional budgets and allocations
+                        Promotional mix strategies and programs
+                        Results of promotional programs
+                * Assessment of firm or brand image
+                        What are customers' attitudes toward our product/service?
+                * Assessment product/service strengths and weaknesses
+                        What are its key attributes and benefits
+                        Does it have any unique selling points
+                        Are the package and label consistent with the brand image?
+                
+                External Factors
+                * Customer behaviour analysis:
+                        Who buys our product or service?
+                        Who makes the decision to buy the product?
+                        Who influences the decision to buy the product?
+                        How is the purchase decision made? Who assumes what role?
+                        What does the customer buy? What needs must be satisfied?
+                        Why do customers buy a particular brand?
+                        Where do they go or look to buy the product or service?
+                        When do they buy? Any seasonality factors?
+                        What social, lifestyle, or demographic factors influence the purchase decision?
+                * Competitive analysis
+                        Who are our direct and indirect competitors?
+                        What key benefits and positioning are used by our competitors?
+                        What is our position relative to the competition?
+                        How big are competitors' promotion budgets
+                        What promotion strategies are competitors using?
+                *Environmental analysis
+                        What current trends or developments affect the promotional program?
+
+#### External Analysis
+* The **external analysis** focuses on factors such as characteristics of the firm's customers, market segments, competitors, and environment, as shown in Figure 1-8. A detailed consideration of customers' characteristics (e.g., demographics, psychographics) and buying patterns, their decision processes, and factors influencing their purchase decisions are all relevant for promotional planners to make effective decisions. Often, marketing studies are needed to answer these questions. A key element of the external analysis is an assessment of the market. The attractiveness of different market segments must be evaluated and the segments to target identified. Exhibit 1-15 shows ads from a campaign for Tourism Kelowna, where a good consumer understanding is important.
+* The external phase of the promotional program situation analysis also includes an in-depth examination of both direct and indirect competitors. Focus in on the firm's primary competitors: their specific strengths and limitations; their segmentation, targeting, and positioning strategies; and the promotional strategies they employ. The size and allocation of their promotional budgets, their media strategies and the messages they are sending to the marketplace should all be considered.
+
+### DETERMINE IMC PLAN OBJECTIVES
+* An important part of this stage of the promotional planning process is establishing relevant and appropriate objectives. In this text, we stress the importance of distinguishing among different types of objectives that are generally decided during the planning of different strategies.
+* **Marketing objectives** refer to what is to be accomplished by the overall marketing program. They are often stated in terms of sales, market share, or profitability and are determined when the marketing plan is constructed. **Precise definition of marketing objectives is important to give guidance on what is to be accomplished in the marketing communication plan. With the re-launch of Tourism BC, the government looked to increase tourism revenue by 5 percent over a five-year time period.**
+* **Communication objectives** refers to what the firm seeks to accomplish with its IMC program. They are often stated in terms of the nature of the message to be communicated or what specific think about the process consumers will go through in responding to marketing communications. Tourism BC needed to improve its image as visits declined while  tourism gained in other provinces. **Behavioural objectives** in terms of trial purchase or repeat purchase, among others, may be defined along with the communication objectives. Tourism BC sought to increase the number of visitors from Ontario, presumably many for the first time, to achieve impressive revenue growth. Commmunication and behavioural objectives should be the guiding force for the IMC strategy and for each promotional tool.
+* While determining these objectives, two questions are asked to tentatively set the budget: What will the promotional program cost? How will these monies be allocated? Ideally, the amount a firm spends on promotion should be determined by what must be accomplished to achieve communication and behavioural objectives. Tourism BC decided to spend $52 million for 2012 down from the $65 million it spent in 2009.
+
+### DEVELOP IMC PROGRAMS
+* As Figure 1-7 shows, each promotional mix element has its own set of objectives, overall strategy, message and media strategy and tactics, and a budget. For example, the advertising program will have its own set of objectives, usually involving the communication of a message or appeal to a target audience. A budget will be determined, providing the advertising manager and the agency with an idea of how much money is available for developing the ad campaign and purchasing media to disseminate the ad message.
+* Two importan aspects of the advertising program are development of the message and the media strategy. Message development, often referred to as creative strategy, involves determining the basic message the advertiser wishes to convey to the target audience. This process, along with the ads that result, is to many students the most fascinating aspect of promotion. The Heart & Stroke ad shown in Exhibit 1-16 conveys an important message regarding the value of the Health Check logo.
+* *Media strategy* involves determining which communication channels will be used to deliver the advertising message to the target audience. Decisions must be made regarding which types of media will be used (e.g., newspapers, magazines, radio, TV, billboards) as well as specific media selections (e.g., a particular magazine or TV program). This task requires careful evaluation of the media options' strengths and limitations, costs, and ability to deliver the message effectively to the target audiences.
+* A similar process and set of decisions occur for ALL other elements of the IMC program as objectives are set, an overall strategy is developed, and message and media strategies are determined. If a firm decidesto include a sales promotion, it might decide to use a specific message nad media strategy and tactics to communicate information about the sales promotion, in addition to whatever advertising decisions that have been recommended.
+* Furthermore, if a firm considers using multiple tools for its commplete plan it must decide which ones best fit together to solve a particular marketing communication problem. For example, Hellmann's mayonnaise communicate its natural ingredients of eggs, oil, and vinegar to challenge consumers' attitude that the product contained unhealthy contents. The campaign evolved over three years with multiple IMC  tools and media resulting in substantial improvement in brand measures and profitability (Figure 1-9). Finally, an IMC plan might evolve from an initial plan from one tool used, especially advertising. For example, Visa's "Win what you buy" sales promotion built upon the same message of "disappearing debt" conveyed in the television and print ads.
+
+### IMPLEMENT AND CONTROL THE IMC PLAN
+* Once the message and media strategies have been determined for each tool, steps must be taken to implement them. Most large companies hire advertising agencies to plan and produce their messages and to evaluate and purchase the media that will carry their ads. however, most agencies work very closely with their clients as they develop the ads and select media, because it is the advertiser that ultimately approves (and pays for) the creative work and media plan. While the marketer's advertising agencies may be used to perform other IMC functions, they may also hire other communication specialist.
+
+                Figure 1-9: Hellman's mayonnaise
+                Budget: $3 milllion to $4 million
+                Time Frame: January 2007 to December 2009
+                Target: Women 18-50
+                Strategy Message: Real Food Movement
+                Annual Message: Eat Real. Eat Local (2009), Evergreen Partnership (2008), Urban Garden (2007)
+                Events: Communty Gardens
+                Advertising Media: Television, Newspaper, Magazines
+                Sales Promotion: Coupon, Contest, In-store display, Gift/Premium, Discounts
+                Internet: Garden widget, forums, eatrealeatlocal.ca, mini-documentary, digital influencers, e-mail;
+                public relation: news coverage with Canadian Living and CanWest media partnerships
+
+* It is important to determine how well the promotional program is meeting commmunication and behavioural objectives and helping the firm accomplish its overall marketing objectives. **The promotional planner wants to know not only how well the promotional program is doing but also why. For example, problems with the advertising program may lie in the nature of the message or in a media plan that does not reach the target audience effectively. The manager must know the reasons for the results in order to take the right steps to correct the program.**
+* This final stage of  the process is designed to provide managers with continual feedback concerning the effectiveness of the promotional program, which in turn can be used as input into the planning process. As Figure 1-7 shows, information on the results achieved by the promotional program is used in subsequent promotional planning and strategy development.
+
+## IMC Planning: Organization of Text
+* This book provides a thorought understanding of advertising and other elements of a firm's promotional mix and shows how they are combined to form a comprehensive marketing communications program with an IMC planning perspective. To implement this idea, we conclude each chapter of the book with an IMC planning section. Its purpose is to relate the chapter material to the content of an IMC plan and illustrateg how to make IMC decisions. The final section of this chatper establishes this approach by illustrating how the entire book is organized around the IMC planning perspective. The book is organized around five major parts to facilitate this goal.
+
+### UNDERSTANDING INTEGRATED MARKETING COMMUNICATION
+* Part I comprises four chatpers that define the topic of the book and provide the context for marketing communication decisions. This initial introduces the IMC tools and how they relate to marketing. The chapter also gives a brief description of IMC and the content of a promotional plan.
+* We discuss how advertisers work with ad agencies and other firms that provide marketing and promotional services in Chapter 2. Agencies are an important part of the IMC planning process as they assist in the decision making with promotional planners and execute many of the decisions by creating promotional messages.
+* To plan, develop, and implement an effective IMC program, those involved must understand consuemr behaviour and the communication process. We focus on consuemr behaviour and the target audience decision, and summarize many communication response models in Chapter 3 and 4, respectively. Combined, these two chatpers establish a conceptual foundation for developing the subsequent decision of an IMC plan.
+
+### ARTICULATE THE MESSAGE
+* Part II concerns a number of decisions that firms make to put together a persuasive marketing communication message and comprises five chatpers. The ideas developed here are applicable advertising and all other IMC tools. Sales promotion offers include a brand message, as do public relations activities. All brand-initiated communication in Internet media provides a clear message about the brand.
+* Chapter 5 explains how to set IMC objectives to achieve the desired effects. A general model is explained for setting behavioural and communication objectives that are universally applicable to all IMC tools.
+* Chapter 6 reviews the important decisions to construct a brand positioning strategy. This is the heart of marketing communication, where decision regarding how brands compete with marketing commmunication messages are determined.
+* The most exciting aspects of IMC are presented in Chatper 7 and 8, where we illustrate creative strategy and creative tactics decisions that are reflected in the vibrand and exciting ads we all experience in every part of our daily living. Creative illustration of a brand is the pinnacle task of creative specialists and their work is central for building a brand.
+* Chapter 9 examines how to measure promotional message effectiveness. The research ideas presented in this chatper also set the stage for understanding how to assess the effects of all IMC tools found in later chapters.
+
+### DELIVER THE MESSAGE
+* Part III comprises four chapters and explores the key media strategy, media tactics decisions and budgeting for IMC, along with the use of six different media.
+* Chapter 10 provides the technical information for media planning. Media planning is an important advertising decision and this information is also used to plan media for the implementation of other IMC tools. Scheduling and determining how many consumers should receive a message and how often is critical with Internet media like all other media. Similarly, the timing and media presentation of promotional offers assist in the success of their execution. The chapter also explores how to construct a budget and allocate the budget for advertising and all IMC tools.
+* Chatper 11, 12, and 13 describe the use and strengths and limitations of media choices that have been historically labelled as mass media (i.e., television, radio, magazines, newspapers, out-of-home, and support). Once again, background on these topics is useful for implementing advertising and for using these media in executing other IMC tools. Much of these mass media are used to direct consumers to different aspects of Internet media. There are QR codes on outdoor ads. TV and radio messages say "Facebook us" to carry on further communication. These mediaare also used for presentation of community activities designed to "give back" and foster good willamong citizens.
+
+### STRENGTHEN THE MESSAGE
+* Our interest turns to the other areas of the promotional mix--sales promotion, public relations, direct marketing, and Internet marketing--in Part IV, "Strengthen the Message". Each tool is explored in its own chapter and related to communication objectives as done in Part III.
+* Chapter 14 investigates consumer and trade sales promotions that are often combined with advertising to influence behaviourally and from a communication standpoint. A multitude of options are available for planners to both stimulate sales and enhance brand equity.
+* Chapter 15 presents the topic of public relations and related topics of publicity through media and corporate advertising. Using other tools or building a corporate brand through IMC are important topics to fully understand how to put together a complete IMC plan.
+* Chapter 16 covers direct marketing and direct-response media used to communicate to this particular IMC yool. Improved technology allows brands to communicate to individuals and vice versa. Methods for advertising and promoting directly are described in this chapter.
+* Chapter 17 examines the considerable options for interactive commmunication via the Internet. While continued growth makes this challenge to remain current, the available options and how brands are built with electronic communication are developed to fulfill the need for a comprehensive IMC plan.
+
+### ADVERTISING AND SOCIETY
+* Part V concludes the book with one chatper that examines advertising regulation and the ethical, social, and economic effects of an organization's advertising and promotional program. Advertising is a very public and controversial part of any organization's activities and this chatper explores the complexities of these points. Each topic is relevant at varying points of the earlier chatpers and may be read when desired.
+
+## REVIEW
+Review Questions
+1. Why is marketing communication important for communicating value to consumers?
+2. How do smartphone brands use each marketing communication tool for communicating messages?
+3. Illustrateg how integrated marekting communications differ from traditional advertsing and promotion. What are the reasons why more marketers are taking an IMC perspective to their advertising and promotion programs?
+4. What parts of the IMC planning model are similar to and different from a marketing planning model?
+5. How is the structure of the book consiste with the content of an IMC plan?
+
+Applied Questions
+1. Consider how a university or college communicate value in its marketing communication to its prospective students and current students. In what ways are the two approaches similar or different? 
+2. identify all the possible marketing communication tools that a favourable brand or performing artist is using. Try to explain why these tools were selected. In what ways did the tools support one another? How did they not support one another? Was each tool effective or ineffective?
+3. Find examples where all promotional tools have the same "look and feel", and others where there is a different look and feel. Why did these decisions occur based on relevant situation analysis variables?
+4. Why is it important for those who work in the field of advertising and promotion to understand and appreciate all IMC tools, not just the area in which they specialize?
+5. How does one of your favourite brands link or integrate its different IMC communication tools? Is it done effectively?
+
+# Chapter 2: Organizing for IMC: Role of Agencies
+* Developing and implementing an IMC program is usually a commplex process involving the efforts of individuals from the marketing firm, the advertising agency, and often other types of agencies. Strong relationships with these agencies are important as their expertise in creative planning, media placement, new digital executions, and other activities contributes to successful brand development. Alternatively, brands also work with a full-service marketing commmunication agency capable of providing all services. This chatper explores how these agencies function for those who may want to work in the marketing communication agency industry.
+* This chapter first identfies the characteristics of a full-service agency and its client relationship. It then describes how agencies are compensated and evaluated. next, the chapter contrasts the role of specialized marketing communication organizations such as creative boutiques, media buying services, direct-response, sales promotion and interactive agencies, and public relations firms. These organizations are increasingly invovled in IMC planning and some are owned by large agencies which they work with considerably. Finally, the chapter evaluates whether marketers are best served by using the integrated services of one large agency or the separate services of multiple marketing communication specialists.
+
+## Advertising Agencies
+* Many different types of advertising agencies make the selection a unique decision for each advertiser. in this section we provide a general overview of advertising agencies; we review the agency decision, highlight the agency industry, and describe the activities of a full-service agency.
+
+### ADVERTISING AGENCY DECISION
+* Marketing organizations have a fundamental choice of whether a firm will have its own in-house agency or whether it will employ an external advertising agency. We now briefly discuss the relative merits and concerns of both options.
+
+#### In-House Agency
+* An **in-house agency** is an advertising agency that is set up, owned, and operated by the advertiser. Some in-house agencies are essentially advertising departments, but in other companies they are given a separate identity and are responsible for the expenditure of large sumes of advertising dollars. Research finds that about half of all companies use an in-house agency and that the likelihood of this occurring decreases with larger advertising budgets but increases with advertising intensity (i.e., advertising/sales ratio), technological intensity, and for creative industries. Many companies use in-house agencies exclusively; others combine in-house efforts with those of outside agencies. For example, Target has an internal creative department that handles the design of its weekly circulars, direct-mail pieces, in-store displays, promotions, and other marketing materials. However, the retailer uses outside agencies to develop most of its branding and image-oriented ads and for specific TV and print assignments. Joe Fresh, a key brand for Loblaw, moved its creativity in-house from an agency to get "our staff thinking about our brand" as it opened up stores in the United States. Coincidentally, that staff of 14 includes a couple of creatives from Target.
+* A major reason for using an in-house agency is to reduce advertising and promotion costs. Companies with very large advertising budget pay a substantial amount to outside agencies. An in-house agency can also provide related work--such as sales presentations and sales force materials, package design, and public relations--at a lower cost than outside agencies. A study by M. Louise Ripley found that **creative and media services were the most likely functions to be performed outside, while merchandising and sales promotion were the most likely to be performed in-house.** CL: never knew that, I thought the opposite
+* A study by Forrester Research concluded that in-house agencies are preferred because they provide stronger connection to senior managers and stablity for the marketing communication function. They found that nearly 60 percent of in-house agencies report directly to the company's CEO or chief marketing officer (CMO). Furthermore, external agencies yielded much higher turnover levels, which can take a toll on the client-agency relationship.
+* Time saving, bad experience with outside agencies, and **the increased knowledge and understanding of the market that come from working on advertising and promotion for the product or service day by day also support in-house agency use**. Companies can also **maintain tighter control over the process more easily coordinate promotions with the firm's overall marketing program.**
+* A limitation of an in-house agency is that personnel may grow stale while working on the same product line in comparison to an outside agency where creative specialist design campaigns for a variety of products. Furthermore, **changes in an in-house agency could be slow or disruptive compared to the flexibility of hiring a new outside agency**
+
+#### Advertising Agency
+* Many major companies use an advertising agency to assist them in developing, preparing, and executing their promotional programs. An ad agency is a service organization that specializes in planning and executing advertising programs for its clients. Probably the main reason why outside agencies are used in that they provide the client with the services of highly skilled specialists. An advertising agency's staff may include **artists, writers, media analysts, researchers, and other with specific skills, knowledge, and experiecne who can help market the client's products or services** Many agencies specializes in a particular type of business and use their knowledge of the industry to assist their client. For example, Mentus Inc. is an agency that speiclizes in the high-technology, e-commerce, and bioscience industries.
+* An outside agency's objective viewpoint of the market and the client's business is not subject to internal company policies, biases, or other limitations. The agency can draw on the broad range of experience it has gained while working on a diverse set of marketing problems for assorted clients. For example, an ad agency handling travel-related account may employ individuals with travel-related industry experience (e.g., airlines, cruise ships, travel agencies, hotels). This industry knowledge may be combined with experience of having previously worked on the advertising account of one of the client's competitors.
+* **The Institute of Communications and Advertising offers a comprehensive document that acts as a guide for selecting the most appropriate agency.** using a "best practices" approach, the steps in the search process are carefully diagrammed and explained so that both clients and agencies could benefit. If all the steps are adhered, selecting the right agency could range from 8 to 16 weeks. In the end, the client and agency form a partnership where the responsbilities of each are recorded and agreed upon with the intention of a positive working relationship.
+
+### ADVERTISING AGENCY INDUSTRY
+* The Canadian advertising agency industry is similar to that in other industries--there is a combination of small and mid-size domestic firms and large international organizations with domestic service providers. The strong presence of international ad agencies in Canada reflects a global trend of large agencies merged with or acquired by other agencies and support organizations. These **superagencies** now provide clients with integrated marketing communications services worldwide. Many mid-size agencies were acquired by or forged alliances with larger agencies because clients wanted an agency with international marketing communication capabilities, and their alignment with larger organizations permitted access to a network of agencies around the world. Currently, most major agencies offer specialized services in areas of interactive communications, direct marketing, and sales promotion so that they can offer their clients an ever-broader range of IMC services. In fact, a larger multiservice firm is a **marketing communication agency**, making the term "advertising agency" sommewhat obsolete for these situations. Global advertising campaigns are facilitated by using larger international agencies.
+* Figure 2-1 summarizes the "agency family tree" produced by Marketing Magazine. The tree identifies all the major players on the Canadian advertising scene. (Note that the original tree spanned eight pages; we retained the scope of the diagram and acknowledge missing information or lack of detail to fit this broad array of information in a single table.) The diea of the superagency is readily observed--we see two major Canadian firms, Vision 7 International and MDC, along with their full agency and other businesses that cater to all marketing communication services. As expected, two major players exist based on new York, Omnicom and Interpublic; each one includes famous advertising agencies recognized for their creative talent.
+* Canadian affiliates of these large agencies are responsible for country-based marketing communication activities that are part of the worldwide campaigns. For example, BBDO Proximity of Toronto  developed an Internet application to promote the Gillette Fusion brand in Canada. Additionally, the table includes two major European conglomerates that own established American advertising greats like Ogilvy & Mather, JWT, and Leo Burnett. IMC Perspective 2-1 highlights the accomplishmtns of Canadian agencies.
+* Two agencies with strong Canadian roots developed internationally. Over the past decade, Taxi won about 1,200 national and international awards and Strategy named them agency of the year five times. Taxi expanded to the United States and Europe and the prestigious One Club recognized it as one of the top advertising agencies in the world. Acquired by WPP, the agency continue to set new standards of excellence for its clients like Mini. Sid Lee expanded to the United States and Europe as well and developed an international presence for Adidas in 100 countries with its ambitious digital delivery. individual Canadians who achieved success are also in demand internationally, finding top-level positions paying seven figures.
+* Many small and mid-sized agencies handle local and regional work throughout Canada. Marketing Magazine featured up-and-coming new agencies in western Canada like Giant Ant Media (Creative Agency/Production Studio) with MEC as a key client, FCV (Interactive Agency) with Telus, Nike, and Scotiabank as key clients, and Smak (Experiential/Media Agency) with Fugure Shop as a key client. Across the country, these independent agencies offer opportunity for students to get their "foot in the door" to pursue a career in the advertising industry. One small agency, Acart in Ottawa, continues to outbid other more dominant players as it secures many government advertising assignments. And in the oldest city in North America, Target of St.John's continues to innovate as it listens to the "beat of a different drum" while enjoying the view of teh Atlantic Ocean. Check out its creative "Weiner News network" on Youtube!
+
+### FULL-SERVICE AGENCY
+* The services offered and functions performed vary depending upon the size of the agency. A **full-service agency** offers its clients a complete range of **marketing, communication, and promotion services including planning, performing research, creating the message of the ad campaign, producing the advertising and selecting media.** A full-service agency may also offer nonadvertising services, such as strategic market planning, sales promotions, direct marketing, interactive services, public relations and publicity, and package design. The full-service agency has departments led by a director that provide the activities needed to perform the advertising functions and serve the client, as shown in Figure 2-2. In this section we summarize these main characteristics.
+
+#### Account/Client Service
+ Account services, or client services, is the link between the ad agency and its clients. Depending on the size of the client and its advertising budget, one or more account executives serve as liaison. The **account executive** is responsible for understanding the advertiser's marketing and promotions needs and interpreting them to agency personnel. he or she coordinates agency efforts in planning, creating, and producing ads. The account executive also presents agency recommendations and obtain client approval. As the focal point of agency-client relationships, the account executive must know a great deal about the client's business and be able to communicate this to specialists in the agency working on the account. The ideal account executive has a strong marketing background as well as a thorough understanding of all phases of the advertising process.
+
+ #### Planning/Research Services
+ * Most full-service agencies maintain a research department whose function is to gather, analyze, and interpret information as input for advertising decisions. Both primary research--where a study is designed, executed, and interpreted by the research department--or secondary (previously published) sources of information are relied upon. The research department also acquires studies conducted by independent syndicated research firms or consultants, inteprets the finding, and disseminates the information to agency personnel working on that account. The research department may also design and conduct research to pretest the effectiveness of advertising the agency is considering. For example, copy testing is conducted to determine how messages developed by the creative specialists are likely to be interpreted by the receiving audience.
+ * Research services may be augmented with services performed by account planners, who gather relevant information that can be used to develop the creative strategy and other aspects of the IMC campaign. Account planners work with the client and other agency personnel including the account exeuctives, creative team members, media specialists, and research department personnel to collect information to better understand the client's target audience and the best ways to communicate with them. They gather and organize information about consumers, competitors, and the market to prepare the **creative brief**, which is a document that the agency's creative department uses to guide the development of advertising ideas and concepts.
+
+ page 40
+
+                Figure 2-2: Full Service agency organization chart
+
+                President
+                Chief Operations Officer/Chief Financial Officer
+                Director, Client Service--Account Director--Account Supervisor--Account Executives
+                Director, Planning Research--Account Planner--Market Research
+                Creative Services Director--Art Director--Copywriter--Graphic Designer--Studio Artist
+                Interactive/Digital Creative Director--Interative Producer--Interactive Developer--Interactive Graphic Designer
+                Production Director--Print Production Manager--Broadcast Production Manager--Traffic Manager
+                Specialized Services Director--Direct Marketing--Sales Promotion--Public Relation--Event and Support Service
+                Media Director--Media Planner--Media Buyer
+                Management and Finance Department--Accountant--Financial Manager--Office Manager--Human Resource
