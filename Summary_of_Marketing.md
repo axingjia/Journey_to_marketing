@@ -22,3 +22,4 @@
 * Motivational conflict
 * Attitude and attitude change
 * How consumer reduces his cognitive dissonance
+* Buying process: Problem Recognition(Finding dissonance between desired state and actual state)
