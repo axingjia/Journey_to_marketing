@@ -692,7 +692,7 @@ There are two types of fee arrangement systems. In the straight or **fixed-fee m
 * Consumer explore a number of activities during the postpurchase evaluation process. They may seek out reassurance and opinions from others to confirm the wisdom of their purchase decision, lower their attitudes or opinions of the unchosen alternative, deny or distort any information that does not support the choice they made, or look for information that does support their choice. An important source of supportive information is advertising: **consumers tend to be more attentive to advertising for the brand they have chosen. Thus, it may be important for companies to advertise to reinforce consumer decisions to purchase their brands.**
 
 ### SATISFACTION
-* The most significant psychological concept during the postpurchase evaluation process is satisfaction. A leading expert in satisfaction research defined **satisfaction** as a judgment that consumers make with respect to the pleasurable level of consumption-related fulfillment. The notion of fulfillment implies that a consumer's goal has been achieved (i.e., needs met), and that the fulfillment is "judge with reference to a standard". Thus, consumers make a compairson between the consumption outcome and another referent.
+* The most significant psychological concept during the postpurchase evaluation process is satisfaction. A leading expert in satisfaction research defined **satisfaction** as a judgment that consumers make with respect to the pleasurable level of consumption-related fulfillment. **The notion of fulfillment implies that a consumer's goal has been achieved (i.e., needs met), and that the fulfillment is "judge with reference to a standard". Thus, consumers make a compairson between the consumption outcome and another referent.**
 * Consumers can make many comparisons. One is to compare the level of product performance to the expectations of the product that consumers had prior to purchase. Satisfaction can occur when the consumer's expectation are either met or exceeded, whereas dissatisfaction results when performance is below expectations. Consumers can also compare the product performance to an absolute standard of quality to perceive satisfaction or dissatisfaction.
 * Another aspect of satisfaction is **cognitive dissonance**, a feeling of psychological tension or postpurchase doubt that a consumer experiences after making a difficult purchase choice. Dissonance is more likely to occur in important decisions where the consumer must choose among close alternatives (especially if the unchosen alternatives has unique or desirable features that the selected alternative does not have).
 * Marketers must recognize the importance of the postpurchase evaluation stage. Dissatisfied consumers not only are unlikely to repurchase the marketer's product but also may spread negative word-of-mouth information that deters others from purchasing the product or service. The best guarantee of favourable postpurchase evaluation is to provide consumers with a quality product or service that always meets their expectations. **Marketers must be sure their advertising and other forms of promotion do not create unreasonable expectations their product can not meet.**
@@ -707,8 +707,88 @@ There are two types of fee arrangement systems. In the straight or **fixed-fee m
 * Marketers of products characterized by a routine response purchase process want consumers to follow a routine choice process and continue to purchase their products. These marketers use relevant IMC tools to maintain high levels of brand awareness and positive brand attitude. Alternatively, marketers of new brands or those with a low market share face a different challenge. **They must find ways to disrupt consumers' routine choice processes and get them to consider their brand by using IMC tools that encourage consumers to reconsider their habit or routine choice and switch brands.**
 * A more complicated decision-making process occurs when consumers have limited experience in purchasing a particular product or service and little or no knowledge of the brands available and/or the criteria to use in making a purchase decision. Consumers learn what attributes or criteria should be used in making a purchase decision and how the alternatives perform on these dimensions. For products or services characterized by **limited problem solving** or **extended problem solving**, marketers should make information available that will help consumers make a decision. Advertising that provides consumers with detailed information about a brand and how it can satisfy their purchase motives and goals is important. Marketers may also want to give consumers information through other ways (e.g., displays, brochures, websites). 
 
+### GROUP DECISION MAKING
+* A group is defined as "two or more individuals who share a set of norms, values, or beliefs and have certain implicitly or explicitly defined relationships to one another such that their behaviour is interdependent." Groups are one of the primary factors influencing learning and socialization, and group situations consitute many of our purchase decisions, group situations consititute many of our purchase decisions. For example, a woman's purchase of a dress for a party might be influenced by the type of party and who is attending.
+* A **reference group** is "a group whose presumed perspectives or values are being used by an individual as the basis for his or her judgment, opinions, and actions". Consumers use reference groups as a guide to specific behaviours, even when the groups are not present. In the party example, peers--although not present--provided a standard of dress that referred the woman to her clothing selection. Likewise, friends, family, and co-workers, or even a group to which she aspires, may serve as referents, and consumption patterns will typically conform to the expectaitons of the groups that are most important to her.
+* Marketers use reference group influences in developing advertisements and promotional strategies. The images in Exhibit 3-11 are an example of an aspirational reference group (to which we might like to belong). Marketers also use disassociative groups (to which we do not wish to belong), such as in ads related to drinking and driving.
+* Furthermore, the group may be involved more directly than just as a referent. Family members serve as referents to each other, or are involved in the purchase decision process--acting as an individual buying unit. As shown in Figure 3-4, family members can assume a variety of roles in the decision-making process. There can be group interaction at every stage of the consumer decision-making process since members take on many roles throughout the process. The ad in Exhibit 3-12 is directly to a particular role, the purchaser rather than the consumer.
+* Each role has implications for marketers. First, the advertiser must determine who is responsible for the roles in the decision-making process so that messages can be targeted at that person (or those people) and placed in the most appropriate and effective media. Second, understanding the decision making process and the use of information by individual family members is critical to the design of messages and choice of promotional program elements. In general, to create an effective promotional program, a marketer must have an overall understanding of how the decision process works and the role that each group member plays.
+
+                Figure 3-4: Roles in the family decision-making process
+                * The initiator. The person responsible for initiating the purchase decision process; for example, the mother who determines she needs a new car.
+                * The information provider. The individual responsible for gathering information to be used in making the decision; for example, the teenage car buff who knows where to find product information in specific magazines or collects it from dealers.
+                * The influencer. The person who exerts influence as to what criteria will be used in the selection process. All members of the family may be involved. The mother may have her criteria, whereas others may each have their own input.
+                * The decision maker(s). The person(s) who actually makes the decision. In our example, it may be the mother alone or in combination with another family member.
+                * The purchasing agent. That individual who performs the physical act of making the purchase. In the case of a car, a couple may decide to choose it together and sign the purchase agreement.
+                * The consumer. The actual user of the product. In the case of a family car, all family members are consumers. For a private car, only the mother might be the consumer.
+
+## Targer Audience Decision
+* We reviewed the consumer decision-making process since marketers need to understand the behaviour they are trying to influence through their promotional plans. Marketers also try to understand consumers as much as possible since an IMC plan, IMC program (e.g., advertising campaign), or ad is directed to a target audience or multiple target audiences, which is usually a primary decision prior to other communication decision. The target audience decision is derived from mthe segmentation and target market decisions of the marketing plan. In this section, we therefore review the marketing planning process to understand the context of promotional planning. Next, we summarize approaches for market segmentation and identify how it is used for target market selection. Finally, we explore how these marketing decisions provide direction for identifying options for the target audience decision.
+
+### MARKETING PLANNING PROCESS
+* The process of developing and implementing marketing and promotion decisions is summarized in Figure 3-5. The target market is an important focus of the firm's marketing effort, and specific sales, market share, and profitability objectives are set according to where the company wants to be and what it hopes to accomplish in this market. The method by which marketers do this involves three basic steps: segment the market, select a target market, and determine the market positioning strategy. The selection of the target market (or markets) in which the firm will compete has direct implications for its advertising and promotional efforts. Specific communication objectives are derived and the promotional mix strategies are developed to achieve these objectives. Thus, different objectives may be established, different budgets may be used, and the promotional mix strategies may vary, depending on the market selected.
+
+
+                Figure 3-5 Marketing and promotions process model
+
+                Situation Analysis: Market analysis, consumer analysis, environmental analysis, internal company analysis
+
+                ->
+
+                Target Market Process: Segment the market, select target market, determine the market positioning strategy
+
+                ->
+
+                Market Program Development: Product decisions, pricing decisions, channel of distribution decision -> 
+                Promotional decisions: advertising, direct marketing, interactive marketing, sales promotion, public relations
+
+                -> Promotion to final buyer   =>         { Ultimate consumer: consumer, business}
+                ->Promotion to trade-> Resellers =>      Same as above => purchase-> resellers
+
+* As we introduced this section, we used the terms target market and target audience. we concur with the perspective that suggests promotional planners should make a careful distinction between these concepts since an advertising plan or IMC plan is one part of the overall marketing plan. The **target market** is the group of consumers toward which an overall marketing program is directed. The **target audience** is **a group of consumers toward which the advertising campaign, for example, is directed**. Conceptually, these targets are interdependent but their distinction allows promotional planners the ability to make more effective communication decisions with enhanced precision.
+* The difference between target audience and target market can be seen when firms develop selective promotional programs beyond their normal target market. For example, tea represents the fourth most consumed drink after coffee, milk, and tap water. With many types of tea and different kinds of tea drinkers, tea brands need to approach specific audiences with their communication efforts. The health benefits perceived with tea have attracted many young Canadian consumers toward specialty teas. In particular, sales for green, red, and white teas rose subtantially in 2006; however, herbal and black tea dropped slightly. Although the main tea consumer is women over 40, according to Twining tea, the well-established brand developed its latest campaign toward newer consumers (i.e., younger) with a strong emphasis to teach the less experienced more about tea. Its communication consisted of door-handers and samples to specific locations and displays for select retailers.
+* The difference between target audience and target market can also be seen when firms develop promotional programs that fit with an established target market that has a new cohort of consumers every couple of years. This occurs with products like Pogo (a wiener covered with a bread substance on a stick), which has a clear demographic target market of teenage boys. Yet these boys grow older, so every few years there is a whole new group of teenage boys that Pogo directs marketing communication toward, and is therefore a new target audience (i.e., unaware, or unfamiliar with the brand experience). A fun marketing venture included Pogothons, street events, short flash TV ads of eight seconds, stickers delivered in skateboard parks, and so on. All with the intention to encourage website visits so that the new users--a new audience--could relate to the brand. 
+
+### MARKET SEGMENTATION
+* To identify a target market, the marketer identifies the specific needs of groups of people (for segment), selects one or more of these segments as a target, and develops marketing programs directed to each. This approach has found increased applicability in marketing for a number of reasons, including changes in the market (consumers are more diverse in their needs, attitudes, and lifestyles); increased use of segmentation by competitors; and the fact that more managers are trained in segmentation and realize the advantages associated with this strategy. The remainder of this section discusses different ways to segment the market (Figure 3-6). Marketers may use one of the segmentation variables or a combination of approaches for both marketing and marketing communication decisions.
+
+                 Figure 3-6: example of market segmentation variables
+
+                 Geographic:
+                        Region: West, Central, East
+                        City size: under 10,000; 10,000-24,999; 25,000-49,999; 50,000-99,999...
+                        Metropolitan area: Census Metropolitan Area (CMA), etc
+                        Density: Urban; suburban; small town; rural
+                
+                Dmographic: 
+                        Gender: Male; female
+                        Age: under 6 years; 6-11 years; 12-17 years; 18-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74 years; 75 years plus
+                        Race: asian; black; hispanic; indian; white/caucasian; etc
+                        Life stage: infant; preschool; child; youth; collegiate; adult; senior
+                        Birth era: Baby bommer; Generation X; baby bommlet/Generation Y
+                        Household size: 1;2; 3-4; 5 or more
+                        Residence tenure: own home; rent home;
+                        Martital status: never married; married; separated; divorced; widowed
+                
+                Socioeconomic:
+                        Income: <$15,000; $15,000-24,999; $25,000-$34,999; $35,000-$49,999; $50,000-$74,999; $75,000+
+                        Education: Some high school or less; high school graduate; some college or university; university/ college graudates; etc
+                        Occupation: managerial and professional specialty; technical, sales, and administrative support; service, farming; forestry, and fishing; etc
+
+                Psychographic:
+                        Values: Actualizers; fulfilledes; achievers; experiencers; believers; strivers; makers; struggers
+                        Lifestyle: activities; interests, opinions
+                        Personality: Gregarious; compulsive; introverted; aggressive; ambitious; etc
+                        Culture: Ethnic; social
+                        Social class; low middle class; upper middle class; etc
+
+                Behaviour: 
+                        Brand Loyalty: Completely loyal; partially loyal; not loyal
+                        User status: Nonuser; ex-user; first-timer user; regular user
+                        Usage rate: light user, medium user; heavy user
+                        Situation: Usage situation; purchase situation;
+                        Benefit sought; Quality, service; price/value; convenience; prestige
 
 
 
-
-page 67
+page 71
