@@ -133,3 +133,6 @@
 
 ### Five E-Fulfillment Strategies
 * **A company can adopt four e-fulfillment strategies--logistics postponement, resource exchange, leverage shipments, and brick-and clicks.**
+* Some markets are turbulent. Customer demands change quickly, and competitors act swiftly. In such an environment, if a company is commited to shipping certain products to certain markets, it runs the risk of obsolescence. The product may arrive at the market too late or reach the wrong market, and the resulting product return and reshipping costs reduce company profits.
+* In such an environment, **logitsics postponement is a valable strategy. Merge-in-transit is one approach to postponement. Instead of collecting all parts at a central location and assembling them there into the final product, merge-in-transit proposes using a logistics service provider located clsoe to the consumer for assembly. This reduces shipping costs and ensures quicker final delivery.**
+* Dell.com goes a step further. In its build=to-order system, the computer is built only when the customer order is received. Rather than acquiring the terminal and other computer parts, the company asks the terminal supplier to ship directly to the consumer. The rest of the computer goes from the Dell warehouse. This simple arrangement saves the company money and makes it more competitive in the marketplace.
