@@ -23,3 +23,7 @@
 * Attitude and attitude change
 * How consumer reduces his cognitive dissonance
 * Buying process: Problem Recognition(Finding dissonance between desired state and actual state)
+
+
+# Advertising
+* Information Appeal: Rational, appeal. Feature appeal. Comparative appeal. Price appeal. News appeal. Popularity appeal. Reminder appeal.

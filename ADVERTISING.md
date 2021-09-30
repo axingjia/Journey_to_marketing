@@ -1833,4 +1833,81 @@ Cannes
 ##### Price Appeal
 * An ad with a price offer as the dominant point of the message may be known as a price appeal. Price appeal advertising is used most often by retailers to announce sales, special offers, or low everyday prices. Many fast-food chains have made price an important part of their marketing strategy through promotional deals and "value menus" or lower overall prices. Advertisers for vehicles and electronics usee price appeals as part of their IMC strategy as well. For example, the HP advertising shown in Exhibit 7-18 promotes the affordability of the HP Officejet Pro printer for business use. the ad copy explains how it can print in color at a cost that is up to 50 percent less per page than a laser printer and consumes less energy. The visual portion of the ad also uses vivid colours to represent the number 50 and deliver a message regarding the quality of the colour printing capabilities of the Officejet Pro.
 
-Page 188
+##### News Appeal
+* When an announcement about the product, service, or company dominates the ad, advertisers are using a news appeal. This type of appeal can be used for a new product or service or to inform consumers of significant modifications or improvements. This appeal works best when a company has important news it wants to communicate to its target market. For example, airlines sometimes use news it wants to commmunicate to its target market. For example, airlines sometimes use news appeal when beginning to offer service to new cities or opening new routes as a way of informing consumers as well as generating media exposure that results in publicitiy.
+
+##### Popularity Appeal
+* Ads with a popularity appeal stress the popularity of a product or service by pointing out the number of consuemrs who use the brand, the number who switched to it, the number of experts who recommend it, or its leadership position in the market. The main point of this advertising appeal is that the wide use of the brand proves its quality or value and other customers should consider using it. The ad shown in Exhibit 7-19 uses a popularity appeal by noting how TaylorMade drivers are used by more PGA Tour professionals than its leading competitors combined. Ads such as this are used to implement TaylorMade's marketing strategy, which focuses on innovation, the technological superiority of its golf equipment, and the popularity and use of its clubs by tour professionals who exert a strong influence on the purchase decisions of amateur golfers.
+
+##### Reminder Appeal
+* When the objective of the ad is to build or maintain awareness, an advertiser might use a reminder appeal. Well-known brands and market leaders of frequently used products often use a reminder appeal, which is often referred to as reminder advertising. Products and services that have a seasonal pattern to their consumption also use reminder advertising particularly around the appropriate period. For example, marketers of candy products often increase their media budgets and run reminder advertising around Halloween, Valentine's day, Christmas, and Easter.
+
+### EMOTIONAL APPEAL
+* **Emotional appeal** relate to the customer's social and/or psychological needs for purchasing a product or service. Many of consumers' motives for their purchase decisions contain strong emotions, and their feelings about a brand can be more important than knowledge of its features or attributes. **Many advertisers believe appeals to consumers' emotions work better at selling brands that do not differ markedly from competing brands, since rational differentiation of them is difficult.** The ad for Old Spice captured the emotion of consuming men's products with humour. Virtually every single Coca-Cola ad is dedicated teamed up with Google to put digital software in dispensing machines that let consumers "buy" a Coke for someone else in the world, the joy spread exponentially.
+* The choice between rational or emotional appeal is a challenge and careful consideration must take place to ensure the advertising resonates with the target audience and evokes relevant processing responses connected to the purchase decision or consumption experience. Suprprisingly, Google employed an emotional appeal in many ads to market its new array of products. When addresssing the campaign, a Google executive even exclaimed, "It's about emotion, which is bizarre for a tech company". Despite being a self-described tech company, Google's product is used and enjoyed on a daily (minute-by-minute?) basis, so how could there not be emotion with something involved so often in people's lives?
+* Hamish Pringle and Peter Field documented the effectiveness of emotion-based appeals in their book Brand Immortality. They analyzed 880 case studies of successful advertising campaign submitted for the United Kingdom-based Institute of Practitioners in Advertising Effectiveness Award competition over the past three decades and included campaign that relied primarily on emotional appeals with those that used rational persuasion and information. **A key finding is that advertising campaigns with purely emotional content produce nearly double the profit gains versus rational content campaigns. One reason why emotional campaigns work so well is that they reduce price sensitivity and strengthen the ability of brands to charge a price premium, which contributes to profitability.
+* However, emotional ads could also spur greater frequency of purchase or attract new consumers as shown by McDonald's. It changed its advertising strategy in 2003 to a common "I'm Lovin' It" theme worldwide for the very first time in its history and put an emotional emphasis in to its commercial. McDonald's believes the emotional ads take advantage of the chain's unique bond with consumers, which is a significant point of differentiation in the competitive quick-service food market. The campaign helped the comapny achieve strong sales growth. After one year of consumer research and creative brainstorming, McDonald's announced continued use of the "I'm Lovin' It" campaign. The brand intended to integrate more emotion in the executions by focusing on family bonding and fun with food as well as celebrating uniquely McDonald's moments in its ads.
+* Kamp and MacInnies note that commercials often rely on the concept of emotional integration, whereby they portray the characters in the ad as experiencing an emotional benefit or outcome from using a product or service. Marketers use emotional appeals in hopes that the positive feeling they evoke will transfer to the brand and/or company. Research shows that positive mood states and feelings created by advertising can have a favourable effect on consumers' evaluations of a brand. Ads using lifestyle, humour, sex, and other appeals that are very entertaining, arousing, upbeat, and/or exciting can affect the emotions of consumers and put them in a favourable frame of mind. For example, Second Clothing, a Montreal-based premium denim brand, demonstrated the feeling women have when first trying on a pair of yoga jeans. With very sensual images, sexy music, and the sound of an amorous woman "cooing", one presumes the experience lives up to the tagline "Feel Good. Real Good."
+* Many feelins can serve as the basis for advertising appeals designed to influence consumers on an emotional level, as shown in Figure 7-3. Relying on considerable research over time, this taxonomy identifies core negative and positive emotions. Moreover, the table indicates the origin of the emotion, which demonstrates the core subjective meaning of the emotion and the action consequences of someone experiencing the emotion. These additional descriptions of the emotion are important as they give direction as to the content and authenticity of the emotion for planning this emotional message appeal; advertisers that miss the mark on emotional accuracy are quickly rejected.
+* Each of these core emotions embodies nuances. Contentment might include things like happiness, joy, nostalgia, and sentiment. Elements of pride may be seen in recognition, status, acceptance, and approval. Other emotions appear to cross more than core emotion; for example, excitement is likely part of the first four positive emotions. We now review one negative and one positive emotional appeal commonly used in message delivery.
+
+                Figure 7-3: Basis of emotional appeal
+                Negative Emotion | Origin | Action
+
+                Anger: Offense against self: Restore justice, hold individual responsible
+                
+                Contempt: Other violates role, duty, obligation: Lower the reputation of perpetrator
+
+                Disgust: Contact with impure object or action: Push away
+
+                Embarrassment: Self has transgressed a social convention: Apologize
+
+                Envy: Other is superior to self: Reduce status of other
+
+                Fear: Imminent threat to self: Flee, reduce uncertainty
+
+                Guilt: Self has violated moral standard regarding harm: Remedy harm
+
+                Jealousy: Other threatens source of affection: Protect source of affection from others
+
+                Sadness: Irrevocable loss: Acquire new goods
+
+                Shame: Self has transgressed aspiration or ideal: Hide, avoid scrutiny
+
+                ===
+
+                Positive Emotion | Origin | Action
+
+                Contentment: PLeasing stimulus | Savoring
+
+                Enthusiasm: Reward likely: Goal approach
+
+                Love: Perceived commitment: Affection
+
+                Sexual desire: Sexual cue or opportunity: Sexual release
+
+                Compassion: Undeserved suffering: Pro-social approach
+
+                Gratitude: Unexpected gift: Promote reciprocity
+
+                Pride: Self-relevant achievement: Status display
+
+                Awe: Self is small vs. something vast: Devotion, reverence
+
+                Interest: Novel opportunity: Exploration
+
+                Amusement: Recognize incongruity: Play
+
+                Relief: Cause of distress ends: Signal safety
+
+### FEAR APPEAL
+* Fear is an emotional response to a threat that expresses or at least implies danger. Ads sometimes use fear appeals to invoke this emotional response and arouse individuals to take steps to remove the threat. Some, like anti-smoking ads, stress physical danger that can occur if behaviour are not altered. Others--like those for deodorant, mouthwash, or danruff shampoos--threaten disapproval or social rejection.
+* Before deciding to use a fear appeal-based message strategy, the advertiser should consider how fear operates, what level to use, and how different target audiences may respond. One theory suggests that the relationship between the level of fear in a message and acceptance or persuasion is curvilinear, as shown in Figure 7-4. This means that message acceptance increases as the amount of fear used rises--to a point. Beyond that point, acceptance dereases as the level of fear rises.
+* This relationship between fear and persuasion can be explained by the fact **that fear appeals have both facilitating and inhibiting effects. A low level of fear can have facilitating effects; it attract attention and interest in the message and may motivate the receiver to act to resolve the threat. Thus, increasing the level o f fear in a message from low to moderate can result in increased persuasion. High levels of fear, however, can produce inhibiting effects; the receiver may emotionally block the message by tuning it out, perceiving it selectively, or denying its arguments outright.** Figure 7-4 illustrates how these two countereffects operate to produce the curvilinear relationship between fear and persuasion.
+* A study by Anand Keller and Block provides support for this perspective on how fear operates. Their study indicated that a communication using a low level of fear may be ineffective because it results in insufficient motivation to elaborate on the harmful consequences of engaging in the destructive behaviour (smoking). However, an appeal arousing high levels of fear was ineffective because it resulted in too much elaboration on the harmful consequences. This led to defensive tendencies such as message avoidance and interfered with processing of recommended solutions to the problem.
+* Another approach to the curvilinear explanation of fear is the protection motivation model. According to this theory, four cognitive appraisal processes mediate the individual's response to the threat: appraising (1) the information available regarding the severity of the perceived threat, (2) the perceived probability that the threat will occur, (3) the perceived ability of a coping behaviour to remove the threat, and (4) the individual's perceived ability to carry out the copying behaviour. **This model suggests that ads using fear appeals should give the target audience information about the severity of the threat, the probability of its occurance, the effectiveness of a copying response, and the ease with which the response can be implemented.** For example, the ad shown in Exhibit 7-22 uses a milk fear appeal for Seagate Technology's Replica product designed to back up computer hard drives. The ad uses playful illustrations in a graphic style to communicate what can happen if a computer crashes and all files are lost. The ad offers a solution to the threat by showing the ease of using the Replica product and the resulting peace of mind.
+* In reviewing research on fear appeals, Herbert Rotfeld has argued that the studies may be confusing different types of t hreats and the level of potential harm portrayed in the message with fear, which is an emotional response. He concludes that the relationship between the emotional responses of fear or arousal and persuasion is not curvilinear but rather is monotonic and positive, meaning that higher levels of fear do result in greater persuasion. However, Rotfel notes that not all fear messages are equally effective, because different people fear different things. Thus, they will respond differently to the same threat, so the strongest threats are not always the most persuasive. This suggests that marketers using fear appeals must consider the emotional responses generated by the message and how they will affect reactions to the message.
+
+
+
+Page 193
