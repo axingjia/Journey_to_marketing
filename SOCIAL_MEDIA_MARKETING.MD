@@ -209,5 +209,301 @@ LEARNING OBJECTIVES
 
         * Paid/Earned/Shared/Owned: Optimized content, shared content, engaged content
 
+* **Owned media** are channels the brand controls. Corporate websites and e-commerce sites, corporate blogs, advergames, and alternate reality games (ARGs) all represent forms of owned media. Just as Zara's brick-and-mortar retail stores are owned and controlled by the organization, so is its website.
+* **Earned media** are those messages that are distributed at no direct cost to the company and by methods beyond the control of the company. **Word-of-mouth (WOM) communication** (called **influence impressions** in social media) and publicity are important forms of earned media. Comapnies release content through press releases and paid channels, participate in community events and causes, create stunt designed to generate media attention and buzz, and offer exceptional service quality, all with the hope that a brand message will spread. Shared media are communication channels in which marketers, people, journalists, and other participants share content (their own and others). Note that there is an overlap such that there are paid, earned, and owned elements of social media. Table 1.3 explains the forms of paid, earned, and owned media possible in each of the shared zones of social media marketing.
 
-page 24
+                Table 1.3: Types of media
+
+                1. Zone: Social Community
+                        * Paid Media: 
+                                * Ads
+                                * Native ads; 
+                                * Paid influencers
+                        * Earned Media:
+                                * Conversation in communities
+                                * Shared content
+                                * Influence impressions
+                                * Likes, followers, fans
+                        * Owned Media:
+                                * Brand-owned social networks
+                
+                2. Social Publishing:
+                        * Paid Media:
+                                * Endorsements
+                                * Sponsored content
+                                * Branded channels in media-sharing sites
+                        * Earned Media:
+                                * Embeds
+                                * Comments
+                                * Shares
+                                * Likes
+                                * Search ranking
+                        * Owned Media:
+                                * Corporate blogs
+                                * Branded content
+                                * Brand-controlled media-sharing sites
+                3. Social Entertainment
+                        * Paid Media:
+                                * Ads in games or on social entertainment sites
+                                * Sponsored social entertainment experiences
+                        * Earned Media:
+                                * In-game Interactions
+                                * Engagement in social TV
+                        * Owned Media:
+                                * Advergames
+                                * Branded ARCs
+                                * Branded entertainment
+                4. Social Commerce
+                        * Paid Media:
+                                * Sales promotions
+                                * Retargeted ads on social sites
+                        * Earned Media:
+                                * Reviews and ratings
+                                * Recommendations and referrals
+                                * Group buys
+                                * Social shopping interactions
+                        * Owned Media:
+                                * Social storefronts
+
+* A major objective related to using social media marketing for promotional purposes is to assist in moving the consumer through the purchase process. Marketers target various stages of this cycle to increase brand awareness, enhance brand liking and image, build brand equity, incite desire, and move consumers to action. They can influence consumer attitudes and movement through the process with promotional messages targeted throughout the social media channels. Figure 1.7 illustrates how marketers can use each zome of social media.
+
+                FIGURE 1.7: Marketing Applications Across the Social Media Zones
+
+                Social Media Marketing:
+
+                Social Community:
+                        * Building brand/consumer relationships
+                        * Promoting a presence 
+                        * Market research
+                Social Publishing:
+                        * Blogging
+                        * Sharing branded content 
+                        * Advertising/PR
+                        * Re-sharing
+                Social Commerce:
+                        * Buying and selling
+                        * Servicing
+                        * Managing 
+                        * Converting to transactions
+                Social Entertainment:
+                        * Enabling play 
+                        * Branded entertainment
+
+* Let's take a brief look at how social media marketing works at each stage of the purchase process:
+
+1. Increase awareness: brands can increase awareness with social media marketing by maintaining an active presence in the social spaces where target consumers "live" and by integrating social media into the marketing mix. Unilever brand Knorr's "#LoveAtFirstTaste" campaign matched singles with similar food preferences, then set them up on dates, where they had to feed each other (and agree to be recorded). The campaign included an interactive flavor-profile quiz, a campaign landing page, and a series of social videos, including a popular Youtube video.
+2. Infuence desire: social media promotion can be used much like advertising, catalog marketing, and feature events to persuade consumers to recognize a sense of desire. The fashion brand Lilly Pulitzer posts each new collection on Facebook, Flickr and Youtube. Visitors can tour pictures of its designs, fresh from each photo shoot. It's like being in the pages of Vogue.
+3. Encourage trial: social media can even be used to support sampling and loyalty programs. **Sampling** means to offer a free trial of a product; these are usually mailed to consumers' homes or distributed in stores or on the street. Social media can be used to recruit interested prospects to qualify for samples. Celestial Seasonings used this approach to distribute 25,000 samples of its new tea flavors. Called Share the Magic, Facebook followers were asked to share how tea adds magic to their day and, in return, Celestial Seasonings sent a free sample and a coupon.
+4. Facilitate purchase: social media serve as a distribution channel and venue for many sales promotion incentives, including deals and group offers. Many customers "like" or follow brands in social networks in order to qualify for special deals. The "You Can With a Canon" campaign rewarded those who rented a Canon M50 to claim a discount by posting their finest photography along with the hashtag "rentacanon".
+5. Cement brand loyalty: social media venues offer engaging activities for consumers that can ensure they spend more time with the brand, hopefully resulting in higher levels of brand loyalty. Look no farther than social games that offer rewards for the most loyal visitors. That's just what grocery chain Lidl accomplished in the UK with its ingenious Social Price Drop campaign on Twitter. The campaign was designed to let its social media followers control pricing for select products during the holiday season. The more followers talked about an item on Twitter, such as the "Christmas lobster", the more that item's price dropped.
+
+## CUSTOMER RELATIONSHIP MANAGEMENT AND SERVICE RECOVERY
+* Despite all the hype we hear constantly about social media being the "new advertising", there are in fact other applications where these techniques will play an increasingly important role. For one, customer relationship management, or CRM, also finds a home here. CRM practices focus on what we do with a customer after the first sale; it's far more difficult (and expensive) to attract new customers than to keep old ones. That's why many organizations work hard to maintain contact with their customers and to provide additional products and services to them over time. Often they rely on sophisticated databases that keep an ongoing customized follow-up messages and offers that are likely to meet unique needs. Salesforce.com is among the leading business solutions for social CRM.
+* Because of this digital focus, it's not surprising that CRM lends itself to social media applications. **Social CRM** embraces software and processes that include the collective intelligence of a firm's customers to more finely tune the offer and build intimacy between an organization and its customers. When brands embrace social CRM, they use social media as they were meant to be used. Why do we make this claim? Just as we learned that earned media can result from creative and interactive social messages, companies that do a good job of maintaining strong brand-to-customer relationships will benefit from earned media, as those customers in turn share information and recommendations with their networks.
+* But this is a sword that cuts both ways. It's ideal when all of our interactions with customers are positive. Unfortunately, things sometimes go wrong. When they do, today's social consumers won't hesitate to share their nasty experiences with others on social platforms. They'll vent their frustrations in the most public of ways. A great example is the sad story of one man's plane trip that resulted in a busted guitar that went viral on Youtube (United Breaks Guitars" video on Youtube). After he tried unsuccessfullly to get United Airlines to repair or replace his guitar, this disgruntled passenger created his own version of the story and set it to music--the video he uploaded about his experience was viewed nearly 10 million times. Obviously, this was not a happy event for the airline. This illustration of the potential negative impact on a firm's image underscores how important it is for organizations to take customers commplaint seriously (especially those who are inclined to post about their experiences). It is also vital to have a plan in place to initiate **service recovery** when thigns do go wrong (and they will). This term refers to the actions an organization takes to correct mishaps and win back dissatisfied customers. One helpful set of guidelines that some companies use is known as the **LARA framework**
+* **Listen** to customer conversations.
+* **Analyze** those conversations.
+* **Relate** this information to existing information within your enterprise.
+* **Act** on those customer conversation
+
+* Service recovery typically has to happen quickly if it's going to have any immpact. A firm that can identify a problem in the system (e.g., a product recall, a snowstorm that will ground flights) can nip it in the bud by letting customers know that it is aware of the issue and is taking steps to address it. That's a big reason why social media can play such a big role in CRM: the platforms they can use allow them to commmunicate quickly and efficiently to large groups of customers or to customize messages to individuals who require follow-up. For example, companies such as Carphone Warehouse, Zappos, Best Buy, and Comcast have turned to Twitter to conduct their social CRM: they can monitor trending topics and pre-empt problems if they find that a lot of people are tweeting about them (in a bad way). If neccessary, they can sent their own tweet to explain what happened and provide solutions.
+
+## MARKET RESEARCH
+* Social media open exciting new windows for marketing research. Whether to collect insights for the discovery stage of the creative process or to gather ideas for new product development, social media provide new tools to listen to customers as they discuss their lives, interests, needs, and wants. In fact, this social media marketing activity is called **social listening**. Social listening may be used for social CRM, service recovery, competitive analysis, or even ideas for new product development. We'll learn more about conducting research with social media in Chapter 10. Which channels of social media are relevant for social media market research? Potentially all of them, but profile data, activities, and content shared in social communities and content shared via social publishing vehicles are especially valuable for researchers.
+
+## RETAIL AND ECOMMERCE
+* The last major application for social media marketing is taht of retailing and ecommerce. We've already shared ways that brands can incentivize trial and purchase using social media promotions. If you are like most consumers, you've used your share of online ratings and reviews before you made a purchase decision. But did you know that you can go shopping in social storefronts or browse on ecommerce sites that enable real-time chat with your friends? That's right. Groups of friends can shop together even when everyone is online--and not necessarily in the same physical location. When brands use social media marketing as a retailing space, create a venue for and/or encourage consumer reviews and ratings of products, and enable applications that help friends shop together online, we've solidly in the social commerce zone. This will be our focus for Chapter 9.
+
+## CRITICAL REFLECTION
+
+### HOW ALGORITHMS INFLUENCE REALITY
+* Algorithms are instructions for solving a problem or completing a task. Recipes are algorithms, as are math equations. Computer code is algorthmic. The Interest runs on algorithms and all online searching is accomplished thorugh them. The app on your smartphone are algorithms. Computer and video games are algorithmic storytelling. Anytime you are offered automated suggestions--whether people you may wish to friend on Facebook, programs to watch on Netflix, products to consider on Amazon, possible romantic matches on Tinder, restaurant recommendations on Yelp (we could go on)--algorithms are responsible.
+* Algorithms help gadgets respond to voice commands, recognize faces, sort photos, and build and drive cars. Algorithms are mostly invisible aids, augmenting human lives with convenient knowledge delivered on demand. However, sometimes the application of algorithms created with good intention leads to unintended consequences. As you might have guessed, criminals exploit algorithms for hacking and cyber attacks. Algorithms are also blamed for unfortunate issues in the currency and stock markets.
+* But algorithms are the subject of this critical reflection feature because of the effect they may have on your experience using social media--and ultimately on your life. In fact, some are calling this the Age of Algorithms. Algorithms are primarily written (by coders) to optimize efficiency and profitability without much thought about the possible societal impacts of the data modeling and analysis. A study of experts by Pew Research explained that in algorithmic design, humans are viewed simply as an "input" to the process, rather than as real, thinking, feeling, changing beings. This is already problematic, but is likely to become more so as algorithms begin to write the algorithms. At that point, the robot will decide the rules by which the algorithms produce solutions.
+* Bart Knijnenburg, a professor at Clemson University, explained (cited in Rainie & Anderson, 2017): "Algorithms will capitalize on convenience and profit, thereby discriminating (against) certain populations, but also eroding the experience of everyone else. The goal of algorithms is to fit some of our preferences, but not necessarily all of them: They essentially present a caricature of our tastes and preferences." He went on to say, "My biggest fear is that... it will be simply too convenient for people to follow the advice of an algorithm (or, too difficult to go beyond such advice), turning these algorithms into self-fulfilling prophecies, and users into zombies who exclusively consume easy-to-consume items".
+* Perhaps zombies is an exaggeration, but the risk of living in a filter bubble is real. What is filter bubble? Akin to living in a bubble, unable to experience the world, algorithms can limit our exposure to new information and different experiences, while influencing our beliefs and emotions with the content that is served to us. Is this risk real? In fact, it's already happening. Your news feed in Facebook is controlled by an algorithm designed to personalize the content you see based on your preferences and past behaviour. These are benefits--it means you see more of the stories you have liked in the past, from people and brands you've interacted with most, with the goal of enhancing your experience. It is this filtered access to our social network that inspired the quesiton "is social media even social anymore?"
+* Do you see the flaw. The flow of content you see isn't random or even in real time. It is filtered such that you are increasingly less likely to see stories from people with whom you haven't engaged for a while. You will see more stories from people you agree with and less from people who might have a different opinion. Over time, you could adopt a very distorted view of the world. You also will be limited in new experiences. The information presented by algorithms will never surpise you will something you never thought you'd do, watch, or see because the solujtions are based on your past behaivour.
+* That is, unless the solution are manipulated. What's that? You trust the information you get online? Not so fast. Facebook scientists collaborated on an experiment called the Contagion Experiment. One sample of Facebook users were served consistently negative stories and another sample saw positive content. Did the content influence the recipients? You bet it did. Those in the negative group began posting content that suggested they were in a bad mood and those who saw positive content posted happier messages. In other words, not only may our experiences by influenced by algorithms, our perceptions of our experiences may as well.
+
+## CAREERS IN SOCIAL MEDIA
+* Now you've seen how individuals and organizations, including businesses, non-profits, and governments, use social channels. As organizations learn the value of social media for marketing, new jobs come online every day to accommodate the need for skilled social media marketers. Interested? Consider the list of social media jobs in Table 1.4.
+
+                Table 1.4: Jobs in Social Media
+
+                Social Media Marketing Manager
+                        * Develop and execute plans to engage and acquire superior recommendation/content for services via grassroots recruiting of influencer and social engagement strategies.
+                        * Ensure timely delivery of superior answers/recommendations to users by working closely with influencers and local experts.
+                        * Execute the viral marketing plan, engage bloggers and neighborhood leaders, as well as drive word-of-mouth programs
+                        * Support the active outreach program to recruit local influencers, local experts, bloggers, and brands to add their recommendations and invite their customers to endorse them on Ramio.
+                        * Select the very best sources of superior best of the best service recommendations.
+                
+                Social Media Insights Analyst:
+                        * Listen, monitor, and analyze social media content to create reports that include metrics and insights which help the client to make business decisions and drive strategies.
+                        * Present reports and measurement frameworks to clients.
+                        * Create reporting templates based on client requirements. Get sign-off from clients on the templates.
+                        * Support development and deployment of new social media measurement frameworks and key performance indicators (KPIs)
+                        * Assist in training and mentoring new team members and client service teams in their understanding of social media measurement/insights.
+                        * Maintain familiarity with social media tools
+                        * Create advanced queries to glean insights for research reports
+                        * Add value to the existing deliverables by bringing in new methodologies and processes.
+                
+                Social Media Assistant:
+                        * Write awesome social media posts.
+                        * Work clsoely with and report directly to the Social Media Marketing Managers
+                        * Stay current with emerging digital marketing and social media trends and best practices.
+                        * Report on the team's awesome work with Google Analytics and other tracking tools.
+                        * Create beautiful instagram imagery
+                        * Brainstorm--contribute thoughtful ideas during team meetings.
+                        * Assist with other agency projects.
+                        * Assist with managing vendor relationships
+                        * Leverage social media tools to streamline your day.
+                        * Create and upload content into Wordpress websites.
+
+                * Social Media Marketing Specialist
+                        * Develop social media content for a variety of clients in a wide array of fields.
+                        * Work with the designand web team to conceptualize and bring to life amazing social media creative campaigns.
+                        * Work with the web development team to create content for pages.
+                        * Offer strategic input for campaign execution.
+                        * Create Facebook and instagram ad campaigns.
+
+## CASE STUDY
+
+MEET 221BC KOMBUCHA
+* 221BC Kombucha is a family-owned business dedicated to promoting healthy lifestyles. Aneta and Eric Lundquist founded the company to inspire people to live their best lives one step at a time. Drinking kombucha, a nutrient-dense beverage with many health benefits, is a gateway habit to a healthy lifestyle.
+* Kombucha is a bubbly, fermented tea with a host of health benefits. The basic ingredients in hombucha are yeast, sugar, and black tea. SCOBY, which stands for symbiotic culture of bacteria and yeast, is an ingredient used in the production of kombucha. The mix is set aside for a week or more to ferment. Simply put, fermentation is where the activity of friendly bateria, yeasts, and probiotic enzymes eat the sugar in tea, transforming it into kombucha. The process is similar to how cabbage is preseved as sauerkraut or kimchi, or how milk is turned into yogurt. The tasty end product has B vitamins, probiotics, caffeine, and small amounts of alcohol.
+* Kombucha has a long history. In fact, the name 221BC highlights the first known reference to the brewing of kombucha in China more than 2000 years ago? It was known as the "Tea of Immortality"! Aneta explains, "Kombucha is an ancient drink from Asia. The recipe is over 2000 years old. That's where our name came from--221BC stands for '221 before Christ'. We use high-quality organic tea leaves and sugar and ferment that in a culture, then add fresh-pressed, raw, organic unprocessed juices. It creates probiotics, enzymes, B vitamins. There's a trace amount of alcohol--less than 5 percent--but it's not considered an alcoholic beverage. (personal communication).
+* Today, the kombucha market is growing rapidly. Globally, the market is projected to reach nearly $5 billion by 2025.
+* Why the rapid growth? It goes beyond the popularity of beverage alternatives to soda. Kombucha purports to have many health benefits, especially benefits for gut health. Advocates say kombucha aids digestion, rids the body of toxins, and boosts energy. It's also said to boost immunity, support weight loss, ward off high blood pressure and heart disease, and even present cancer.
+* Growing up in Poland, fermenting foods was a regular part of Aneta Lundquist's life. Every fall, her family harvested food from the garden. Some of that food was stored in underground cellars, while the rest was fermented in jars. Culturally, food was viewed as medicine for common aliments. After coming to ther US, Aneta realized that she didn't feel the energy she once felt. She committed to eating clean foods and using nutrient-dense foods as a core commitment to her family's health. She began brewing her own kombucha at home, experimenting with ingredients like bee pollen, turmeric, ginger, and matcha to influence the flavor and nutrition of her home brew. As the family transformed their eating habits, their health also improved dramatically, convincing Aneta's husband, Eric, that clean eating and kombucha should be a way of life.
+* Today, Aneta defines herself as fermentarian; fluent in the language of good bacteria, she feels a natural connection to and understanding of the complex world of microbes. She's become obsessed with nature and the power of food to support a healthy life. With this goal in mind, she and Eric decided to begin 221BC Kombucha. Their mission goes beyond selling kombucha. Kombucha is simply one step that can serve as a gateway to healthy living.
+* 221BC's product line offers several unique flavor blends, including:
+* Berry Hibiscuss
+* Grapefruit Bee Pollen
+* Ginger
+* Moringa Lavendar
+* Orange Turmeric
+* Jun Honey Matcha
+* Lemon Cholorophyll
+* Acai Beet
+* Reishi Chai Core
+* Yerba Power Green Core
+* Yerba Power Berry Core
+* 221BC is sold throughout and in a few major regional markets throughout the US, as well as abroad. Its channel of distribution is indirect in that it is sold through retailers such as Publix and Whole Foods. It is also sold on tap at healthy food bars and yoga studios. The company uses a premium pricing strategy with each bottle priced at or around $3.99 to $4.29. Competitively, 221BC is a relatively small player in a market overflowing with major brand like GT's Living Foods and Health-Ade as well as regional and niche brands.
+* The company plans to use social media marketing to facilitate achieving its marketing objectives. Throughout an ongoing case study in this book, we'll walk side by side with Aneta and Eric and 221BC plans its social media marketing strategy. Currently, 221BC is active in the Social Community zone. you can follow 221BC and Aneta:
+* Instagram: @kombucha221bc and @aneta_lundquist
+* Facebook: www.facebook/kombucha221BC/
+* Twitter: @kombucha221bc
+* In Chapter 1, we learned that social media marketing can be used for promotion and branding, market research, service recovery, retailing and e-commerce and sales. 221BC's specific objectives fall into these categories: 
+* to increase brand awareness
+* to promote the brand's image and position the brand as superior to national brands
+* to encourage product trial
+* to facilitate purchase
+* to reinforce brand loyalty
+
+DISCUSSION QUESTIONS
+1. What is 221BC's marketing mix?
+2. Why might 221BC be interested in using social media marketing as a promotional strategy?
+3. In which zones of social media marketing is 221BC active? How could the company use the other zones?
+4. What are 221BC's social media marketing objectives? How can social media facilitate these objectives?
+
+===
+
+REVIEW QUESTIONS
+1. How do you define social media? Social media marketing?
+2. What are the supporting components of the Social Media Value Chain?
+3. What role did Web 2.0 play in the development of social media?
+4. What is crowdsourcing?
+5. What is social software? Give two examples
+6. How are devices and Internet of Things (IoT) related?
+7. What are the four zones of social media? How do social media compare to traditional media?
+8. Explain the concept of psychic income, also known as social currency.
+9. How can brands use social media to develop earned media value?
+10. What is social CRM? How is it different from traditional CRM?
+
+EXERCISE
+1. What is a monetization strategy? Visit Twitter.com and explain how Twitter monetizes its business. Do the same for Snapchat.
+2. Should online services like Facebook and Google Docs be free? Poll your classmates and friends (including your social network) to find out what they think should be free. Use the polling features available on Facebook to conduct your poll. What do the results say about the possible monetization strategies available to social media providers?
+3. Watch the Ted Talk in which Eli Pariser explains the risk of a world lived in a filter bubble. Do you think the convenience of algorithmic solutions warrants the risks to human experience? Is social networking even social anymore? You can find the video on the Ted Talks at www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en.
+4. Brands include social media lingo in ads designed for traditional media. The practice is known as **borrowed interest**. For example, an ad using this tactic might leverage the world "like" and a thumb-up symbol or include the word "hashtag" in conversation. Are these "ripoffs" of social media culture effective? Explain.
+5. Social funding sites like Kickstarter promise to use crowdsourcing to fund worthy projects. Visit Kickstarter and assess the participation in a project. What do you think spurs participation in the funding process?
+
+# Chapter 2: Social Consumers
+LEARNING OBJECTIVES
+1. Why do social medi marketers need to understand the behaviour of consumer segments? What are the bases of segmentation used to group consumers?
+2. What are the elements of social identity? How do individuals build their social identities? How are these identities relevant to marketers?
+3. What behaviours are exhibited by people using social media? To what extent are people participating in the four zones of social media?
+4. How can we explain the motives for participation in social media activities? What attitudes are most relevant for our understanding of social consumer behaviour?
+5. What are the most important segments of social media consumers? What do they tell us about targeting users of the social web?
+
+## SEGMENTATION AND TARGETING FOR SOCIAL MEDIA MARKETING
+* Marketers rely upon consumer insights to plan effective social media marketing strategies. Whether planning a campaign that will be executed entirely in social media or one for which social media are one component of an integrated marketing communications (IMC) campaign, understanding the needs, beliefs, and behaviours of the target market is key. Marketers use these insights to develop buyer personas that facilitate the strategic planning process. This is the focus of Chapter 2. We'll review the basics of segmentation, discuss individual and group behaviours in social media and why those behaviours occur, and detail segments found in social media communities.
+
+## PROFILING THE TARGETED SEGMENTS
+* Marketers value social media marketing strategies and techniques, but social media marketing will work only to the extent that these new media platforms can reach the customers that organizations want to talk to in the digital space. Marketers target specific segments whose needs they believe the brand is capable of satisfying in exchange for meeting organizational objectives. **Market segmentation** is the process of dividing a market into distinct groups that have common needs and characteristics. Segmentation enables marketers to achieve a trade-off between the efficiency of treating all customers the same and the effectiveness of addresssing all customers' unique characteristics. Marketers use several variables as the basis to segment markets, including geographic, demographic, psychographic, benefits sought, and behaviour. These characteristics represent the **bases of segmentation** marketers use when they divide a population into manageable groups.
+* Marketers utilize these variables to segment and identify target audiences regardless of what kind of strategy will be used. But when it comes to social media marketing, we need to also take into account how prospective customers can be segmented according to their digital lives. Although it may seem like everyone is online, and most everyone is on Facebook, the extent to which a person's life is digital varies based on his or her lifestyle, personality, demographics, and even his or her geographic and economic conditions. For B2C (business-to-consumer) marketers, understanding these segments and how their attitudes and behaviours differ is a critical component in devising an effective social media marketing strategy. Marketers use this information and insight to develop profiles that help marketers make better campaign choices. Likewise, B2B (business-to-business) marketers also benefit from segmentation-driven targeting. Table 2.1 reviews the segmentation bases and exemplar variables. Let's briefly review the bases of segmentation and try to understand how these variables translate into the online world.
+
+                Segmentation Base: Demographic/Firmographic
+                Brief Description: Grouping market units by categorical, description, characteristics, answers' "who" questions
+                Consumer Markets:
+                        * Age
+                        * Gender
+                        * Income
+                        * Occupation
+                        * Marital status
+                        * Family life cycle
+                        * Education
+                        * Socio-economic status
+                * Busienss Markets:
+                        * Industry vertical 
+                        * Size
+                        * Performance 
+                        * Structure 
+                        * Ownership
+                        * Years in business
+                        * Customer type
+                        * Technology
+                
+                Segmentation Base: Geographic
+                Brief Description: Grouping units in the market using variable tied to location, answers "where" questions
+                Consumer Markets:
+                        * Region
+                        * Country
+                        * Geospatial data (e.g., geocode)
+                        * Market size
+                        * Population density
+                        * Climate
+                        * Environmental context (e.g., Indoor or outdoor)
+                        * Language
+                Business Markets:
+                        * Region
+                        * Country
+                        * Density
+                        * Infrastructure
+                        * Regulation
+                        * Language
+
+                Psychographic:
+                Grouping market units using psychological, sociological, and anthropological variables; answers "why" questions
+                Consumer Markets:
+                        * Motives
+                        * Personality traits (e.g., openness, need for variety, impression managemnent)
+                        * values
+                        * Attitudes
+                        * Interests
+                Business Markets:
+                        * Buyer motives
+                        * Organizational personality (i.e., organizational culture, decision style, risk tolerance)
+                        * Values (e.g., deal seeker, partner-focused)
+                        * Attitudes
+                        * Interests
+
+                Behavioural:
+                Grouping market units based on past or predicted behaviour; answers "how" questions
+                
+                
+                        
+
+
+
+
+page 40
