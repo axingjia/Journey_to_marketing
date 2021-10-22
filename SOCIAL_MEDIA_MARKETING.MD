@@ -619,9 +619,87 @@ RESULTS AND OUTCOMES
 * Next, you should find out whether your desired username is available in the many social communities. Services like Namechk.com make this easy. A sign of the times--parents are using services like this to choose baby names (to find a unique name) and then registering their newborns in social networks to reserve the handle!
 
 ### YOUR SOCIAL BRAND IN THE AGE OF SELFIES
-                        
+* The first selfie was shared in early 2011, and in just a few years the hashtag #selfie has been used on Instagram more than 185 million times. That's just one social vehicle and one hashtag. People use the hashtag #me just as much! A hashtag is a word or phrase comprised of letters, numbers, and/or emojip receded by what was once referred to as the pound symbol (#). Your selfies are indicators of your social brand and, like your handle, they differ from many other sources of information that make up your social identity. Aspects of your identity over which you have a great deal of control are thought to be active, while activities associated with typical participation in social channels are thought to be more passive. The less control you have over the information, the more passive it is in terms of influencing your identity. A selfie is one of the most active aspects because you are in control. You may take several shots, but you publish only the ones you like--if you publish it all.
+* We'll explain later in this chapter how marketers can use the information that makes up your social identity to target you more effectively, but what does your social identity say to others? To your friends, family, employers, teachers? That's the question Andy Beal addresses in Repped, a book designed to show people how to protect their own reputations in a social economy. Why is it important? Because, as we discussed in Chapter 1, social media are a reputation economy. Brian Solis perhaps said it best: "Think about it this way. When you look in the mirror, you see a reflection of who you are right now. What if you could transform that reflection each day into someone you hoped to see staring back at you?" You can with the choices you make. Solis suggests that people conduct their own social activity audit. Sounds like a useful activity? It should. It's a personal version of a **social media audit**, the exercise marketers use to assess the situation and their competitors' social presence! A personal audit should categorize social media activity according to the values expressed in the social engagement:
 
-page 52
+                * Vision: a vision post answers the questions: "Did I learn something? Was I inspired?"
+                * Validation: a validation activity answers the question, "Am I accepted by a group?"
+                * Vindication: a vindication post informs others, "I am right."
+                * Vulnerability: a vulnerability post opens one's self to others, "I am approachable."
+                * Vanity: a vanity post reveals a tendent to narcissism, "Look at me. I am all that".
+
+* Footprints should reveal a social identity that is balanced. We all have aspects of these avlues inside. But when our footprints are focused more in certain areas, we may inadvertently paint a distored picture of ourselves.
+* Once you've completed the audit, you will be ready to cultivate a personal brand identity using social media. Daniel Tolliday of  the Social media Examiner poses five questions--the answers will guide your choices as you build your social brand:
+
+                * What goal are you seeking to accomplish?
+                * What do you want to be known for?
+                * What groups and people are active in your desired field and which social media channels do they use?
+                * What can you do to communicate your desired social brand identity while also differentiate yourself from others?
+                * What visual elements will support the image you want to accomplish?
+
+* Who knows! You could become the next "it" social media influencer. That's one of the exciting benefits of social media. Anyone with a unique point of view can gain a following.
+* To summarize, your social footprint leaves evidence of where you are and where you've been. Your lifestream is the journal of your digital life. Taken together, they make up your social brand, what marketers call your social identity. When you look at this evidence, we think you'll agree: youare what you share.
+
+### CRITICAL REFLECTION
+WHICH RIGHT MATTERS MOST? THE RIGHT TO KNOW OR THE RIGHT TO PRIVACY?
+* We've warned that reputation is everlasting in the realm of social media. But is that really so? The Court of Justice of the European Union thinks differently. Under Data Protection Directive, its so-called Right to be Forgotten ruling, the Court declared that people have a right to control, at least to some extent, the access others have to digital information about them. In other words, if you don't like some of the information that makes up your social identity, just ask Google that it not be found! And yes, your public activities in social communities are indexed! Try Googling yourself to see what others could see. While you may appreciate this "do-over" approach to burying past mistakes, it creates tension between the right to privacy and that of free speech. Japan's top court recently ruled on a right to be forgotten case and determined that the country's legal system prioritizes the public's right to know over privacy. Denying a plaintiff's bid to remove search results on Google about his child pornography-related criminal record, the high court said that search engines assist users in obtaining necessary information from massive volumes of data and, therefore, play pivotal roles in modern society's Internet-based information distribution. The court listed six factors to guide society's Internet-based information distribution. The court listed six factors to guide future cases in determining which should be suspended--freedom of speech or privacy:
+
+                1. nature and content of information resulting from search engine search
+                2. plaintiff's damage
+                3. plaintiff's social status and power
+                4. searched articles' objective and meaning
+                5. societal conditions
+                6. necessity of posting searched information
+                
+===
+
+* Google recently won a landmark case in which the EU's top court ruled that Google does not have to remove links globally--only in Europe. Thus, even those who have the right to be forgotten are faced with some geographical limitation.
+
+### EXHIBIT 2.2
+COMPANIES USE SELFIE TOO!
+* GT's Living Foods, the leading brand of kombucha, is just one of several brands, like Toyota, Mastercard, Disney, and Tarte Cosmetics, leveraging the popularity of selfies in marketing campaigns. GT's decided to use the #selfie trend to inspire kombucha fans to submit user-generated content. The brand released a video encouragin viewers to post selfies with a GT's Kombucha bottle and the hashtag #infullbloom. For each selfie, the brand donated $5 to Lady Gaga's Born This Way Foundation. The connection to a charity enabled GT's to leverage the altruism motive to participate in social media and the selfie appealed to the validation impulse.
+
+## MOTIVES AND ATTITUDES INFLUENCING SOCIAL MEDIA ACTIVITIES
+* Web users increasingly participate in social networks such as Facebook, play online social games (turn-based, multi-player games designed to be played within social networks) such as Candy Crush within the network community, watch videos, listen to music, comment on the posts of friends, update status messages, and share content. Likewise, brands are active on these sites as they add content and try to converse with consumers. Research from GfK identified the top social activities:
+
+                * visiting a friend's profile page
+                * commenting on a friend's post
+                * sending a private message
+                * watching a video
+                * posting pictures
+                * linking a post
+                * updating status
+                * follwing, liking, or becoming a fan of somet hign or someone
+                * playing a social game
+        
+* **For marketers, understanding the motives for social media participation can facilitate the design of effective social media marketing campaigns. What motives are behind participation in social media? Chances are there are many reasons that drive your activity in social communities. Some of these motives probably seem like no-brainers, but others may surprise you. These are the most common impulses researchers have identified:
+
+* **Affinity impulse**: social networks enable participants to express an affinity, to acknowledge a liking and/or relationship with individuals and reference groups. Affinity relates to the affective dimension of social identity. When you use Facebook to stay in touch with high school friends and to make new friends, you are responding to the affinity impulse. This is also referred to as a social function. When people contribute to social communities for this reason, they do so to form friendships and feel a sense of belonging. The affinity impulse is related to a person's desire for social capital. **Social capital** refers to the resources created by the **building and maintaining of relationships in social networks.**
+* **Personal utility impulse**: While we tend to think of social media participation truly as community participation, some do consider, "What's in it for me?" This is the personal utility impulse and it may be one of the most important motives for brands to acknowledge. Studies of participation in social communities report that utility, whether in the form of information seeking, incentive seeking, entertainment seeking, or convenience seeking, is a major motive for social media activity. The findings are congruent with others utilizing a uses and gratification approach to understanding social media behaviour. For instance, one study found 60% of Internet suers used social media as a source of health-related information. Participants consulted online reviews of doctors, hospitals, and medical treatments; posted reviews of their own experiences; and posted questions in social networks
+* **Contact comfort** and **immediacy impulse**: people have a natural drive to feel a sense of psychological closeness to others. Contact comfort is the sene of relief we feel from knowing others in our network are accessible. Immediacy also lends a sense of relief in that the contact is without delay. Do you feel lost without your mobile phone? Do you feel anxious if you haven't checked Facebook recently? When you rely to a message, do you keep checking for a response? These are indicators of your need for contact comfort and **contact immediacy**. Social media users even seek contact comfort and immediacy from brands. One study found that nearly 40% of respondents believed brands were very likely to engage with them on social networks and 25% expected a response within an hour of leaving a comment on a brand's Facebook or Twitter page. In another study, participants named timeliness and speed of response and sense of connection among the attributes they associate with the most successful brands using social media.
+* **Altruistic impulse**: some participate in social media as a way to do something good. They use social media to "make the world a better place", and "pay it forward". The altruistic impulse is also aided by the immediacy of social media, and this value has been played out in the **immediate altruistic response** of social media suers to aid calls during crises such as the earthquake relief for Haiti or Japan. Individuals want to do good an do it quickly--social media make it easier to contribute in the form of a cash donation or a service to the community. The altruistic impulse serves a value-expressive function in that it enables individuals to express their own moral beliefs through their social media behaviour. Altruism can also explain negatively valenced social media activities including **altruistic punishment**, in which social media users seek to draw attention to a company or person whose behaviour is unacceptable to the social community. Beware of the difference between the altruistic impulse and affinity and validation impulses. Known as **virtue signaling** (and sometimes "hashtag activism" or "slacktivism"), people may give token support for a cause with a simple post-share or like. The altruistic impulse is intrinsically motivated. If the underlying motive is to affirm a relationship, publicity build one's image, or shame others, altruism is not the social media motive at play.
+* **Curiosity impulse**: When people use social media to gain new knowledge and stimulate intellectual interests, **epistemic curiosity** is the driver. Another form of curiosity is the **pruient impulse**. Online, we can satisfy our curiosity by "following" people on Twitter and visiting their profiles. Surely it is the pruient impulse that led millions of Twitter users to follow Kim Kardashian's daily tweets, while millions of other relentlessly tract the ups-and-downs of Justin Bieber--will he prevail, or crash and burn?
+* **Validation impulse**: social media focus intently on the individual. You can share many or as few of your opinions and activities as you like, and comment on those of others. This focus on the self highlights the validation impulse, in other words, feeding one's own ego. That's why the validation impulse is sometimes referred to as the ego-defensive function. This function is thought to be particularly relevant as people seek to eliminate perceived external threats and eliminate self-doubts. Certain behaviours are affiliated with people driven by the validation impulse. These include the prevalence of selfies among the mix of posts, a tendency to check to seek whether posts received "likes", a tendency to overshare, and a tendency to impression manage (e.g., promoting the perfect life). These were among the behaviours noted by researchers in a study that investigated types of narcissism in social media. Particularly on Facebook and Twitter, people may use posts to show superiority (particularly by expressing opinions) or to participate in exhibitionism. That's why Brian Solis, a thought leader in the realm of social media, advises to guard against the dreaded disease "accidental narcissm". Perhaps it's no wonder then that an analysis of Twitter posts found that 80% were posted by "meformers" and just 20% by informers. Meformers post updates primarily related to themselves such as commentary on their daily mood and acitivites, while informers post updates that share and/or link to information. Though informers were less prevalent, the study revealed that they have twice the number of followers as meformers.
+
+* Though all of these motives have been linked to social media participation, one study suggested tht the validation motive, and especially the aspect related to developing a desirable image, is the dominant driver of social media activities. Whether a conscious decision or not, image management is a major factor in social media participation. Particularly when one is narrowcasting (i.e. communicating with just one person) rather than braodcasting (i.e., communicating with multiple people), people will avoid sharing content that makes them look bad. How can we know whether our friends are revealing their "true selves" to us online? The answer may be in the content--a study of true self-expression on Facebook found that people who felt comfortable sharing their "true self" tended to post personally revealing and emotional content. Earlier we encouraged you to audit your social media activities and to consider using social media to brand yourself. As part of the exercise, you may want to consider how mcuh separation between personal friends and professional colleagues you prefer and whether you will use social media as a tool for enhancing your professional reputation. The choices you make will result in one of four strategies to guide the boundaries you set between personal and professional contacts while accomplishing your goal. Figure 2.4 illustrates the four strategies and includes recommendations to guide your social media activity.
+
+                FIGURE 2.4: A Framework for Understanding Social Sharing Boundaries
+                Self-verification, Integration: 
+                        Open boundary management behaviour: Open your profiles to personal and professional contacts
+                
+                Self-verification, Separation: 
+                        Audience boundary management behaviours: Exclude professional contacts from your social media profiles
+
+                Self-enhancing, Integration:
+                        Content boundary management behaviours: Open your profile to friends and colleagues, but manage the content that you post
+                
+                Self-Enhancing, Separation:
+                        Hybrid boundary management behaviours: Keep personas separate by managing oth audience and content
+
+## PRIVACY SALIENCE: HOW MUCH DO THEY KNOW AND HOW MUCH DO YOU CARE?
+
+PAGE 58
+
 
 # PART IIIL THE Four Zones of Social Media
 
