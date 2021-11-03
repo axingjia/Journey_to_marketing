@@ -946,8 +946,112 @@ INFLUENCER CASEY NEISTATE USED SOCIAL CAPITAL FOR GOOD
 
 page 94
 
+## THE RISE OF INFLUENCERS
+* Although consumers get information from personal sources, they do not usually ask just anyone for advice about purchases. If you decide to buy a new sound system, you will most likely seek advice from a friend who knows a lot about this topic. This friend may own a sophisticated system, or may subscribe to specialized magazines such as Stereo Review and spend her free time browsing through electronic stores. However, you may have another friend who has a reputation for being stylish and who spends his free time reading Gentleman's Quarterly and shopping at trendy boutiques. You might not bring up your sound system problem with him, but you may take him with you to shope for a new fall wardrobe.
+* **Opinion leaders** (also known as **influencers** or **power users** in some communities) are people who others view as knowledgeable sources of information. They have a strong communication network that gives them the ability to affect purchase decisions for a number of other consumers, directly and indirectly. **Five characteristics help to describe them: 1) activists, 2) connected, 3) impact, 4) active minds, and 5) trendsetters.** In other words, opinion leaders develop a network of people through their involvement in activities. They are active participants at work and in their communities. Their social networks are large and well developed. Others trust them and find them to be credible sources of information about one or more specific topics. They tend to have a natural sense of intellectual curiosity that may lead them to new sources of information.
+* Because of their reach and ability to drive engagement with interesting content, influencers have become a sweetheart for social media marketing. According to a study by MediaKix, **80% of marketers find influencer marketing effective and 89% say the return on investment from influencer marketing is comparable to or better than other marketing channels.** Marketers are using influencer marketing to drive brand awareness, reach new audiences, and generate sales. Before we explore influencer marketing further, let's review the underlying characteristics of influencers.
+* Opinion leaders exist in all social communities. It is a natural pattern for some members to be more active and to acquire positions of authority within a group, whether offline or online. The source of the influence itself, however, originates from the power bases an influencer may possess.
+* How can someone acquire power? French and Raven identified in their classic article, **The Bases of Social Power", several sources of power individuals can accrue in organizations. These sources of power include the following:
 
-PAGE 
+* **Reward power**: one's ability to provide others with what they desire.
+* **Coercive power**: the ability to punish others.
+* **Legitimate power**: organizational authority based on rights associated with a person's appointed position.
+* **Referent power**: authority through the motivation to identify with or please a person
+* **Expert power**: recognition of one's knowledge, skills, and ability.
+* **information power**: one's control over the folow and access to information
+
+* Of course, marketers always want to identify opinion leaders and get them on their team. These people often are the linchpin in a communication strategy; once an opinion leader decides he or she loves your product, it's just a matter of time before others in that person's network hear about it as well. Thus for purchase decisions, opinion leaders are extremely valuable information sources due to their social power.
+
+* They are technically competent so they possess expert power.
+* They prescreen, evaluate, and synthesize product information in an unbiased way, so they possess knowledge power
+* They are socially active and highly interconnected in their communities.
+* They are likely to hold positions of leadership. As a result, opinion leaders often have legitimate power by virtue of their social standing.
+* they tend to be similar to the consumer in terms of their values and beliefs, so they possess referent power. Note that although opinion leaders are set apart by their interest or expertise in a product category, they are more convincing to the extent that they are homophilous rather than heterophilous. **Homopilly** refers to the degree to which a pair of individual is similar in t erms of education, social status, and beliefs. Homophily can predict collaborative online relationships and connectivity, whether in professional collaborations like a new product development project or in reciprocal kindnesses among friends in an online network of musicians.
+* Effective opinion leaders tend to be slightly higher in terms of status and educational attainment than those they influence, but not so high as to be in a different social class.
+* Opinion leaders are often among the first to buy new products, so they absorb much of the risk. This experience reduces uncertainty for the rest of us who are not as courageous. Furthermore, whereas company-sponsored communications tend to focus exclusively on t he positive aspects of a product, the hands-on experience leaders make them more likely to impart both positive and negative information abour product performance. Thus, they are more credible because they have no "axe to grind".
+
+* Opinion leaders in social communities are most likely to deliver these influence impressions: only 6.2% of social media users are responsible for about 80% of impressions. Forrester calls these influencers **mass connectors**, paying homage to Malcolm Gladwell's popular book The Tipping Point. Gladwell posits that three factors work to "tip" a trend, in other words to ignite interest in an idea, behaviour, or product: the law of the few, stickiness, and the power of context.
+
+1. The law of the few proposes that three types of people help to spread viral messages:
+
+                * **Maven** are people who are knowledgeable about many things
+                * **Connectors** are people who know many people and communicate with them
+                * **Salespeople** are people who influence others with their natural persuasive power.
+
+2. If an idea is sticky, this means it has memorable impact and it stays with us for a long time. Indeed, web designers use the term "stickiness" to describe the extent to which a website captures people's interest so that they stay on the site for a long time.
+3. Lastly, Gladwell acknowledges that ideas spread more easily when conditions are right--that's the power of context.
+
+* Though opinion leaders exist in social communities, these communities have also given rise to a different type of influencer--the microcelebrity (also called microinfluencers). Microcelebrities build influence using a self-presentation technique that involves establishing a sense of intimacy with their audiences by sharing content in one or more social communities. Though these influencers are self-branding, the technique ensures they are perceived as authentic, transparent, and relevant. Compared to traditional celebrities, microcelebrities have smaller audiences; they are classified as social personalities with 1000 to 100,000 followers, but they often have higher engagement rates and more influence in their communities. Unlike traditional celebrities who may have large audiences across several social network sites, these influencers tend to specialize in one community. Over time, their audience can grow. Kayla Itsines, a fitness trainers from Australia, is an example. She regularly shares before and after photos of women who follow her fitness protocol, as well as training videos, and pictures of healthy food on Instagram. Her following is now in the several millions; even Time magazine heralded her positive influence motivating women to make better fitness choices as a "virtual movement.
+* Figure 3.3 describes a few of the archetypes that characterize social media influencers and examples of the types of brands that work with each archetype. This won't be our only discussion of the role of influencers in social media marketing. Brands partner with influencers to seed campaigns, drive impressions, and increase the likelihood that campaign content will go viral.
+
+                Figure 3.3: Archetypes of Social Media Influencers
+                
+                * The Balance Life
+                        * Description: This type of influencer eats well, exercises and still make time to live an all-round healthy lifestyle.
+                        * Brands that use this archetype: Bai, Under Armour, Beta Brand
+                        * Examplar: Jessenia Vice turns negative to positives and focuses her podcasts and Instagram posts on fitness, motivation, and overcoming adversity.
+
+                * The Friend Zone
+                        * Description: Online friend squads that create comedic content focused on collaboration across channels
+                        * Brands that use this archetype: Lego, Hotpockets
+                        * Examplar: LankyBox is led by two comedic influencer: adam & Justin. Their content is funny and family friendly
+
+                * Fashionista Coach
+                        * Description: These influencers are fashion icons with their own personal identity
+                        * Brands that use this archetype: Kate Spade, Adidas, Victoria Secret
+                        * Examplar: Karlie Kloss, former Victoria's Secret Angel and fashion model, uses her unique insight into the world of fashion to inspire fashionistas around the world
+
+                * Gaming Hero
+                        * Description: Gaming heros amass followers seeking entertainment as well as tips and techniques to improve their own games
+                        * Brands that use this archetype: Warner Brothers, Motorola, Red Bull
+                        * Examplar: Mari Takahashi, who uses the handle AtomicMari, shows that Gaming Heros aren't always male.
+
+                * The Charismatic Cook
+                        * Description: These influencers are relatable and fun, evolving from the Zen-alike online chefs and food stylists of years past.
+                        * Brands that use this archetype: Blue Apron, Kraft Foods, Wolf
+                        * Examplar: Mariam Ezzeddine, shares inspirational and healthy recipes and photos on Instagram
+
+                * The Adventurer
+                        * Description: The adventurer creates a lifetime narrative of storylines that blend across journeys and borders. 
+                        * Brands that use this archetype: GoPro, Northface, Patagonia, Travelocity
+                        * Examplar: Megan Jerrard has tarvelled the world sharing her adventures via her blog, Instagram, Twitter, and Facebook
+                
+                * The Fitspiration
+                        * Description: The fitspiration archetype makes you want to move, sharing workout and stretching tips
+                        * Brands that use this archetype: Lululemon, GNC, SmartWater
+                        * Examplar: Anllela Sagra, a Colombian fitness guru, shares workouts and fitness inspiration on Instagram and Youtube
+                
+                * The Beauty Expert
+                        * Description: The beauty expert is a master of hair and/or makeup. This glamazon will show you how to get the look from beginning to end.
+                        * Brands that use this archetype: Maybelline, MAC, Suave, Nivea
+                        * Examplar: Manny Gutierrez highlights beauty tips like how to line the perfect brow, on Youtube and Instagram
+
+## MINI CASE STUDY
+INFLUENCER MARKETING
+* Influencer marketing is one of the fasting growing strategies for marketers, and agencies like Linqia, Grapestory, and Everywhere have developed to match marketers and influencers and plan effective influencer campaigns. Influencers provide reach for marekters but there are other benefits as well. A study of marketers using influencers in campaigns revealed a plethora of reasons for the rising popularity of influencer marekting. When asked why they chose to work with influencers, 73% of participants noted that the influencers were relevant to their target audience, 72% wanted to leverage the influencers' authenticity and trusted voice, and 60% sought to spark audience engagement.
+* Working with influencers is also an efficient way to create content for social media. Traditionally, brands pay professional content creators (e.g., photographers, videographers, writers) to produce content, whether it be a blog post, photo, video, how-to article, or recipe. This can be expensive and time consuming. When brands work with influencers, content is typically a part of the deal. According to the study, 50% of marketers pay influencers a flat rate to produce each piece of content, in the same way that they would engage a professional content producer. On average, this typically costs 2.6 times less than working with a professional for a similar output. It also allows the marketers to categorize the production as a "working spend" because the influencers are sharing the content with their audiences. **Working spend** is a term used to describe investments that reach the target audience such as advertising and event marketing. **Non-working spend** is any cost attributed to creating campaign assets, planning, or managing the campaign. Lacey Meece, strategist for Ragu, explained: "Something as simple as recipe ends up being an  excruciatingly long and expensive process when professional produced. First, we have to pick a product to feature, then hire a food scientist that charge a per recipe fee. Next, we bring in photographers and videographers to shoot the visuals. Working with influencers is far more efficient--they each have their own style and voice and can quickly churn out audience recipes, photos, and videos at scale". Ragu partnered with lifestyle influencer Dzung Duong of the popular Youtube channel Honeysuckle to develop recipes for its Homestyle line of sauces.
+* Creating enough good content is a major challenge for social media marketers. Influencers add value by not only reaching more consumers but also creating content that can repurposed for use across a brand's social media channels. Most marketers are repurposing influencer-generated content: 84% post influencer content on the brand's organic social media accounts and 72% drive attention to the content using paid social media.
+* Are influencers effective? Nestle's Gerber thinks so. When Gerber launched its Lil' Beanies product and wanted to drive awareness and trial in key markets through Publix, Target, Walmart, and Kroger, it chose influencers as a key part of the social media strategy. The navy-bean-based snack for toddlers has two grams of protein per serving, is non-GMO, and contains no artificial flavors or colors. The advertising budget for the product launch was small and the strategy needed to showcase the brand's alue proposition. Using mommy bloggers as influencers was the perfect solution.
+* The hook? Lil' Beanies is a great snack for toddlers. Who were the influencers? Several influencers participated, including Kristy of Mommy Hates Cooking, Shannon of Mom Without Labels, and Susie of Not Quite Susie Homemaker. The bloggers clearly labeled the blog posts as sponsored but also shared their stories with the brand. As important as conveying the positive nutritional information was, the bloggers were able to illustrate that their kids like the snack. Check out their posts to see how the influencers promoted the product while staying true to their followers.
+* Effective? We'd say so! The campaign resulted in a reach of more than 56 million impressions and 260,000 interactive engagements. It also produced more than 9,000 pieces of content that could be repurposed in Gerber's social media activities. The proudct achieved a 5% sales life during the campaign, suggesting that the campaign drove sales as well as awareness.
+
+===
+
+* In summary, influencer marketing will likely remain a key social media marketing approach well into the future. When selecting influencers, marketers use the following factors to choose the right influencers for their campaigns.
+
+* Quality of content: 81%
+* Target audience: 78%
+* Engagement rate: 73%
+* On-brand messaging or aesthetic: 56%
+* Budget: 50%
+
+===
+
+## CRITICAL REFLECTION
+CHALLENGES FACING INFLUENCER MAREKTING
+* Influencer marketing may be today's social media darling, but it comes with challenges. In a study of influencer marketing challenges, MediaKix found that 50% of marketers were concerned about spotting fake followers, 49% worried about changes to the algorithms used by social network sites, 38% were pressured by the rising costs of influencers, 28% felt brand safety and alignment with influencers was an issue, and 18% worried about influencers breaking Federal Trade Commission (FTC) regulations and guidelines. Instagram has cracked down on third-party services that sell fake followers and inauthentic engagement, but concern over fake followers remain omnipresent. It's possible that companies remain skepitcal because Instagram has not disclosed the scope of third-party apps targeted in the update and because the platform has been caught selling ad space to the same follower-buying services that it banned.
+
+page 100
 
 
 # PART IIIL THE Four Zones of Social Media
