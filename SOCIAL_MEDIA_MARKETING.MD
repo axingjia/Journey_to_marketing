@@ -1050,8 +1050,257 @@ INFLUENCER MARKETING
 ## CRITICAL REFLECTION
 CHALLENGES FACING INFLUENCER MAREKTING
 * Influencer marketing may be today's social media darling, but it comes with challenges. In a study of influencer marketing challenges, MediaKix found that 50% of marketers were concerned about spotting fake followers, 49% worried about changes to the algorithms used by social network sites, 38% were pressured by the rising costs of influencers, 28% felt brand safety and alignment with influencers was an issue, and 18% worried about influencers breaking Federal Trade Commission (FTC) regulations and guidelines. Instagram has cracked down on third-party services that sell fake followers and inauthentic engagement, but concern over fake followers remain omnipresent. It's possible that companies remain skepitcal because Instagram has not disclosed the scope of third-party apps targeted in the update and because the platform has been caught selling ad space to the same follower-buying services that it banned.
+* Influencer fraud occurs when an influencer falsifies estimates of his or her reach and social impact, whether through purchased followers or inauthentic engagement. According to CBS News, influencer fraud cost brands more than $1.3 billion in 2019. Companies spend an estimated $8.5 billion annually to persuade influencers to market their products. The problem? About 15% of the corporate dollars spent are lost to fraud, because influencers don't always have as many real followers as they claim. Brands typically pay influencers based on their reach, as measured by their number of followers. The sng, however, is that influencers sometimes buy fake followers, meaning brands pay for access to prospective customers who essentially don't exist. When an influencer profile is relatively new, but has a larger number of followers, this might be fraud. Influencers may also try to improve their engagement scores by using bots to engage with their posts. These forms of fraud are hard to spot because there's no automated method for identifying influencer fraud. It's a manual and time-consuming validation process.
+* Brands aren't the only vitctims of influencer fraud. Regular people can be scammed too. That's because there's an increase in so-call virtual influencers, computer-generated images managed by bots. While some are cartoonish and easily identified, others are so life-like that they appear to be real. What's surprising is that virtual influencers are earning engagement rates that are three times the average for real influencers. So who are these virtual influencers? Lilmiquela is the most popular virtual influencer with nearly two million followers. Other popular virtual influencers include Noonoori and Imma.gram.
+* In addition to preventing influencer fraud, social media marketers are also concerned with managing compliance and disclosure requirements by the Federal Trade Commission. To that end, the FTC wants to create more transparency in sponsored content by placing more onus on brands and influencers to openly divulge the relationship between companies and the influencers recommending their products or services. We'll talk more about the FTC and influencer compliance in Chapter 7.
 
-page 100
+===
+
+## CASE STUDY
+221BC'S SOCIAL INFLUENCE OPTIONS
+* 221BC embraces the culture of social media as a way to spread its mission of kombucha as a gateway to a healthy lifestyle. As Aneta said, "When I started doing this, I knew I would be big business. I want to make the world a more beautiful, healthier place. The people I hire for our sales team have the same mission and the same principles. And we use a lot of social media to spread the message.
+* When it comes to social communities and influencers. 221BC has a world of options. In terms of social objects, 221BC has focused on photos and videos on Instagram. But many other social objects may fit its mission and target market such as recipes, tips , motivational quotes, and coupons. Those objects and where its target audience is active on social media will determine the social network sites 221BC should leverage in its social media marketing campaign.
+* In addition to social objects, 221BC may want to jump on the influencer marketing bandwagon. According to CreatorIQ, a data company that tracks campaigns of more than 5 million creator worldwide, influencer marketing campaigns have doubled in the past year. Instagram was the social network of choice of 93% of those campaigns.
+* Of course, 221BC won't be the first kombucha brand to use influencers. Health-Ade Kombucha partnered with health and fitness duo Tone-It-Up for a popular co-branded flavor, Bubbly Rose. Health-Ade partners with an influencer platform called Trend to help identify influencers and manage its influencer campaigns. Health-Ade CEO, Daina Slekye Trout, said, "Trend allows us to always have a fresh stack of creative content to use across our website, social accounts, and ads. The Influencers are a pleasure to work with and always find ways to surprise us with what they can create". Another kombucha brand, Dr. Brew, took a slightly different approach to influencer marketing. It has a student ambassador program (for students with more than 500 Instagram followers) across many university campuses. In exchange for two social promotion posts per week, Dr. Brew student ambassadors get free kombucha and Dr. Brew swag. GT's Living Foods leveraged a meme and organic influencer support! Magician influencer Zach King published a video of himself creatively unscrewing a GT's Kombucha bottle as part of the bottle cap challenge meme. GT's quickly scooped it up and re-posted with hearty praise. This was not a paid influencer sponsorship, but GT's recognizerd the value of King's following and made the most of the organic endorsement.
+* 221BC will need to identify influencers that may fit with its target market (identified in Chapter 2) and facilitate meeting its objectives. How do marketers go about selecting influencers? **While metrics like engagement rate certainly matter, the most important quality companies look for when evaluating influencers is the quality of their content. This suggests that strong creative content will be a key differentiator for effective influencer marketing. The second most important factor is influencer alignment with the company's target audience, which highlights the increasing importance of granular audience demographics data for influencer campaigns.** 221BC must keep in mind that the influencer charactertistics must align with its brand identity and its target audience. For instance, a female yoga influencer is a more natural partner for a kombucha drink than a male mindfulness expoert, even if their audiences are very similar.
+
+DISCUSSION QUESTIONS
+1. What social objects should 221BC share to engage its target market?
+2. How can 221BC leverage word-of-mouth communication?
+3. What memes could 221BC use to help the virality of its message?
+4. What influencer characteristics should 221BC seek out to choose possible influencers to use in its campaign?
+5. Check out an influencer platform like SocialPubli (socialpubli.com) and identify possible influencers you'd recommend for 221BC. Which influencers do you recommend and why?
+
+===
+REVIEW QUESTIONS
+1. What is the underlying structure of a network?
+2. How does information flow in a network? 
+3. What are the characteristics common  to commmunities, whether offline or online?
+4. Explain the meaning of social capital
+5. What is an opinion leader? What sources of power might accrue to opinion leaders?
+6. Why are social communities relevant for word-of-mouth communication?
+
+EXERCISE
+1. Visit an online community like PlayStation Community or Lego Ideas. What do you see in common among these communities? What's different? Does each so-called community really seem to be a unified group with a common culture? Explain.
+2. Review the lsit of friends you have on Facebook. How many of your friends are "weak ties" and how many are "strong ties"? Identify the relationship bonds you share with those in your strong tie group. Does Facebook help you strengthen both kinds of relationships? Why or why not?
+3. identify a current meme and track its origin, or create your own meme using a meme generator like www.memecreator.org.
+4. Search Instagram for hashtags related to a brand (e.g., #dunkindonuts). What kinds of influence impressions appear for the hashtag you searched? Can you identify key influencers who are sharing tweets with this specific hashtag?
+5. Discussion: How can we explain the Six Degrees of Kevin Bacon game as an example of social network theory?
+
+# PART II: SOCIAL MEDIA MARKETING STRATEGY AND PLANNING
+
+# CHAPTER 4: SOCIAL MEDIA MAREKTIGN
+LEARNING OBJECTIVES: 
+1. Where does social media marketing planning fit into an organization's overall planning framework?
+2. What are the phases of social media marketing maturity? how does social media marketing change for companies as they shift from the trial phase to the transition phase and eventually move into the strategic phase?
+3. What are the steps in social media marketing strategic planning?
+4. How can organizations structure themselves to support social media marketing?
+5. What are the key components fo an organizational social media policy, and why is it importan to have such a policy in place?
+
+## STRATEGIC PLANNING AND SOCIAL MEDIA MARKETING
+GT's Living Foods is buying into social media, big time. the company has strategically utilized several different social media zones, channels, and vehicles in recent years. The comapny has an active presence in social communities, including Youtube, Facebook, Instagram, Twitter, Pinterest, and Linkedin. It's committed to social media, including social media strategies in-house to lead its campaigns and "always-on" strategy. Because of its relevance to 221BC, we'll hear more about GT's approach to social media marketing in this chapter.
+* For marketers like those at GT's Living Foods, **strategic planning** is the process of identifying objectives to accomplish, deciding how to accomplish those objectives with specific strategies and tactics, implementing the actions that make the plan come to life, and measuring how well the plan met the objectives. The process of strategic planning is three-tiered, beginning at the corporate level, then moving the the business level, and lastly moving to the functional areas of the organization, including marketing. Planners first identify their overall objectives (e.g., "raise consumer awareness of our brand by 10% in the next year") and then develop the specific tactics they will use to reach those goals (e.g., "increase our spending on print advertising in targeted publications by 15% this year"). A **marketing plan** is a written, formalized plan that details the product, pricing, distribution, and promotional strategies that will enable the brand in question to accomplish specific marketing objectives. Table 4.1 provides a sample of an overall marketing plan structure.
+
+                TABLE 4.1: The Structure of a Typical Marketing Plan
+                THE MARKETING PLAN OUTLINE:
+                        QUESTIONS THE PLAN ADDRESSES
+
+                A: PERFORM A SITUATION ANALYSIS: 
+                
+                1. Internal Environment
+                        * How does marketing support my company's mission, objectives, and growth strategies?
+                        * What is the corporate culture and how does it influence marketing activities?
+                        * What has my company done in the past with its: Target markets? Products? Pricing? Promotion? Supply chain?
+                        * What resources including management expertise does my company have that make us unique? How has the company added value through its offerings in the past?
+                
+                2. External Environment
+                        * What is the nature of the overall domestic and global market for our product? How big is the market? Who  buys our product?
+                        * Who are our competitors? What are their marketing strategies?
+                        * What are the key trends in the conomic environment? The technological environment? The regulatory environment? The social and cultural environment?
+                
+                3. SWOT Analysis
+                        * Based on this analysis of the internal and external environments, what are the key Strengths, Weaknesses, Opportunities, and Threats?
+                
+                B: SETTING MARKETING OBJECITVES
+                        * What does marketing need to accomplish to support the objectives of my firm?
+                
+                C: DEVELOP MARKETING STRATEGIES
+
+                1.Select Target Markets and Positioning
+                        * How do consumers and organizations go about buying, using, and disposing of our products?
+                        * Which segments should we select to target? If a consumer market: what are the relevant demographic, psycholographi, and behavioural segmentation approaches and the media habits of the targeted segments? If a business market: what are the relevant organizational demographics?
+                        * How will we position our product for our markets?
+
+                2. Product Strategies:
+                        * What is our core product? Actual product? Augmented product?
+                        * What product line/product mix strategies should we use?
+                        * How should we package, brand, and label our product?
+                        * How can attention to service quality enhance our success?
+                
+                3. Pricing Strategies:
+                        * How will we price our product to the consumer and through the channel?
+                        * How much must we sell to break even at this price?
+                        * What pricing tactics should we use?
+
+                4. Promotional Strategies:
+                        * How do we develop a consistent message about our product? How do we best generate buzz?
+                        * What approaches to advertising, public relations, sales promotion, and newer forms of communication (such as social networking should we use?)
+                        * What role should a sales force play in the marketing communications plan? How should direct marketing be used?
+                
+                5. Supply Chain Strategies:
+                        * How do we get our product to consumers in the best and most efficient manner?
+                        * What types of retailers, if any, should we work with to sell our product?
+                        * How do we integrate supply chain elements to maximize the value we offer to our customers and other stakeholders?
+
+                D: IMPLEMENT AND CONTROL MARKETING PLAN
+
+                1. Action Plans (for all marketing mix elements)
+                        * How do we make our marketing plan happen?
+                
+                2. Responsibility: 
+                        * Who is responsible for accomplishing each aspect of implementing the marketing plan?
+
+                3. Timeline:    
+                        * What is the timing for the elements of our marketing plan
+                
+                4. Budget:
+                        * What budget do we need in order to accomplish our marketing objectives?
+                
+                5. Measurement and Control:
+                        * How do we measure the actual performance of our marketing plan and compare it to our planned performance and progress toward reaching our marketing objectives?
+
+* On second thought, what's wrong with jumping right into the game? Why should we take the time to plan? Although it's tempting to just follow our instincts, it turns out there is tremendous value in planning. Dumb luck and sweat take you only so far. Planning ensures that an organization understands its markets and its competitors. It helps to ensure that organizations are aware of the chaning marketplace environment. When organizational partners partipate in the planning process, they are better able to communicate and coordinate activities. Planning requires that objectives are set and agreed upon, which improves the likelihood of those objectives being met. It enhances the ability of managers to allocate limited resources using established priorities. Perhaps most of all, planning enables success to be defined. Success or the lack thereof becomes a measurable outcome that can guide future planning efforts.
+* it's increasingly common for organizations to include a heavy dose of social media in their marketing plans. The annual **Social Media Marketing Industry Report** provides data on the use of social media marekting by B2B and B2C marketers around the world. The more recent report revealed that 93% of all marketers indicated that their social media efforts have generated more exposure for their businesses, among other benefits. Whether large or small, B2B or B2C, most businesses recognize that social media should be integrated into their marketing plans. most are doing so for branding and demand generation purposes, but social media marketing is also valuable for managing customer service interactions and conducting market research. This upward trend will continue in the coming years.
+* It makes sense to include social media marketing in a brand marketing plan. Social media marketing has many applications for marketers. Social media can be a delivery tool to build buzz and word-of-mouth communication. It can efficiently deliver coupons and other special promotional offers. Social platforms can be the primary venue for the execution of contests media can also serve as efficient channels to manage customer service relationships and to conduct research for new product development. Not to mention, social media are relatively inexpensive ways to increase the reach and frequency of messages that are otherwise delivered via more traditional, big media methods.
+* Because the creative applications related to social media are somewhat unique, we will suggest an approach for developing an in-depth social media marketing strategy similar to an advertising plan (also known as an integrated marekting communications (IMC) plan or marcom plan) that provides in-depth detail on the execution of the (traditional) promotional portion of a brand's marketing plan. In the early days of social media marketing, many plans were developed for stand-alone campaigns that were not fully integrated into the brand's promotional mix. Today, social media marketing campaigns may serve as stand-alones and/or be a fully integrated media choice in the brand's marcom plan. Many marketers today strive for "always-on" social media to ensure consistent communicaitons and engagement with brand fans. Table 4.2 provides the structure of a social media marketing plan. We'll begin this process as we explore the strategic development of social media marketing plans. Then we'll cover the steps in strategic planning for social media marketing. Finally, we'll discuss structural approaches organizations can take to be prepared to execute their plans.
+
+                TABLE 4.2: A Social Media Marketing Plan Outline
+
+                I: CONDUCTING A SITUATION ANALYSIS AND IDENTIFY KEY OPPORTUNITIES
+
+                * Internal Environment
+                        1. What activtities exist in the overall marketing plan that can be leverage for social media marketing?
+                        2. What is the corporate culture? Is it supportive of the transparent and decentralized norms of social media?
+                        3. What resources exist that can be directed to social media activities?
+                        4. Is the organization already prepared internally for social media activities (in terms of policies and procedures)?
+                
+                * External Environment:
+                        1. Who are our customers? Are they users of social media?
+                        2. Who are our competitors? What social media activities are they using and how are social media incorporated in their marketing and promotional plans?
+                        3. What are the key trends in the environment (social, cultural, legal, regulatory, political, economic, and technological) that may affect our decisions regarding social media marketing?
+
+                * SWOT Analysis:
+                        1. Based on the analysis, what are the key strengths, weaknesses, opportunities, and threats?
+                
+                II: STATE OBJECTIVES AND ALLOCATE RESOURCES
+                        1. What does the organization expect to accomplish through social media marketing (promotional objectives, service objectives, retail objectives, research objectives)
+                        2. Using a budgeting method, what resources are available to support a campaign.
+                
+                III: GATHER INSIGHT INTO TARGET AUDIENCE
+                        1. Which segments should we select to target with social media activities?
+                        2. Wht are the relevant demographic, psychographic, and behavioural characteristics of the segments useful in planning a social media marketing strategy?
+                        3. What are the media habits, and especially the social media habits of the segments?
+
+                IV: SELECT SOCIAL MEDIA ZONES AND VEHICLES
+                        1. Which mix of  the four zones of social media will be best to accomplish our objectives within the resources available?
+                        2. Which channels and vehicles should be used in each zone?
+                        3. What mix of paid, earned, owned, and shared media will be sued across the zones and channels?
+
+                        * Social Community zone strategies
+                                a. What approach to social networking and relationship building should we use?
+                                b. How will we represent the brand in social networks (as a coropate entity, as a collection of corporate leadership, as a brand character)? What content will we share in this space?
+
+                        * Social publishing zone strategies:
+                                a. What content do we have to share with audiences? Can we develop a sufficient amount of fresh, valuable content to attract audiences to consume content online?
+                                b. What form should our blog take?
+                                c. Which media-sharing sites should we use to publish content? How should we build links between our social media sites, owned media sites, and affiliates to optimize our sites for search engines.
+
+                        * Social entertainment zone strategies
+                                a. What role should social entertainment play in our social media plan?
+                                b. Are there opportunities to develop a customized social game or to promote the brand as a product placement in other social games? Is there an opportunity to utilize social entertainment sites such as online video as an entertainment venue?
+                
+                        * Social commerce zone strategies
+                                a. How can we develop opportunities for customer reviews and ratings that add value to our prospective customers?
+                                b. Should we develop retail spaces within social media sites? If we socially enhance our own e-retailing spaces, what applications should be used?
+                                c. How can we utilize social commerce applications like group deals to increase conversions?
+
+                V: CREATE AN EXPERIENCE STRATEGY ENCOMPASSING SELECTED ZONES
+                        1. How can we develop social media activities that support and/or extend our existing promotional strategies?
+                        2. What message do we want to share using social media?
+                        3. How can we encourage engagement with the brand in social spaces?
+                        4. How can we encourage those who engage with the brand socially to act as opinion leaders and share the experience with others?
+                        5. In what ways can we align the zones used as well as other promotional tools to support each other? Can we incorporate social reminders in advertising messages, in store displays, and other venues?
+                
+                VI: ESTABLISH AN ACTIVATION PLAN
+                        1. How do we make the plan happen?
+                        2. Who is responsible for each aspect of implementing the plan?
+                        3. What is the timing of the element in the plan?
+                        4. How will the budget be allocated to accomplish the objectives?
+                        5. How do we ensure that the plan is consistent with the organization's overall marketing plan and promotional plan?
+
+                VII: MANAGE AND MEASURE
+                        1. How do we measure the actual performance of the plan?
+                        2. How do we listen and respond to social media mentions?
+
+===
+
+## THE PHASES OF SOCIAL MEDIA MARKETING MATURITY
+* If you keep up with industry news, you might be tempted to think that every brand has a social media strategy. Each day seems to bring new stories about a marketing campaign with social media elements. On ads, storefronts, and business cards, we see "Follow me" calls to action as organizations large and small flock to Twitter and Facebook.
+* Although it seems everyone is talking about social media, it's one thing to claim you use social media and quite another to say you have a strategy that incorporates social media. In the former case, a group can turn to social media activities to stage **stunts** (one-off ploys designed to get attention and press coverage) or as **activation tools** to support other marketing efforts. For example, when Skittles let its social media presence take over its website, that was a stunt. But when Starbucks runs social media promotions, it integrates these promotions with the overall campaign in place. The most engaging brands using social media for marketing will ensure that all communications are consistent with the brand's image, while using social media as an element for experimentation and engagement with short-term campaigns as well as use in omni-channel marcom campaigns.
+* As organizations develop in their social media marketing maturity, they plan systematically to ensure social media marketing activities are consistent with their marketing and marketing communications plans and are capable of meeting specific marketing objectives. By this we mean that, as a result of time and experience, we tend to see that applications that start as one-time "experiements" often morph into more long-term and carefully thought-out elements that the organization integrates with all the other communication pieces it uses to reach customers.
+* Nevertheless, many marketers currently use social media marketing tactics without that level of maturity. A major study of marketers in both Europe and North America found huge differences in the level at which respondents use social media and integrate them with their other initiatives. Many still just experiement with baby steps (like managing a Facebook page) rather than include social media as a fundamental components of their marketing strategy. Companies can be thought of in terms of their level of maturity in social media marketing, of which there are three phases: trial, transition, and strategic. Let's take a closer look at each phase.
+
+### TRIAL PHASE
+* The trial phase is the first phase of the adoption cycle. Organizations in the trial phase test out social media platforms, but they don't really consider how social media can play a role in the overall marketing plan. In these early days, most groups focus on learning to use a new form of communication and exploring the potential for social media as a venue.
+* It isn't necessarily a bad thing to test the waters of social media. Companies need, especially early on, to experiment--to play in the sandbox, so to speak. Doing so helps them to brainstorm ideas to use social media and understand what it takes to succeed in this brave new world. However, the problem with the trial phase is that many companies do not treat it as an exploratory stage of what is really a multi-stage process. Instead they just jump right in and focus only on cool new ways to communicate. Think this couldn't happen? According to the 2019 Social Media Marketing Industry Report, 35% of marketers have been using social media for less than two years.
+
+### EXHIBIT 4.1:
+THE TRANSITION STAGE OF SOCIAL MEDIA MARKETING
+* GT's Living Foods appears to be in the strategic phase of social media marketing now, but that wasn't always the case. In 2010, the brand was in the transition stage of social media marketing. How do we know? In 2010, GT's Kombucha mysteriously went missing from supermarket shelves. Customers learned through word-of-mouth communication that the product's alcohol content was mislabeled. During shipment, the product was unrefrigerated, causing the alcohol content to rise above regulated levels and beyond the indicated on its labels. This was a clear concern for people who drank it for the health benefits, and especially pregnant women. The tainted kombucha was removed from shelves, but GT's failed to handle the social media response. Hundreds of fans posted to GT's Facebook page asking when the product would be available and what had happened. There was no response from GT's! The brand simply didn't respond! What would you think? You got it. Social media is 24/7. Brands don't have the option of being on only eight hours per day. issues like this can be amplified by influencers. We tend to think of brands partnering with influencers to increase the reach and spread of positive content. But if influencers have a negative experience, their complaint spread as well. GT's Living Foods learned this the hard way. Fortunately, the brand has improved its social media responsiveness over time.
+
+===
+
+### TRANSITION PHASE
+* An organizations mature in their use of social media marketing, they enter a **transition phase**. During this phase, social media activities still occur somewhat randomly or haphazardly but a more systematic way of thinking starts to develop within the organization. In the transition stage, brands are on the right track but may not have fully formed a strategic approach. For instance, the brand may have established social media profiles and be using them regularly but still make mistakes. A common one is the use of automation to schedule social media posts and replies. This means that some of the responses to tweets or Facebook posts (or other social media comments) are programmed. In the industry, these automated responses are useful for workflow management but users view automation as fake, referring to the practice as **social media zombies**. In and of itself, that's not bad. Automation can help brands be responsive. But if overused or use ineffectively, people will know. And they will resent it.
+
+### STRATEGIC PHASE
+* When an organization enters the final strategic phase, it utilizes a formal process to plan social media marketing activities with clear objectives and metrics. Social media are now integrated as a key component of the organization's overall marketing plan. While making a strategic commitment to social media marketing takes time, it also comes with benefits. Marketers report increased brand exposure, brand attitudes, and even sales driven from social media marketing. Of course, this isn't necessarily easy, even for marketers with substantial experience using social media. A need to show the ROI for marketing activities coupled with a fluid social media environment creates challenges.
+
+### CRITICAL REFLECTION
+SOCIAL MEDIA AREN'T EASY
+* marketers are smitten with social media. Social media investment remains high. For example, in the US, spending on social network is expected to exceed $43 billion. According to the CMO Survey, social media spending makes up more than 11% of marketing budgets. Clearly, commitment to social media is strong. That said, social media marketing is not without disadvantages. Let's take a look at some of the concerns marketers face when marketing with social media.
+
+1. Socia media are time consuming.
+* This is one of the biggest cons of social media marketing. For an effective marketing effort, you need to invest time engaging and publishing social content suitable enough to keep your audience interested and engaged. This requires time to develop high-quality content as well as time posting to SNS and replying to posts from fans and critics. Social media may cost less in hard currency than some other media forms, but they require more human touch. What's more, time must be a continuous investment. Social media marketing is not a quick marketing solution. It can take a long time to achieve your objectives. As much as we hear about the successes of memes and viral videos, it is important you know social media are not a genie that will instantly start granting wishes; it takes time.
+
+2. ROI is difficult to measure.
+* To date, Chief Marketing Officers (CMOs) acknowledge that social media's contribution to organizational performance has been relatively modest. On a scale of 1 = not at all contributing to 7 = very highly contributing, respondents to the CMO Survey rated social media's contribution between 3.1 and 3.3 over the last five years. In part, the ratings may be due to the difficulty in measuring social media return on investment. As we'll discuss in Chapter 11, "likes" and impressions provide initial metrics on the success of social media efforts, but it can be difficult to deduce how social media contribute to acquiring new customers and driving sales. CMOs say they struggle with this issue. The CMO Survey found that 39.3% of companies report they are unable to show the impact of social media on performance, and another 36% have a good qualitative sense of the impact, but not a quantitative measure of the impactt. Every social media marketing effort has an objective whether that is to increase website traffic, drive sales, or build brand awareness. It can be difficult to attribute outcomes to social media marekting efforts.
+
+3. There is a risk of negative publicity
+* Social media marketing is a very powerful tool for the promotion of a company, but it can also use that the same force to pull down or negatively impact a business. When organization adopt social media marketing, they are also exposing the brand to external threats. Just as people face social media trolls, so do brands. Trolls may slander a brand and post negative comments even when they have no idea what the company does. Without proper management, such negative publicity can go viral and irreparably damage the reputation of your business.
+
+* Legitimate negative publicity can also gain traction via social media channels. For example, Johnson & Johnson faced a major public relations challenge related to its perceived role in the opiod epidemic and amid concerns about the safety of Johnson's Baby Powder, which was the target of a major product recall. Vocal consumers took to Twitter to express outrage at the possibility of asbestos in Johnson's baby Powder, and the firestorm spread to other J&J brands including Aveeno. Aveeno's online net sentiment plummeted! The situation was worsened when Aveeno's spokesperson, Jennifer Aniston, was accused of posting a photo of herself revealing possible illicit drug use. Aveeno's brand equity was surely damaged by these Twitter posts and conversations.
+
+===
+
+## SOCIAL MEDIA CAMPAIGNS: THE STRATEGIC PLANNING PROCESS
+* Those organizations that have moved beyond the trial and transition phases of social media marketing maturity develop strategic plans for social media that incorporate components of the social media mix as channels to accomplish marketing objectives. As we saw in Table 4.2, the process consists of the following steps:
+
+                * Conduct a situation analysis and identify key opportunities
+                * State objectives and allocate resources
+                * Gather insight into and target one or more segments of social consumers.
+                * Select the social media mix (zones, channels, and vehicles)
+                * Create an experience strategy.
+                * Establish an activation plan using other promotional tools (if needed)
+                * Execute and measure the campaign.
+        
+## SITUATION ANALYSIS
+* The first step in developing the plan is much the same as it is in the creation of traditional strategic plans--**research and assess the environment. Good social media planning starts with research on the industry and competitors, the product category, and the consumer market. Once this research is compiled, stratgists try to make sense of the findings as they analyze the data in a situation analysis.**
+* The situation analysis details the current problem or opportunity the organization faces. It will typically include a social media audit. In addition to the standard things marketers need to know, the social media audit ensures the team understands the brand's experience in social media. The audit will assess the brand's past social media activity, including whether profiles and consistent with the brand image, frequency of activity, types of activity, responsiveness, engagement, and other measures of effectiveness. Free tools that are useful for auditing social media activities are LikeAlyzer, Fan Page Karma, and AgoraPulse. Audit report can also be created using paid vendor services like those from Sprout Social, Sysomos, and others. Figure 4.1 provides a template for beginning a social media audit.
+* In addition, a review of the brand's SWOT analysis will highlight relevant aspects of the firm's internal and external environment that could affect the organization's choices, capabilities, and resources. This acronym refers to strengths, weaknesses, opportunities, and threats that the firm should consider as it crafts a strategy. The internal environment refers to the strengths and weaknesses of the organization--the controllable elements inside a firm that influence how well the firm operates. The external environment consists of those elements outside the organization--the organization's opportunities and threats--that may affect its choices and capabilities. Unlike elements of the internal environment that management can control to a large degree, the firm can't directly control these external factors, so management must respond to them through its planning process.
+* 
+
+page 120
 
 
 # PART IIIL THE Four Zones of Social Media
