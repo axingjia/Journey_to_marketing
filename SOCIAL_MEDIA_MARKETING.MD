@@ -1298,9 +1298,147 @@ SOCIAL MEDIA AREN'T EASY
 * The first step in developing the plan is much the same as it is in the creation of traditional strategic plans--**research and assess the environment. Good social media planning starts with research on the industry and competitors, the product category, and the consumer market. Once this research is compiled, stratgists try to make sense of the findings as they analyze the data in a situation analysis.**
 * The situation analysis details the current problem or opportunity the organization faces. It will typically include a social media audit. In addition to the standard things marketers need to know, the social media audit ensures the team understands the brand's experience in social media. The audit will assess the brand's past social media activity, including whether profiles and consistent with the brand image, frequency of activity, types of activity, responsiveness, engagement, and other measures of effectiveness. Free tools that are useful for auditing social media activities are LikeAlyzer, Fan Page Karma, and AgoraPulse. Audit report can also be created using paid vendor services like those from Sprout Social, Sysomos, and others. Figure 4.1 provides a template for beginning a social media audit.
 * In addition, a review of the brand's SWOT analysis will highlight relevant aspects of the firm's internal and external environment that could affect the organization's choices, capabilities, and resources. This acronym refers to strengths, weaknesses, opportunities, and threats that the firm should consider as it crafts a strategy. The internal environment refers to the strengths and weaknesses of the organization--the controllable elements inside a firm that influence how well the firm operates. The external environment consists of those elements outside the organization--the organization's opportunities and threats--that may affect its choices and capabilities. Unlike elements of the internal environment that management can control to a large degree, the firm can't directly control these external factors, so management must respond to them through its planning process.
-* 
+* A key aspect of the external environment is the brand's competition. Analyzing competitive social media efforts and how the target market perceives those efforts is a must-do in social media marketing planning. It can be done in much the same way as the social media audit--except the focus in on the competing firms. You can use an internal system or a **cloud service** such as Klue (klue.com) to organize competitive information and to monitor news and social activity. When you use Klue, you can maintain a search of competitive activity and news mentions online for a small fee. Figure 4.2 illustrates a template for tracking a social media competitive analysis. Coca-Cola vs. Pepsi Brand Analysis, which assesses effectiveness as well as brand activity in social media. A competitive social media analysis should answer the following questions:
 
-page 120
+* In which social media channels and specific vehicles are competitors active?
+* How do they present themselves in those channels and vehicles? Include an analysis of profiles, company information provided, tone, and activity
+* Who are their fans and followers? How do fans and followers respond to the brand's social activity?
+
+* Importantly, marketers have many approaches to solve problems and taking advantage of opportunities. Here we are concerned with the organization's use of social media, but still, the planner should ask the question, "Given the situation and the problem identified, is social media marketing the appropriate approach?" Especially for organizations that are still in the trial phase, it's tempting to focus on social media "gimmicks", even if other less trendy tactics might in fact be more effective. So, a word of caution: social media often provide effective solutions to marketing problems, but beware of blindly using these tools.
+* To see how the early stages of the strategic planning process work in the real world, let's return to our example, GT's Living Food. GT's uses social media as part of its integrated social media initiatives, particularly related to community altruism. It does so in a way that resonates with specific social media vehicles like Facebook, Twitter, instagram, Youtube, and Pinterest. GT's Living Foods is the market leader in kombucha and has more shelf space and brand awareness than any other kombucha brand. That's why GT's founder is called the King of Kombucha. But GT's faces stiff competition from other major brands, regional brands, and even do-it-yourselfers who brew their own kombucha at home. Table 4.3 provides a SWOT analysis for GT's Living Foods.
+
+                Figure 4.1 Social Media Audit Template
+
+                Facebook:
+                        * How many Likes do we have?
+                        * How often do we post?
+                        * What is our push/pull mix?
+                        * What types of media do we use?
+                        * Does our Facebook link to our website?
+                        * Do we have updated cover and profile?
+                        * Do we respond to comments?
+                        * Do we have a rating? What is it?
+                        * What is our social media voice?
+                        * What do the comments on our page and photos typically say?
+                        * Do we share articles? How often?
+
+                Instagram:
+                        * How many followers do we have?
+                        * What is our media mix for posts?
+                        * What kind of hashtags do we use?
+                        * Does our profile link to our website?
+                        * What is our social media voice?
+                        * Who do we follow?
+                        * Do we respond to comments?
+                        * Do we respond to comments?
+                        * What are the comments on our photos saying?
+                        * What is our push/pull mix?
+                
+                Google +:
+                        * How many followers do we have?
+                        * What is our media mix for posts?
+                        * What is our social media voice?
+                        * Have we claimed their Google business listing?
+                        * Does our profile link to our website?
+                        * Do we respond to comments
+                        * What is our push/pull mix?
+
+                Snapchat:       
+                        * What type of content do we post?
+                        * Do we drive consumers to our website based on our content
+                        * What is our push/pull mix? Do we interact with users
+                        * Do we post stories often?
+                        * What is our voice/image perceived thorugh our stories
+                
+                Youtube:
+                        * Do we use Youtube?
+                        * What types of video content do we post?
+                        * Are these videos shared on our other social channels?
+                        * How many subscribers do we have?
+                        * What are the comments on our videos saying?
+                        * Do we respond to comment?
+                        * Does our profile link to our website?
+                        * How many Likes do we receive, on average, for a video?
+                        * How many views do we receive, on average, for a video?
+
+=== 
+
+                Table 4.3: GT's Social Media SWOT Analysis
+
+                Strengths:
+                        * Strong market share
+                        * High brand equity
+                        * Brand awareness
+                        * Quality products
+                        * Financial resources for marketing communications
+                
+                Weaknesses:
+                        * Difficulty standing out in a highly competitive and cluttered marketplace
+                        * Reputation issue due to recalls
+                        * Limitations regarding health claims
+                
+                Opportunities:  
+                        * Social medi as a cost-efficient channel
+                        * Affiliations with causes and lifestyle passions
+                        * Growth in social entertainment and social commerce options
+                
+                Threats:
+                        * Strong brand competition from well-funded national and regional competitors
+                        * Alternative competition from DIYers
+                        * Economic concerns may slow spending on a relatively high-priced product
+
+===
+
+## IDENTIFY SOCIAL MEIDA MARKETING OBJECTIVES AND ALLOCATE RESOURCES
+* In this stage of the process, the planner elaborates on what is expected of the social media campaign and what financial and human resources are available to meet those objectives. An **objective** is a specific statement about a planned social media activity in terms of what that activity intends to accomplish. The content of the objective will vary based on the situation and the problem at hand. For instance, the campaign may be designed to amplify other marketing communication efforts the organization uses. Let's say, for example, the brand co-sponsors a concert series. This series is an event marketing strategy built into the overall marketing commmunication plan. But the organization realizes that promoting the event using social media can build pre- and post-event buzz. In this case, the objective (to create heightened awareness of the event among target customers) relates to other activities in the organization.
+* The basic assumption is that the campagin can accomplish the desired marketing objectives. What are some examples of the basic marekting objectives social media marketers pursue? Figure 4.3 illustrates several social media objecitves. here are some important ones: 
+
+                * Increase brand awareness
+                * Improve brand or product reputation
+                * Increase website traffic
+                * Amplify or augment public relations work
+                * Improve search engine rankings
+                * Improve perceived customer service quality
+                * Generate sales leads
+                * Reduce customer acquisition and support costs
+                * INcrease sales/sales revenue.
+
+* In this tage of planning, it's important to state the objectives in a way that will help the planner to make other decisions in the planning process and eventually to measure the extent to which the objective was accomplished at specific points into the campaign. A well-stated, actionable objective should include the following characteristics:
+
+* be specific (what, who, when, where)
+* be measurable
+* specify the desired change (from a baseline)
+* include a timeline
+* be consistent and realistic (given other corporate activities and resources)
+
+* Here's an example of an actionable objective: To increase site stickiness in the retail areas of our site by 100% (from five minutes browsing to ten minutes per site visit) with the addition of social commerce sharing applications by the end of the third quarter. The statement of the objective should include specific elaboration on the individual goals  the brand wishes to achieve over the course of the campaign, taking care to state these goals such that they are specific, measurable, realistic, adn time-lined. We don't know GT's precise objectives but we can gauge that GT's seeks to generate engaging content for popular social networks, build its gan base in social communities, build brand equity, and increase top-of-mind awareness.
+
+                FIGURE 4.3: Top Objectves Marketers Pursue Using Social Media
+                * increase Exposure
+                * Increase traffic
+                * Generated leads
+                * Improve sales
+                * Developed loyal fans
+                * Provided marketplace insight
+                * Increase thought leadership
+                * Grew business partnership
+
+* There should be a focus on resources. You've probably heard people say that the main benefit of social media marketing is that it's free. When brand managers work with agencies to plan traditional advertising campaigns, the cost of media placement can seem overwhelming. With that as a point of comparison, one can see why many might think of social media marketing as the free alternative to advertising. Even for brand participation in social network sites, social media are not free. In planning a social media campaign, a budget must be allocated that ensures sufficient resources to accomplish the goals--just like in a traditional ad program. Granted, the media costs are often must lower compared to, say, a national television campaign. But there are other costs associated with social media. Charlene Li, a leading social media strategist, once said, "Social media trades media costs for labor costs"
+* What does Li's comment mean? To a large extent, the social communities in which brands engage consumers are indeed free to play spaces in term of media costs. But there are other costs we must take into account. Content must be generated, shared, and managed, and the time that that takes requires funding. Strategies in some social media channels of our social media framework require development costs (in-house or with a vendor or agency) such as customizing profiles and developing social games, branded applications and widgets, and microsites. Organic reach is increasingly difficult for brands to achieve as well. The result in an increase in  the use of advertising (paid media) on SNS. At the end of the day, there's no such thing as free lunch!
+* Most organizations to date allocate only a small portion of their marketing budgets to social media. Current estimates are under 10%! Though that budget is expected to nearly double in the next five years! Where will this money be spent? Primarily organizations are staffing for content management, ensuring that time is available for content development, blogging, and monitoring of social channels and paying for social advertising. As we described in Chapter 1, the job of social media manager, akin to that of a brand manager, is becoming more commonplace. This person has the role of overseeing, managing, and championing the social media strategy internally. Most organizations now have a dedicated team for social media marketing, but 80% of teams have fewer than four people. Typical roles include that of social media strategist, community manager, social media analyst, and social media assoicate. In addition, organizations may budget for software and services to manage social media acocunts, manage projects, analyze effectiveness, automate tasks for efficiency, host content, monitor social conversations and collect data, and facilitate content creation. Agencies and other providers can supplement the work of the social media manager (or team) with ideas, ways to integrate social media marketing with the rest of the brand's marcom plan, technical expertise, and measurement.
+* As with everything else in business, the budget is critical--without funding, the organization can't initiate or maintain the campaign. How much should it allocate? When it comes to social media campaigns, budgets run the gamut from a few hundred to hundreds of thousands of dollars.
+* Many companies approach social media marketing budgets as a percentage of their ad spends, which in turn are assigned by planners within the organization according to one of several formulae. The percentage of ad spend method assigns a set portion of the overall advertising budget for the organization to social media activities. Some use a variation, where they allocate a percentage of online marketing funding to social media.
+* Two other methods are used by companies. the competitive parity method uses competitors' spending as a benchmark. Like advertiser share of voice, competitive parity is based on the belief that spending the same or more on social media marketing will result in a comparable change in share of attention for the brand. When it comes to social media, though, share of voice takes on a new dimension; social media include conversation about the brand from other sources. In contrast, with advertising, increasing share of voice is accomplished by simply purchasing more media time for advertisements.
+* With soial media marketing, the costs of different approaches and platforms vary widely, and even a large spend may not result in widespread buzz or content sharing and viral spread. The resulting share of voice depends in part of the extent to which fans and friends share the message with their own networks. Lastly, the objective-and-task method considers the objectives set out for the campaign and determines the cost estimates for accomplishing each objective. This method builds the budget from a logical base with what is to be accomplished as the starting point.
+
+## PROFILE THE TARGET AUDIENCE OF SOCIAL CONSUMERS
+* Social media marketing plans, like any marketing plan, must target the desired audience in a meaningful and relevant manner. To do this the development of a social media profile of the target audience is required. The target market for the brand will have been defined in the brand's marketing plan in terms of demographic, geographic, psychographic, and product-usage characteristics. The target audience's social profile will take this understanding of teh market one step farther. It will include the market's social activities and styles, such as their level of social media participation, the channel they utilize and the communities in which they are active, and their behaviour in social communities. You learned about the elements of segmentation and targeting and the use of personnas in Chapter 2.
+* The strategic planner must assess what it means to speak to the audience in the social media space. Who is the core target? How can we describe the key segments of that core target? To whom will the conversations in social media be directed? Of which social communities are the consumers a member? How do they use social media? How do they interact with other brands? The insights from the consumer profile that was done for a brand's overall marketing and marcom plans will be useful to understand the overall profile of the target market.
+* However, the planner also must understand how and when his or her customers interact in online social communities, as weell as which devices they use to do so. In developing a consumer profile, the planner may plot out a typical day for the social media user as well as gather information on the Internet activites of the audience.
+
+                
+
+page 125
 
 
 # PART IIIL THE Four Zones of Social Media
