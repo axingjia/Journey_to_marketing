@@ -1538,10 +1538,612 @@ GT'S MAKES SOCIAL COMMUNITY MEANINGFUL
 * Sun Microsystems: whether in the actual or virtual world, your interactions and discourse should be respectful. For example, when you are in a virtual world as a Sun representative, your avatar should dress and speak professionally. We all appreciate actual respect.
 * Intel: consider content that's open-ended and invites response. Encourage comments. You can broaden the conversation by citing others who are bloggin about the same topic and allowing your content to be shared or syndicated...If you make a mistake, admit it. Be upfront, and be quick with your correction. If you're posting a blog, you may choose to modify an earlier post--just make it clear that you have done so.
 
-* The Word of Mouth Marketing Association (WOMMA -- now part of the Association of National Advertisers) developed a quick guide to designing a digital social media policy, shown in Table 4.4. Its purpose is to guide how the organization, its employees, and its agents should share opinions, beliefs, and information with social communities. Not only is it good business, it can also help prevent legal problems. The guide encourages organizations to make several decisions and include those in an organization-wide social media policy. Organizations must decide upon
-                
+* The Word of Mouth Marketing Association (WOMMA -- now part of the Association of National Advertisers) developed a quick guide to designing a digital social media policy, shown in Table 4.4. Its purpose is to guide how the organization, its employees, and its agents should share opinions, beliefs, and information with social communities. Not only is it good business, it can also help prevent legal problems. The guide encourages organizations to make several decisions and include those in an organization-wide social media policy. Organizations must decide upon:
 
-page 136
+* Standard of conduct: standards of conduct in a social media policy refer to the basic expectations for employee behaviour in social communities. At a minimum, standards should require that all online statements about the business be honest and trasparent. Deceptive, misleading, or unsubstantiated claims about the organization or its competitors must not be issued. Further, good manners must be used in social communities (no ethnic slurs, personal insults, rumors, lies, or other offensive statements)
+* Disclosure requirements: transparency is key in online communities. Employees must disclose that they are affiliated with the organization. If they are receiving material compensation or gifts in exchange for posting, this must be disclosed. Disclosing affiliations ensures that readers can still find the posts credible and trustworthy. Bloggers should include a simple statement: "I received (inserted product name) from (insert company name) and here is my opinion..." In addition, when using posts on social networks, the poster should use hashtags to disclose the nature of relationships reflected in the posts: "#emp (employee/employer), #samp (free sample received), #paid (paid endorsement).
+* Standards for posting intellectual property, financial information, and copyrighted information: many of the potential legal problems within social media relate to the inappropriate sharing of information. Organizations should keep all intellectual property and prviate financial information confidential. Prior to posting copyrighted information, appropriate permissions should be collected.
+
+## AN ORGANIZATIONAL STRUCTURE TO SUPPORT SOCIAL MEDIA
+* Who "owns" social media within an organization? Some brand assign the responsibility to a discipline "silo" such as the marketing department, whereas others rely upon a **center of excellence model** that pulls people with different kinds of expertise from across the organization to participate. This eliminates the internal political issues relating to who in the company has primary responsibility for social media so it's easier to integrate social media applications with other marketing initiatives.
+* Aside from the organizational structure to support social media marketing efforts, busiensses must make decisions on the level of resources to dedicate. Social media are ongoing conversations across potentially several communication vehicles. Some businesses dedicate multiple employees to manage the conversation calendar, whereas others assign a single person. The organizational task is to assign the least number of resources needed internally and then supplement those resources with help from the organization's social media agency resources.
+* There are five basic models for social media structure as shown in Figure 4.5:
+
+* Organic MY: Random nodes connected with each oter
+* Centralized: MY: a tree
+* Hub and Spoke--Coordinated: MY: One node in the middel connected to many node
+* Multiple Hub and Spoke--Dandelion
+* Holistic Honeycomb
+
+1. In the centralized structure the social media department functions at a senior level taht reports to the CMO (Chief Marketing Officer) or CEO (Chief Executive officer) and is responsible for all the social media activations. The potential problem here is that all social media activity may not be adequately represented. Is customer care going to be good if social media marketing is housed under marketing rather than customer service?
+2. In the organic structure no one person owns social media. Instead, all employees represent the brand and work social media into their roles. This is implemented through training and used across the organization. The danger here is that the content can end up off message. Any employee can sign up to respond to customer queries on Twitter. That means the company can not control what employees say. Therefore, the company must have well-developed social media policy in place to guide employee behaviour in social communities.
+3. In the hub-and-spoke (also called the coordinated) model, a team of people who are cross functionally trained are ready to address various social media needs. **This is currently the most popular structure for social media management.**
+4. The dandelion model is essentially a multi-layered hub-and-spoke model. It is appropriate for companies with strategic busienss units (SBUs) that still represent a core brand.
+* The holistic model is currently the least used. it truly refers to a structure within which all employees are empowered to use social media, use social media, and do so according to the company's strategy.
+
+## SOCIAL MEDIA MANAGEMENT SYSTEMS
+* Regardless of the structure a company uses or the policy it develops, it must also devise a day-to-day system for managing social media activities, tracking content from mdevelopment to distribution, managing social ad campaigns, analyzing effectiveness, monitoring and listening, and capturing and analyzing social data for market research. Companies may also use vendors to aid in social customer relationship management (CRM), host owned social sites, generate reviews and ratings, facilitate influencer marketing tactics, and provide content. In particular, companies benefit from incorporating cloud services for social media management, social monitoring and listening, social ad management, and social media analytics and modeling. Whether on a small or large scale, one of the most used systems is Hootsuite, Notably, Hootsuite offers a special program for university users that includes an option to become Hootsuite Certified.
+
+## FRAMEWORK FOR STRATEGIC SOCIAL MEDIA MARKETING
+* The framework for social media marketing depicting in Figure 4.6 describes an organization's use of social media marketing along four dimensions: 1) scope, 2) culture, 3) structure, and 4) governance.
+
+* Scope: does the organization **use social media marketing internally and externally to collaborate with stakeholders or is social media predominantly limited to use as an external communications channel?** The answer categorizes organizations as defenders, who use social media marketing primarily as a one-way communication tool to entertain consumers or to inform stakeholders, or as explorers, who seek collaboration with many different stakeholders such as clients, employees, and suppliers.
+* Culture: is the organization's culture conversative (traditional with a focus on mass communications) or modern (permeable, open, flexible)?
+* Structure: are the organization and departmentalization of the social media marketing assignments hierarchical or networked?
+* Governance: does the organization define social media regulation and employee practices (autocracy) or allow norms to develop organically (anarchy)?
+
+* Decisions on social media marketing should be guided by the firm's internal influencers (e.g., general vision, mission, corporate goals, corporate culture, available resources), which in turn should be in line with external influencers (e.g., communities, competition, government regulation). The framework doesn't suggest a right or wrong choice. Rather, depending upon the organization's overall strategic focus and stakeholders, social media marketing should be organized for fit and congruence with the organization's design.
+
+### CASE STUDY
+221BC'S SOCIAL MEDIA MARKETING STRATEGY
+* Thus far, we've defined 221BC's social media marketing objectives and its target audience, and identified influencers it could use to help spread its social media message. In Exhibit4.5, you'll see a complete social media marketing strategic plan for 221BC. Note the major components covered in the plan, including objectives, target market personas, the proposed mix of social media zones, channels, and vehicles, the experience strategy, and proposed metrics.
+
+EXHIBIT 4.5
+221BC'S SOCIAL MEDIA MARKETING STRATEGIC PLAN
+* 221BC Kombucha is a family-owned business, founded and operated by Aneta and Eric Lundquist, that brews and distributes traditionally fermented kombucha. The Lundquists, and those passionate about drinking kombucha, believe that it is a gateway food to a healthier lifestyle. 221BC is a date that represents the origin and evolution of ancient wisdom with the innovation of the present; 221BC is using the most traditional methods of kombucha brewing, while marrying those techniques to the most nutritionally dense of the current superfoods. This social media marketing plan will act as a guideline for 221BC to grow and evolve their current social marketing efforts, which are to increase consumption of 221BC Kombucha and, more importantly, to spread the knowledge about the importance of clean eating.
+* The plan will evolve from the existing strengths of the brand; that it is healthy, authentic, craft-made, organic, clean, and empowering. In addition, 221BC recently underwent a branding and creative initiative that will be a consistent basis from which to implement the social plan across platforms. The brand's position is "a belief that balance is the key to living a rich life. 221BC balances the authentic health benefits of traditional pungent kombucha with a modern knowledge of herbs and superfoods to create an appealing flavor and pleasurable bevarage experience" (personal communication). The brand's promise to deliver a product that is made using functional herbs and superfoods, by like-minded people trying to spread a healthy lifestyle.
+
+##### SITUATION ANALYSIS
+* 221BC currently operates within a small regional market, mostly Florida, in which is a very large and growing competitive kombucha industry. The size of the industry, and commitment to standards, give 221BC opportunities in the competitive landscape. However, the popularity of the product and the growing numberof kombucha products entering the market increase the threat of decreased market share. In addition, some of 221BC's direct competitors are large, national companies like GT's Living Foods and Health-Ade, which have the human and financial resources for large social media marketing initiativs.
+
+##### SWOT
+* The following SWOT analysis captures the key strengths and weakness within the company, and describes the opportunities and threats facing 221BC Kombucha.
+
+##### Strenths
+* Traditional fermentation used with no shortcuts--only whole ingredients and no substitutes
+* 100% family owned and female founded.
+* Owners has a tremendous knowledge about gut health, fermentation, and microbiology.
+* Have already solidified brand guidelines and a create style guide.
+* Content taht is currently on the brand social channels is professional looking and on-brand.
+
+##### Weaknesses
+* no current marketing plan due to limited resources and lack of executive direction.
+* Current social presence is inconsistent due to restriction on knowledge and resources.
+* Product label doesn't tell the full brand story.
+
+##### Opportunities
+* The kombucha market is expected to continue to grow, with kombucha becoming seen as a mainstream beverage and an alternative to soda.
+* Fill the information gap left by competitors about how kombucha fits into a larger picture of personal health.
+* Potential to launch complementary products that align with the goal of promoting health.
+* Kombucha popularity means new consumers entering the market.
+* More and more competitors are adding supplemental ingredients while 221BC remains pure.
+
+##### Threats
+* Kombucha as a trendy drink instead of a lifestyle commitment.
+* National kombucha brands have more market value, brand awareness, and social media marketing resources.
+* Kombucha is becoming a saturated marekt; competition has increased, price has decreased.
+* Acquiring shelf space is expensive and retaining placement is difficult.
+
+### COMPETITIVE AUDIT
+* A competitive audit of the national kombucha industry reveals competitors such as GT's, Big Easy, Dr. Brew, and Bauchi--representing just a portion of the market. These competitors focus efforts on the most popular social channels with image-heavy content related solely to the prodct. The long-term issue with this strategy is that these kombucha brand competitors also alter their final product with extracts, concentrates, and other unnecessary ingredients. In addition, these companies are not focused on sharing broader information about why and how kombucha fits into a healthy lifestyle. The future is in real food with understandable and recognizable ingredients, and in companies that care about the health and knowledge base of their curious consumers; 221BC is already positioned to fit into this new food landscape with a social media marketing strategy that promotes this competitive advantage.
+
+### SELF-AUDIT
+* 221BC kombucha is active on Facebook and Instagram, as well as Twitter. Content is about what differentiates their product from those of competitors and the company monitors social posts to provide customer service care via social channels. Frequency of posting across channels is inconsistent; 221BC should aim for one post to Instagram a day and at least two stories, one post to Facebook a day with a blog post share and a live video at least once a week, and posting to Twitter at least once a day. In addition to the three social channels listed above, the company has recently launched a blog called Biome 1.0, which is published predominantly by founder Aneta Lundquist. Aneta wants to create and promote deeper social content, beyond the product, to educate and converse with consumers about the driving force behind the use of the product.
+* AAall creative imagery flows from t he recently conducted branding initiative--all logos and themes align with brand creative standards. These pre-set creative guidelines will make producing content easier moving forward. 221BC has dabbled in paid/boosted posts but not consistently or well. In the absence of any current broader marketing and communications plan, the company should divert all advertising funds into social (and search) marketing as it is more cost effective and reuslts are easily measured.
+
+### OBJECTIVES
+* Because the kombucha industry is anincreasingly competitive market, the goal of the social media marketing plan is to increase brand awareness through social engagement with the brand by creating a sense of community across all channels focused on education regarding shared health and lifestyle interests. The plan will seek to accomplish the following objectives:
+
+1. Promote the brand's image and position as superior to national brands by communicating how the 221BC product is different from those of competitors.
+2. Encourage product trials and faciliate purchases by inviting new consumers to try the product
+3. Increase brand loyalty by positioning the brand and Aneta as an "expert" --a provider of information related to the proudct by encompassing teh large real food and healthy lifestyl movement.
+4. Connect consumers with each other and encourage engagement.
+
+### TARGET AUDIENCE
+* From 221BC's own internal customer data and market research, teh company has pinpointed their target audience and created a customer persona called the Conscious Foodie. She is age 30-54, college educated, middle to upper-middle class, physically active, seeking or pursuing a healthy lifestyle, willing to pay more for quality, has kids, reads labels, and tends to be brand loyal. in addition, the Conscious Foodie is digitally connected, seeks out educational content, is mostly on facebook and instagram, and desires interaction with her favorite brands.
+* The secondary target audience is known as the College Health Trend Chaser. She is a college student, age 18-25, prefers to buy products "at a deal" but doesn't mind paying more for quality and health, is a fitness nut (espeically trendy fitness like cycling and yoga), and tends to be less brand loyal. The College Health Trend Chaser is more trend driven to drink kombucha and less likely to find value in the health education and lifestyle driven content of the brand's social offering. She is active on Facebook and Instagram, maybe Twitter, maybe Youtube, maybe Tiktik, and is more likely to respond to meme content.
+                
+### SOCIAL MEDIA ZONES AND CHANNELS
+* 221BC will use paid, earned, and owned media in its social marketing plan. Owned media will consist of the brand's website and the newly developed blog content; blog posts should work to educate customers, communicate the brand story, and position Aneta as the brand ambassador and passionate expert on living a healthy lifestyle, gut healthy, and clean eating. Earned media will include social posting and engagement across the company's current channels of Facebook, Instagram, and Twitter. 221BC will work in video content by using Facebook Live video before committing to starting and managing a Youtube account. Consistency and transparentcy in messaging regarding product ingredients, recipes, and no-string-attached information will help build trust in the earned media target audience. 221BC will use paid media on social channels; boosting posts toward the specified target market on social media will help amplify the message. Search engine optimization (SEO) efforts will also be used. Content centered on paid efforts should promote trial use and repeat purchase of the product, including coupons and offers, as well as giveaways. The brand will also re-approach working with microinfluencers with an audience both geographically and demographically suited to the 221BC target audience in order to grow the brand community.
+* Zones utlized will include social community, social publishing, and social commerce. All zones will be used throughut the year and across brand channels. Social community will be used to share the brand truth and to engage with followers. Social publishing will be used to expand content from just product based to the new goal of being a source of education. The social media marketing plan content calendar will incorporate videos, recipes, health tips, blog posts, and more via Aneta herself and possibly the newly created brand personaity the "Bubbly Buddha", which emerged from recent branding sessions. Social commerce will be used to better proliferate coupons, and offers to consumers who aren't yet awwre of the brand or brand loyal, but could be, as well as to encourage current customers to become repeat buyers.
+* Strategic objectives are matched with strategy for achieving those objectives and tactical objectives are matched with a tactical strategy and specific tactic employed. 
+
+### Objective One
+* Promtoe the brand's image and position the brand as superior to national brands.
+
+Strategy
+* community how the 221BC product is different from competitors
+* Educate consumers on how the product is crafted with care
+* use the Bubbly Buddha to build unique brand positioning in the minds of consumers
+
+Tactical Objectives
+* Provide content regarding product ingredients and recipe
+* Promote links back to owned media like the new blog
+
+Tactics
+* Increase social posting to at least one post daily per channel
+* Create and post at least one Facebook video or live video per week
+* Use influencers to align the brand image and product with a larger lifestyle
+
+### Objective Two
+* Encourage product trails and facilitate purchases
+
+Strategy
+* Use social commerce to publish content that drives consumer purchases
+* Delve into SEO in order to better proliferate coupons and offers to consumers
+
+Tactical Objectives
+* Invite new consumers to try the product
+* Encourage repeat purchasing from current customers
+* Target consumers who have never tried kombucha
+
+Tactics
+* Run at least one giveaway on at least one channel per month
+* Share positive product reviews as social content
+* Create and publish content highlighting basic facts and benefits of kombucha--e.g., blog series called "Benefits of 'Buch"
+* Live video Q&A with Aneta called "Kombucha for Newbies
+
+### Objective Three
+* Increase brand loyalty
+
+Strategy
+* Position the owners as brand ambassadors and share their story and passion
+* Communicate the 221BC company culture through content.
+
+Tactical Objectives
+* Make Aneta a brand and lifestyle "expert" on real food and gut health by having her contribute valuable content via the blog and social channels
+* Position 221BC as a provider of information beyond the product
+
+Tactics:
+* Publish behind the scenes photos and videos so consumers feel like a part of the product
+* Create and publish a recipes and tips content series on the blog (cross-posting the content to social media and using social content to drive traffic to the blog)
+* Have Aneta converse and interact with followers who engage with her content
+
+Objective Four
+* Connect consumers with each other and encourage engagement
+
+Strategy
+* Become a wellness brand with engaged community followers, rather than a company
+* Create physical spaces for customers to interact, share information, and experience the product
+* Cultivate and share user-generate content, especially as responses to brand content
+
+Tactical Objectives
+* Increase social engagement across channels by encouraging tagging and sharing
+* Use geographical data to invite top engaging followers to popup events
+
+Tactics
+* Work with microinfluencers (look for people with lots of engagement within brand followers)
+* Create brand partnerships with related products or influencers like fitness gurus
+* Involve followers with #FollowFriday; share them using the product or trying the recipes and tips that Aneta shares on the blog
+* Use giveaways to grow followers and increase engagement across social channels
+
+## EXPERIENCE STRATEGY
+* 221BC's current content types focus on the product, much like their competitors in the kombucha industry. This sort of content doesn't give the consumer much to engage with from an experience standpoint beyond liking the content. The importance of user-generated content is that it elevates messaging on brand-owned channels and mediums that is audience-centric and not brand- or product-centric. Customers should be inspired to engage fully in content, interact with the brand, and generate their own content to share back 221BC. For example, when Aneta shares tips on a recipe she should encourage blog readers to try making the recipe and to share photos of their end product on their channels, taging 221BC so other followers see the posts. In that way, the social content of the 221BC channels grows beyond the goal of being informative and achieves the goal of being an inspiring community with 221BC and Aneta at the center of it.
+* The social experience should also invite followers into the inner workings of the 221BC brand, product, and company. This achieves the goals of elevating the quality of the product above competitors, but it also acts as a transparent way for customers to feel more connected to and involved with the product. Not all creative content has to be polished; working off-the-cuff live videos, short clips, and photo into content can often make branded social media channels seem more real and approachable.
+
+## ACTIVATION
+* Create a content plan that will outline content themes, types of content, sample titles of posts, and which channel they should be posted on. Work on more social scheduling to take the strain off your timme resources. You should be boosting at least one post on each channel per week and all social posts that link back to the blog should be boosted.
+
+Budget is 5k/month?
+
+Content Calendar--A sample week of what 221BC should be posting
+
+Monday
+* Check your SEO /search efforts through Google Ads
+* Take a few minutes to converse with followers across channels and answer comments:
+                * Facebook: It's Monday, but here's a coupon
+                * Instagram: Last week's blog post
+                * Twitter: Post a gut-health tip
+
+Tuesday
+* Take a few minutes to converse with followers across channels and answer comments:
+                * Facebook: Live video Q&A with Aneta regarding the topic of last week's blog
+                * Instagram: Share a user posting illustrating a recent tip or recipe
+                * Twitter: Share a post from a partner brand
+        
+Wednesday
+* Take a few minutes to converse with followers across channels and answer comments:
+                * Facebook: Share a recipe
+                * Instagram: #WhatsInItWednesday--post a behind-the-scenes photo or video (production/ingredient based)
+                * Twitter: Last week: blog post (promote)
+
+Thursday
+* Take a few minute to converse with followers across channels and answer comments:
+                * Facebook: Share a post from an influencer (can be lifestyle or product related)
+                * Instagram: Share a user post highlighting the 221BC product
+                * Twitter: Post a Bubbly Buddha health tip
+
+Friday:
+* Post the week's blog to the website:
+                * Facebook: Latest blog post (promote)
+                * Instagram: #FollowFriday (and #TGIF Giveaway bi-weekly)
+                * Twitter: Share a recent positive review of the product
+
+Weekend
+* Scehdule out weekend posts so you can take a break
+* make Saturday and Sunday posts more product based and simplisitic
+
+Monthly:
+* Set aside monthly to complete schedule posts for the month ahead
+* Monthly blog series call "Benefit of 'Buch"
+
+Quarterly:
+* Promote and host a popup social event where consumers/followers can take their virutal engagement to the real world--also frame these events as a chance to get to meet Aneta
+* Live video Q&A with Aneta called "Kombucha for Newbies"
+
+##### Measurement
+* The effectiveness of the plan will include measurable goals, including metrics that specifically can be tied back to the tactical objectives. Increase followers on the three current main channels of Facebook, Instagram, and Twitter. Increase engagement on posts across the same channels. Monitor specific metrics on brand new initiatives, including an average increase in blog viewership over the first year it's live and average increase in Facebook Live video views over the first six months in implementation. In addition, increase traffic to the website from both social and search. As the social marketing plan evolves, practice social listening and use social analytics to tweak the content, messaing, timing, and budget of the plan on a monthly basis. 221BC should be prepared to access the success of the plan anually and to expand the scope of the plan as the company grows.
+
+### CASE STUDY (CONTINUED)
+* In this chapter, we took an in-depth look at a primary competitor, GT's Living Foods. TD's is a powerhouse brand in the kombucha space and one with superior resources for distribution and marketing. For 221BC to stand out among kombucha fans, it must find a way to distinguish its social media engagement from that of GT's Living Foods and other popular kombucha brands. GT's is involved in all four zones of social media marketing. Because 221BC has fewer resources, we've proposed that it concentrate on three zones of social media: social community, social publishing, and social commerce. For social community, the channels will be Facebook and Instagram. Social publishing will utilize a new blog, called Biome 1.0, for which new posts will also be promoted across 221BC's social community channels. Social commerce will play a role in that 221BC will offer coupons to encourage product trial. The experience strategy is tied to 221BC's mission for its kombucha to serve as a gateway to healthier life. For that reason, 221BC's social media content will focus on providing tips and resources for healthier living. When it comes to social media marketing management, Aneta Lundquist is essentially a team of one, but she still uses Hootsuite to schedule posts, follow brands of interest (like GT's) and monitor engagement. We'll look at more of these details as we cover the remaining chapters of the book, including a deep dive into each of the four zones of social media marketing as well as social media metrics and analytics.
+
+DISCUSSION QUESTIONS
+1. Restate 221BC's marketing objectives using the SMART characteristics for objective-setting
+2. Audit GT's Living Foods social media presence and commpare it to 221BC.
+3. identify ideas for other experience strategies 221BC could use in its social media strategy? How would you execute the experience strategies you identify?
+4. GT's Living Foods relies heavily on UGC campaigns that invite user-generated content and reward participation with a contest or philanthropic donations. Critique this approach. What would you suggest GT's Living Foods do differently.
+
+## REVIEW QUESTIONS
+1. Why do somme organizations enter the trial phase without planning and research? Is there value in getting social media experience before social media marketing becomes part the marcom plan?
+2. Explain the phases in the social media marketing maturity life cycle.
+3. What are the forms of organizational structure used by companies embracing social media marketing? What are the pros and cons of each?
+4. Explain the steps in the social media marketing strategic planning process.
+5. What approaches to budgeting can be used by organizations planning for social media marketing?
+
+## EXERCISES
+1. Visit www.intel.com/content/www/us/en/legal/intel-social-media-guidelines.html where you'll find Intel's social media policy, or find the policy for another company. Identify the key components WOMMA recommends be included in a corporate social media policy. How could the policy be improved?
+2. Identify a social media campaign for a favorite brand. In what experiences does the campaign invite you to take part? In what zones does the strategy lie? Does the campaign include share technologies to ensure your activities are shared with your network?
+3. Explore Hootsuite Academy, a training service for Hootsuite, a social media management system.
+
+
+# CHAPTER 5: TACTICAL PLANNING AND EXECUTION
+LEARNING OBJECTIVES
+1. What is a social media marketing tactical plan and how does it support the execution of a social media marketing strategy?
+2. What is a channel plan and how is it used?
+3. How does a content plan relate to experience strategies? What are the elements included in the content plan?
+4. What is an editorial calendar and what should be considered in developing the calendar?
+5. How do social media teams manage the roles, tasks, and schedules related to executing social media tactics?
+
+## TACTICAL PLANNING FOR SOCIAL MEDIA MARKETING
+* In the last chapter you learned how to plan a strategy for a brand's social media marketing. The social media marketing strategic plan may exist independently or may be a sub-plan of an integrated marketing communication plan. When part of a marketing communications (marcom) plan, social media marketing activities will be aligned with other marcom elements such as advertising and sales promotions to amplify the brand's message and/or to activate campaign events. Consequently, many of the tactical decisions mentioned in this chapter, such as establishing brand persona and identifying a creative strategy to guide brand communications, may already be determined. The stories that relay the brand meaning to the target audiences along with existing brand assets may be in place and ready for the social media team to use as a base. Even for new brand launches, brand identity, the pillars that will serve as the foundation for the brand's image and position, and the value proposition it promises to deliver, will be defined as part of the brand's strategic marketing planning process.
+* In this chapter, you will learn the process for developing a tactical plan. The **tactical plan** brings the social media marketing strategy to life. There are several practical steps required, **including determining the right channels, content to deliver the desired experience, rules of engagement, and schedule. As if that's not enough, we must also develop processes to create, produce, and deliver the content, conversation, and other experiential elements of our strategy.** In other words, we will address the why, who, where, what, when, and how of social media marketin. With this foundation for how social media marketing is accomplished from a practical perspective, you will see how the strategic decisions interplay as we cover the zones, strategies, and tactical decisions in depth in the next section of teh book.
+
+## WHY: VALUE-DRIVEN SOCIAL MEDIA MARKETING
+* **Social media tactic** are the actions taken to execute the social media strategy. **The strategy considers the situation analysis, target audience, and objectives to guide the zones of social media that the brand can best use to reach and engage the target audience. The tactic will guide the brand's activities in the zones of social media marketing, but must do so in a way that fits with the objectives. The objectives are the why--the reasons or purpose for social media marketing.** Table 5.1. reviews possible objectives, the strategy for achieving the objective, and possible tactics. As we saw in earlier chapters, there are several possible marketing objectives that brands use social media marketing to address. The table uses a few of these to demonstrate how we map strategic objectives and strategies to tactical objectives and tactics.
+
+                Table 5.1: Mapping Objectives for Strategies and Tactics
+
+                STRATEGIC OBJECTIVE
+                STRATEGY
+                TACTICAL OBJECTIVE
+                TACTICS
+
+                STRATEGIC OBJECTIVE: Create brand awareness
+                STRATEGY:
+                        * Expose target audience to brand
+                TACTICAL OBJECTIVE
+                        * Build brand presence in social communities
+                        * Post interesting and interactive messages
+                        * Engage in conversations with fans and influencers
+                        * Promote links in high-value content
+                TACTICS:
+                        * Develop brand profiles in selected SNS (e.g., facebook, Linkedin, etc)
+                        * Post daily in each network
+                        * Respond to comments and questions daily
+                        * Use influencer list to target conversations around campaigns
+                
+                STRATEGIC OBJECTIVE: Build brand image and reputation
+                STRATEGY: 
+                        * Communicate brand image
+                        * Encourage word-of-mouth communication
+                TACTICAL OBJECTIVE:
+                        * Develop robust content taht reinforces brand messages while being of value to target audience
+                        * Publish content on owned media channels and rich media experiences in social communities
+                TACTICS:
+                        * Create, produce, distribute, and post content following content calendar
+                        * Include interactive elements in all content as well as links to owned media content and share tools
+                        * Retain influencers to seed priority content
+                
+                STRATEGIC OBJECTIVE: Differentiate brand from competition
+                STRATEGY:
+                        * Provide experiences that illustrate differential advantages
+                TACTICAL OBJECTIVE:
+                        * Create and publish content that demonstrates value
+                        * Invite reviews and ratings from happy customers as credible evidence of value
+                TACTICS:
+                        * Create content for blog that highlights points of differentiation
+                        * Develop recommendation widget
+                        * Host reviews and ratings on-site and optimize for mobile search
+                        * Use email marketing to request reviews 10 days after purchase
+                
+                STRATEGIC OBJECTIVE: Generate demand/acquire customers
+                STRATEGY: Create desire and deliver
+                TACTICAL OBJECTIVE:
+                        * Monitor social channels for prospective leads
+                        * Seed influencers for persuasion and amplification
+                        * Use group deals and crowdsourced ist to drive sales
+
+                TACTICS:
+                        * Use keyword monitoring to generate alerts for follow-up from sales team
+                        * Create influencer initiatives focused on specific sales goals
+                        * Announce periodic flash sales on SNS
+                
+                STRATEGIC OBJECTIVE: Retain customers/build loyalty
+                STRATEGY: Engage, delight, inspire, thank, and reward customers
+                TACTICAL OBJECTIVE:
+                        * Cluster fans and loyal customers to create brand community
+                        * Build fan relationships
+                        * Collaborate and co-create
+                        * Reward reviews and ratings and other WOM communications
+                        * Listen and monitor
+                        * Respond to questions and comments
+                TACTICS:
+                        * Invite UGC tied to each campaign and SNS
+                        * Thank contributors publicly and reinforce fan behaviour by sharing and favoriting UGC content
+                        * Positive WOM triggers delivery of coupon or other reward to fan
+                        * Monitor brand mentions and respond to thanks, solve problems, or alert internal teams to potential crisis
+
+                        
+
+
+## WHO: UNDERSTANGING AND HONORING THE TARGET AUDIENCE
+* Target audience research is a key component of the strategic social media marketing planning process. It provides the insight needed to devise an experience strategy capable of engaging the target audience in the zones of social media. **Engage** is a key word because of the culture of social media. Remember social media are about participation and sharing. The cultural expectation is that participants will interact, co-create, and share, and this expectation exists for consumers as well as for brand participants. For this reason, a social media strategy should be based on an experience. The Merriam-Webster Dictionary defines experience as 1) direct observation of or participation in events as a basis of knowledge, 2) the fact or state of having been affected by or gained knowledge through direct observation or participation. The Cambridge Dictionary defines experience as the process of getting knowledge or skill that is obtained from doing, seeking, or feeling. **If marketers are to be effective at engaging people, we need to understand what experience might inspire action--inspire the audience to do, see, and/or feel.** Likewise, target audience research will guide decisions of where and when. It will provide guidance on the social media networks and channels the target audience uses as well as the activities they participate in, when they participate, the devices they use, the people and brands they engage, and more. The persona is the characgter description that highlights key information about the target audience. Chapter 2 reviewed the elements of personas in depth and that information became part of the strategic planning process covered in Chapter 4. Here we reply on personas again. It's useful to review the persona or revise it to reflect insights that will guide tactical decisions. Figure 5.1 provides a template for a persona focused on guiding social media tactics.
+
+                FIGURE 5.1: Persona Template for Planning Social Media Tactics
+
+                Persona Planner:
+
+                Name:
+
+                Who are they:
+                        Key Insight:
+                        
+                        Age:
+                        Gender:
+                        Profession:
+                        Annual Income
+                        Interest:
+                        Hobbies
+
+                        Are they an Innovator/Late Adopter?
+
+                Benefit Sought:
+
+                What Do They Like to Do on Social Media
+
+                What Type of Social Media User are They?
+
+                Which Social Media Channels are They Actively Using?
+
+                What is Their Social Technographic Category?
+
+                What are Their Favorite Types of Social Content?
+
+## WHERE: THE CHANNEL PLAN
+* The next decision determines where the brand will engage with the target audience. For simplicity, we are reviewing the process for tactical planning as a linear one. In reality, these decisions are considered in tandem. The culture, guidelines and rules, and functionality (as well as charactertistics of the population membership) of each prospective **channel** will influence **what can and should be shared, how people engage with each other, and choices about the timing and frequency of participation.** In this step, each channel is evaluated for fit. Some of the questions that will facilitate channel selection include the following:
+
+* **Who uses this channel, what are they using it for, and how much time do they spend here?**
+* **What are conversations like here? What kinds of content work best here?**
+* **Will participation in this channel help us meet our objectives? Does it make sense for our business to use this channel?**
+* **What specific goals can be pursued here given the channels' functionlity? Does these goals relate to objectives in our strategic plan?**
+* **Can we establish a unique presence and make a valuable contribution to the community? Does our brand image, voice, and tone fit with the **channel culture?**
+* **Are our competitiors present here? If so, how are they performing?**
+* **If we participate in this channel, what will we contribute? What will we ask fans and followers to do when they engage with us and after engagements? Share? Comment?**
+* **Does the channel offer paid media options to ensure audience reach and the ability to target specific audience segments?**
+
+* The characteristics of each channel should be considered. Remember there are several possible **social media channels**. We mention those with the large audiences and aoption rates for marketers, but there are thousands of options available. Depending upon the target audience, the industry, and the objectives for social media, smaller, niche, channels may be effective. Table 5.2 provides an overview of the characteristics associated with several major channels.
+* The answers to the questions posed and the evaluation of the characteristics of the channels will facilitate the creation of a **channle plan**. **Table 5.3 illustrates a sample channel plan. It identifies the vehciles the brand will use to reach and communicate with the target audience and summarize the tactics that are recommended for each vehicle. Channel selection influences subsequent decisions on the topics and types of content the brand will create and publish, as well as the volume of brand activity and the forms of engagement the brand will use. Keep in mind that these choices must take in account available resources. The size of the social media team and the budget available for social media marketing will influence the number of channels, the types of content, the sources of content, and the volume and frequency of distribution and promotion of content.**
+
+                Table 5.2: Channel Characteristics of Major SNS
+
+                FACEBOOK:
+                        Focus: Brand pages and paid advertisement. The largest and best social media network for brands.
+                        Demographics: Age 25-54
+                        Typical use: 
+                                * Building relationships
+                                * Learn about product/service
+                        Best for B2B or B2C:
+                                * B2C
+                        Best for brands to meet these objectives
+                                * Creating brand loyalty
+                        Media used:
+                                * Video
+                                * Photos
+                                * Links
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): Yes
+                        Good for Zone 4 (Commerce): Yes
+                        Best Content: 
+                                * Images and videos
+                        Sample Tactics:
+                                * Brand fan engagement 
+                                * Lead generation or customer acquisition
+                                * Share mix of relevant links, blog posts and engaging content
+                                * Promote upcoming events
+                                * Engage with influencers
+                
+                TWITTER:
+                        Focus: Quick interaction with audience in 140 characters or less. Largely organic vs. paid reach
+                        Demographic overview: Age 18-29
+                        Typical use: 
+                                * News articles and conversing
+                                * Keep up with activities
+                        Best for B2B or B2C:
+                                * B2B and/or B2C
+                        Best for brands to meet these objectives:
+                                * Public relations
+                        Media used: 
+                                * Photos
+                                * Links
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): No
+                        Good for Zone 4 (Commerce): No
+                        Best Content: 
+                                * News and articles
+                        Sample Tactics:
+                                * Brand engagement
+                                * Lead generation or customer acquisition
+                                * Share mix of relevant links, blog posts, and engaging content
+                                * Segment influencers and create lists
+                                * Communicate issues to support team and ensure follow-up
+                                * Listen and respond to relevant conversation
+                                * Build reputation
+                
+                PINTEREST:
+                        Focus: Very visual, so must have strong graphic quality or product imagery. promote pins increase paid reach.
+                        Demogragphic overview: Age 18-35
+                        Typical use: 
+                                * online scrapbooking
+                                * Learn about product/service
+                        Best for B2B or B2C: B2C
+                        Best for brands to meet these objectives:
+                                * Public relations
+                        Media used: 
+                                * Photos
+                                * Links
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): No
+                        Good for Zone 4 (Commerce): No
+                        Best Content: 
+                                * Images and infographics
+                        Sample Tactics:
+                                * Brand awareness
+                                * Lead generation or customer acquisition
+                                * Share mix of relevant imagery--brand related
+                                * Create boards leveraging both content and company culture
+                                * Follow other businesses, thought leaders, consumers and partners
+
+                YOUTUBE
+                        Focus: The home for video content. Vlogging and paid advertising are great ways to create brand awareness
+                        Demographics: All Ages
+                        Typical use: 
+                                * How-to videos and entertainment
+                                * Learn about product/service
+                        Best for B2B or B2C:
+                                * B2C
+                        Best for brands to meet these objectives:
+                                * Brand awareness
+                        Media used: 
+                                * Videos
+                                * Links
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): Yes
+                        Good for Zone 4 (Commerce): No
+                        Best Content: How-to videos
+                        Sample Tactics:
+                                * Brand awareness and engagement
+                                * Viral sharing
+                                * Showcase company culture
+                                * Post product videos and demos
+                
+                LINKEDIN
+                        Focus: Professional network with affluent audience. News and articles can go a long way in creating positioning as thought leader.
+                        Demographic overview: Age 30-49
+                        Typical use: 
+                                * News articles and networking
+                                * Keep up with activities
+                        Best for B2B or B2C: B2B
+                        Best for brands to meet these objectives:
+                                * Business development
+                        Media used:
+                                * Video
+                                * Photo
+                                * Links
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): Yes
+                        Good for Zone 4 (Commerce): No
+                        Best Content:
+                                * News and article
+                        Sample Tactics:
+                                * Brand awareness and engagement
+                                * Lead generation or customer acquisition
+                                * Share mix of relevant lnks, blog posts and engaging content
+                                * Promote upcoming events
+                                * Engage with influencers
+                
+                INSTAGRAM:
+                        Focus: Image-based platform with a sharing community. Can gain exposure through hashtags and creating appealing photos and videos
+                        Demographic overview: Age 18-29
+                        Typical use: 
+                                * Building relationships, conversations
+                                * Keep up with activities
+                        Best for B2B or B2C: B2C
+                        Best for brands to meet these objectives:
+                                * Lead generation
+                        Media used:
+                                * Video
+                                * Photos
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): Yes
+                        Good for Zone 4 (Commerce): Yes
+                        Best Content: Images
+                        Sample Tactics:
+                                * Brand awareness
+                                * Engage with visual assets
+                                * Showcase products
+                                * Showcase company culture
+                                * Showcase marketing events
+                                * Link back to website, blog and other content assets
+                
+                SNAPCHAT: 
+                        Focus: Send and receive snaps, or texts. Or post a snap to your story. This can be a great way to communicate instantly with followers
+                        Demographic overview: Age 18-24
+                        Typical use: 
+                                * Building relationships, conversations
+                                * Learn about product/service
+                        Best for B2B or B2C: B2C
+                        Best for brands to meet these objectives: Brand awareness
+                        Media used: 
+                                * Video 
+                                * Photos
+                        Good for Zone 1 (Relationship and Community): Yes
+                        Good for Zone 2 (publishing Content): Yes
+                        Good for Zone 3 (Entertainment): Yes
+                        Good for Zone 4 (Commerce): No
+                        Best Content: Images and video
+                        Sample Tactics:
+                                * Brand awareness
+                                * Engage with visual assets
+                                * Showcase products
+                                * Showcase company culture
+                                * Showcase company culture
+                                * Showcase marketing events
+                                * Link back to website, blog and other content assets
+
+===
+
+                TABLE 5.3: A Channel Plan Example
+
+                CHANNEL:
+                        OWNED: Facebook
+                        TACTIC: Establish brand presence, build relationships
+                PURPOSE:
+                        DEMOGRAPHIC: Appeal to "Susan" and "Steven" persona
+                        BENEFIT: Entertain, inform, promote and support
+                EDITORIAL PLAN:
+                        FEATURED TOPICS: Health and wellness, technology, like hacks, living one's best life
+                        WHEN/IDEAL VELOCITY: Post at least 2x/day, for every company related posting. Share 3 nonpromotional posts
+                        THEME: 
+                                * Monday: Research data
+                                * Tuesday: White paper's
+                                * Wednesday: Example of the week
+                                * Thursday: Speakers videos
+                                * Friday: Meet the team
+                        CONTENT TYPE: Posts, e-books, visual content, research data
+                MEASUREMENT: 
+                        CALL(S) TO ACTIONS: 
+                                * "Subscribe to our weekly newsletter"
+                                * "Download e-book" 
+                                * "Enroll in training today"
+                        ENGAGEMENT INDICATORS: 
+                                * New followers, comments, "likes" and shares
+                
+                CHANNEL: 
+
+
+
+
+
+
+                                
+
+page 165
 
 
 # PART IIIL THE Four Zones of Social Media
