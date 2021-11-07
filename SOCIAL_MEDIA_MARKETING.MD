@@ -2126,6 +2126,9 @@ LEARNING OBJECTIVES
                                 * Thursday: Speakers videos
                                 * Friday: Meet the team
                         CONTENT TYPE: Posts, e-books, visual content, research data
+                        TONE / RULES OF ENGAGEMENT:
+                                * Experienced, friendly, ehtusiastic
+                                * Never "force" our company into other conversations unless it's highly relevant/helpful
                 MEASUREMENT: 
                         CALL(S) TO ACTIONS: 
                                 * "Subscribe to our weekly newsletter"
@@ -2134,7 +2137,105 @@ LEARNING OBJECTIVES
                         ENGAGEMENT INDICATORS: 
                                 * New followers, comments, "likes" and shares
                 
+
+
                 CHANNEL: 
+                        OWNED: Instagram
+                        Tactic: Increase brand awareness, engage with new client base, develop fans
+                PURPOSE:
+                        DEMOGRAPHIC: Appeal to user of like brands, using comparative hashtags
+                        BENEFIT: Entertain, increase user base, increase product knowledge
+                EDITORIAL PLAN:
+                        FEATURED TOPICS: Health and wellness, company culture, food and nature
+                        WHEN/IDEAL VELOCITY:   
+                                * Post at least once per day
+                                * Share alternating company and non-company items
+                        THEME:
+                                * Monday: Product phot
+                                * Tuesday: Meme
+                                * Wenesday: "Behind the scenes" offices photo
+                                * Thursday: Food photo
+                                * Friday: Meet the team
+                        CONTENT TYPE: 
+                                * Product images, staff, inside the office, foodie pics
+                        TONE / RULES OF ENGAGEMENT:
+                                * Experienced, friendly, and enthusiastic
+                                * Altruistic, and a life to aspire to
+                MEASUREMENT:
+                        CALLS TO ACTIONS:
+                                * "Subscribe to our weekly newsletter"
+                                * Download ebook"
+                                * Enroll in training today
+                        ENGAGEMENT INDICATORS
+                                * New followers, comments, regrams, tagged photos, and "likes"
+                
+                CHANNEL:
+                        OWNED: Twitter
+                        TACTIC: Share relevant articles, establish brand presence and awareness, create community and engage with users
+                PURPOSE:
+                        DEMOGRAPHIC: Appeal to user of like brands, using comparative hashtags
+                        BENEFIT: Entertain, inform, promote and support
+                EDITORIAL PLAN:
+                        FEATURED TOPICS: Health and wellness, technology, life hacks, living one's best life
+                        WHEN/IDEAL VELOCITY: Post at least 2x/day, for every company-related posting, share 3 non-promotional posts
+                        THEME:
+                                * Monday: Research data
+                                * Tuesday: White papers
+                                * Wednesday: Example of the week
+                                * Thursday: Speakers
+                                * Friday: Meet the team
+                        CONTENT TYPE: Posts, e-books, visual content, research data
+                        TONE / RULES OF ENGAGEMENT: Experienced, friendly and enthusiastic; Never "force" our company into tother conversations unless it's highly relevant/helpful
+                MEASUREMENT:
+                        CALLS TO ACTIONS: "Subscribe to our weekly newsletter"; "Download e-book"; "Enroll in training today"
+                        ENGAGEMENT INDICATORS: New followers, comments, "likes"
+
+                CHANNEL:
+                        PAID: Facebook
+                        TACTIC: Targeted Facebook ads and sponsored posts
+                PURPOSE:
+                        DEMOGRAPHIC: Health enthusiasts, living in 30-mile radius with a household income of $75k+
+                        BENEFIT: Clicks leading to new training enrollment
+                EDITORIAL PLAN:
+                        FEATURED TOPICS: Health and wellness, living one's best life
+                        WHEN/IDEAL VELOCITY: Run 3 months prior to event, with 50% of budget running within one month prior
+                        THEME: Use testimonials and real post participants asked to submit UGC
+                        CONTENT TYPE: Photo and video A/B variant testing, budget split 50/50
+                        TONE/RULES OF ENGAGEMENT: Altruistic, a life to aspire to; Experienced, friendly, and enthusiastic
+                MEASUREMENT:
+                        CALLS TO ACTIONS: "Enroll in training today"
+                        ENGAGEMENT INDICATORS:
+                                * Clicks, comments, "likes" and shares
+
+===
+
+* Some channels work for both B2B and B2C marketers, while some (like LinkedIn) are best for one more than the other. This is reflected in the channel choices made by B2B and B2C marketers, as shown in Figure 5.2. Channel plans will include any owned media options and paid media purchased on social media sites as well. Figure 5.3 shows the extent of marketers' use of paid media on social media sites
+
+## WHAT: DESIGNING THE EXPERIENCE
+* What will the brand ask the target audience to do? The answer to this question is the basis for the experience the brand will offer the audience. It must not only enable participation and sharing by virtue of its design, but should inspire the audience to participate and share. It must be consistent with the brand's image and be valuable to the audience. For this reason, the ideal experience can be thought of as one that **captures the sweet spot at which the audience's passions and needs intersect with the brand's identity**. Like advertising, **it must be able to attract attention, break through a clutter, deliver the intended message, and aid comprehension and recall, while positively influencing brand attitudes and purchase intent**. Wait, there's more! It should be **discoverable** so that the brand appears during relevant searches. It should be **authentic** and **conversational** to fit the culture of social media. Finally, it should be **scalable** and **sustainable**. Table 5.4 lists the characteristics of effective social media tactics. That's quite a challege! Perhaps it's no wonder that so little social media marketing efforts earn audience engagement.
+
+* Interactive
+* Targeted
+* Value-driven
+* Authentic
+* Participatory
+* Distinctive
+* Purpose-Driven
+* Discoverable
+* Symbolic
+* Functional
+* Experiential
+* Inviting
+
+* The design of the experience therefore encompasses several elements: 1) type of **tactic**, 2) **content type**, and 3) **content strategy**, including themes, topics, appeals, source, and style.
+
+## TYPES OF TACTICS
+* The experience the brand offers the target audience should align with the relevant zone of social media marketing. In other words, in the zone of social community, the experience should build relationships and will likely include conversation and sharing. In the zone of social publishing, the experience should be informative and/or educational. In the zone of social entertainment, the experience should be entertaining. In the zone of social commerce, the experience is related to shopping and buying. Some tactics are cross-zone while others are not. Table 5.5 describes the tactics marketers use to achieve experience strategies and the related zones of social media. You'll learn more about these tactics as we cover each zone of social media in depth in the next section of the book.
+
+
+
+                
+
 
 
 
