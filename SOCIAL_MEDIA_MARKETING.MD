@@ -2233,18 +2233,378 @@ LEARNING OBJECTIVES
 * The experience the brand offers the target audience should align with the relevant zone of social media marketing. In other words, in the zone of social community, the experience should build relationships and will likely include conversation and sharing. In the zone of social publishing, the experience should be informative and/or educational. In the zone of social entertainment, the experience should be entertaining. In the zone of social commerce, the experience is related to shopping and buying. Some tactics are cross-zone while others are not. Table 5.5 describes the tactics marketers use to achieve experience strategies and the related zones of social media. You'll learn more about these tactics as we cover each zone of social media in depth in the next section of the book.
 
 
+## CONTENT TYPES
+* Regardless of the type of tactic or the zone of social media in which the tactic is deployed,  there will be one or more types of content employed. Tactics may require a venue for the audience to interact with the brand, such as an app, widget, bot, or game. Most commonly, tactics rely upon content as the social object with which the audience can engage. A **content type** is an information asset whose attributes distinguish it from all other kinds of content. There are a plethora of content types marketers can use. Some content types include live video, prerecorded video, photos, images, articles, quotes, infographics, announcements, news headines, questions and answers, statements, case studies, e-books, white papers, songs, jingles, games, performances, and more. Don't forget conversations! aS bIZZUKA ceo, jon Munsell, famously said, "If content is king, conversation is queen"
 
+                Table 5.5: Social Media Marketing Tactics
+
+                TACTIC: ZONE: DESCRIPTION
+
+                Branching: 1: Complementing offline brand presence with a presence in social network sites (e.g., brand profile aligned to brand elements)
+
+                Contributing: All: Contributing a valuable and meaningful way, investing in the community
+
+                Friending: 1: Participating in a relational activities with other members of the social community (e.g., conversations, interactions, shared activities)
+
+                Informing/ Broadcasting (i.e., friendvertising): All: Posting one-way messages about brand and/or its offer (product, price, promotions), possibly linking to e-commerce site
+
+                Clustering: All: Building communities around shared interest (i.e., social object) whether as an embedded social community (e.g., GoPro Facebook fan page), owned branded community (e.g., MyStarbucksidea), or brand-sponsored community (e.g., Always' BeingGirl community)
+
+                Listening/Monitoring: All: Monitoring social media, assessing and responding, collecting data for market research purposes
+
+                Collaborating: All: Cooperating, partnering, and/or co-creating (i.e., interdependent contributors)
+
+                Crowdsourcing: All: Enlisting the efforts of many individuals to acquire resources to accomplish a task (i.e., many independent contributors)
+
+                Seeding/Propogating: All: increasing social word-of-mouth communication by triggering viral network effects with influencers
+
+                Educating: 2: Teaching, explaining, and/or coaching others
+
+                Entertaining: 3: Providing socially enabled entertainment and/or participating in social activities in which the social object is entertainment
+
+                Gamifying: 3: Associating the brand with a game or gamifying exposure to the brand message
+
+                Incentivizing: 3,4: Offering a reward in exchange for social engagement (e.g., giving gamers credits if they view an in-game ad)
+
+                Selling: 4: Facilitating sales with social apps and widgets, conducting transactions with SNS, supporting purchase decisions with social word-of-mouth communications
+
+                Serving: 1: Providng customer service on social network channels
+
+===
+
+* How do marketers choose? Marketers will consider **which types of content are typical for the SNS where the content will be deployed, fit the tactic's strategic intent, are most popular among the target audience (perhaps based on data on engagement rates by content types), are best for relaying brand messages, and are feasibly given the staffing, creative, monetary, and temporal resources of the brand.** Figure 5.4 presents the content marketing matrix which plots content type according to whether the information being delivered in the content type is **emotional** or **rational** and whether the target audience is in a **passive** or **active** stage of the purchase process. Table 5.6 provides assessments for the most commonly used content types in social media marketing on key selection factors suchas interactivity, perceived value, source, production cost, and results.
+
+
+Table 5.6: Evaluation of Content Types for Social Media Marketing
+
+                CONTENT TYPE: Image
+                SUUITABLE FOR OBJECTIVE: Brand awareness, engagement, lead generation, customer acquisition
+                PARTICIPATORY (P)/ SHAREABLE (S): P + S
+                PUBLISH TO CHANNELS: Instagram, Facebook, Twitter, Pinterest
+                PROMOTE ON CHANNELS: Insagram, Facebook, Twitter, Pinterest
+                DESIRED ACTION: Comments, "likes", shares
+                COST/DIFFICULTY: Low
+
+                CONTENT TYPE: Origintal Digital Video 
+                SUITABLE FOR OBJECTIVE: Brand awareness, engagement, point of differentation
+                PARTICIPATORY (P)/ SHAREABLE (S): P+S
+                PUBLISH TO CHANNELS: Instagram, Facebook, Twitter, Blog, Youtube
+                PROMOTE ON CHANNELS: Instagram, Facebook, Twitter, Pinterest, Snapchat, Blog
+                DESIRED ACTION: Views, comments, "likes", shares
+                COST/DIFFICULTY: High
+
+                CONTENT TYPE: Pre-recorded Video (repurposed)
+                SUITABLE FOR OBJECTIVE: Brand awareness, lead generation, customer acquisition, engagement
+                PARTICIPATORY (P)/ SHAREABLE (S): S
+                PUBLISH TO CHANNELS: Facebook, Instagram, Youtube
+                PROMOTE ON CHANNELS: Instagram, Facebook, Youtube, Twitter, Snapchat, Blog
+                DESIRED ACTION: Views, comments, "likes" shares
+                COST/DIFFICULTY: Low
+
+                CONTENT TYPE: Blog Post
+                SUITABLE FOR OBJECTIVE: Brand awareness, engagement, event promos, influencer promos, brand equity
+                PARTICIPATORY (P)/ SHAREABLE (S): S
+                PUBLISH TO CHANNELS: Blog, Facebook, Twitter, Linkedin, Instagram, Pinterest
+                PROMOTE ON CHANNELS: Facebook, Twitter, Linkedin, Instagram, Pinterest, Snapchat
+                DESIRED ACTION: Views, inquiries, comments, "likes", shares
+                COST/DIFFICULTY: Low-Moderate
+
+                ...
+
+* CONTENT STRATEGY
+* **The specific themes and topics for the content must be identified. Themes may be based on brand values, industry issues, target audience interests, integrated marketing communication campaigns, seasonal events, and more.** The only requirement is that the themes identified fit with the brand, the target audience, and the tactics being employed. The topics will be subcategories of the themes identified. Working with the themes and topics, the team will brainstorm ideas and assign the ideas a title. **Ideas deemed worthy of further development can then be assigned to a team member and tracked through the stages of development, approval, production, publication, promotion, and assessment.**
+* The Content Marketing Institute recommends a series of questions to answer in the discovery process for a **content strategy**
+
+* is the target audience actively seeking information about your brand? Is their attitude toward the brand positive? What content or information do they need? Can you help solve a "pain point" in their jobs or lives? What can you offer them that they would care about?
+* What differentiating value can your brand bring? What can you develop that is truly different from and more valuable than that of the competition?
+* What could we develop that will be synergistic with the brand's overall marketing efforts?
+* What do we need to say? What will the target audience be receptive to?
+* What content types will be used? Can the content be developed as a series to increase impact? 
+* Where will the content be published and distributed?
+* What resources do you have already or can you acquire to develop content? Can you syndicate content from existing sources? Can you provide value through curating content from other sources? If original content, do the resources exist in-house? Who in the company has the expertise to help? What internal assets and other content do you already have? What resources (staffing, partnering, vendor services) will you need?
+
+* Note that in addition to devising a creative idea and a rationale for why it should produce content that meets the criteria and will achieve the desired results, the questions include assessing what is feasible. Some social media marketing teams are a team of one; others (such as web designers, copywriters, graphic designers) and **brand assets** (such as video footage, commercials, print ads, brochures, and annual reports) from other division in the company that can be repurposed as **source content**. Other teams will be creating from scratch.
+* An additional consideration is the content mix in terms of point of view (POV) or intended beneficiary. Research suggests that people are more likely to engage, and engage positively, when the content posted or shared takes the point of view of the receiver, rather than that of the sender. In other words, the messages should have more "you" focus than "me" focus. When brands share a post that touts the launch of a new product, the focus is on the brand, and if the audience engages, it is the brand that benefits. When a brand shares an entertaining video that brings joy and amusement to the audience, the focus is on the audience, and if the audience watches the video, the audience benefits. See the difference? Industry best practices suggest that the content mix should follow an 80-20 formula such as that 80% of the content is audience-focused and 20% brand-focused. **In other words, for every four social media posts that are *audience-centric*, the brand can share one post that is *brand-centric* or sales-oriented.**
+* Table 5.7 illustrates a planning template used in planning content strategy. Sample themes and topics are identified in the column on the left. The planner includes space for the title, content type, creative source, anticipated distribution channels, and production schedules.
+
+                Table 5.7: Planning Content for a Social Media Editorial Calendar
+
+                CATEGORIES & MESSAGING THEMES:
+                        Value Propositions:
+                                * Points of differentiation
+                                * Client needs/ concerns
+                                * Defending and defining our voice
+                                * Top 3 things we want people to know
+                                * Top 3 things we want people to do
+                                * Primary calls to action
+                        Any unique ways to be involved with our company or product:
+                                * How are we unique? 
+                                * How to be involved
+                                * How to purchase products
+                        Company:       
+                                * Company history
+                                * Our core values
+                                * mission statement
+                                * Vission statement
+                                * Company or product stats
+                        Industry:
+                                * What's trending
+                                * Competitive landscape
+                                * industry studies
+                                * Upcoming industry trade shows and events
+                        FAQ and product & Sales support
+                                * Product comparison posts
+                                * List and how-to posts
+                                * Client story post
+                                * Testimonial post
+                                * New product launch
+                                * socila contesting post
+                        Events and/or announcement by month
+                                * January-December
+                TOPIC/KEYWORDS:---
+                TOPIC CONTENT: INCLUDE A CALL TO ACTION FOR ALL ARTICLES:
+                        TITLE: ---
+                        PRIMARY CONTENT TYPE: IMAGE, VIDEO, CASE, STUDY, WHITE PAPER, TESTIMONIAL
+                VOICE: COMPANY VS INDIVIDUAL VOICE:
+                        BRAND, MASCOT, USER, INFLUENCER: ---
+                MEDIA TYPES: ARTICLES, BLOG, VIDOE, PODCAST, INFOGRAPHIC, PRESENTATIONS, NEWSLETTERS, EMAIL
+                DESTINATION CHANNELS: 
+                        WEBSITE: ---
+                        WORDPRESS BLOG: ---
+                        FACEBOOK PAGE: ---
+                        TWITTER: ---
+                        LINKEDIN: ---
+                        YOUTUBE: ---
+                        SLIDESHARE: ---
+                        PINTEREST: ---
+                        SNAPCHAT: ---
+                        BLOGGER: ---
+                        FLICKR: ---
+                PRODUCTION NOTES:
+                        DUE DATE: ---
+                        ASSIGNED TO: ---
+                        TARGET PUBLISH DATE: ---
+                        
+===
+
+Figure 5.5: A Sample Content Strategy Framework
+
+                One brand's content strategy framework
+                HERO CONTENT: 
+                        EVENT ACTIVATION
+                        CONTEST ACTIVATION
+                         LIVE EVENT ACTIVATION
+                HUB CONTENT: 
+                        SPORT SERIES, PRODUCT EDITORIALS, SPORTS SERIES
+                        MUSIC INTERVIEW & BEHIND THE SCENES, PROMOTION, MUSIC INTERVIEWS & BEHIND THE SCENES
+                HYGIENE: 
+                        AD CAMPAIGN, AD CAMPAIGN, AD CAMPAIGN
+                        PROUDCT QUESTIONS, DEMOS & TROUBLESHOOTING
+                        THE BRAND--SOCIAL MEDIA AND CHANNEL ACTIVITY
+
+===
+
+### PUBLISHING STANDARDS
+* The content strategy will likely also include standards for content that ensure everything published and promoted for social media marketing is optimized for effectiveness. For instance, keywords, tags, and meta tags that are relevant for the brand's search engine optimization (SEO) strategy should be emphasized in social media content. Hashtags used for specific brand campaigns or related to seasonal themes will be identified. The standards may include guidelines for title or headline word count, preferred headline words, types of preferred interactivity (e.g., quizzes or polls), links, thumbnails, and so on.
+
+### CONTENT STRATEGY DOCUMENT
+* The decisions will be documented in a brief content strategy document, as shown in Table 5.8.
+
+                Table 5.8: A Content Strategy Document Example
+                * Tactical Approach: Most content will align with the primary tactics of educating and contributing and secondary tactics of friending and serving: minimal content will broadcast information about our products, pricing, and special offers (80/20)
+                * Type: Because our brand offers a high-involvement, high-risk service, credible and detailed information is valuable for preparing the audience to choose a service provider. Videos and articles published on our company blog will be the primary content types. These will be promoted with short, conversational posts in our chosen social channels.
+                * Content Theme: Content themes will include 1) brand slogan, 2) empowering decision makers for risky decisions, 3) stressful decisions
+                * Content Topics: Videos will relay the stories of customers told in the form of a dramatization. The story arc will engage the viewer in an emotional and well-crafted drama that ultimately delivers a testimonial for our service. The video will be constructed as a series with one episode for every type of situation faced by our clients. These will be supported by a downloadable how-to guide that explains how propsective customers facing similar situations can choose a solution to meet their needs.
+                * Suggested topic titles are provided in the content calendar
+                * Style: The brand's persona is that of trusted advisor. The brand's voice will reflect a personality that is empathetic, reassuring, reliable, and strong
+                * Implementation Standards: All content will have a consistent voice, tone, heading, nonenclature, and editorial style. All content will include a call to action, a link to the company website, and the brand logo
+
+===
+
+### EXHIBIT 5.1
+BRITA'S FILTERED LIFE SERIES INCLUDES #FILTERYOURFEED TWITTER TACTIC
+* Brita, a brand known for its ability to filter contaminants out of water, has tied its social media strategy to its core benefit--filtering! The "Filtered Life" campaign, which looks at all the bad stuff that can be removed from human consciousness as a metaphor for what filters do to water, includes the zones of social community and social publishing. The experience strategy relies on tactics based on branded video content and a Twitter app. The app, Filter Your Feed, scans users' tweets and replaces negative tweets with positive messages--like pictures of puppies! The positive messages generate earned media. These organic posts are seeds that help to spread the campaign to others. Users are incentivized to accept the positive posts with an altruistic appeal: Brita will donate $1 to the Cybersmaile foundation, an anti-cyberbullying non-profit, for every negative post deleted and positive post shared. The campaign uses owned media in the form of a microsite at www.brita.com/why-brita/drink-like-you-care, which hosts Brita's content and serves as a social media hub with links to Brita's profiles on several social media channels, including Twitter and Youtube. The app is promoted using paid ads on Twitter and Youtube.
+
+## HOW: PRODUCING AND SHEDULING CONTENT POSTING AND PROMOTION
+* The next stage of tactical planning is to establish processes for producing the content identified in the content strategy and a schedule to guide the work flow.
+
+### PRODUCING THE CONTENT
+* Each content unit must be created and produced. Teams may use variations of **creative briefs** to document the required characteristics and elements of each content unit. If the content piece is part of a larger campaign, there may be a series of briefs, moving from campaign level to content type to content unit, and for content proejcts that involve multi-media, a content element brief may even be used. The briefs will provide the information the responsible staff member needs to ensure the deliverables meet the associated requirements. The guidelines may be very specific, such as number of words used in the title, inclusion of a short link, use of an image of a specific size, inclusino of campaign hashtags, use of a **call to action**, and so on. A call to action refers to a direct request in a marketing message for a specific behaviour.
+* As content is developed, it will be documented and catelogued. This ensures that content can be reused or repurposed in the future. Over time, the team will amass a database of content including posts, tweets, photos, hashtags, articles, and so on. The best ideas will produce content that can be repurposed for several related uses. This is called **atomization**--the content can be partitioned and/or repackaged in several ways while still remaining strategically aligned. Not only is atomization an efficient way to use resourcesw, it also provides message **amplification**. Having related but distinct content on different social channels increases the likelihood that the target audience will be exposed to the message multiple times. This enhance message recall.
+
+## SCHEDULING WITH A CONTENT CALENDAR
+* The **content calendar** captures which content is scheduled and prioritized for an organization, generally with an annual, quarterly, monthly, and sometimes weekly view. The most commonly used format is a spreadsheet, built in Microsoft Excel or Google Sheets. Companies that work with Social media Management serivces (e.g., Sprout Social, HubSpot, Buffer) will use calendars integrated into the system. Content calendars help to identify, prioritize, and plan for new- and future-content creation. Calendars will typically include several sheets to accommodate planning for different time periods while maintaining perspective of how the content fits together. For instance, a content calendar may include the following views of the content and calendar:
+
+1. Year-at-a-glance view with seasonal themes and major campaign dates
+2. Monthly view of content in production
+3. Monthly view of content scheduled for posting by social channel
+4. Weekly view of content for posting by social channel
+5. Weekly view of daily post schedule by social channel
+6. Daily view of social media activity, organized by content or by social channel.
+7. Content index
+
+* Figure 5.6 depicts an example of a simple annual view. Figure 5.7 illustrates a typical weekly schedule organized by content and date. Figure 5.8 shows how various elements of the content calendar relate to each other. 
+* There is no right or wrong way to organize a content calendar. **If you Google "social media marketing content calendar** you will find several free Excel templates from social media service providers. Different templates woill provide varying levels of detail. All are easily adapted as you gain experience and develop preferences for the calendar planning system that work best for you.
+* How you design, share, and access your editorial calendar will ultimately depend on your particular marketing goals and available resources. But at the most fundamental level, we recommend that your calendar includes the following fields:
+
+* The **date** the piece of content will be published.
+* The **topic** or **headline** of the content piece
+* The **author** of the content
+* The **owner** of the content--i.e., who is in charge of making sure the content makes it from ideation to publication and promotion
+* The **current status** of the content (updated as it moves through your publishing cycle)
+
+* Depending on your company's specific goals, your content team's workflow, the formats and platforms with which you plan to work, and the volume of content you will be creating, you may also want to tract these elements to help you stay organized and on track over the long term.
+
+* **The channels where the content will be published**: this can include owned channels (such as your blog, Facebook page, website, Youtube page, email newsletters, etc), or you can expand your tracking to include paid and earned channels, as well.
+* **Content formats**: Is it a blog post? A video? A podcast? An infographic? An original image? To get more milage from the content you create, consider repurposing it into other formats.
+* **Visuals**: speaking of assets, it's important that you don't overlook the appeal tha visuals can lend to your content, both in terms of social sharing potential and overall brand recognition. Tracking the visual elements you include in your content efforts--such as cover images, logos, illustrations, charts--will make it easier to ensure that your work has a signature look and cohesive brand identity.
+* **Topic cateogories**: this helps make your calendars more searchable when you are looking to see about which target topics you've already created a log of content--of which you haven't covered often enough
+* **Keywords and other meta-data**, such as meta-descriptions and SEOtitles (if they differ from your headlines), will help you keep your SEO efforts aligned with your content creation.
+* **URLs**: this info can be archived as an easy way to keep your online content audits updated, or to link to older pieces of content in the new content you create.
+* **Call to action**: this helps you ensure that every piece of content you create is aligning with your company's marketing goals.
+
+* The calendar will reflect the intended volume and frequency of activity for each channel in your social media plan. Studies on the effectiveness of posting schedules suggest that brands be active several times each week, spread among each day of the week, with fewer high-value content posts for blogs and video channesl and more brief, conversational posts for social network sites. Ultimately though, the choice should fit with the overall strategy and objectives and the team's capacity to deliver fresh, effective content and social interaction
+
+## ROLES AND WORKFLOW
+* A clearly defined workflow will help your team communicate more efficiently, adn it gives everyone something to be accountable for. A **social media workflow** is a sequence of connected steps that enables the organization to act efficiently with minimal overlaping tasks and resources in order to implement the social media marketing plan effectively. A solid workflow helps you and your entire team to:
+
+* understand the big vision behind daily tasks and projects
+* know what each person's role and responsibilities are
+* complete projects requiring different skills as a team, and
+* prioritize time and resources
+
+* Workflows can be incredibly complex, especially for large teams in global companies. Most teams have five or fewer members though, so creating a workflow is manageable and worthwhile. According to Sprout Social, at small companies (one to 50 employees), in particular, 59% of social marketers say they work on team of one to two people. At mid-sized companies with 51-1000 employees, 35% of social marketers work on teams of three to five people; 37% enterprise social marketers work on teams of more than 11 people. To implement a workflow that actually works, follow these steps:
+
+* Figure out exactly what tasks need to be completed for each piece of content you produce and the daily activities required for posting to each channel in the plan.
+* Understand what role would be the best for completing each task
+* Assign those tasks to the people who fill those roles. When proejcts require skills from multiple people on the team, identify whether the tasks can be completed concurrently on must move forward in linear fashion.
+* Assign due dates based on what needs t obe done first, second, third, and so on.
+* Hold everyone accoutable for getting their stuff done on time.
+
+### EXHIBT 5.2: 
+MANY SOCIAL MEDIA MARKETING MISTAKE HAPPEN BECAUSE OF POOR TACTICS
+* Marketers make social media mistakes all too ofte. The most common tactical erros fall into these broad categories:
+1. posting from the wrong account (personal posts on work profiles and vice versa)
+2. mishandling responses when replying to comments
+3. creating content that offends the target audience
+4. posting content without checking it first
+5. promoting the competition
+6. sharing too much information
+7. auto-tweeting without monitoring for current events
+8. co-opting a trending topic for reach
+9. responding to trolls
+
+### CRITIAL REFLECTION
+STRESS AND THE SOCIAL MEDIA MARKETER
+* Being a social media marketer sounds like a dream job! you get to spend most of your waking hours doing other people do for fun! You tweet, you snap, you pin! You show off your creative flair with clever images and witty banter. And that's really all it takes for a brand to build and maintain a successful social media program, right? Not quite. Social media have been described as a beast that requires constant feeding. Constant means always, as in 24/7, 365 days a year. The beast requies it be fed with fresh ingredients and while you are concepting, and prepping, any number of developments might need your attention. The result--stress!
+* The Stress in America report, published by the APA, states that 86% of adults in the US experience social media stress. Constant checkers--people who frequently check email, texts, and social media accounts--experience the highest levels of social media stress. Don't worry--there are solutions to reduce social media stress! The answer is to take a "digital detox" from time to time. unfortunately, digital detox isn't really an option for those whose livelihood requires being connected to social media--as it does if you are part of a social media marketing team. While might work for people whose jobs don't require them to be connected virtually around the clock is something social media marketers can only dream about.
+
+### CASE STUDY
+221BC'S TACTICAL PLAN
+* In Chapter 4, we saw 221BC's strategic social media marketing plan. In Chapter 5, our focus is on the tactical execution of the strategic plan. Following some of the key parameters explained in the chapter, we've explained 221BC's tactical plan in the bales below. Table 5.9 maps 221BC's strategic objectives for strategy, tactical objectives, and specific tactics. 221BC will post daily (and sometimes multiple times per day) to ensure the brand profile is active in organic posts on Instagram and Facebook. These posts will seek to promote the brand, distribute coupons and highlight giveaways, encourage product reviews, and drive traffic to the Biome 1.0 blog.
+* Table 5.10 illustrates 221bc'S content strategy docoument. The content strategy document identifies the primary form of content 221BC will use, including images, Instagram stories and video, recipes, and blog posts. Because 221BC strives to use the tactic of educating more so than other tactic, 80% of the content will be focused on educating the audience on wellness topics. The remaining content will highlight the brand and feature proudct images and offer special incentives like coupons that will drive product trial in stores carrying the brand. All of the content will reflect 221BC's brand personality of the "bully Buddha". This brand personality is accessible and engaging while emphasizing the authentic helpfulness intended for the audience.
+* Table 5.11 provides some examples of specific content that 221BC will use in its social media activity. Figure 5.10 illustrates a content calendar to guide 221BC's social media posting. One of the tactical objectives will be to build an audience for 221BC's Biome 1.0 blog (part of the brand's social publishing strategy). To accomplish this, the blog will be promoted in some of the social media posts. The photo illustrates an example of a post promoting the blog.
+
+                Table 5.9: Mapping 221BC's Objectives for strategies and Tactics
+
+                * STRATEGIC OBJECTIVE: Create brand awareness
+                * Strategy: Expose target audience to brand
+                * TACTICAL OBJECTIVE:
+                        * Build brand presence in social communities
+                        * Post interesting and interactive messages
+                        * Engaging in conversations with fans and influencers
+                        * Promote links to high-value content including blog
+                * TACTICS:
+                        * Ensure brand profiles in selected SNS (e.g., Instagram and Facebook) are active
+                        * Post daily in each network
+                        * Respond to comments and questions daily
+                        * Use influencer list to target conversations around campaigns
                 
+                * STRATEGIC OBJECTIVE: Build brand image and reputation
+                * STRATEGY: 
+                        * Communitate brand image
+                        * Encourage word-of-mouth communication
+                * TACTICAL OBJECTIVE:
+                        * Develop robust content that reinforces brand messages while being of value to target audience
+                        * Publish content on owned media channels and rich media experiences in social communities
+                * TACTICS:
+                        * Create, produce, distribute, and post content following content calendar
+                        * Content should emphasize the 221BC difference
+                        * Retain influencers to seed priority content
+                
+                * STRATEGIC OBJECTIVE: Encourage brand trial
+                * STRATEGY: Build reviews, and offer sales promotions to drive in-store purchases
+                * TACTICAL OBJECTIVE: 
+                        * Deliver incentives in drive trial
+                        * Invite reviews and rating from happy customers as credible evidence of value
+                * TACTICS:
+                        * Post coupons and give-aways in social content
+                        * Host reviews and ratings on-site and on Facebook
+                        * Use email marketing to request reviews 10 days after purchase
+                
+                * STRATEGIC OBJECTIVE:
+                        * Retain customers/build loyalty
+                * STRATEGY: Engage, delight, inspire, thank and reward customers
+                * TACTICAL OBEJCTIVE:
+                        * Cluster fans and loyal customers to create brand community
+                        * Build fan relationships
+                        * Collaborate and co-create 
+                        * Reward reviews and ratings and other WOM communications
+                        * Listen and monitor
+                        * Respond to questions and comments
+                        * Reinforce Aneta as wellness expert
 
+===
 
+                Table 5.10: 221BC's Content Strategy Document
+                * Tactical Approach: Most content will align with the primary tactics of informing/broadcasting, contributing, and educating, and secondary tactics of friending and serving. Informing/broadcasting will make up no more than 20% of content posted.
+                * Type: The type content types include blog articles, imges, video, and Instagram stories and recipes. These will be promoted with short, conversational posts in our chosen social channels.
+                * Content Theme: Content theme will include 1) brand promotional messages, 2) benefits of kombucha, 3) superior ingredients in 221BC kombucha, and 4) wellness Wednesdays.
+                * Content Topics:
+                        * Most topics will feature wellness-related topics such as recipes, gardening, gut health, ingredient quality, exercise, and skincare. Aneta will be presented as the expert who can educate the audience to be more healthy. One step on this wellness path is the consumption of 221BC kombucha. Suggested topic titles are provided in Table 5.11
+                * Style: The brand's persona is that of "Bubbly Buddha". The brand's voice will reflect a personality that is authentic, vibrand, approachable, helpful, caring, knowledgeable, optimistic, and humble
+                * Implementation Standards: All content will have a consistent voice, tone, heading, nomenclature, and editorial style. All content will include a call to action, a link to the company website, and the brand logo.
 
+===
 
+                Table 5.11: 221BC's Content Plan Example
 
+                CAMPAIGN: CHANNEL: TOPIC DESCRIPTION: CAPTION/TITLE: IMAGE
 
+                Blog: Biome: Fermentation: Why Fermentation is So Good For Us! : Jar of SCOBY
+                Blog: Biome: Gardening: Growing Key Ingredient at Home: Aneta's garden
+                Blog: Biome: Recipe: Good but Granola: Granola
+                Blog: Biome: Eating Clean: Darn Good Vegan Salad: Salad
+                Blog: Biome: Ingredients: Superior Ingredients Make Superior Kombucha: Collage of key ingredients in 221BC
+                Wellness Wednesdays: Instagram Stories: Gut Health: 7 Signs of an Unhealthy Gut: Aneta presents
+                Wellness Wednesdays: Instagram Stories: Gardening: 3 Plants to Add to Your Home Garden: Aneta in her garden
+                Wellness Wednesdays: Instagram Stories: Recipe: Home-made Hummus: Aneta making hummus
+                Brand: Instagram and Facebook: Brand promotional messages: Variety of image posts: Product images; people drinking 221BC
+                Promo Blog: Instaram and Facebook: Promote the blog: Teaser to blog caption: Some image as an blog
 
-                                
+DISCUSSION QUESTIONS
+1. Table 5.5 lists several social media tactics. 221BC will focus on educating as its primary tactic with seconary tactic of contributing, informing/broadcasting, and serving. Should 221BC utilize any of the other tactics in the table? If so, which ones and why?
+2. What other types of content would be a valuable addition to 221BC's content strategy? Should the brand consider using infographics, e-books, or other types of content? What do you recommend?
+3. How should 221BC balance its social media activity with that of Aneta Lundquist's personal account? In some ways, Aneta serves as the company ambassador. How can 221BC leverage both brand and personal tactics to meet its objectives?
+4. Brainstorm other content titles that could be developed for 221BC's blog, videos, or Instagram stories
+5. How should 221BC's social media team organize its social media workflow?
 
-page 165
+## REVIW QUESTIONS
+1. What are social media tactics?
+2. Why should a social media strategy be based on an experience?
+3. Describe a social media brand experience that you found engaging. What characteristics of the experience made it effective?
+4. Describe four tactics marketers use to achieve experience strategies and note the related zones of social media
+5. Why should brands develop hygiene, hub, and hero content?
+6. What are the components of a content strategy document? How is this different from a contetn calendar?
+7. What are the benfits of a defined social media workflow?      
+
+## EXERCISES
+1. Find a real-world example of a brand's social media strategy that is based on an experience. Describe its target audience and effectiveness. How would you vary the experience to apply to the other zones of social media?
+2. Choose a brand and evaluate its channel plan (where the brand engages with target audience). What conclusions could you draw about the fit of the channel?
+3. Analyze a brand profile on Facebook or Twitter. Identify four types of social media marketing tactics they have recently used.
+4. Imagine you are planning an upcoming campaign for a local coffee shop. Create a content strategy document.
+5. For the same coffee shop, create a sample content calendar (weekly, monthly, or annual)
+
 
 
 # PART IIIL THE Four Zones of Social Media
@@ -2328,9 +2688,99 @@ LEARNING OBJECTIVES: When you finish reading this chapter, you will be able to a
 * There is a lot of clutter and fragmentation in social media. It can be hard for a brand's voice to be heard. There are sevearl applications that can help brands analyze their social profiles and identify strengths, weaknesses, and opportunities. Some examples incude Meltwater and Mention.
 
 ## BRAND PARTICIPATION AND FRIENVERTISING
+* The most social brands in the world might already be among your "friends". Many social network users like, friend, or fan brands. The most popular brands include Starbucks and Coca-Cola. And who could resist being friends with Oreo cookies? that's a friendship taht lasts a lifetime. These brands maintain a social presence in online communities as they invite people to interact and sahre content related to the brand.
+* In the early years of social media marketing, brands joined social network sites as a supplemental way to reach  their target audiences. Just as you see your friends' posts in your news feed, you also see the posts of brands you "like", "friend" or "follow". Brands simply had to get people to friend the brand and--voila!--brand messages would reach those people in their news feeds. Because brands don't pay SNS for their profiles and their posts, social media was perceived as a free media channel. Facebook defines the number of people you can reach for free by posting as **organic reach**. Brand participation in social network sites enables brands to share information about brand benefits and special deals, provide customer care, and build relationships by engaging in conversations with consuemrs in the community. Of course, these benefits aren't truly free-social media participation requires an investment of time. Still, compared to traditioanl advertising costs, participating in social communities is a low-cost supplement for brands to reach consumers.
+* Brands earn value in social media when they engage consumers over time (relationship marketing) and when they encourage consumers to interact with the brand and share those interactions with others. Brands stand to benefit from heightened brand loyalty among engaged consumers and a more expansive reach for brand-related messages. The **earned reach** (the breadth and quality of contact with users) gained when people share positive brand opinions and branded content with others is invaluable because of the influence attributed to individual, personalized brand endorsements. Does this lead to sales? Yes--59% of social media users report that social media influences their purchases. We're talking about the power of word-of-mouth communication, as we discussed in Chapter 3. But first, how can brands grow their network of friends/followers/fans?
+* At a minimum, brands want consumers to friend, follow, or "like" the brand's social presence. Do consumers make friends with brands? According to Sprout Social, a leading social media management company, 86% of social media users have friended a brand. Social media relationships between brands and consumers are one of many factors that may influence purchase decisions, but active engagement in social channels is related to positive brand attitudes and purchase intentions. When people feel connected to a brand, 68% say they are likely to recommend the brand to a friend and 76% say they are likely to choose the brand over a competing one. Whydo people friend brands. Figure 6.2 illustrates the top reasons. Perhaps it's not surprising to see taht interest in brand products and a desire to find deals and incentives top the list. But 20% of people want a connection with the brand. In other words, they want a relationship.
 
-                        
+### POST CONTENT AND TYPE
+* While a brand's friends are open to brand communications in social communities, brands need to carefully consider what they choose to post. Studies of brand activities and firm-generated content (FGC) in social communities suggest that many brands treat social media much as they would other forms of broadcast media, posting brand information and offers. Gallaugher and Ransbotham's (2010) 3M Model of social media dialogue management is useful for conceptualizing approaches to FGC. The 3M are Megaphone (company broadcast posts), Magnet (firm posts that invite consumer engagement), and Monitor (posts that reflect listening and responding to consumer conversations). To date, research suggests most brands use social media as a megaphone, overlooking the value of magnet and monitor posts. Unfortunately, studies also clearly demonstrate that consumer engagement (in the form of "likes", shares, and comments) is higher for brand posts that are interactive (e.g., posing a question) and consumer-focused, rather than brand-focused (i.e., audience-centric versus brand-centric). For instance, a study of engagement effective for Facebook posts from 800 brands found that **posts could be categorized as informative (e.g., product features and price offers) or persuasive (e.g., emotional or philanthropic). Informative content reduced engagement, while persuasive content increased post engagement.** Even brand mascots are guilty! Their posts are primarily brand endorsements and shares/retweets of other user content. Without persuasive messages, brands minimize the amplification effects they could generate if their audiences found the FGC worth sharing with others.
+* Brands are using multi-media posts, especially photos and videos, to enhance post attractiveness and generate consumer engagement, but media type and design aren't the only factors influencing consumer responsiveness. The purpose of FGC and its orientation (audience-centric or brand-centric) matters too. The implications? Consumers don't want to see brand posts that they perceive to be simply another form of advertising. They want authentic, relevant content taht relates to the community context of conversation and socialization.
+* Engagement is even stronger when brands incorporate experiences into their social media activity. Brands that incorporate experiential opportunities generate significantly higher levels of "likes", shares, comments. This is why we emphasize the importance of identifying an experience as a part of the social media strategic planning process in Chapter 4.
+* How are brands performing? The State of Social Engagement Report studies 85 brands across six social communities. According to the report, 95% of brands are stuck in "broadcast" mode, using social channels as a megaphone. Fewer than 40% of the brands studies ever asked questions of their followers or responded to their follower's comments to the brand. Only 2% of brands consistently responded to customers' posts. Not only is this approach less effective, it can drive brand followers away. One of the top reasons people give for unfollowing a brand in social media is too many promotional messages.
 
+## BRAND ENGAGEMENT
+* How do social network sites encourage participation and sharing by members? They make sharing engaging and they make it easy. Brands enhance participation by providing experiences for users that are worth participating in and telling others about. Experiences may involve any of the four zones, but the zone of social community is where conversations take place in and around the experiences.
+* **What does it mean to engage? People differ on their explanation of this. In all likelihood this is because engagement means different things. Just as being satisfied might mean being satisfied across a host of specific areas, being engaged may also mean being engaged in a variety of ways. Still, that's what we must do. Engagement is the very essence of social media. Without it, social media might as well be television. Engagement is the heart of it all.
+* A simple view of engagement is that of consumer response to FGC in social channels. While this is perhaps the least valuable form of engagement, even this is difficult for brands to accomplish. A study of popular brands on Facebook (including Tide, Cheerios, Honda, and others) calculated the percentage of the fan base that participated with the brand. As we learned, brands can do a better job of interacting and offering relevant FGC. Figure 6.4 reveals the social media behavior that people want to see from brands.
 
+                Figure 6.4: What people Want to See from Brand Social Media Engagement
+                * Social media behaviours that help brands connect with consumers:
+                        * Like or respond to a consumer
+                        * Showcase the brand's personality
+                        * Support a cause the consumer personality supports
+                        * Participate in relevant conversations
+                        * Highlight industry or category trends
+                        * Create strong online communities
+                        * Invite user-generated content
 
-page 40
+* Not all of the relevant factors are within a brand's control, though. Participation is also tied to privacy concerns, use of the Internet to search for information prior to purchase, use of social media for socializing and entertainment, and time spent on SNS.
+* Engagement takes many forms. From a customer perspective, engagement means customers' behavioural manifestation toward a brand or firm ,beyond purchase, resulting from motivational drivers. How do customers behave when they are engaged? They may exhibit positive word-of-mouth behaviours, provide recommendations, help others make decisions. As we discussed in Chapter 3, word-of-mouth communication is critical for brands. It is perceived as trustworthy and credible, and substantially more so than advertising messages. A study of the impact of word-of-mouth communication and FGC for 60 brands found that WOM influenced brand equity, brand attiudes, and purchase intent, while FGC alone only facilitated brand attitudes.
+* Brand engagement, of course, may encompass many levels from mild to evangelistic, and brand should seek to grow fans at the lower levels, investing in them so they become true fans. Brands can develop fans by helping them move from lower levels of engagement to higher ones. The higher the engagement the more positive outcomes for the brand in terms of positive word of mouth, enhanced perceptions of brand equity, and possibly sales. All of those positive benefits of engagement occur when brands are able to encourage people to become brand fans.
+* We can think of engagement as a continuum. At one end, people may affiliate with a brand online simply because they want to acknowledge the brand. For example, you might afilliate with Oeros because you have nostalgic connection to the brand based on childhood experiences. It doesn't mean that you plan to buy Oreos now or that you are otherwise engaged with the brand. At the other end, affiliates may want to interact with a brand in meaningful ways, perhaps even working with the brand to develop new products and services. Lego fans, for instance, are infamous for their high levels of brand engagement. Brands with strong fan bases even build museums for fan visits! Cadbury, Ben&Jerry's, Tabasco, Volkswagen, and Crayola have all provided a physical desination for passionate brand fans. And somewhere in between are fans who want special fofers and find they benefit from branded content.
+* Why might people engage with brands? One possible reason is the aspirational value of brands in people's lives. Brands help people build their ideal selves and engagement with the brand online is a path to that self. In other words, the brand is a reflection of the fan's idealized self. That's just what PhaseOne Communications found in a study of 75 brands across six vertical markets. They concluded that users engage with brands based on how they wish to be perceived by their own social graph. Research suggests that increasing brand knowledge and emotion increases the perceived value of the brand in the mind of consumer. As a consumer's knowledge increases, so too does his or her emotional attachment to the brand.
+
+### BRAND FANS
+* Brands can purposefully cultivate **brand fans**. The word fan refers to a person who is enthusiatic about something or someone. Fans display their loyalty and affection for celebrities, sports team, and musicians in the physical world when they buy T-shirts or other licensed products, join fan clubs, and flock to concerts or stadiums. In a social network, a similar display of loyalty may be as simple as clicking Facebook's "like" button and "joining" a sponsored page in the networking site. An online fan community is a **fandom**.
+* The brands with the strongest social following around the world include:
+
+* Coca-Cola
+* Red Bull
+* Converse
+* Samsung Mobile
+* Nike Football
+* Playstation
+* Starbucks
+* Oreo
+* Walmart
+
+* Curious how your favorite brand stacks up across the major social channels of Facebook, Twitter, Youtube? Visit www.socialbakers.com to search its free social statistics area.
+* For brands to truly leverage social networks as places to build relationships with customers, fan relationships should strive to mimic those found among strong fan communities such as Trekkers and Trekkies (members of the Star Trek fandom) and HOGs (fans of Harley Davidson). Random House's Figment is an example of an owned social community; it targets teens who love to read and write fan fiction. Fans who define their own individual identities at least in part by their their membership in a fandom share five key characteristics.
+
+1. Emotional engagement: the object is meaningful in the emotional life of the fan. For example, members of Figment see fan fiction as a part of their self-concept and their membership in the social community as part of their social identity.
+2. Self-identification: the fan personally and publicly identifies with life-minded fans. Figment members call themselves "figgies" and use #figgies when interacting on social media channels other than Figment community platform.
+3. Cultural competence: the fan has a critical understanding of the object, its history, and its meaning beyond its basic functionality. Figgies are fan fiction enthusiasts who know the development of the gene, the stories of successful fan fiction authors, and more.
+4. Anxiliary consumption: the fan collects and consumes related items and experiences beyond the basic object. For figgies, items related to their favorite books, movies, and celebrities are desirable. Figgies might attend fan fiction conventions, going in costume!
+5. Production: the fan becomes involved in the production of content related to the object. Figgies post their fan fiction stories on Figment where other fans can read, critique, and contribute to the stories.
+
+* Figment is considered one of the most successful brand communities. Despite the presence of all five fan characteristics, the weakness for Random House is that the fans are truly passionate about fan fiction--not about Random House. Brands that inspire brand love may experience more benefits than those who sponsor a community dedicated to a separate fan passion.
+* Are the fans being amassed by brand community, or just brand users who are willing themselves by their participation in a brand community, or just brand users who are willing to acknowledge some affiliation with a brand? It's so easy to like, follow, or become a fan. Liking a brand is an easy, low-involvement step and it's one that frequently comes after exposure to an ad requesting a "like" as a call to action. Can these fans develop brand love? Maybe, but research suggests that brand fans join brand communities because they already like or love the brand, not the other way around.
+* The **fan base** is an indicator of the brand's success in establishing a known presence within a community. But to build brand equity and lasting loyalty, brands need more than brand awareness and recognition or even brand affiation. As brands embrace social media marketing, they acknowlege that a strong relationship exists between brand and customer when the customer has a high level of brand engagement.
+* Brands can also leverage fans to get new fans. Fan activity on social profiles can engage new fans.
+* Level of engagement makes a big difference in terms of the buying decision process. One study specifically measured the value of being a brand's Facebook fan. It found that people spend about $72 more on a product for which they have a social network affiation than for one they do not. Fans are also 28% more likely than non-fans to continue using a brand, and 41% more likely to recommend a fanned versus non-faned product to a friend. Fans in the study also said they felt connected to their brands.
+* Importantly, brands that use social media to develop a relationship with customers need to find ways to provide a **return on emotion** for the fans. Return on emotion conceptually assesses the extent to which a brand has delivered a value in exchange for the emotional attachment fans have awarded it. Traditionally, the relationship between brand and consumer is asymmetric, with more effort invested by the fan. One industry study suggests that for brands to succeed as social friends to consumers, building heighened engagement and loyalty, consumers must feel that their efforts are reciprocated and the relationship is symmetric. To do so, brands should socialize with fans and participate in conversations using a credible and authentic brand voice.
+* Ultimately, this social media marketing approach seeks to drive awareness and liking of brands while also building earned media. As we suggested earlier, brands should use social spaces to give consumers reason to share positive stories and product information. To encourage this, brands can offer branded assets such as downloads, shareable widgets and wallpapers, and invitations for consumers to co-create branded content. Brands should also be sure to provide value to the fans by using the branded page as an information hub to announce new products, company news, contests and promotions, and career opportunities. Perhaps most importantly, brands should respond to fan questions and posts. Let's take a look at three key strategies brands can use to engage consumers in their social communities: conversations, real-time marketing, and contests and requests for user-generated content.
+
+### EXHIBIT 6.3
+BRAND PROFILES CREATE PRESENCE AND OPPORTUNITIES FOR ENGAGEMENT
+* Brands develop their profiles within the confines of social vehicle. That's why a brand profile isn't truly owned media, which is under complete control of the brand. Still, brands can leverage the features of different social vehicles to develop a meaningful social presence. Zara is a good example. It posts often and focuses posts on fashion trends. It maintains a Lookbook app within the profile for fans to use to stay up to date on the latest styles. The interactive app includes photos and videos and is optimized for mobile.
+
+===
+
+* Puma engaged fans by inviting them to submit UGC images of its customers modeling their #fentyx line designed by Rihanna. From videos, Gifs images and user-generated hashtag content, Puma heightened visibility of the UGC using "social walls" installed in select locations like Puma's London headquarters. The engagement strategy gave Puma's brand fans a chance to show off how they use Puma products and relate to the brand by serving as an everyday endorser.
+
+### CONVERSATIONS: BRAND TALK
+* When we say "brands talk", we mean they talk! That's right. If brands want to engage consumers in conversation, they have to converse. Can this approach be effecctive? Apparently so. That is, if the most popular brands on Twitter are any indication. Brands like Charmin, GE, and Major League Baseball delight Twitter followers with clever, witty banter and multi-thread conversations with fans.
+* The Sprout Social Index 2019 explored what types of conversations people want brands to engage in. Figure 6.5 highlights the top topics
+
+                Figure 6.5: What people Want Brands to Converse About on Social Media
+
+                Topics brands discuss on social media that make consumers feel more connected to them.
+                * Products and/or services: 68%
+                * Social good initiatives: 46%
+                * Consumer's of fans: 46%
+                * Business performance: 45%
+                * Important issues facing society: 40%
+                * Employee features: 39%
+
+### REAL-TIME MARKETING (RTM)
+* What is real-time marketing? It's kind of like social media conversation on the fly. Brands post messages that resonate with the moment, whether that moment is planned or spontaneous. As we discussed earlier, brands can provoke conversation in social networks. With RTM, the brands leverage current events to do so. These messages have a short life-span. Heinz ketchup used its social media fan base to hijack Super Bowl advertising--garnering engagement while eschewing the $5 million ad placement during the big game. A few days before game day, Heinz launch a tongue-in-cheek campaign with the hashtag #SMUNDAY to petition for the Monday after the Super Bowl to be made a national holiday. The petition pointed out that on average 16 million people call in sick for work on the Monday after the Super Bowl. An RTM message is sometimes even shorter than the typical 30-second advert! But it works because of its timeliness and relevance.
+
+### EXHIBT 6.4:
+OREO'S TWEET SPARTK RTM TREND
+* What about a spontaneous example? Oreo is the king of RTM, perhaps even being the first brand to incite the use of this technique. During the 2013 Super Bowl, game play halted during an unexpected power outage. Oreo's digital agency, 360i, responded fast, tweeting a picture iwth the caption, "You can stil dunk in the dark". Even though Oreo had no paid advertising during the broadcast, it was able to leverage the experience in real time to share its brand mesasge.
+
+### CONTESTS AND REQUESTS FOR UGC
+* 
+
+page 213
