@@ -2781,6 +2781,83 @@ OREO'S TWEET SPARTK RTM TREND
 * What about a spontaneous example? Oreo is the king of RTM, perhaps even being the first brand to incite the use of this technique. During the 2013 Super Bowl, game play halted during an unexpected power outage. Oreo's digital agency, 360i, responded fast, tweeting a picture iwth the caption, "You can stil dunk in the dark". Even though Oreo had no paid advertising during the broadcast, it was able to leverage the experience in real time to share its brand mesasge.
 
 ### CONTESTS AND REQUESTS FOR UGC
-* 
+* Brands can seed many forms of content in social communities as they try to boost engagement and sharing. One of the most popular tools in the **user-generated contest campaign** (also known as a UGC contest). UGC campaigns offer a way for brands to invite consumers to engage and interact while they develop shareable content. The lexicon of online marketers includes many commonly used phrases and accompanying acronyms related to user-generated content, also known as consumer-generated media. **Consumer-generated media (CGM)** or UGC are the catch-all phrases for user content. User content is organic when its creation is motivated by an intrinsic intent on the part of its creator rather than incentivized or guided by the brand itself. Organic brand-oriented UGC, at least when promoting the brand in a favorable light, is valuable and suggests highly engaged customers. For example, a Youtube video espousing one's love for one's iPad is organic UGC--Apple didn't invite or incentivize the fan to create and post the content.
+* Is it effectve? According to the Nielsen Consuemr Trust Index, 92% of consumers trust UGC more than advertising. Studies show that user-generated social media communication positively influences brand equity and attitude toward the brand and contests are a tried and true method for generating that communication. A comparison of movie ticket sales among groups who were exposed to a movie-themed microsite, a social media contest for the movie, or both, found that using both as a combined approach was most effective.
+* A UGC campaign is sometimes called **participatory advertising**. Brands invite content, set mandatory guidelines and specifications, and possibly also provide participants with selected *brand assets* such as footage from prior commercials that ran on TV. Brands must pay attention to vehicle rules. Whether the campaign will run on Pinterest, Instagram, or Facebook, each vehicle has published guidelines. UGC contests encourage people in the target audience to develop and submit content related to the campaign. The content is then shared on social sites in the form of a **gallery**, which others can view and pass on to their respective networks.
+* UGC contests engage consumers and spread the message by leveraging consumer networks. It takes work to organize and oversee the process and promotion to activate these contests, but on the other hand they provide interesting content at a relatively low cost to the brand--especially compared to what professional advertisers charge to create commercials! Depending upon the contest design, UGC contests can also offer ways to engage different types of consuemrs--creators, joiners, conversationalists, collectors. In addition, they provide content for journalists to include in stories about teh brand, so ultimately this enhances a brand's publich relations profile.
+* The most frequently used manifestation of UGC is the request for a personal story and/or photo. For example, in the Hanes campaign, "Undercover Color" women shared the color of their underwear on Twitter. The campaign tied in with the brand's core product and also related to the target audience, because a woman's color choice is a reflection of her personality and mood. Another variation is the "create your own ad" contest, which has been used by numerous brands, including Frito-lay, and Chevy. Sponsors encourage submission with incentives such as prize money or the chance for the winning entry to be broadcast on television.
 
-page 213
+## BRAND SOCIAL COMMUNITIES
+* Ultimately, brands can develop and engage communities (called an **embedded brand community**) using existing SNS like Facebook or develop their own independent, online community (called an **online brand community** or OBC). While brands can create such communities independently or within an existing SNS, Facebook Groups has been a recent choice for engaging brand fans in a unified social space. Regardless of the approach, community management is a critical part of optimizing marketing outcomes. The State of Social Engagement Report scored 85 brands on the quality of their social community engagement, including several categories: 1) cohesive social channel strategy, 2) active community management, 3) content mission, quality, and storytelling, 4) engagement and community relationship building, 5) collaboration with influencers, adn 6) amplification efforts. Content missions were used to capture  the value content provided to community members, such as education, customer support, entertainment, philanthropy, special offer, or sales appeal. Community relationship building included communicating with members, responding to their posts and doing so quicly and effectively. Few brands in this study were truly engaging. In fact, 51 of the 85 brands scored <=50% of the possible points. only three brands scored above 80%. Spring, Pfizer's Meningitis Community, and AT&T. The bottom line? Brands can benefit from social media participation, and especially from brand communities. But brands have room for improvement to fully benefit from the organic value in the zone of social community.
+
+## PAID MEDIA IN SOCIAL NETWORK SITES
+* Just as brands may advertise on websites throughout the web, they may also choose to advertise within social commynities. Marketers invest more than $84 billion per year on paid advertising in social network sites. Facebook captures nearly 70% of that ad spending.
+* Organic brand impressions are more influential are credible than paid impressions. In a nutshell, people who see Facebook impressions organically are measurably mroe likely to take actions on the web. So why are marketers investing in paid ads in social media? In a word--algorithm. Today, the algorithms SNS use to deliver content in member news feeds make it more difficult for brand messages to reach their fans. News feeds were once chornological, but over time, SNS began using algorithms to deliver news feed posts that are customized for each user. Facebook's algorithm is based on thousands of variables designed to assign a **relevancy score** for each piece of content that could be exposed to a user. For users, the result should be a better overall experience. You should see more of the type of content you've liked in the past from people and brands you've interacted with. Mark Zuckerberg explained: "Our goal is to build the perfect personalized newspaper for every person in the world". According to Zuckerberg, the average Facebook member only sees about 100 posts a day on their news feed, even though more than a thousand posts are being contributed from our network during that time period.
+* This is bad news for marketers. What percentage of people will see organic posts? Studies suggest that organic reach averages less than 5%. Figure 6.6 illustrates this relationship. In other words, even a brand with a million fans will only reach 20,000 of the fans with each post. Obviously, this makes it more difficult for brands to meet their reach objectives for marketing messages, but it also means less engagement--fewer "likes", comments, shares and ultimately fewere conversions, leads, and customers. The situation is expected to worsen. Facebook has warned brands to expect zero organic reach in the near future.
+* That's the major reason companies are turning to paid media options in SNS. These ads may take the form of standard display or video ads, ads in mobile apps, or may be more integrated (and less intrusive) in the form of native advertising. Paid ads in socical networks can be targeted using geographic segmentation, demographic segmentation, psychographic, and behavioural targeting. Remember the member prfoile data and behavioural data captured from social footprints? SNS use that data to provide advertisers with advanced targeting techniques. Facebook's targeting capabilities have gotten considerably better over the past few years. Marketers can reach their ideal target persona based on demographics, interests, web behaviour, and more. Companies can merge email addresses from their customer databases and website visitor data to target social media users directly--an option called **custom audiences**. Facebook offers targeting of **lookalike audiences**, which match the characteristics of known customers. A popular technique is to use targeted ads to "retarget content", also called remarketing. People who have visited a company website before are served an ad for the product on Facebook. In addition to targeting, SNS provide tracking and effectiveness reports for advertisers. you'll learn more about these reports in Chapter 11.
+
+## ADVERTISING TYPES
+* **Display ads** may include text, graphics, video, and sound, much like traditional print ads and commmercials, but they are presented on a website. Table 6.1 presents an overview of the advertising options for the major SNS, including pros and cons, cost per thousand (CPM), and specific options. Whether the ads are text-oriented (e.g., a classified ad in a newspaper), text and graphics (e.g., a print ad in a magazine), or rich media (e.g., a television commercial), digital display ads are enhanced with a **response device** in that viewers can click the ads (called a **clickthrough**) to reach a target landing page. A **landing page** is the first page that a person sees when he or she clicks through an ad to reach a brand's target site. It's an important page for marketers, in that the content on the landing page will influence whether visitors stay at the site or move on to another page. Of course, there are many variations for social media advertising such as instagram Stories.
+
+                Table 6.1: Advertising Options for the Major SNS
+
+                Facebook
+                * Active Monthly Users: 2.5 Billion
+                * Adverage CPM: $7.19
+                * Percent Millennial: 41%
+                * Pros: 
+                        * Largest social network
+                        * Granular targeting capabilities
+                * Cons: 
+                        * Cost of advertising is increasing
+                        * Can be hard to break through clutter
+                * Options:      
+                        * CPM or CPC based 
+                        * Sponsored post in News Feed
+                        * Right side-rail ad positions
+                * Latest Developments:
+                        * Facebook now offers secure adsd; advertisers can bid to have thin page show us to relevant mobile searches
+
+                Twitter:
+                * Active Monthly Users: 330 Million
+                * Average CPM: $10
+                * Percent Millennials: 36%
+                * Pros:
+                        * People often tweet while watching TV
+                        * Advertisers can create combined TV and Twitter campaigns
+                * Cons:        
+                        * Does not have many targeting capabilities or ad positions
+                * Options:      
+                        * Promoted tweets
+                        * Promoted accounts
+                        * Prmoted trends
+                * Latest Developments: Offers variety of campaign formats based on marketing objectives
+
+                Intagram
+                * Active Monthly Users: 1 billion
+                * Average CPM: $5.68
+                * Percent Millennials: 34%
+                * Pros:
+                        * Large social network with strong millennial following
+                        * Works well for brands with strong imagery
+                * Cons: 
+                        * Demand for visual content
+                * Options:
+                        * Stories ad
+                        * Photo ad
+                        * Video
+                        * Carousel
+                * Latest Developments: 
+                        * Shopping posts can be deployed as ad campaigns
+                ...
+
+
+===
+
+* Display ads that are designed to have the look and feel of the website on which they are placed are known as native ads. eMarketer estimates that native advertising in social network sites will surpass $52 billion in 2020. The Interactive Advertising Bureau defines **native advertising** as "paid ads that are so cohesive with the page content, assimilated into the design, and consistent with the platform behavior that the viewer simply feels that they belong". The advertising content is delivered "in-stream", as though it is organic content shared by members of the social network site. Because the ad content flows naturally alongside organic content on the social network site, it doesn't interrupt the user experience the way traditional advertising does. For this reason, native advertising is thought to be less irrating and more effective. Sponsored posts in Facebook, featured videos on Youtube, and promoted tweets in Twitter are example. Though ad design is always evolving to leverage technological capabilities, current types of native advertising include in-feed, paid search, widgets, promoted listings, in-ad native elements, and custom. Native ads can evaluated on five characteristics using the IAB Native Advertising Evaluative Framework. Each characteristic represents a continuum ranging from most to least harmonious given the context and capabilities of the website where the ad will be placed.
+
+                Table 6.2: IAB Native Advertising Framework
+
+                
+
+page 218
