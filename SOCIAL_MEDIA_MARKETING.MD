@@ -3039,7 +3039,43 @@ FORD SOCIAL CONNECT ITS SOCIAL PUBLISHING CHANNELS
                 Lead generation | 70% | 61%
                 Customer retention/loyalty | 63% | 55%
                 Sales | 53% | 48%
-                Building
+                Building an audience via subscription growth | 45% | 38%
+                Lead nurturing | 68% | 49%
+                Educate audiences | 79% | 75%
+                Build credibility/trust | 75% | 65%
+
+===
+
+                Table 7.3: Types of Content in the Social Publishing Strategies of B2B and B2C Marketers
+
+                CONTENT TYPE | B2B | B2C
+
+                Social media content | 95% | 94%
+                Blogs | 89%  | 80%
+                Email newsletters | 87% | 74%
+                E-books/white papers/infographics | 67% | 54%
+                Videos | 71% | 66%
+
+=== 
+
+* As in any other media, not all content is created equal. Some is trash; some is important. Some content is fun, some inspiring, and some just titillating (anyone for "Keeping Up with the Kardashians"). As Figure 7.2 shows, we can characterize content in terms of its originality and substance according to a **content value ladder**. Let's take a closer look at this form of classification:
+
+                Flagship
+                Pillar
+                Authority-building
+                Basic --Original content
+                Filler -- Content repurposed from other sources, news, announcements and commentary
+
+                PS: Hight to low about value of content
+
+                from authority-building to up is contribution of original content
+
+===
+
+* At the lowest step in the ladder we find the least important type of materials. **Filter content** is simply content repurposed from other sources. A site called ArticlesBase.com is a free online article directory. It hosts articles that have been contributed by authors hoping to expand the reach of their work online. Others can use the articles posted on ArticleBase at no charge. They just search for the topic of interest, copy and paste the article to their own site, and cite the contributing author. Filler content can also come from other content providers (blogs and posts on media-sharing sites) and syndicated sources such as PRNewsWire and Associated Press.
+* All other content on the ladder is **original content**. The first level of original content refers to contributions that originate with the poster but are not "weighty" enough to establish the creator as an authority in the topic area or serve as a refernce piece for the audience.
+* If that original content positions the sponsoring entity as an authoirty on the subject in question, then we call it **authority-building content**. Brands publish backlink-building content to establish and maintain their reputations as experts and thought leaders in their industries
+                
 
 
-page 244
+page 246
