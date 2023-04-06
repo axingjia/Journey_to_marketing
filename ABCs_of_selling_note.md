@@ -1,0 +1,2 @@
+* Selling is about helping others and caring about others.
+* marketing mix includes product, price, place and promotion. Besides the marketing mix, you should also consider whether there is a need for your goods and services
