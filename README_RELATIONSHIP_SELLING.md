@@ -850,4 +850,103 @@ Do you Have Any of These Listening Habits
 * A salesperson was talking to the president of a large paper mill. "I simply asked him what kind of training he had for his salespeople. He went into a long discourse on all the seminars, training films, videotapes, and cassettes they had from the parent company, suppliers, industry associations, and in-house programs. I sad, listening, and took notes. At the end of his speech I said to him, 'I notice you didn't mention anything about time management for salespeople' He raise his voice and emphatically said, 'You know, just this morning I was talking to a guy and I told him we have to have some time-management training for our salespeople'''
 * The lesson here is to get the prospect talking and listening actively--concentrate. Take notes, look for clues to emotions, and don't interrupte or start thinking about your next question.
 
-page 134
+#### The Three Levels of Listening
+* Whenver people listen, they are at one of three basic levels of listening. These levels require various degrees of concentration by the listener. As you move from the first to the third level, the potential for understanding and clear communication increases.
+
+* **Marginal Listening** Marginal listening, the first and lowest level, involves the least concentration, and typically listeners are easily distracted by their thoughts. During periods of marginal listening, a listener exhibits blank stares, nervous mannerism, and gestures that annoy the prospect and ccause communication barriers. The salesperson hears the message but it doesn't sink in. There is enormous room for misunderstanding when a salesperson is not concentrating on what is said. Moreover, the prospect can not help but feel the lack of attention, which may be insulting and diminishes trust. It may be funny when family members continually patronize each other with "Yes dear" regardless of what is said. In real life, however, it is not funny.
+
+        Prospect: What I need, really, is a way to reduce the time lost due to equipment breakdowns
+        Salesperson: Yeah, OK. Let's see, uh, the third feature of our product is the convenient sizes you can get
+
+* Salespeople of all experience levels are guilty of marginal listening. Beginners who lack confidence and experience may concentrate so intensely on what they are supposed to say next that they stop listening. Old pros, by contrast, have heard it all before. They have their presentations memorized and want the prospect to hurry and finish talking so the important business can continue. These traditional salespeople forget that the truly important information lies in what the prospect says.
+
+* **Evaluative Listening** Evaluative listening, the second level of listening, requires more concentration and attention to the speaker's words. At this level, the listener actively tries to hear what the prospect says but isn't making an effort to understand the intent. Instead of accepting and trying to understand a prospect's message, the evaluative listener categorizes the statement and concentrates on preparing a response.
+* The evaluative listening phenomenon is a result of the tremendous speed at which a human can listen and think. it is no surprise that evaluative listening is the level of listening used most of the tim. Unfortunately, it is a difficult habit to break, but it can be done with practice.
+
+        Prospect: What I need, really, is a way to reduce the time lost due to equipment breakdown.
+        Salesperson: (defensively) We have tested our machines in the field, and they don't break down often.
+
+* In this example, the salesperson reacted to one aspect of the prospect's statement. Had the salesperson withheld judgment until the end of the statement, he could have responded more objectively and informatively.
+* In evaluative listening, it is easy to be distracted by emotion-laden words. At that point, you aren't listening to the prospect. Instead, you are obsessed with the offensive word and wondering what to do about it. This is a waste of time for both you and the prospect. It increases personal and relationship tension and throws your communication off course. To avoid the problems of marginal and evaluative listening, practice active listening.
+
+``` 
+SELLING TIPS
+
+Listening Guidelines
+* Here are several things to do to improve your listening skills:
+
+        * Stop talking
+        * Show the prospect you want to listen
+        * Watch for nonverbal messages and project positive signals
+        * Recognize feelings and emotions
+        * Ask questions to clarify meaning
+        * If appropriate, restate the prospect's position for clarification
+        * Listen to the full story
+
+```
+
+* **Active Listening** Active listening is the third and most effective level of listening. The active listener refrains from evaluating the message and tries to see the other person's point of view. Attention is not only on the words spoken but also on the thoughts, feelings, and meaning conveyed. Listening in this way means the listener puts herself into someone else's shoes. it requires the listener to give the other person verbal and nonverbal feedback.
+
+        Prospect: What I need is a way to reduce the time lost to equipment breakdowns
+        Salesperson: Could you tell me what kind of breakdowns you have experienced.
+    
+* In this example, the salesperson spoke directly to the prospect's concerns--not around them. Her desire to make a presentation was deferred so she could accomplish a more important task--effectively communicating with the prospect.
+* Active listening is a skill that takes practice in the beginning, but after a while, it beomces second nature. The logic behind active listening is based on courtesy and concentration.
+* Active listening is sometimes difficult to do, especially for the novice salesperson. The novice may continue to talk about a particular situation or problem. However, the salesperson must learn to listen. it is a key to sales success. People like and appreciate a listener.
+
+#### Technology Helps to Remember
+* A distinction must be drawn between listening and remembering. Listening is the process of receiving the message the way the speaker intended to send it. **Memory** is recall over time. Listening and time have profound effects on memory. An untrained listener is likely to understand retain only about 50 percent of a conversation. After 48 hours, the retention rate drops to 25 percent. Think of the implications. Memory of a conversation that occurred more than two days ago may be incomplete and inaccurate. 
+* After you leave the prospect's office, take a few minutes to write down, or log in your computer, what occurred during the sales call. This is valuable information for doing what you promised and planning the next sales call. Chapter 5 will discuss much more about the use of technology in communicating with customers.
+
+```
+It's Party Time
+* You are part of a sales district containing six salespeople. At least once a month, everyone gets together for dinner and sometimes entertainment. This is an aggressive group, very spirited in their discussion of any topic.
+* Tonight you sit and listen to one of the salespeople maliciously and wrongfully attack your company and your boss. You can tell that this person is serious and has strong feelings about what is being said.
+* What would be the most ethical action to take?
+
+1. Interject with your opinion. This might start a heated debate, but at least you did not compromise your ideals
+2. Interject with your opinion during dinner and leave dinner if the negative conversation continues. Sit down with your boss the next day and suggest that he bring the other salesperson in to discuss what the underlying problems are and how they might be resolved.
+3. Let him talk. Everybody is entitled to his/her own opinions.
+
+```
+
+#### Your Attitude Makes the Difference
+* Although a variety of methods and techniques exist in selling, truly effective sales persuasion is based on the salesperson's attitude toward the sales job and customers. What is the secret of a great sales atttitude? The checklist (see "Today I choose" in margin on page 142) shows you a variety of factors that show customers your attitude toward them. Which of these factors have you chosen to use today?
+* Surround these nine factors with **enthusiasm** in yourself to show your excitement toward the customer. Truly being a person radiating these attitudes will create genuine interest in other people. You will be welcomed anywhere. When you walk into the buyer's office, you'll light it up with your selling spirit!
+
+#### Proof Statements Make You Believable
+* Salespeople who have established **credibility** with their customers through continued empathy, willingness to listen to specific needs, and continual enthusiasm toward their work and customers' busienss can make claims that some customers may treat as gospel. Enthusiasm combined with proof statements greatly improves a salesperson's persuasive ability.
+* Salespeople have known for years that using highly credible sources can improve the persuasiveness of teh sales presentation message. **Proof statements** are statements that substantiate the salesperson's claims. Pharmaceutical companies often quote research studies performed by outstanding physicians at prestigious medical schools to validate claims of product benefits. These proo statements add high credibility to a sales message.
+* Salespeople sometimes quote acknowledged experts in a field on the use of products. By demonstrating that other customers or respected individuals use the products, they encourage customer belief in the validity of information presented in a sales presentation. People place greater confidence in a trustworthy, objective source (particularly one not associated with the salesperson's firm) and are therefore more receptive to what the salesperson say.
+
+# Appendix: Dress for Success... and to Impress for Business Professional and Casual Occasions
+* You have only one chance to make a favorable first impression. Impressions of you are based upon your appearance. How you are dressed makes a first and lasting impression on those you meet in any situation. The following dress guidelines come from Texas A&M University's Center for Retailing Studies. For men and women you learn the basic guidelines for both business professional and business casual attire.
+
+```
+Busienss Casual Attire:
+
+    The Coat & Shirt: Depending on the occasion, a sport coat with a nice solid or striped button-down shirt is appropriate. Be cautious not to pick anything too loud. Go with conservative colors. If you pick a striped shirt, be sure the stripes are subtle. The coat should be black, navy, gray, or tweed
+
+    The Slacks: Choose a pair of slacks that is equally as professional as your suit pants. They should fit appropriately and coordinate with your shirt. They should be a neutral color such as black, brown, tan, grey, or navy
+
+    The Shoes: Business casual shoes are similar to business professional shoes. They should match your outfit and preferably be leather. Although the shoes are not necessary, be sure to pick a style that is conservative and still professional looking.
+
+    Accessories: Accessories should always be used moderately. A tie is not necessary for business casual attire. The only jewelry you should wear is a gold or silver watch, a wedding band and/or a class ring. Also, always wear dark color socks and be sure the leather of your belt matches your shoes.
+
+    Tips to Remember: The main difference between busienss casual and business professional is that you may not be wearing a suit jacket. Even thouogh it is called business casual, it is important to still look extremely professional. Remember to avoid loud colors. When in doubt, always dress up rather than down.
+
+Business Professional Attire
+
+    The Suit: Choose a professional, conservative suit in charcoal or navy. It may be solid, stripped or have a subtle pattern. The suit should fit you properly and always be cuffed. The coat sleeve should show 1/4 to 1/2 inches of your shirt sleeve. It is recommended that you wear a single breasted wool suit with two or three buttons. This suit is just an example of an appropriate one you may choose to wear
+
+    The Shirt: White, long sleeved button-down shirt. it should be very professional, fit you well and be nicely ironed.
+
+    The Shoes: Choose a lace up shoes only in black or cordovan. It is recommended that they are leather and they should complement your suit. Be sure they are clean and polish.
+
+    The Accessories: Keep accessories to a minimum. Bring a portfolio or briefcase. Wear little or no cologne, trim fingernails and be sure your hair is nicely styled. Also, wear dar colored socks.
+
+    The Tie: Wear a conservative silk tie with little or no pattern. A red or maroon color is recommended.
+
+    Tip to Remember: First impressions are formed in the first seven seconds of a meeting. Avoid faddish styles and loud colors. You wan the employer to focus on your skills and abilities, not your clothes. It's better to be over dressed than under dressed. The picture you create will greatly influence your chances of being hired.
+
+page 142
