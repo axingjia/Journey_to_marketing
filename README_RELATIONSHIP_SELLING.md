@@ -745,4 +745,109 @@ Exhibit 4.5: Five tips for international handshaking
 * The buyer was sending Jones signals that he likes doing business with people he knows. He was a "feeler", as discussed in Chapter 3. The buyer did not watn to get get down to business immediately. He wanted to visit for a while. No true communication was ever established between Jackson and Jones, which caused Jones to misread the customer and incorrectly handle the situation.
 * Salespeople, as illustrated in this example, often lose sales by failing to recognize3 communication barriers between buyer and seller. The main reasons communication breaks down in the sales situation include these (see Exhibit 4.8)
 
+1. **Differences in perception.** If the buyer and seller do not share a common understanding of information contained in the presentation, communication breaks down. The closer a buyer's and seller's perceptions, attitudes, and beliefs, are the stronger communication will be between them. Cultural differences are easily misperceived by buyers and sellers.
+2. **Buyer does not recognize a need for product** Communication barriers exist if the salesperson is unable to convince the buyer of a need, and/or that the salesperson represents the best supplier to buy from.
+3. **Selling pressure** There is a fine line between what is acceptable sales pressure or enthusiasm and what the buyer perceives as a high-pressure sales technique. A pushy, arrogant selling style can quickly cause the prospect to erect a communication barrier.
+4. **Information overload.** You may present the buyer with an excess of information. The overload may cause confusion, perhaps offend, and the buyer will stop listening. For example, the engineer making a presentation to a buyer who is not an engineer may concentrate on the technical aspects of a product when the buyer only wants a small amount of information.
+5. **Disorganized sales presentation** Sales presentations that seem unorganized to the buyer tend to cause frustration or anger. Buyers commonly expect you to understand their needs or problems and to customize your sales presentation to their individual situations. If you fail to do this, communication can fall apart.
+6. **Distraction** When a buyer receives a telephone call or someone walks into the office, distractions occur. A buyer's thoughts may become sidetracked, and it may be difficult to regain attention and interest.
+7. **Poor listening**. At times, the buyer may not listen to you. This often occurs if you do all or most of the talking--not allowing the buyer to participate in the conversation
+8. **How and what you say**. What we say probably affects more people than any other action we take. Here are four common speech patterns. The first two should be copied, and the last two should be avoided
+
+        a. The Controlled Talk--those with this speech pattern think before speaking, know when silence is best, and give wise advice
+        b. The Caring Talk--those with this speech pattern speak truthfully while seeking to encourage
+        c. The Conniving Talk--those with this speech pattern are filled with wrong motive, gossip, slander, and a desire to twist truth
+        d. The Careless Talk--those with this speech pattern are filled with lies, salty language, and quick-tempered words--which can lead to self-destruction in sales
+
+9. **Not adapting to buyer's style** sitting in on a sales call with a young salesperson selling high-priced industrial equipment, it became clear that the two were not communicating. The salesperson, who preferred telling to showing, kept talking about the product. But the visually oriented client wanted to see a picture of it. Eventually, the conversation deteriorated into a show versus tell confrontation.
+
+        It was the classic sales miscommunication. Amazingly, the rep had product brochures in his briefcase. But he didn't bring them out because he was locked into his own form of communication. It is critical for salespeople to use different communication styles as discussed in Chapter 3. Most successful salespeople have learned to match their customers' communication styles. Remember the Golden Rule and adjust to the other peron.
+
+* The nine barriers to communication just listed are not the only ones that may occur. As in the examnple of Joe Jones, the buyer may actually need the product and the salesperson may have excellenet product knowledge and believe that the sales presentation was good, yet because of communication barriers, the buyer reject the salesperson and the product. As a salesperson, constantly seek ways to recognize and overcome communication barriers, and identify and satisfy buyer needs t hrough persuasive communication.
+
+## Master Persuasive Communication to Maintain Control
+* To become a better communicator, consider two major element of communication. First, always strive to improve the message and its delivery in the sales presentation. You need to be a capable encoder. Second, improve your ability to determine what the buyer is communicating to you. To do so, you need to be a good listener or decoder. A good sales communicator knows how to effectively encode and decode during a presentation.
+* Salespeople want to be good communicators to persuade people to purchase their products. **Persuasion** means the ability to change a person's belief, position, or course of action. The more effective you are at communicating, the greater your chances of being successful at persuasion.
+* The chapters on the selling process go into greater detail on specific persuasion techniques. For now, let's review several factors to develop persuasive communications. These factors relate to several components of the communication model shown in Exhibit 4.2: feedback, empathy, simplicity, listening, attitude, and proof statements.
+
+## Feedback Guides Your Presentation
+* Learn how to generate feedback to determine whether your listener has received your intended message. Feedback does not refer to any specific type of listening behavior by the buyer but rather to a recognizable response. A shake of the head, a frown, or an effort to say something are all signals to the salesperson. If the salesperson fails to notice or respond to these signals, no feedback can occur, which means faulty or incomplete communication. A salesperson's observation of feedback is like an auto racer's glances at the tachometer. Both aid in ascertaining a receiver's response.
+* Often, feedback must be sought openly because the prospect does not always give it voluntarily. By interjecting into the presentation questions that require the customer to give a particular response, you can stimulate feedback. Questioning, sometimes called probing, allows the salesperson to determine the buyer's attitude toward the sales presentation. **Probing** refers to gathering information and uncovering customer needs using one or more questions.
+
+``` 
+Don't Complicate Things
+* How can you simplify the following statements
+
+1. A mass of concentrated earthly material perennially rotating on its axis will not accumulate an accretion of bryophytic vegetation
+2. Individuals who are perforce constrained to be domiciled in vitreous structures of patent frangibility should on no account employ petrous formations as projectils.
+3. A superabundance of talent skilled in the preparation of gastronomic concoctions will impair the quality of certain potable solution made by immensing a gallinaceous bird in embullient Adam's ale
+
+Answers
+1. A rolling stone gathers no moss
+2. People who live in glass houses shouldn't throw stones
+3. Too many cooks spoil the broth
+
+```
+
+* MCI Communication included this type of feedback in their sales training sessions. MCI sales trainers suggested to their salespeople that they use questions in their presentations. These were some of the questions:
+
+        * Do you think you are paying too much for telecommunications equipment?
+        * Are you happy with the service now being provided
+        * Are you happy with the equipment your present supplier has installed for your company
+
+* These questions were intended to draw negative responses from the customers concerning the relationship with their present supplier. They provided the MCI salespeople with a method of determining how the prospect felt about the competitor. These responses allow the salesperson to discuss the specific features, advantages, and benefits of MCI products relative to the products the prosepct currently used. Future chapters will fully discuss questioning techniques to use during your presentation.
+
+### Remember the Trial Close
+* In planning your presentation, it is important to predetermine when and what feedback producing questions to ask. Remember to use the trial close as part of your SELL Sequence, as discussed in Chapter 3. The use of a question after discussing a benefit is a great method of obtaining feedback. Another way to create positive feedback is through empathy.
+
+## Empathy Puts You in Your Customer's Shoes
+* **Empathy** is the ability to identify and understand the other person's feelings, ideas, and situation. As a salesperson, you need to be interested in what the buyer is saying--not just in giving a sales presentation. Many of the barriers to communication mentioned earlier can be overcome when you place yourself in the buyer's shoes. Empathy is saying to a prospect, "I'm here to help you," or "Tell me your problems and needs so I can help you". Empathy is also evidenced by a salesperson's display of sincerity and intereset in the buyer's situation.
+* This may mean acknowledging at times that a prospect may not need your product. Take, for example, the Scott Paper Company salesperson who finds that the customer still have 90 percent of the paper towels purchased three months ago. There is no reason to sell this customer more paper towels. It is time to help the customer sell the paper towels now on hand by suggesting displays, price reductions, and formats for newspaper advertisement. it is always wise to adopt your customer's point of view to meet the customer's needs best.
+
+```
+Do you Have Any of These Listening Habits
+* No one is perfect. We all have some bad listening habits that we get away with when we talk to our family and friends. In a business context, however, leave these bad habits behind and practice active listening. To gain insight into your listening habits, read through this list of common irritating listening habits and be honest with yourself; notice what you are guilty of and use this awareness to begin eliminating them:
+
+        1. You do all the talking
+        2. You interrupt when people talk
+        3. You never look at the person talking or indicate that you are listening
+        4. You start argue before the other person has a chance to finish.
+        5. Everything that is said reminds you of an experience you've had, and you feel obligated to digress with a story
+        6. You finish sentences for people if they pause too long
+        7. You wait impatiently for people to finish so that you can interject something
+        8. You work too hard at maintaining eye contact and make people uncomfortable.
+        9. You look as if you are appraising the person talking to you, looking him or her up and down as if considering the person for a modeling job
+        10. You overdo the feedback you give--too many nods of your head and "uh-huh's".
+
+
+```
+
+## Keep It Simple
+* The new salesperson was sitting in a customer's office waiting for the buyer. his boss was with him. As they heard the buyer come into the office, the sales manager said, "Remember, a KISS for him". No, he was not saying to give the buyera kiss, but to use the old selling philosophy of keep it simple, salesperson.
+* The story is told of a little old lady who went into a hardware store. The clerk greeted her and offered her some help. She replied that she was looking for a heater. So the clerk said, "Gee, are you lucky! We have a big sale on these heaters, and a tremendous selection. Let me show you" So after maybe 30 or 45 minutes of discussiing duothermic controls, heat induction, and all the factors involved with how a heater operates, including the features and advantages of each of the 12 models, he turned to the little old lady and said, "Now, do you have any questions" To which she replied, "Yes, just one, Sonny. Which one of these things will keep a little old lady warm?"
+* An overly complex, technical presentation should be avoided when it is unnecessary. Use words and materials that the buyer can understand easily. The skilled salesperson can make a prospect feel comfortable with a new product or complex technology through the subtle use of nontechnical information and a respectful attitude.
+* Three literary masterpieces, the Lod's Prayer, The Twenty-Third Psalm, and Mr. Lincoln's Gettysbury Address, had few words and no long ones. Recall their phraseology:
+
+        * Our Father who art in Heaven, hallowed by thy name
+        * The Lord is my shepherd; I shall not want
+        * Four score and seven years ago
+
+* Not a single three-syllable word; hardly any two-syllable words. All of the great things in human life are one-syllable things--love, home, child, wife, trust, faith. As part of your study, watch television, listen to the radio, and read magazine advertisements. All of the great advertisements, generally speaking, use simple, small words. So keep it simple--KISS
+
+## Creating Mutual Trust Develops Friendship
+* Salespeople who develop a mutual, trusting relationship with their customers can not help being successful. This type of relationship eventually results in high source credibility and even friendship.
+* If a buyer realizes that in the past she was sold products that performed to expectations, the products were worth their price, and the salesperson did everything promsied, she will trust the salesperson in the future. Building mutual trust is important to effective long-run communication.
+
+## Listening Clues You In
+* **Hearing** refers to being able to deetct sounds. **Listening** is deriving meaning from sounds that are heard. Everything you hear is not worth your undivided attention; for the salesperson, however, listening is a commuunication skill critical to success.
+* Salespeople often believe that their job is to talk rather than to listen. If they both talk and listen, their persuasive powers increase. Since people can listen (about 400 words per minute) roughly twice as fast as the average rate of speech, it is understandable that a person's mind may wander while listening to a salesperson's presentation or that the salesperson may tune out a prospect. To keep the buyer listening, ask questions, get the buyer involved in the conversation, and show visual aids. Once you ask a question, carefully listen to the response.
+
+#### Listen to Words, Feelings, and Thoughts
+* This may seem obvious, but when someone speaks to you, the person is expressing thoughts and feelings. Despite the logic of this statement, most of us listen only to the words. Spoken language is an inexact form of communication, but it is the best we have in this stage of human evolution. If you come back 2,000 years from now, perhaps you will communicate with your prospects via mental telepathy. For now, given the limitation of words, look beyond them to hear the entire story.
+* Listen behind the words for the emotional content of the message. This is conveyed in the nuances of voice and body language. Some people, such as sensers (discussed in Chapter 3), give you little emotional information. That's all right, because you deal with them in a factual, business-only style. Feelers, on the other hand, reveal their emotions, and in turn, they appreciate your acknowledgement of their feelings. It is appropriate to discuss their feelings and treat them more as friends than as strict busienss associates.
+* You can hear the emotion behind the words in several ways. First, look for changes in eye contact. After establishing a comfortable and natural level of eye contact, and sudden deviations from the norm tip you off to emotional content in the message. People tend to look away from you when they talk about something embarrassing. When this happens, make a quick mental note of what it pertained to and treat the subject delicately. Also, give a person the courtesy of looking away momentarily yourself--as if you are saying, "I respect your privacy".
+* Listen between the words for what is not said. Some people reveal more in what they don't say. Part of this is due to the emotional content of the message and part is due to the information they give you. A story illustrates this point.
+* A salesperson was talking to the president of a large paper mill. "I simply asked him what kind of training he had for his salespeople. He went into a long discourse on all the seminars, training films, videotapes, and cassettes they had from the parent company, suppliers, industry associations, and in-house programs. I sad, listening, and took notes. At the end of his speech I said to him, 'I notice you didn't mention anything about time management for salespeople' He raise his voice and emphatically said, 'You know, just this morning I was talking to a guy and I told him we have to have some time-management training for our salespeople'''
+* The lesson here is to get the prospect talking and listening actively--concentrate. Take notes, look for clues to emotions, and don't interrupte or start thinking about your next question.
+
 page 134
