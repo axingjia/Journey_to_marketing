@@ -530,7 +530,219 @@ Don't Quit
 
 * **Self-Control Involves Discipline** Self-control also refers to the needed discipline to rise early, work late, and prepare for the next day in the evening. Often the biggest challenge to success is not out there in the sales territory; it is within us. We can not achieve unless we are willing to pay the price--discipline.
 * Discipline also includes creating time for family--parents, spouse, and children. So often we caught up in the American way of wanting to be rich and famous that we forgot about the others in our life. Instead we must discipline ourselves to set priorities. What comes first, your job or your family? For me, it should always be family before job. Setting priorities requires willpower many of us do not have. Do you ever wonder why t here are so many divorces in America and so many children raised in one-parent homes? Misplacing priorities by not putting family first is the number one contributor to the breakdown of American families. Self-control and discipline are thus very important personal characteristics for all of us, no matter what our careers.
+As you see in Exhibit 1.10, the list of personal characteristics needed to be a good salesperson in today's marketplace is a long one. No doubht your instructor will add to this list, and you undoubtedly will think of other characteristics as well. These characteristics make salespeople good citizens in the business world. However, sadly, it seems that all of us do not have the ability or desire to place the customer first.
+
+```
+Exhibit 1.10: Personal Characteristics needed to sell for building long-term relationships
+
+* Caring for custoemr
+* Joy in work
+* Harmony in relationship
+* Patience in closing the sale
+* Kind to people
+* morally ethical
+* Faithful to word
+* Fairness in the sale[
+* Self-control in emotions
+
+```
+
+* **One of the Kindest People** Many years ago a man named John Wesley, known as one of the kindest men who ever walked on earth, talked about a simple rule of life. Wesley said he tried to "Do all the good he can by all the means he can in all the places he can at all the times he can to all the people he can as long as ever he can" How would you like to deal with a salesperson who followed both Wesley's rule of life and the Golden Rule? Me too.
+
+
+### Do Success Characteristics Describe You
+* What do you think? Do these success characteristics describe you? Are you willing to incorporate them into your life? You may have to go beyond your normal limits. Only your self-imposed limitation can hold you back. If you fail to realize success or if your success is limited, your own preconceptions may be the cause by throwing an invisible barrier across your path. 
+
+## Relationship Selling
+* Salespeople are no longer adversaries who manipulate people for personal gain. They want to be consultants, partners, and problem solvers for customers. Their goal is to build a long-term relationship with clients. Salespeople seek to benefit their employer, themselves, and customers.
+* In recent years, the distinction between a salesperson and a professional has blurred because the salesperson of today is a pro. Many salespeople know more about their field and product than the buyer. The expertise enables the seller to become the buyer's partner, a counselor on how to solve problems. Today's salesperson professionally provides information that helps customers make intelligent actions to achieve their short- and long-term objectives. Service and follow-up are then provided to ensure satisfaction with the purchase. This build customer loyalty--a relationship
+
 
 page 23
 
 
+
+# Chapter 4: Communication for Relationship Building: It's Not All Talk
+
+## Facing a Sales Challenge
+* Amos Skaggs, purchasing agent, stands as a salesperson enters his office. "Hi, Mr Skaggs," the salesperson says, offering his hand. Skaggs returns a limp, one-second handshake and sits down behind his desk. He begins to open his afternoon mail, almost as though no one else was in the room.
+* The salesperson sits down and begins his canned sales talk by saying, "Mr Skaggs, I'm here to show you how your company can lower manufacturing costs by 10 percent" Skaggs lays his mail down on his desk, leans back in his chair, crosses his arms, and with a growl says: "I'm glad to hear that. You know something, young fellow, pretty soon it won't cost us anything to manufacture our product." "Why is that?" the salesman mumbles, meekly looking down to the floor. "Well, you are the ninth person I've seen today who has offered to save us 10 percent on our costs."
+* Skaggs stands up, leans over the table, and while peering over his glasses says slowly. "I believe I've heard enough sales pitches for one day." The initially enthusiastic salesperson now apologetically says, "If this is not a good time for you, sir, I can come back at a later date."
+* The problem facing the salesperson is common. The buyer has been seeing salespeople all day. Basically, they say the same thing. "Buy from me and I'll save you money" The buyer has communicated his feelings toward the salesperson both verbally and nonverbally. What message has Skaggs sent to the salesperson? If you were the salesperson, what might you do now?
+
+---
+
+* Although many other factors are crucial to sales success, the ability to communicate effectively is of prime importance. To convincingly convey this important sales skill, this chapter directly applies a basic communication model to the buyer-seller interaction. We describe several factors influencing communication along with possible barriers to effective communication. We also examine the often ignored--though always critical--topic of nonverbal communication. The balance of this chapter relates some techniques to improve sales communication.
+
+## The Tree of Business Communication
+* What if you could read someone's mind? What if you could tell what he or she is thinking? Wow, wouldn't that be cool! How would you use the knowledge of what is going on in a person's mind about what you are saying--for helping or selling purposes? For the other person's best interst or your best interest? People have ears, but can not hear. People have eyes, but can not see. People have two ears and one mouth but do more talking than listening. What are your answers for these four questions? How do the three "People have..." sayings relate to your life.
+* This chapter, and the last chapter, provides several of the little known secrets about how to read people's minds. Body language, coupled with asking questions periodically as you talk with someone and listening to his or her replies, is a great way to better understand what is going on in someone's mind. Questions, watching nonverbals, listening, talking as needed are secrets to successfully helping others in a sales situation. It also works in your everyday life. Try them! use these secrets of effective communication for building long-term relationships based on the Golden Rule of Selling. Ethical service builds relationships and is based on the truth.
+
+## Communication: It Takes Two
+* **Communication**, in a sales context, is the act of transmitting verbal and nonverbal information and understanding between seller and buyer. This definition presents communication as an exchange process of sending and receiving messages with some type of response expected between seller and buyer.
+* This sound simple, right? But have you ever had someone talk to you and realize you did not hear what was said? "You have eyes but do not see; you have ears but do not hear" is a saying that dates back thousands of years. The wise saying is important to all of us, including salespeople, in our daily living. Salespeople have to understand the many ways people communicate with them.
+* Communication channels during the sales presentation take many forms. Ideas and attitude can be effective communicated by media other than language. Actually, in a normal two-person conversation, less than 35 percent of the social meaning utilizes verbal components. Said another way, much of the social meaning in a conversation is converyed nonverbally. Furthermore, what you say verbally is not always what you actually mean. Exhibit 4.1 expands on this point by illustrating the psychological though processes of both the speaker and the listener.
+* Research has found that face-to-face communication is composed of verbal, vocal, and facial communication messages. One equation presents the total impact of commmunicated messages as equal to 7 percent verbal, 38 percent tone of voice, and 55 percent nonverbal expressions. If one recognizes these findings as a reasonable approximation of the total communicative process, then uninformed salespeople actually ignore a major part of the communication process that occurs during buyer-seller interaction. How the sales message is given can be as important as making the sale as what is said. Thus, nonverbal communication are important in communication between buyer and seller. An awareness of nonverbal communication is a valuable tool in successfully making a sale.
+* Vocal communication includes such factors as voice quality, pitch, inflection, and pauses. A salesperson's use of vocal factors can aid in sales presentation, too. Along with verbal, vocal, and nonverbal communication, many other elements also are involved in sales communication.
+
+```
+Exhibit 4.1: What did you say? What did I hear?
+
+What I though I said  --| Speaker |--What I actually said - - - - What I actually heard --|Listener|--What I thought I heard
+
+```
+
+## Salesperson-Buyer Communication Process Requires Feedback
+* A basic communication model that depicts how the salesperson-buyer communication process is shown in Exhibit 4.2. Basically, communication occurs when a sender transmit a message through some type of medium to a receive who responds to that message. Exhibit 4.2 presents a model that contains eight major communication elements. These elements are defined as follows:
+
+        * Source. The source of communication (also called the communicator); in our case, it's the salesperson
+        * Encoding process. The salesperson's conversion of ideas and concepts into the language and materials used in the sales presentation
+        * Message. The information intended to be conveyed in the sales presentation
+        * Medium. The form of communication used in the sales presentation and discussion; most frequently words, visual materials, and body language
+        * Decoding process. Receipt and translation (interpretation) of the information by the receiver (prospective buyer)
+        * Receiver. The person the communication is intended for; in our case, it's the prospect or buyer
+        * Feedback. Reaction to the communication as transmitted to the sender. This reaction may be verbal, nonverbal, or both.
+        * Noise. Factors that distort communication between buyer and seller. Noise includes barriers to communication, which we will discuss later.
+
+* This model portrays the communication process. A salesperson should know how to develop a sales presentation (encoding) so that the buyer obtains maximum understanding of the message (decoding). The salesperson should use communication media that most effectively communicate a specific sales message. Clear verbal discussion, visual aids such as pictures or diagrams, and models or samples of the product are several types of media a salesperson might use in communicating a sales message.
+* Studies have shown that people retain 10 percent of what they read, 20 percent of what they see, 30 percent of what they hear, and 50 percent of what they hear and see. If possible, it is important to incorporate into your presentation communication that appeals to all five senses (sight, hearing, smell, feel, taste). This is challenging to do!
+* One-way communication occurs when the salesperson talks and the buyer only listens. The salesperson needs a response or feedback from the buyer to know if communication occurs. Does the buyer understand the message? Once feedback or interaction and understanding between buyer and seller exist in a commmunication process, two-way communication has been established.
+* Two-way communication is essentialy to make the sale. The buyer must understand your message's information to make a buying decision. Two-way communication gives the salesperson the ability to present a product's benefit, instantly receive buyer reactions, and answer questions. Buyer usually react both verbally and nonverbally to your presentation
+
+```
+Say What You Mean
+* At least six message are involved in the communication process.
+
+        1. What you mean to say
+        2. What you really say
+        3. What the other person hears
+        4. What the other person thinks is heard
+        5. What the other person says about what you said
+        6. What you think the other person said about what you said
+
+* It gets complicated, doesn't Sue and I were looking at a gorgeous moon together under romantic circumstances. As we shared the moment, how was i actually feeling? I was feeling romantic. If we followed the six messages, the incident would have looked something like this:
+
+        1. What you mean to say ("the moon puts me in a romantic mood")
+        2. What you really say ("Isn't that a brilliant moon?")
+        3. What the other person hears ("The moon is bright")
+        4. What the other person thinks she hears. ("Yes, it's bright enough for a walk")
+        5. What the other person says about what you said. ("Yes, it's bright eough to hit a gold ball by")
+        6. What you think the other person said about what you said. ("I don't feel romantic")
+
+* We can miss each other's wavelengths completely by the time the six message are completed with even realizing what has happened. All of us are constantly in the process of encoding and decoding messages.
+* We need to learn to ask questions or restate the point to clarify meaning. To say what we mean straightforwardly must be our constant goal in order for those around us to discard all decoding devices.
+
+```
+
+## Nonverbal Communication: Watch for It
+* Recognition and analysis of nonverbal communication in sales transactions is relatively new. Only in the past 10 to 15 years has the subject been formally examined in detail. The presence and use of nonverbal communication, however, has been acknowledged for years. In the early 1900s, Sigmund Freud noted that people can not keep a secret even if they do not speak. A person's gestures and actions reveal hidden feelings about something.
+* People communicate nonverbally in several ways. Four major **nonverbal** communication channels are the physical space between buyer and seller, appearance, handshake, and body movements.
+
+## Concept of Space
+* The concept of **territorial space** refers to the area around the self that a person will not allow another person to enter without consent. Early experiments in territorial space dealt with animals. These experiments determined that higher-status members of a group often are affored a freedom of movement that is less available to those of lower status. This idea has been applied to socially acceptable distance of space that human being keep between themselves in certain situations. Territorial space can easily be related to the selling situation.
+* Space considerations are important to salespeople because violations of territorial space without customer consent may set off the customer's deense mechanisms and create a barrier to communications. A person (buyer) has four main types of distance to consider--intimate (up to 2 feet); personal (2 to 4 feet); social (4 to 12 feet); and public (greater than 12 feet)
+* **Intimate space** of up to 2 feet, or about arm's length, is the most sensitive zone, since it is reserved for close friends and loved ones. To enter intimate spacein the buyer-seller relationship, for some prospects, could be socially unacceptable--possibly offensive.
+* During the presentation, a salesperson should carefully listen and look for signs that indicate the buyer feels uncomfortable--perhaps that the salesperson is too close. A buyer may deduce from such closeness that the salesperson is attempting to dominate or overpower the buyer. This feeling can result in resistance to the salesperson. If such uneasiness is detected, the salesperson should move back, which reassures the customer.
+* **Personal space** is the closest zone a stranger or business acquaintance is normally allowed to enter. Even in this zone, a prospect may be uncomfortable. Barriers, such as a desk, often reduce the threat implied when someone enters this zone.
+* **Social space** is the area normally used for a sales presentation. Again, the buyer often uses a desk to maintain a distance of 4 feet or more between buyer and seller. Standing while facing a seated prospect may communicate to the buyer that the salesperson seems too dominating. Thus, the salesperson should normally stay seated to convey a relaxed manner.
+* A salesperson should consider beginning a presentation in the middle of the social distance zone, 6 to 8 feet, to avoid the prospect's erecting negative mental barriers. This is especially true if the salesperson is not a friend of the prospect.
+* **Public space** can be used by the salesperson making a presentation to a group of people. It is similar to the distance between teacher and student in a classroom. People are at east, and thus easy to communicate with, at this distance because they do not feel threatened by the salesperson.
+
+### Space Threats
+* The territorial imperative causes people to feel that they should defned their space or territory against **space threats**. The salesperson who pulls upa chair too close, takes over all or part of the prospect's desk, leans on or over the desk, or touches the objects on the desk runs the risk of invading a prospect's territory. Be careful not to create defensive barriers. However, should you sense a friendliness between yourself and the prospect, use territorial space to your benefit.
+
+### Space Invasion
+* The prospect who allows you to enter or invade personal and intimate space is saying, "Come on into my space; let's be friends." Now you can use space to your advantage.
+* In most offices, the salesperson sits directly across the desk from the prospect. The prospect controls the space arrangement. This defensive barrier allows the prospect to control much of the conversation and remain safe from **space invation.** often, seating in prearranged and it could be a space threat if you moved your chair when calling on a prospect for the first time.
+* However, if you have a choice between a chair across the desk or beside the desk, take the latter seat, as shown in Exhibit 4.3. Sitting beside the prospect lowers the desk communication barrier. If you are friends with the buyer, move your chair to the side of the desk. This helps create a friendly, cooperative environment between you and the buyer.
+
+## Communication through Appearance and the Handshake
+* Often common methods of nonverbal communication are signals conveyed by a person's physical appearance and handshake. Once territorial space has been established, general appearance is the next medium of nonverbal communication a salesperson conveys to a customer. Appearance not only conveys information such as age, sex, height, weight, and physicaly characteristics, but it also provides much data on personality. For instance, hairstyle is one of the first things a buyer notices about a salesperson.
+
+### Style Hair Carefully
+* Hairstyle traditionally has been important in evaluating personal appearance. Today's salespeople must consider the type of customer they call and adjust their hairstyles accordingly. Both male and female salespeople should visit a hairstylist. Though recently decreasing somewhat in popularity, some male salepeople wear facial hair. Salespeople should carefully consider their grooming and its impact on customers' perceptions. Some companies ask males salespersons to be clean shaven and wear conservative haircuts. Their female salespersons are asked to choose a simple, business like, shoulder-length hairstyle. Other companies leave grooming up to each individual. Your grooming objective is to eliminate communication barriers. Your grooming can convey a favorable first impression. Should your company not have a policy on grooming, examining your customers' grooming before deciding on your style.
+
+### Dress as a Professional
+* Wardrobe has always been a major determinant of sales success, and today it is emphasized as never before. A variety of books and articles have appeared on proper dress for businesspeople. These books espouse the doctrine that men and women sales representatives should wear conservative, serious clothing that projects professionalism, just the right amound of authority, and a desire to please the customer. Sporty clothing is believe to accentuate sales aggressiveness, which can place a purchasing agent on the defensive and result in lost sales.
+* Many companies believe that decision rules exist for every major clothing item and accessory, but these are derivatives of one basic commandment--dress in a simple, elegant style. Xerox, IBM, and other large companies have incorporated these ideas into their sales training and daily policies. These firms encourage sales personnel to wear dark, conservative clothing. This practice is designed to project conservative, stable corporate image to both customers and the general public.
+* Exhibit 4.4 and the "Dress for Success" appendix at the end of this chapter illustrate several key considerations for appropriate dress and grooming. Before reading on, look over the appendix at the end of this chapter to better prepare you for the business world.
+* If you are uncertain about what to do, visit several retailers. Make sure at least one retailer is a specialty store. They will have the latest styles and spend time with you. Tell the salespeople what you are looking for and see what they say. Think of this as an investment in yourself because it is expensive to build a wardrobe. However, you are worth it!
+* Clothes, accessories, and shoes are important, but do not forget personal grooming, such as skin care and hairstyle, as noted above. Learn to recognize image symbols in business dress and use them to your advantage. Be cautious about becoming too individualistic--the unspoken message in most companies is that freedom in dress may be a privilege of rank. Remember, too, that these guides for dress, including the remainder of the chapter, also apply to selling yourself in job interviews.
+* The nonverbal messages that salespeople emit through appearance should be positive in all sales situations. Characteristics of the buyer, cultural aspects of a sales territory, and the type of product being sold all determine a mode of dress. In considering these aspects, create a business wardrobe that sends positive, nonverbal messages in every sales situation.
+
+### Shake Hands Firmly and Look People in the Eye
+* Once you have determine appropriate dress and hairstyle, the next nonverbal communication channel to consider is your contact with a prospect through the handshake. The handshake is said to have evolved from a gesture of peace between warriors. By joining hands, two warriors were unable to bear arms against one another (assuming that a shield--not a weapon--was held in the other hand)
+* Today, a handshake is the most common way for two people to touch one another in a business situation, and some people feel that it is a revealing gesture. A firm handshake is more intense and is indicative of greater liking and warmer feelings. A prolong handshake is more intimate than a brief one, and it could cause the customer discomfort, especially in a sales call on a new prospect. A loosely clasped, col, or limp handshake is usually interpreted as indicating that someone is aloof and unwilling to become involved. This cold fish handshake is also perceived as unaffectionate and unfriendly.
+* General rules for a successful handshake include extending your hand first--if appropriate. Remember, however, a few people may be uncomfortable shaking hands with a stranger. At times, you may want to allow your customer to initiate the gesture. Maintain eye contact with the customer during the handshake, gripping the hand firmly. These actions allow you to initally establish an atmosphere of honesty and mutual respect--starting the presentation in a positive manner.
+
+```
+Exhibit 4.5: Five tips for international handshaking
+1. International protocol dictates that you shake hands with everyone in a room--omissions are noticed, and are considered a rejection.
+2. Women should initiate handshakdes, and shake hands with other women and men. Not extending her hand to a European male will cause an American businesswoman to lose credibility
+3. Western and Eastern European reshake hands whenever they 're apart for even a shorter period of time
+4. French and Japanese businesspeople shake hands with one firm gesture. In Japan, the handshake may be combined with a slight bow, which should be returned.
+5. In Arab countries, handshakes are a bit limp and last longer than typical American handshakes. Latin Americans also tend to use a lighter, longering handshake. In all cases, don't pull your hand away too soon, such a gesture will be interpreted as a rejection.
+```
+
+### Body Language Gives You Clues
+* From birth, people learn to communicate their needs, likes, and dislikes through nonverbal means. The salesperson can learn much from a prospect's raised eyebrow, a smile, a touch, a scowl, or reluctance to make eye contact during a sales presentation. The prospect can communicate with you literally without uttering a word. An ability to interpret these signals is an invaluable tool to the successful sales professional. In conjunction with interpretation of body language, the salesperson's skillful use and control of physical actions, gestures, and overall body position also are helpful.
+* The buyer can send nonverbal signals via five communication modes. They are the body angle, facial expression and movement or position, hand movements or position, and leg position. (Exhibit 4.6 shows examples). These modes generally send three types of messages: 1. acceptance, 2. caution, 3. disagreement
+
+* **Acceptance signals** indicate that your buyer is favorably inclined toward you and your presentation. These signals give you the green light to proceed. While this may not end in a sale, at the least the prospect is saying, "I am willing to listen" What you are saying is both acceptable and interesting. Some common acceptance signals include these:
+
+        * Body angle: Leaning forward or upright at attention
+        * Face. Smailing, pleasant expression, relaxed, eyes examining visual aids, direct eye contact, positive voice tones
+        * Hands. Relaxed and generally open, perhaps performing business calculations on paper, holding on as you attempt to withdraw a product sample or sales materials, firm handshake
+        * Arms. Relaxed and generally open
+        * Legs. Crossed and pointed toward you or uncrossed.
+
+* Salespeople frequently rely only on facial expression as indicators of acceptance. This practice may be misleading since buyers may consciously control their facial expressions. Scan each of the five key body areas to verify your interpretation of facial signals. A buyer who increases eye contact, maintain a relaxed position, and exhibits positive facial expressions gives excellent acceptance signals.
+* Acceptance signals indicate the buyers perceive that your product might meet their needs. You have obtain their attention and interest. You are free to continue with your planned sales presentation.
+* **Caution signals** should alert you that buyers are either neutral or skeptical toward what you say. Caution signals are indicated by these characteristics:
+
+        * Body angle. Leaning away from you
+        * Face. Puzzled, little or no expression, averted eyes or little eye contact, neutral or questioning voice tone, saying little, and then asking only a few questions.
+        * Arms. Crossed, tense
+        * Hands. Moving, fidgeting with something, clasped, weak handshake
+        * Legs. Moving, crossed away from you
+
+* Caution signals are important for you to recognize and adjust to for two main reasons. First, they indicate blocked communication. Buyers' perceptions, attitudes, and beliefs regarding your presentation may cause them to be skeptical, judgmental, or uninterestedin your product. Even though you may have their attention, they show little interest in or desire for your product.
+* Second, if caution signals are not handled properly, they may evolved into disagreement signals, which causes a communication breakdown and makes a sale difficult. Proper handling of caution signals requires that you
+
+        * Adjust to the situation by slowing down or departing from your planned presentation
+        * Use open-ended questions to encourage your buyers to talk and express their attitudes and beliefs. How might we improve the efficiency of your workforce? and What do you think about this benefit? are examples of open-ended querstions.
+        * Carefully listen to what buyers say, and respond directly
+        * Project acceptance signals. Be positive, enthusiatic, and smile. Remember, you are glad to be there to help buyers satisfy their needs. Refrain from projecting caution signals even if a buyer does so. if you project a positive image in this situation, there is greater probability that you will change a caut ion light to a green one and make the sale.
+
+* Your objective in using these techiques is to chagne the yellow caution signal to the green go-ahead signal. If you continue to receive caution signals, proceed carefully with your presentation. Be realistic and alert to the possibility that the buyer may begin to believe that your product is not beneficial and begin sending disagreement or red-light signals
+* **Disagreement signals** tell you immediately to stop the planned presentation and quickly adjust to the situation. Disagreements, or red-light signals, indicate that you are dealing with a person becoming uninterested in your product. Anger or hostility may develop if you continue the presentation. Your continuation can cause a buyer to feel an unacceptable level of sales pressure, resulting in a complete communication breakdown. Disagreement signals may be indicated by these signs:
+
+        * Body angle. Retracted shoulders, leaning away from you, moving the entire body back from you, or wanting to move away
+        * Face. Tense, showing anger, wrinkled face and brow, little eye contact, negative voice tones, or sudden silence.
+        * Arms. Tense, crossed over chest.
+        * Hands. Motions of rejection or disapproval, tense and clenched, weak handshake.
+        * Legs. Crossed and away from you
+
+* You should handle disagreement signals as you did caution signals, by using open-ended questions and projecting acceptance signals. There are four additional techniques to use. First, stop your planned presentation. There is no use in continuing until you have changed disagreement signals into caution or acceptance signals. Second, temporarily reduce or eliminate any pressure on the person to buy or to participate in the conversation. Let the buyer relax as you slowly move back to your presentation. Third, let your buyer know you are aware that something upsetting has occured. Show that you are there to help, not to sell at any cost. **Finally, use direct questions to determine a buyer's attitudes and beliefs such as "What do you think of...?" or "Have I said something you do not agree with?"**
+
+#### Body Guidelines
+* Over time, you will know customers well enough to understand the meaning of their body movements. Although a prospect may say no to making a purchase, body movement may indicate uncertainty.
+* Exhibit 4.7 relates some common nonverbal signals that buyers may project. The interpretation of most body language is obvious. Be cautious in interpreting an isolated gesture, such as assuming that little eye contact means the prospect is displeased with what you are saying. Instead, concentrate on nonverbal cues that are part of a cluster or pattern. Let's say your prospect begins staring at the wall. That is a clue that may mean nothing. You continue to talk. Now, the prospect leans back in the chair. That is another clue. By itself, it may be meaningless, but in conjunction with the first clue, it begins to take on meaning. Now, you see the prospect turn away, legs crossed, brow wrinkled. You now have a cluster of clues forming a pattern. it is time to adjust or change your presentation.
+* In summary, remember that nonverbal communication is well worth considering in selling. A salesperson ought to
+
+        * Be able to recognize nonverbal signals
+        * Be able to interpret them correctly
+        * Be prepared to alter a selling strategy by slowing, changing, or stopping a planned presentation
+        * Respond nonverbally and verbally to a buyer's nonverbal signals.
+
+* Effective communication is essential in making a sale. Nonverbal communication signals are an important part of the total communication process between buyer and seller. Professional salespeople seek to learn and understand nonverbal communication to increase their sales success.
+
+
+### Barriers to Communication
+* Like the high hurdler, a salesperson often must overcome a multit ude of obstacles. These obstacles are more aptly called barriers to communication. Consider this example:
+* Salesperson Joe Jones heard that the XYZ Company buyer, Jake Jackson, was displeased with the company's present supplier. Jones had analyzed XYZ's operation and knew that his product could save the company thousands of dollars a year. Imagine Jones's surprise when Jackson terminated the visit quickly with no sale and no mention of a future appointment
+* Jones told his boss about the interview: "Jackson kept asking me where I went to schokol, whether I want coffee, and how I liked selling while i was trying to explain to him the features, advantages, and benefits of our product. Suddenly, Jackson stopped the interview". Jones asked the boss, "What did I do wrong? I know he needed our product."
+* The buyer was sending Jones signals that he likes doing business with people he knows. He was a "feeler", as discussed in Chapter 3. The buyer did not watn to get get down to business immediately. He wanted to visit for a while. No true communication was ever established between Jackson and Jones, which caused Jones to misread the customer and incorrectly handle the situation.
+* Salespeople, as illustrated in this example, often lose sales by failing to recognize3 communication barriers between buyer and seller. The main reasons communication breaks down in the sales situation include these (see Exhibit 4.8)
+
+page 134
