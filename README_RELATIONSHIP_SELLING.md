@@ -561,6 +561,126 @@ Exhibit 1.10: Personal Characteristics needed to sell for building long-term rel
 page 23
 
 
+# Chapter 3: The Psychology of Selling: Why People Buy
+
+```
+Main Topics
+* The Tree of Business Life: Benefits
+* Why People Buy--The Black Box Approach
+* Psychological Influences on Buying
+* A FABulous Approach to Buyer Need Satisfaction
+* How to Determine IMportant Buying Needs--A Key to Success
+* The Trial Close--A Great Way to Uncover Needs and SELL
+* SELL Sequence
+* Your Buyer's Perception
+* Perceptions, Attitudes, and Beliefs
+* The Buyer's Personality Should be Considered
+* Adaptive Selling Based on Buyer's Style
+* You can Classify Buying Situations
+* Technology Provides Information
+* View Buyers as Decision Makers
+* Satisfied Customers Are Easier to Sell To
+* To Buy or Not to Buy--A Choice Decision
+
+```
+
+```
+Facing a Sales Challenge
+* Five years ago John Sally graduated with a computer science degree from MIT. One year later, he earned his MBA from Texas A&M University with a perfect "A" average. John was on every campus recruiter's list as an outstanding applicant. He had the brains, personality, looks, and motivation of a winner. IBM convinced him to take a sales job.
+* John was at the top of his class in the IBM sales training program. However, his first two years in sales resulted in an average performance. He could not understand why, because his knowledge of the product was outstanding. John could discuss in great depth the most technical aspects of his products. He was not used to being average. John loved sales but felt things had to change.
+* If you were in John's position, what would you do?
+
+```
+
+John Sally is like many people who do everything it takes to be successful in sales. Yet for some reason, they never reach their maximum performance potential. To be successful, salespeople need to be knowledgeable, even experts, on everything discussed in Part II, "Preparation for Relationship Selling".
+* Chapter 3 examines why and how an individual buys. Numerous influences determine why people buy one product over another. We discuss these reasons and apply them to the various steps in the customer's buying process. This chapter presents selling techniques that will aid you later in developing your sales presentation. They also can help John Salley in his efforts to improve his sales performance. He needs to know why people buy.
+
+```
+The Tree of Business Life: Benefits
+* As you learn about the psychology of selling, why people buy, and emphasize benefits in your sales presentation in this chapter, keep the Golden Rule in mind. Customers want to trust you! They depend upon you to tell the truth. Use your selling skills learned in this chapter to help people by being a better communicator. Periodically asking a person about what you have just said is a great way to find out what they think about your talk. Do the right thing for the person, even if it means a "no sale". After all, you are with the person to unselfishly help that person make the correct buying decision for his or her need, not your need to make a sale. Ethical service builds relationships and is based upon the truth.
+```
+
+## Why People Buy--The Black Box Approach
+* The question of why people buy has interested salespeople for many people. Salespeople know that some customers buy their product after the presentation, yet they wonder what thought process resulted in the decision to buy or not to buy. Prospective buyers are usually exposed to various sales presentations. In some manner, a person internalizes or considers this information and then makes a buying decision. This process of internalization is referred to as a **black box** because we can not see into the buyer's mind--meaning that the salesperson can apply the stimuli (a sales presentation) and observe the behavior of the prospect but can not witness the prospect's actual decision-making process.
+* The classic model of buyer behavior shown in Exhibit 3.1 is caclled a **stimulus--response** model. A stimulus (sales presentation) is applied, resulting in a response (purchase decision). This model assumes that prospects respond in some predictable manner to the sales presentation. Unfortunately, it does not tell us why they uby or do not buy the product. This information is concealed in the black box.
+* Salespeople seek to understand as much as they can about the mental processes that yield the prospects' responses. We do know:
+
+                * That people buy for both practical (rational) and psychological (emotional) reasons
+                * The salespeople can use specific methods to help determine the prospects' thoughts during sales presentations
+                * The buyers consider certain factors in making purchase decisions
+
+* This chapter introduces these t hree important topics. Each topic emphasizes the salesperson's need to understand people's behavior.
+
+## Psychological Influences on Buying
+* Since personal selling requires understanding human behavior, each salesperson must be concerned with a prospective customer's motivations, perceptions, learning, attitudes, and personality. Furthermore, the salesperson should know how each type of behavior might influence a customer's purchase decision.
+
+## Motivation to Buy Must be There
+* Human beings are motivated by needs and wants. These needs and wants build up internally, which causes people to desire to buy a product--a new car or a new duplicating machine. Peoples' **needs** result from a lack of something desirable. **Wants** are needs learned by the person. For example, people need transportation--but some want a BMW while others prefer a Ford Mustang.
+* This example illustrates that both practical or rational reasons (the need for transportation) and emotional or psychological reasons (the desire for the prestige of owning a BMW) influence the buying decision. Different individuals have different reasons for wanting to buy. The salesperson must determine a prospect's needs and t hen match the product's benefits to the particular needs and wants of the prospect (see Exhibit 3.2)
+
+## Economic Needs: The Best Value for the Money
+* **Economic needs** are the buyer's need to purchase the most satisfying product for the money. Economic needs include price, quality (performance, dependability, durability), convenience of buying, and service. Some people's purchases are based primarily on economic needs. However, most people consider the economic implications of all their purchases along with other reasons for buying.
+* Many salespeople mistakenly assume that people base their buying decision solely on price. This is not always correct. A higher product price relative to competing goods often can be offset by such factors as service, quality, better performance, friendliness of the salesperson, and convenience of purchase.
+* Whatever a person's need might be, it is important for a salesperson to uncover it. Once you determine the individual's need, you are better prepared to develop your sales presentation in a manner relating your product's benefits to that particular need.
+
+## Awareness of Needs: Some Buyers Are Unsure
+* You have seen that people purchase products to satisfy various needs. Often, however, these needs are developed over such a long period that people may not be fully conscious of their reasons for buying or not buying a product. Three levels of need awareness have been identified--conscious, preconscious, and unconscious.
+* At the first level, the **conscious need level**, buyers are fully aware of their needs. These are the easiest people to sell to because they know what products they want and are willing to talk about their needs. A customer might say to the salesperson, "I'd like to buy a new car and I want a BMW loaded with accessories. What can you show me?"
+* At the second level, the **preconscious need level**, buyers may not be fully aware of their needs. Needs may not be fully developed in the conscious mind. They know what general type of product they want but may not wish to discuss it fully. For example, a buyer may want to buy a certain product because of a strong ego need yet be hesitant about telling you. If you don't make a sale and ask why, this buyer may present false reasons, such as saying your price is too high, rather than revealing the real motivation. Falsification is much easier than stating the t rue reasons for not buying your product--thus getting into a long conversation with you, arguing with you, or telling you that your product is unsatisfactory. **You must avoid this brush-off by determining a buyer's real needs first and then relating your product's benefits to these needs.**
+* At the third level, the **unconscious need level**, people do not know why they buy a product--only that they do buy. When people say, "I really don't know what I want to buy." It may be true. **Their buying motives might have developed years earlier and may have been repressed. In this case, the salesperson needs to determine the needs that are influential. Often, this is accomplished by skillful questioning to draw out prospective buyers' unconscious needs.** An awareness of the types of needs that buyers may have will allow you to present your product as a vehicle for satisfaction of those needs. Several methods of presenting a product's benefits are available.
+
+## A Fabulous Approach to Buyer Need Satisfaction
+* A most powerful selling technique used by successful salespeople today is benefit selling. In benefit selling, the salesperson relates a product's benefits to the customer's needs using the product's features and advantages as support. This technique is often referred to as the FAB selling technique (Feature, Advantage, and Benefit). These key terms are defined as follows:
+
+                * A product **feature** is any phyiscal characteristic of a product
+                * A product **advantage** is the performance characteristic of a product that describes how it can be used or will help the buyer
+                * A product **benefit** is a favorable result the buyer receives from the product because of a particular advantage that has the ability to satisfy a buyer's need.
+
+## The Product's Features: SO What?
+* All product have features or physical characteristics such as the following: **size, terms, packaging, color, quantity, flavor, taste, price, service, quality, shape, uses delivery, ingredients, technology**
+* Descriptions of a product's features answer the question, What is it? Typically, when used alone in the sales presentation, features have little persuasive power because buyers are interested in specific benefits rather than features.
+* When discussing a product's features alone, imagine the customer is thinking, "So what? So your product has this shape or quality; how does it perform and how will it benefit me?" That is why you have to discuss the product's advantages as they relate to the buyer's needs.
+
+## The Product's Advantages: Prove It!
+* Once a product feature is presented to the customer, the sealeperson normally begins to discuss the advantages that product's physical characteristics provide. This is better than discussing only its features. Describing the product's advantages, how a product can be used, or how it will help the buyer increase the chances of making a sale. Examples of product advantages (performance characteristics) follow:
+
+                * It is the fastest-selling soap on the market
+                * You can store more information and retrieve it more rapidly with our computer
+                * This machine will copy on both sides of the pages instead of only one
+
+* How does the prospective customer know that your claims for a product are true? Imagine a prospect thinking. "Prove it!" By prepared to substantiate any claims you make.
+* Companies typically train their salespeople thoroughly on the product's phyiscal and performance characteristics. A salesperson may have excellent knowledge of the product yet be unable to describe it in terms that allow the prospect to visualize the benefit of purchasing it. This is because many salespeople present only a product's features and advantages--leaving the buyer to imagine the benefits.
+* While your chances of helping the customer increase when you discuss both the features and the advantages of your product, you must learn how to stress product benefits that are important to the prospect in your presentation. Once you have mastered this selling technique, your sales will increase.
+
+## The Product's Benefits: What's in It for Me?
+* People are interested in what the product will do for them. Emphasizing benefits appeals to the customer's personal motives by answering the question. What's in it for me? In your presentation, stress how the person will benefit from the purchase rather than the features and advantages of your product as shown in Exhibit 3.3
+* To illustrate the idea of buying benefits instead of only features or advantages, consider four items: 1. a diamond ring, 2. a camera, 3. STP motor oil, and 4. movie tickets. Do people buy these products or services for their features or advantages? No; people buy the product's benefits such as these:
+
+                * A diamond ring-- image of success, investment, or to please a loved one
+                * A camera--memories of places, friends, and family
+                * STP motor oil--engine protection, car investment, or peace of mind
+                * Movie tickets--entertainment, escape from reality, or relaxation
+
+* As you can see, people are buying benefits--not a product's features or advantages. These benefits can be both practical, such as an investment, and psychological, such as an image of success. The salesperson needs to discuss benefits to answer the prospect's question, What's in it for me?
+
+```
+Example
+* Vacuum-cleaner salesperson to householder: "This vacuum cleaner's high-speed motor (feature) works twice as fast (advantage) with less effort (advantage), which saves you 15 to 30 minutes in cleaning time (benefit) and the aches and pains of pushing a heavy machine (benefit)"
+* Sporting goods salesperson to customer: "With this ball, you'll get an extra 10 to 20 yards on your drives (advantage), helping to reduce your score (benefit) because of its new solid core (feature)
+* Salesperson to buyer of grocery store heal and beauty aids: "Prell's economy size (feature) sells the best of all brands (advantage) in stores like yours. You can increase store traffic 10 to 20 percent (benefit) and build your sales volume by at least 5 percent (benefit) by advertising and reducing its normal price (feature) in next Wednesday's ad"
+
+```
+* New salespeople frequently are not accustomed to using feature, advantage, and benefit phrases. To use them regularly in your sales conversation, a standardized FAB Sequence can be used as following
+
+**The ...(feature)...means you (advantage)... with the real benefit to you being ...(benefit)...**
+
+* The FAB Sequence allows you to easily remember to state the product's benefit in a natural, conversational manner. For example, "The new solid core center of the Gunshot Gold Ball means you will have an extra 10 or 20 yards on your drives with the real benefit to you being a lower score." You can substitute any features, advantages, and benefits between these transition phrases to develop FAB sequences. Several sequences can be used one after another to emphasize your product's benefits.
+* Try it. Out loud, read the golf ball FAB Sequence. Then do it again using your own phrasing. Create several variations until finding one you would feel comfortable using in a conversation.
+* Why should you emphasize benefits? There are two reasons (see Exhibit 3.4). First, by emphasizing benefits customers can better understand if your product will satisfy their need(s). Your primary purpose is to help the person. Second, stressing benefits in your presentation, rather than features or advantages, will bring success. You will satisfy more people's needs and thus your sales will increase.
+* Given that people make a buying decision based on whether they believe a product's benefits will satisfy their needs, how can you uncover a buyer's needs?
+
+
+
 
 # Chapter 4: Communication for Relationship Building: It's Not All Talk
 
