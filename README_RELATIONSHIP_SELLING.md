@@ -726,8 +726,58 @@ Main Topics:
                 2. Employer
                 3. Customers.
 
+* Although not all-inclusive, our discussion gives you a feel for some of the difficult situations sales personnel encounter.
 
-page 57
+## Ethics in Dealing with Salespeople
+* Sales managers have both social and ethical responsibilities to sales personnel. Salespeople are a valuable resource; they are recruited, carefully trained, and given important responsibility. They represent a large financial investment and must be treated in a professional manner. Yet, occasionally a company may place managers and/or salespeople in positions that force them to choose among compromising their ethics, not doing what is required, or leaving the organization. The choice depends on the magnitude of the situation. At times, situations arise wherein it is difficult to say whether a sales practice is ethical or unethical. Many sales practices are in a gray area somewhere between completely ethical and completely unethical. Five ethical considerations sales managers face are the level of sales pressure to place on a salesperson, decisions concerning a salesperson's territory, whether to be honest with the salesperson, what to do with the ill salesperson, and employee rights.
+
+## Level of Sales Pressure
+* What is an acceptable level of pressure to place on salespeople? Should managers establish performance goals that they know a salesperson has only a 50-50 chance of attaining? Should the manager acknowledge that goals were set too high? If circumstances change in the salesperson's territory--for example, a large customer goes out of business--should the manager lower sales goals? (See Exhibit 2.8)
+* These are questions all managers must consider. There are no right or wrong answers. Managers are responsible for group goals. They have a natural tendency to place pressure on salespeople to reach those goals. Some managers motivate their people to produce at high levels without applying pressure whereas others place tremendous pressure on salespeople to attain sales beyond quotas. However, managers should set realistic and obtainable goals. They must consider individual territory situations. If they do so fairly and sales are still down, then pressure may be applied.
+
+## Decisions Affecting Territory
+* Management makes decisions that affect sales territories and salespeople. For example, the company might increase the number of sales territories, which often necessitates splitting a single territory. A salesperson may have spent years building the territory to its current sales volume only to have customers taken away. If the sales person has worked on commission, this would mean a decrease in earnings.
+* Consider a situation of reducing the number of sales territories. What procedures would you use? See if the real-world examples in this section follow the Golden Rule. Several years ago, a large manufacturer of health and beauty aids (shaving creaming, toothpaste, shampoo) reduced the number of territories to lower selling costs. So, for example, three territories became two. Here is how one of the company's salespeople described it:
+
+                * I made my plane reservation to fly from Dallas to Florida for our annual national meeting. Beforehand, I was told to bring my records up to date and bring them to the regional office in Dallas; don't fly, drive to Dally. I drove from Louisiana to Dallas with my bads packed to go to the national meeting. I walked into the office with my records under my arm. My district and regional managers were there. They told me of the reorganization and said I was fired. They asked for my car keys. I called my wife, told her what happened, and then caught a bus back home. There were five of us in the region that were called in that day. Oh, they gave us a good job recommendation--it's just the way we were treated. Some people had been with the company for five years or more. They didn't eliminate jobs by tenure but by where territories were located.
+
+* Comapnies must deal with their employees in a fair and straightforward manner. If would have been better for managers of these salespeople to go to their hometowns and explain and changes personally. Instead, they treated the salespeople unprofessionally.
+* One decision affecting a territory is what to do with extra-large customers, sometimes called key accounts. After they taken away from the salesperson and made into house accounts? Here, responsibility for contacting the accounts rests on someone from the home office (house) or a key account salesperson. The local salesperson may not get credit for sales to this customer even though the customer is in the salesperson's territory. A salesperson states the problem:
+
+                * I've been with the company 35 years. When I first began, I called on some people who had one grocery store. Today, they have 208. The buyer knows me. He buys all of my regular and special greeting cards. They do whatever I ask. I made $22,000 in commissions from their sales last year. Now, management wants to make it a house account.
+
+* Here, the salesperson loses money. It is difficult to treat the salesperson fairly in this situation. The company does not want to pay large commissions, and 90 percent of the 208 stores are located out of the salesperson's territory. Management should carefully explain this to the salesperson. Instead of taking the full 22,000 away from the salesperson, they could pay a one-time bonus as a reward for building up the account.
+
+## To Tell the Truth?
+* Should salespeople be told they are not promotable, that they are marginally performer, or that they are being transferred to the poorest territory in the company so that they will quit? Good judgment must prevail. Sales managers prefer to tell the truth.
+* Do you tell the truth when you fire a salesperson? If a fired employee has tried and has been honest, many sales managers will tell prospective employers that the person quit voluntarily rather than being fired. One manager put it this way: "I feel he can do a good job for another company. I don't want to hurt his future."
+
+## The Ill Salesperson
+* How much help do you give to a salesperson who is addicted to alcohol or drugs, or who is physically or mentally ill? Many companies require salespeople to seek professional help for substance abuse. If they improve, companies offer support and keep them in the field. Yet, there ise only so far the company can go. The firm can not have an intoxicated or high salesperson calling on customers. Once the illness has a negative effect on business, the salesperson is taken out of the territory. Sick leave and workers' compensation often ocver expenses until the salesperson recovers. The manager who shows a sincere, personal interest in helping the ill salesperson greatly contributes to the person's chances of recovery.
+
+## Employee Rights
+* The sales manager must be current on ethical and legal considerations regaring employee rights and must develop strategies for the organization in addressing those rights. Here are several important questions that all managers should be able to answer:
+
+                * Under what conditions can an organization fire sales personnel with committing a violation of the law?
+                * What rights do and should sales personnel have regarding the privacy of their employment records and access tothem?
+                * What can organizations do to prevent sexual and racial harassment and other forms of bias in the workplace?
+
+* **Employee rights** are rights desired by employees regarding their job security and their treatment by employers while on the job, irrespective of whether those rights are currently protected by law or collective bargaining agreements of labor unions. Let's briefly examine three employee-rights questions.
+
+#### Termination-at-Will
+* Early in the 20th century, many courts were adamant in strictly applying the common law rule to terminate at will. For example, the **termination-at-will rule** was used in a 1903 case, Boyer v. Western Union Tel. Col, in which the court upheld the company's right to discharge its employees for union activities and indicated that the results would be the same if the company's employees were discharged for being Presbyterians
+* Later on, in Lewis v. Minnesota Mutual Life Ins. Co., the termination-at-will rule was used to uphold the dismissal of the life insurance company's best salesperson--even though no apparent cause for dismissal was given and the company had promised the employee lifetime employment in return for his agreement to remain with the company.
+* In the early 1980s, court decisions and legislative enactments moved the pendulum of protection away from the employer and toward the rights of the individual employee through limitations on the termination-at-will rule.
+* Although many employers claim that their rights have been taken away, they still retain the right to terminate sales personnel for poor performance, excessive absenteeism, unsafe conduct, and poor organizational citizenship. It is crucial, however, for employers to maintain accurate records of these events for employees and to inform employees about where they stand. To be safe, it is also advisable for employers to have an established grievance procedure for employees to ensure that due process is respected. These practices are particularly useful in discharge situations that involve members of groups protected by Title VII, the Rehabilitation Act, or the Vietnam Era Veterans Act.
+
+#### Privacy
+* Today it is more important than ever to keep objective and orderly personnel files. They are critical evidence that employers have treated their employees fairly and with respect, and have not violated any laws. Without these files, organizations may get caught on the receiving end of a lawsuit.
+* Although several federal laws influence record keeping, they are primarily directed at public employers. However, many private employers are giving employees the right to access their personnel files and to prohibit the file information from being given to others without their consent. In addition, employers are casting from their personnel files any non-job related information and ending hiring practices that solicit such information.
+
+#### Harassment
+* **Cooperative acceptance** refers to the right of employees to be treated fairly and with respect regardless of race, sex, national origin, physical disability, age, or religion while on the job (as well as in obtaining a job and maintaining job security). Not only does this mean that employees have the right not to be discriminated against in employment practices and decisions, but it also means that employees have the right to be free of sexual and racial harassment.
+
+page 61
 
 
 
