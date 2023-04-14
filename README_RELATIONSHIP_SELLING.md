@@ -561,6 +561,176 @@ Exhibit 1.10: Personal Characteristics needed to sell for building long-term rel
 page 23
 
 
+# Chapter 2: Ethics First... Then Customer Relationships
+
+Main Topics:
+* Social, Ethical, and Legal Influences
+* Management's Social Responsibilities
+* What Influences Ethical Behavior?
+* Are There Any Ethical Guidelines?
+* Management's Ethical Responsibilities
+* Ethics in Dealing with Salespeople
+* The International Side of Ethics
+* Managing Sales Ethics
+* Ethics in Business and Sales
+* The Tree of Business Life
+
+## Facing a Sales Challange
+* As the sales manager of a printing company, you are about to invest in a car leasting program that involves 18 company cars for your sales staff. Together with your comptroller, you have examined several leasing programs. You have narrowed down your selection to two leasing companies that offer very similar terms. You are meeting with the president of Equilease, a company with which you have never done business. You know from your own prospect files that one of your sales representatives has tried to call on the purchasing manager of Equilease before to get some of the company's printing business; however, he could not sell the account.
+* As you meet with the president for lunch, you gently steer the conversation in the direction of printing services. Since he is very knowledgeable about printing services and prices, you ask him about ballpark prices charged by his existing sujpplier. You believe you could provide his company with high-quality service in a better price.
+* Since the president of Equilease is in a good mood, you think about setting up a win-win situation. You are considering making this offer. Let's make this a double win. I'll give you 100 percent of our leasing business if you'll consider giving us 50 percent of your printing business. Fair enough?
+* Is there an ethical conflict in this situation? Would it be ethical to propose such a deal?
+
+---
+
+* Sales personnel constantly are involved with social, ethical, and legal issues. Yet if you think about it, everyone is--including you. If you found a bag full of 100 bills lying on the side of the road, would you keep it? Would you say you were sick to get extra time off work? Would you use the company car to run a personal errand? Have you ever broken the speed limit? Have you ever gone home with one of your emnployer's pens in your purse or jacket pocket?
+* These sorts of questions may be difficult to the average person to answer. Some people will respond with an unequivocal yes or no. Others may mull it over awhile. Still others may feel compelled to say "it depends" and qualify their response with a "yes, but..." or "no, but..." Maybe that was what you did with the Sales Challenge feature.
+* Newspapers, radio, and television frequently have news stories of individuals and organizations involved in both good and bad practices. This chapter addresses many of the important social, ethical, and legal (SEL) issues in selling. It begins by discussing management's social responsibilities. Then it examines ethical behavior followed by the ethical issues involved in dealing with salespeople, employers, and consumers. The chapter ends by presenting ways an organization can help its sales personnel follow ethical selling practices.
+
+## Social, Ethical, and Legal Influences
+* An organization's environment is a major influence on how the firm sells its products. As pictured in Exhibit 2.1, social, ethical, and legal influences and considerations surround the firm's product, price, place, and promotion.
+* Due to the environmental turmoil in the world of commerce, this chapter is arguably the most important in the entire book. Let's begin by asking, "Does an organization have any responsibilities to society?"
+
+
+## Management's Social Responsibilities
+* In one sense, the concept of corporate social responsibility is easy to understand; it means distinguishing right from wrong and doing right. It means being a good corporate citizen. The formal definition of social responsibility is management's obligation to make choices and take actions that contribute to the welfare and interests of society as well as to those of the organization.
+* As straightforward as this definition seems, social responsibility can be difficult concept to grasp because different people have different opinions as to which actions improve society's welfare. To make matters worse, social responsibility convers a range of issues, many of which have ambiguous boundaries between right and wrong.
+
+## Organizational Stakeholders
+* One reason for the difficulty in understanding social responsibility is that managers must confront the question "responsibility to whom?" The organization's environment consists of several sectors both inside and outside the organization. From a social responsibility perspective, enlightened organizations view the internal and external environment as a variety of stakeholders.
+* A **stakeholder** is any group within or outside the organization that has a stake in the organization's performance. Each stakeholder has a different interest in the organization.
+* Exhibit 2.2 illustrates eight important stakeholders. These are represented by the acronym **CCC GOMES**. The first C refers to customers and the last S refers to suppliers. Owners' creditors', and suppliers' interests are served by managerial efficiency--that is, the use of resources to achieve profits. Managers and salespeople expect work satisfaction, pay, and good supervision. Customers and concerned with decisions about the quality and availability of goods and services.
+* Other important stakeholders include the government and the community. Most corporations exist under the proper charter and licenses and operate within the limits of laws and regulations imposed by the government, including safety laws and environmental protection requirements. The community includes local government, the natural and physical environments, and the quality of life provided for residents. Socially responsible organizations pay attention of all stakeholders affected by their actions.
+
+## An Organization's Main Responsibility
+* Once a company is aware of its stakeholders, what are its main responsibilities to them? Comapnies have four types of responsibility: 1. economic, 2. legal, 3. ethical, 4. discretionary.
+
+
+#### Economic Responsibilities
+* The business institution is, above all, the basic economic unit of society. Its responsibility is to produce the goods and services that society wants and to maximize profits for its owners and shareholders.
+* Quite often, corporations are said to operate solely to maximize profits. Certainly, profit is important to a firm, just as a grade point average is important to a student. Profit provides the capital to stay in business, to expand, and to compensate for the risk of conducting business. Businesses have a responsibility to make a profit to serve society. Imagine what would happen to our society if large corporations did not make a profit and went out of business. Thousands of people and the U.S. economy would be affected. This has happend in the last few years?
+
+#### Legal Responsibilities
+* All modern societies lay down ground rules, laws, and regulations that organizations are expected to follow. Legal responsibility defines what society deems as important with respect to appropriate corporate behavior. Organizations are expected to fulfill their economic goals within the legal framework. Legal requirements are imposed by local town councils, state legislators, and federal regulatory agencies.
+
+#### Ethical Responsibilities
+* Ethical responsibility includes behaviors that are not necessarily codified into law and may not serve the corporation's direct economic interests. To be thical, organizational decision makers should act with equity, fairness, and impartiality; respect the rights of individuals; and provide different treatment of individuals only when relevant to the organization's goals and tasks. Unethical behaavior occurs when decisions enable an individual or company to gain at the expense of society.
+
+#### Discretionary Responsibilities
+* Discretionary responsibility is purely voluntary and guided by a company's desire to make social contributions not mandated by economics, law, or ethics. Discretionary activities include generous philanthropic contributions that offer no monetary return to the company and are not expected.
+* discretionary responsibility is the highest criterion of social responsibility, because it goes beyond societal expectations to contribute to the community's welfare. For example, Baxter International, a manufacturer and marketer of medical products, is using its environmental knowledge to help its customers to set up pollution-reduction and recycling programs. Baxter has even set up an alliance with Waste Management to better assist customers in handling environmental problems. Baxter also has studied its own products and packing to find ways to reduce waste. By reducing the waste created by its products, Baxter reduces the environmental problems of its customers.
+
+## How to Demonstrate Social Responsibility
+* A corporation can demonstrate social responsibility in numerous ways, including these:
+
+                1. Taking corrective action before it is required
+                2. Working with affected constituent to resolve mutual problems
+                3. Working to establish industrywide standards and self-regulation
+                4. Publicly admitting mistakes
+                5. Getting involved in appropriate social programs
+                6. Helping correct environmental problems
+                7. Monitoring the changing social environment
+                8. Establishing and enforcing a corporate code of conduct
+                9. Taking needed public stands on social issues
+                10. Striving to make profits on an ongoing basis.
+
+* Economic, legal, ethical, and discretionary responsibilities to stakeholders are important concerns organizations must face. Society is demanding more responsible action of organizations, particularly regarding their ethical conduct.
+
+## What Influences Ethical Behavior
+* Organizations are composed of individuals. These individuals' morals and ethical values help shape those of the organization. Critical to making decisions in an ethical manner is the individual integrity of the organization's managers, especially those in top management positions. Thus, two major influences on the ethical behavior of sales personnel are employees and the organization itself.
+
+## The Individual's Role
+* All of us, employees and managers alike, bring certain beliefs about the world to a job. These beliefs direct our daily decisions. This "big picture" view of life that directs our behavior is based upon our core belief system. It often is referred to as a person's "worldview".
+* Personality, religious background, family upbringing, personal experience, and the situation faced are examples of factors shaping our core belief system. This is why you hear, "no two people are alike". Each one views the world differently than someone else. Your parents probably view many things differently than you do, for example.
+* Because people have different beliefs about the world around them, referring to as a person's **worldview**, they tend to have different views on ethics and morality. From an early age, you begin a journey down a road to higher moral development. Research has shown that individuals grow or progress in their ability to understand the "truth" or the ability to show what is right or wrong. People's **moral** are their adherence to right or wrong behavior and right or wrong thinking. As one thinks, one does! That includes you and me.
+* Over time moral development gradually matures in many people. With moral maturity many individuals--but not all--adhere to more truthful or stringent moral principles. Often a person's current moral development can be placed into one of the levels shown in Exhibit 2.4.
+
+* **Level One: Preconventional**. At the preconventional moral development level, an individual acts in his or her own best interest and thus follows rules to avoid punishment or receive rewards. This individual would break moral and legal laws. In making an ethical or moral decision, a salesperson at this level might ask, "What can I get away with?"
+* Some see them as moral infants with little capacity for self-insight because their genetially installed conscience has hardened over time. They do not see wrong in unethical behavior. If they do, it is rationalized in their favor and quickly forgotten. Whatever happens is someone else's fault.
+* **LEvel Two: Conventional** At the conventional moral development level, an individual conforms to the expectations of others, such as family, friends, employer, boss, or society, and upholds moral and legal laws. A salesperson at this level might ask, "What am I legally required to do?" whenmaking an ethical or moral decision.
+* **Level Three: Principled** At the principled moral development level, an individual lives by an internal set of morals, values, and ethics regardless of punishments or majority opinion. The individual would disobey orders, laws, and consequences to follow what he or she beliefs is right. This person follows the Golden Rule. When making an ethical or moral decision a salesperson at this level might ask, "What is the right thing to do".
+
+* The majority of sales personnel, as well as people in general, operate at the conventional level. However, a few individuals are at level 1, and it is estimated that less than 20 percent of individual reach level 3.
+* As shown in Exhibit 2.5e43, the majority (60 to 80 percent) of sales personnel, as well as people in general, behaves at the conventional level--level 2. However,, approximately 10 to 20 percent of the people behave at each of the other two levels--level 1 and 3. Within each level, there is a lower and higher level of moral development behavior. Some people at level 2, for example, have behavior closer to level 1 people or level 3 people.
+
+## The Organization's Role
+* If the vast majority of people in our society are at the preconventional or conventional level, it seems that most employees in an organization would feel they must "go along to get along"; in other words, they acquiesce to questionable ethical standards to keep their jobs. At most, they only follow formal policies and procedures.
+* How will sales personnel handle ethical dilemmas? What if there are no policies and procedures pertaining to some sales practices and a superior directs the salesperson to do something that appears unethical? It is no wonder that radio, television, and newspaper reports frequently feature unethical business practices. Following the hear no evil, see no evil, speak no evil philosophy can create a preconventional or conventional organizational climate.
+
+## Are There Any Ethical Guidelines?
+* The development of sales personnel's moral character can be crucial to a company. The Golden Rule of Selling requires people whose personal character is at level 3, who have caring attitudes and recognize the rights of others, and who act based on personal, independently defined universal principles of justice and values.
+
+## What Does the Research Say?
+* The question is, "What should an individual base her or his values upon?" In a Februrary 12, 2002, national poll, American adults said by a 3-to-1 margin that truth is always relative to a person's situation. People are most likely to make their moral and ethical decisions on the basis of whatever feels right or comfortable in a situation.
+
+## What Does One Do?
+* Do you face different situations regularly? If the situation is always changing, how do you make a decision over an ethical dilemma? For example, if you found 125,000 in cash that has fallen out of the armored truck at a local bank, would you return it to the bank? But if you found someone's wallet in a parking lot, would you feel compelled to turn it in to a lost-and-found or the police? Why would you decide to keep the 125,000 when you would most likely be willing to turn in the wallet witout taking any money from it? Out of class, it is all right to copy someone's homework assignment even when the course syllabus states you have to do your own work? What keeps you from copying on an exam when your professor is out of the room? With your boss's approval, is it all right to offer a customer a 10,000 trip if the customer purchases a 3 million order, even though it is against company policy? Why would you not even question doing so if a 20 lunch was associated with the purchase?
+
+## Is Your Conscience Reliable?
+* Almost every day you have to decide what is the correct thing to do in situations. We all have an internal ultimate moral standard we use to measure good and evil, right and wrong. Some people call that their "conscience". Most of us know we should return the 125,000 or wallet, not copy, or not give someone a bribe. But what would we actually do in these situation?
+* A person in these situations may feel there is no way to get caught. You could ask the boss about the 10,000, she might say: "That's what you have to do to get the business. Everyone is doing it." Does that make it all right? Or your college friends cheat. What does it hurt if everyone does it?
+* What if a person's value system is at the level 2 stage of moral development? This person makes decisions based upon the "situation" and what others, such as friends, family, boss, or competitors, say or do. A person may do the right thing in one situation after talking it over with her mother, yet take the wrong action in some other situation after talking with the boss. Usually people internally rationalize their actions by saying, for example, "I will copy the homework only this one time."
+* Many people are so used to doing things unethically that they think nothing of it. For example, a woman received a telephone call from her husband's sales manager complaining that he was taking home company office supplies. In a rage his wife replied, "I don't believe that! Why does he do that? He knows I bring enough office supplies home from my job for the both of us."
+* Yogi Berra, the retired great baseball player, is famous for saying, "When you come to a fork in the road, take it". When you come to a fork in the road, how do you know which road is the ethical one? Are your feelings about a situation an accurate measure of its rightness or wrongness? At times, I am not a good judge of what is best to do in a situation because the outcome involves something I want. Thus, I can not always trust my conscience.
+
+## Sources of Significant Influence
+* Think about the next question for a moment before reading on. What do you use to resolve ethical or moral dilemmas that occur in your life? In the margin, make a list of two or three factors that influence your choices when faced with an ethical or moral issue. What do you base your decisions upon? Do your decision factors include your frineds, family, or things you see on television on in the movies? Do their thoughts on what is ethical sometimes change from day to day?
+* Barna Research is conducting an ongoing study of sources influencing Americans' ethical and moral decision-making processes. In early returns, Barna found the leading influencers in American society to be movies, television, the Internet, books, music, public policy and law, and family.
+* Wouldn't it be nice to be able to base your decisions on something that never chagnes, something that can always be depended upon to provide the correct answer in any situation?
+* It is said that Satan greets people in hell by saying, "You'll find that there's no right or wrong here, just what works for you!" Can business and salespeople make ethical choices based on whatever works for them--decisions unique to each situation? We have nothing to help us determine what is really right or wrong no matter what situation you, a businessperson, or a salesperson faces. Or do we?
+
+## Three Guidelines for Making Ethical Decisions
+* What do you need to make a decision about the right or wrong action to take in any situation? You need a never-changing fixed point of reference that is separate from you so you, or anyone else, can not influence it. The three guidelines to look for in a standard for making ethical decisions, then, are **that it never changes, offers a fixed point of reference, and is separate.** What does that mean
+*A **fixed point of reference** refers to something that provides the correct action to take in any situation and never gets tailored to fit an occasion. This fixed point of reference must be separate from you; otherwise you will be changing the rules based upon your best interest in various situations. This is why your conscience is usually not your best guide to making moral and ethical decisions.
+* Let's say you are on one of the survivor television shows popular in the early 2000s. You and your teammate are blindfolded, placed in a boad, and set down in the ocean. You are provided a sextand, which is an instrument for measuring angular distances used in navigation to observe altitudes of celestial bodies, such as stars. Your survivor host tells you there is an island directly sound of you at a certain latitude and longitude. And luckily, your teammate knows how to work the sextant.
+* How do you know exactly how to reach this island? you have to have a fixed point of reference that never changes and is 100 percent reliable to point you south to the island. Plus, it can not connect with you, your teammate, or the boad. What fits these requirements for making the correct decision? The position of the stars fits these three requirements. Stars are fixed points of reference that never change and are separate from the two of you.
+* Using the sextant and teh stars allows you to sail directly to the island. The stars have the same fixed location today that they had 2000 years ago and that they will have in the future. The unchanging star locations offer a good example of a fixed point of reference.
+* How does this relate to a person making ethical, moral decisions in real life? As in the examples of the money, class, and bribe, people need a fixed point of reference separate from them that always provide the same correcte ethical answer. What do most people of the world have that fits these three criteria for making the correct decisions in any situation?
+
+## Will the Golden Rule Help?
+* Many people of the world make basic right and wrong decisions based upon their religious principles of faith. All the major religious faiths of the world provide their followers with written doctrine. When these doctrines are compared it is interesting to find out that similar faith-based principles appear in all religion despite the differences among the various religions. 
+* The key to understanding the Golden Rule from the perspectives of teh religions mentioned is to realize that the aspect of the Golden Rule they hold in common is that it does not involve reciprocity. Reciprocity says if you do for me, I will do for you. Many people think of this as a use of the Golden Rule. It is not!
+* As described in Chapter 1, the Golden Rule means doing for others without expecting something in return. When studying Exhibit 2.7 think in terms of unselfishly treating others as you would like to be treated.
+* In her textbook Perspectives in Business Ethics, Laura Hartman asks this question, "Could the Golden Rule serve as a universal, practical, helpful standard for the businessperson's conduct?" What do you think?
+* Former President George W. Bush seems to agree with Professor Hartman's inference that the Golden Rule can guide business decisions. In his April 2002 remarks on faith-based initiatives in America, President Bush talked about people heeding a great call. "A call to love your neighbor just like you'd like to be loved yourself. It is a universal call, and it's a call that has been applicable throughout history. It's really needed right now."
+* Do you think faith-based perspectives can help people make decisions in an ethical manner? Would you consider your faith a fixed point of reference that never changes and is separate from you? Could your faith's teachings be your moral compass in both your business and your personal life?
+
+## Management's Ethical Responsibilities
+* The concept of ethics, like that of social responsibility, is easy to understand. However, ethics is difficult to define in a precise way. In a general sense, ethics are the codes of moral principles and values that govern the behaviors of a person or a group with respect to what is right or wrong. Ethics set standards for what is good or bad in conduct and decision making.
+* Many companies and their sales personnel get into trouble by making the mistaken assumption that if it's not illegal, it must be ethical. Ethics and moral values are a powerful force for good that can regulate behaviors both inside and outside the sales force. As principles of ethics and social responsibility are more widely recognized, companies can use codes of ethics and their corporate cultures to govern behavior, thereby eliminating the need for additional laws governing right and wrong.
+
+## What is Ethical Behavior
+* Sales personnel are frequently faced with ethical dilemmas. Ethical behaviors refers to treating others fairly. Specifically, it refers to
+
+                * Being honest and truthful
+                * Maintaining confidence and trust
+                * Following the rules
+                * Conducting yourself in the proper manner
+                * Treating others fairly
+                * Demonstrating loyalty to company and associates
+                * Carrying your share of the work and responsibility with 100 percent effort.
+
+* The definition of ethical behavior, while reasonable specific and easy to understand, is difficult to apply in every situation. In real life, there are always conflicting viewpoints, fuzzy circumstances, and unclear positions. Though difficult, it is critically important to cut through the smoke screen that sometimes exists in such a situation and use 20/20 vision to make an ethical choice.
+
+## What Is an Ethical Dilemma
+* Because ethical standards are not classified, disagreements and dilemmas about proper behavior often occur. An ethical dilemma arises in a situation when each alternative choice or behavior has some undesirable elements due to potentially negative ethical or personal conseuqnces. Right or wrong can not be clearly identified. Consider the following examples:
+
+                * Your boss says he can not give you a raise this year because of budget constraints, but because of your good work this pas year, he will look the other way if your expense accounts come in a little high
+                * Stationed at the corporate headquarters in Chicago, you have 14 salespeople in countries all over the world. A rep living in another country calls to get approval to pay a government official 10,000 to OK an equipment purchase of 5 million. Such payoffs are part of common business practice in that part of the world
+                * An industrial engineer, who is your good friend, tells you three of your competitors have submitted price bids on his company's proposed new construction project. He suggests a price you should submit and mentions certain construction specifications his boss is looking for on the job.
+
+* Managers must deal with these kinds of dilemmas and issues that fall squarely in the domain of ethics. Because of their importance, an Ethical Dilemma feature appears in every chapter. In answering the questions at the end of these features, refer both to this chapter and to the chapter in which the feature appears.
+* Now let's turn to the three main ethical areas sales personnel face most frequently. These involve
+
+                1. Salespeopl
+                2. Employer
+                3. Customers.
+
+
+page 57
+
+
+
 # Chapter 3: The Psychology of Selling: Why People Buy
 
 ```
@@ -678,6 +848,88 @@ Example
 * Try it. Out loud, read the golf ball FAB Sequence. Then do it again using your own phrasing. Create several variations until finding one you would feel comfortable using in a conversation.
 * Why should you emphasize benefits? There are two reasons (see Exhibit 3.4). First, by emphasizing benefits customers can better understand if your product will satisfy their need(s). Your primary purpose is to help the person. Second, stressing benefits in your presentation, rather than features or advantages, will bring success. You will satisfy more people's needs and thus your sales will increase.
 * Given that people make a buying decision based on whether they believe a product's benefits will satisfy their needs, how can you uncover a buyer's needs?
+
+## How to Determine Important Buying Needs--A Key to Success
+* Your initial task when first meeting the customer to differentiate between important buying needs and needs of lesser of no importance. Exhibit 3.4 illustrates the concept that buyers have both important needs and needs that are not major reasons for buying a product (relatively unimportant buying needs)
+* Determine buyers' important needs and concentrate on emphasizing product benefits that will satisfy those needs. Benefits that would satisfy buyers' unimportant needs should be deemphasized in the sales presentation. Suppose your product had benefits involving service, delivery, time savings, and cost reductions. Is the buyer interested in all four benefits? Maybe not. If you determine that delivery is not important, concentrate on discussing service, time savings, and cost reductions. This selling strategy is important to your success in helping the buyer.
+* Elmer Wheeler, a famouse sales speaker, said, "Sell the sizzle, not the steak!" Wheeler is saying that people buy for reasons other than what the product will actually do or its price. They have both practical (rational) and psychological (emotional) reasons for buying. Customers may not buy the product to solve the rational need that the salesperson perceives as important. They may buy to satisfy an emotional need not easily recognized. It is important to understand this sales concept and learn to determine the buyer's important buying needs. A list of common psychological buying needs include these
+
+                * Fear
+                * Vanity (keep up with the Joneses)
+                * Security
+                * Love of family
+                * Personal pleasure
+                * Desire to succeed
+                * Comfort or luxury
+                * Self-preservation
+                * Prevention of loss
+
+* You must determine the buying needs that are most important to the customer. How can you do this? Several methods are frequently used to uncover important needs. These methods create the acronym **L-O-C-A-T-E**:
+
+                * Listen: Prospect may drop leading remarks like "I wish I had a television like this one"
+                * Observe: Look at prospects; study their surroundings. Experienced salespeople can determine much about people by observaing the way they dress or where they live and work
+                * Combine: A skillful salesperson may talk to others, listen to a prospect, probe with questions, make careful observations, and emphathize--all in an effort to uncover the prospect's needs
+                * Ask questions: Questions often bring out needs that the prospect would not reveal or does not know. The salesperson asks, "Is a quiet celling fan important to you?" "Yes, it is," says the buyer. "If I could provide you with the quiested ceiling fan on the market, would you be interested?"
+                * Talk to others: Ask others about a prospect's needs. For instance, ask an office manager's secretary about the manager's satisfaction with a copy machine
+                * Emphasize: look at the situation from the customer's point of view.
+
+* Once you determine the major buying need, you are ready to relate the person's needs to your product's benefits. Like the television camera that transmits images to the television receiver, buyers picture desired products in their minds. Before they focus the picture, buyers often need to be turned on and tuned in. Once you find their real reasons for wanting a particular product or identify major problems that they want to solve, you have uncovered the key to helping them.
+* Uncovering these important buying needs is pushing the button that turns on a machine. You have just pushed the customer's hot button. You have awakened a need, and customers realize that you understand their problems. **Basically, this is what selling is all about--determining needs and skillfully relating your product's benefits to show how its purchase will fulfill customers' needs.**
+* This is not always easy. As we have seen, people have a multitude of different needs and may not understand or see their unconscious needs or problems. **In this situation, your challenge is to convert customers' apparently unconscious needs into recognized and understood needs. One of the best ways to uncover needs is to ask questions at certain times during the sales presentation. The questions is referred toas a trial close.**
+
+## The Trial Close--A Great Way to Uncover Needs and Sell
+* The **trial close** is one of the best selling techniques to use in your sales presentation. It checks the pulse or attitude of your prospect toward the sales presentation. The trial close should be used at these four important times:
+
+                1. After making a strong selling point in the presentation
+                2. After the presentation
+                3. After answering an objection
+                4. Immediately before you move to close the sale
+
+* The trial close allows you to determine 1. whether the prospect likes your product's feature, advantage, or benefit; 2. whether you have successfully answered the objection; 3. whether an objections remain; and 4. whether the prospect is ready for you to close the sale. It is a powerful technique to induce two-way communication (feedback) and participation from the prospect. The Selling Tip box gives example of trial closes. Learn these--you'll use them throughout the course.
+* If, for example, the prospect says little while you make your presentation, and if you get a "no" when you come to the close, you may find it difficult to change the prospect's mind. You have not learned the real reasons why the prospect says no. To avoid this, salespeople use the trial close to determine the prospect's attitude toward the product throughout the presentation.
+* The trial close asks for the prospect's opinion, not a decision to buy. It is a direct question that can be answered with few words. Look at the trial close examples shown in Selling Tips.
+* Remember the prospect's position reactions. use them later to help overcome objections and in closing the sale. Also remember the negative comments. You may need to offset the negatives with the positives later in the presentation. Generally, however, you will not discuss the negative again.
+* Here is an example of using the prospect's positive comments to ask for the order. Assume that during the presentation you have learned from the prospect that she likes the product's profit margin, fast delivery, and credit policy. You can summarize these benefits in a positive manner such as this:
+
+                * Salesperson: Ms. Stevenson, you say you like our profit margin, fast delivery, and credit policy. Is that right [Summary and trial close.]
+                * Prospect: Yes, I do.
+                * Salesperson: With the number of customers coming into your store and our expected sales of the products due to normal turnover, along with our marketing, I suggest you buy ... [State the products and their quantities]. This will provide sufficient quantities to meet customer demand for the next two months, plus provide you with the profit you expect from your products. i can have the order to you early next week. [Now wait for her response]
+
+* Note that the prospect has said there are three things she likes about what you are selling. If the prospect responds favorably to your trial close, then you are to agreement or you have satisfactorily answered an objection. Thus, the prospect may be ready to buy. However, if you receive a negative response, do not close. Either you have not answer some objection or the prospect is not interestd in the feature, advantage, or benefit you are discussing. This feedback allows you to better uncover what your prospect thinks about your product's potential for satisfying needs.
+
+```
+Selling Tips
+
+Using Trial Closes
+* The trial close is an important part of the sales presentation. It asks for the prospect's opinion concerning what you have just said. The trial close does not ask the person to buy directly. Here are examples:
+
+                * How does that sound to you?
+                * What do you think?
+                * Are these the features you are looking for?
+                * That's great--isn't it
+                * Is this important to you?
+                * Does that answer your concern?
+                * I have a hunch that you like the money-saving features of the product? Did I guess right?
+                * It appears that you have a preference for this model. Is that what you had in mind.
+                * I can see that you are excited about this product. On a scale from 1 to 10, how do you feel it will fit your needs?
+                * I notice your smile. What do you think about...?
+                * Am I on the right tract with this proposal?
+
+```
+
+## Sell Sequence
+* One way to remember to incorporate a trial close into your presentation is the SELL Sequence. Exhibit 3.5 shows how each letter of the word sell stands for a sequence of things to do and say to stress benefits important to the customer. By remembering the word sell, you remember to show the feature, explain the advantage, lead into the benefit, and then let the customer talk about asking a question about the benefit (trial close)
+
+EXAMPLE
+* Industrial salesperson to industrial purchasing agent: "This equipment is made of stainless steel (feature), which means it won't rust (advantage). The real benefit is that it reduces your replacement costs, thus saving you money (benefit)! That's what you're interested in--right? (trial close)
+
+EXAMPLE
+* Beecham salesperson to consumer goods buyer: "Beecham will spend an extra 1 million in the next two months advertising Cling Free fabric software (feature). Plus, you can take advantage of this month's 1.20 per dozen price reduction (feature). This means you will sell 15 to 20 percent more Cling Free in the next two months (advantage), thus making higher profits and pulling more customers into your store (benefit). How does that sound (trial close)?
+
+* Once you use a trial close, carefully listen to what the customer says and watch for nonverbal signals to determine if what you said has an impact. If you receive a positive response to your trial close, you are on the right track.
+* Remember, the trial close does not ask the customer to buy or make any type of purchase decision. It asks only for an opinion. **The trial close is a trial question to determin the customer's opinion toward the salesperson's proposition to know if it is time to close the sale. Thus, its main purpose is to induce feedback from the buyer.**
+
+page 93
 
 
 
