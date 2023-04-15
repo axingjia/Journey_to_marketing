@@ -777,7 +777,36 @@ Main Topics:
 #### Harassment
 * **Cooperative acceptance** refers to the right of employees to be treated fairly and with respect regardless of race, sex, national origin, physical disability, age, or religion while on the job (as well as in obtaining a job and maintaining job security). Not only does this mean that employees have the right not to be discriminated against in employment practices and decisions, but it also means that employees have the right to be free of sexual and racial harassment.
 
-page 61
+```
+MAKING THE SALE
+
+The EEOC and Sexual Harassment
+* Sexual harassment in the workplace wasn't recognized as a legal issue until the 1970s. In 1980, the Equal Employment Opportunity Commission (EEOC) guidelines identified two types of sexual harassment: The first type is qui-pro quo, in which an employee who refuses to submit to a superior's sexual advances is threatened with dismissal or other sanctions. The second type is hostile environment harassment; it occurs when jokes, graffiti, and other behavior are directed at persons of the opposite sex. The landmark ruling came in 1986, when the Supreme Court held unanimously that sexual harassment violates Title VII of the 1964 Civil Rights Act if it is unwelcome and "sufficiently severe or pervasive to alter the conditions of the victim's employment and create an abusive working environment"
+* Some executives believe the courts are being unreasonable about their definition of sexual harassment. The issue is often awkward or embarassing to discuss, and no clearcut definitions of what constitutes offensive behavior exist. For example, a comment about clothing might be considered a compliment by the giver but harassment by the receive. For these and other reasons, some companies are unwilling to spend time or money educating employees about this issue.
+* The problem continues to be serious. In 1990, the EEOC received about 5,600 sexual harassment complaints. And new forms of harassment, such as obscene software on company computers and suggestive electronic mail and answering machine messages, keep appearing.
+* Fortunately, DEC, Honeywell, Corning, CBS, and a number of other companies have long been concerned about sexual harassment. They distribute booklets that describe inappropriate behavior to employees. They hire consultants or conduct in-house training sessions that include films and role playing. The EEOC has published guidelines to help people understand liability. A key factor in determining liability is whether the employer has an effective internal grievance procedure that allows employees to bypass immediate supervisors (who are often the offenders)
+
+```
+
+* Today, the right to not be discriminated against is generally protected under Title VII, the Age Discrimination in Employment Act, the Rehabilitation Act, the Vietname Era Veterans Readjustment Assistance Act, and numerous court decisions and state and local government laws. Though the right to be free of sexual harassment is found explicitly in fewer laws, it has been made a part of the 1980 EEOC guidelines, which state that sexual harassment is a form of sex discrimination. The designation of sexual harassment as a form of sexual discrimination under Title VII also is found in numerous court decisions.
+* Employers must prevent racial and sexual harassment, which they can do with top management support, grievance procedures, verification procedures, training for all employees, and performance appraisal and compensation policies that reward antiharassment behavior and punish harassment.
+* Companies realize that sexual harassment can be expensive. For example, in a landmark decision, a federal judge in Madison, Wisconsin, approved a damages award of 196,500 to a man who said he was demoted because he resisted the sexual advances of his female supervisor. This was the first time a man ever won a sexual harassment case against a woman. The man also received 7,913 in back pay and 21,726 in attorney's fees in addition to the damanges award approved by U.S Judge John Shabaz.
+* Companies must recognize these important strategic purposes served by respecting employee rights:
+
+                * Providing a high quality of work life
+                * Attracting and retaining good sales personnel. This makes recruitment and selection more effective and less frequent
+                * Avoiding costly back-pay awards and fines
+                * Establishing a match between employee rights and obligations and employer rights and obligations
+
+* Both organizations and employees benefit from antibias measures. Organizations benefit from reduced legal costs, since not observing employee rights is illegal; and their image as a good emplyoer increases, resulting in enhanced organizational attractiveness. This makes it easier for the organization to recruit a pool of qualified applicants. And, although it is suggested that expanded employee rights, especially job security, may reduce needed management flexibility and profitability, it may be an impetus for better planning, resulting in increased profitability.
+* Increased profitability also may result from the benefit employees receive when their r ights are observed; employees may experience feelings of being treated fairly and respectfully, increased self-esteem, and a heighten sense of job security. Employees who have job security may be more productive and committed to the organization than those who do not. As employees begin to see the guarantees of job security as a benefit, organizations also gain through reduced wage-increase demands and greater flexibility in job assignments.
+
+## Salespeople's Et hics in Dealing with Their Employers
+
+
+
+page 62
+
 
 
 
