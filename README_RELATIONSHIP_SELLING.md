@@ -1007,8 +1007,88 @@ EXAMPLE
 
 * Once you use a trial close, carefully listen to what the customer says and watch for nonverbal signals to determine if what you said has an impact. If you receive a positive response to your trial close, you are on the right track.
 * Remember, the trial close does not ask the customer to buy or make any type of purchase decision. It asks only for an opinion. **The trial close is a trial question to determin the customer's opinion toward the salesperson's proposition to know if it is time to close the sale. Thus, its main purpose is to induce feedback from the buyer.**
+* Exhibit 3.6 presents six examples of SELL Sequences composed of features, advantages, benefits, and trial closes of products. The first column lists features or product characteristics such as size, shape, performance, and maintenance data. The second column shows advantages that arise from respective features. These are the performance characteristics or what the product will do. The third column contains benefits to the customer from these features and advantages.
+* The last column shows a question--or trial close--related to what the salesperson said. The trial close acts as a feedback method to determine the buyer's opinion about the feature, advantage, and/or benefit. It helps uncover what is important, and what is not important, to the other person. Try using the trial close in your everyday conversation with friends, co-workers, and family members. It works!
 
-page 93
+```
+- Nationally advertised consumer
+- More people know you have
+- Increases sales and profits
+- What do you think
+
+-Air conditioner with a high energy-efficiency rating
+- Use less electricity
+- Saves 10 percent in energy costs
+- Is this important to you?
+
+- Product made of stainless steel
+- Will not rust
+- Reduces your replacement costs
+- How does that sound to you?
+
+- Supermarket computer system with the IBM 365 store Controller
+- Can store more information and retrieve it rapidly by supervising up to 24 grocery checkout scanners and terminals and look up prices on up to 22,000 items
+- Provides greater accuracy, register balancing, store ordering, and inventory management
+- That's great--isn't it
+
+- Five percent interest on money in bank checking NOW account
+- Earns interests that would not normally be received
+- Gives you one extra bag of groceries each month
+- Do you want to earn extra money
+
+- Golf club head made of aerodynamically designed titanium steel
+- Increases club head speed, longer drives
+- Lower your scores
+- And that's what counts--right?
+
+```
+
+* For each major product feature, you should develop the resulting advantages and benefit. Then create a trial close to induce feedback for the buyer. You should use the SELL Sequences throughout your presentation.
+
+## Your Buyer's Perception
+* Why would two people have the same need but buy different products? Likewise, why might the same individual at different times view your product differently? The answers to both questions involve how the person perceives your product.
+* **Perception** is the process by which a person selects, organizes, and interprets information. The buyer receives the salesperson's product information through the senses; sight, hearing, touch, taste, and smell. These senses act as filtering devices that information must pass through before it can be used.
+* Each of the three perception components (selection, organization, and interpretation) plays a part in determining buyers' responses to you and to your sales presentation. Buyers often receive large amount of information in a short period, and they typically perceive and use only a small amount of it. They ignore or quickly forget other information because of the difficulty of retaining large amounts of information. This process is known as **selective exposure** because only a portion of the information as individual is exposed to is selected to be organized, interpreted, and allowed into awareness.
+* Why does some information reach a buyer's consciousness while other information does not? First, the salesperson may not present the information in a manner that ensures proper reception. For example, the salesperson may provide too much information at one time. This causes confusion, and the buyer tunes out. In some cases, information may be haphazardly presented, which causes the buyer to receive it in an unorganized manner.
+* A sales presentation that appeals to the buyer's five senses helps penetrate perceptual barriers. It also enhances understanding and reception of the information as you present it. Selling techniques such as asking questions, using visual aids, and demonstrating a product can force buyers to participate in the presentation. This helps determine if they understand your information.
+* Second, buyers tend to allow information to reach consciousness if it relates to needs they recognize and wish to fulfill. If, for example, someone gives you reasons for purchasing life insurance and you do not perceive a need for it, there is a good chance that your mind will allow little of this information to be perceived. However, if you need life insurance, chances are you will listen carefully to the salesperson. If you are uncertain about something, you will ask questions to increase your understanding.
+* A buyer's perceptual process also may result in **selective distortion** or the altering of information. It frequently occurs when a person receives information that is inconsistent with existing beliefs and attitudes. When buyers listen to a sales presentation on a product that they perceive as low quality, they may mentally alter the information to coincide with that belief, thereby reinforcing themselves. Should buyers believe that the product is of high quality, even when it is not, they may change any negative information about the product into positive information. This distortion can substantially lessen the intended effect of a salesperson attempting to compare a product to the product currently used by the individual.
+* **Selective retention** can also influence perception. Here, buyers may remember only information that supports their attitudes and beliefs, and forget what does not. After a salesperson leaves, buyers may forget the product's advantages the salesperson stressed because they are not consistent with their beliefs and attitudes.
+* These perceptions help explain why a buyer may or may not buy. Buyers' perceptual processes act as a filter by determining what part of the sales message they hear, how they interpret it, and what product information they retain. Therefore, two different sales messages given by two different salespeople, even though they concern similar products, can be received differently. A buyer can t une out one sales presentation, tune in the other presentation, and purchase the perceived product.
+* Although you can not control a buyer's perceptions, often you can influence and change them. To be successful, you must understand the perceptual barriers can arise during your presentation. You must learn to recognize when they occur and how to overcome them.
+
+## Perceptions, Attitudes, and Beliefs
+* You make a sales presentation concerning a product's features, advantages, and benefits. Your goal is to provide information that makes the buyer knowledgeable enough to make an educated purchase decision. However, a person's perceptual process may prevent your information from being fully utilized. Understanding how people develop their perceptions can help you be more successful in selling.
+* Perceptions are learned. People develop their perceptions through experience. This is why learning is defined as acquiring knowledge or a behavior based on past experiences.
+* Successful salespeople must help buyers learn about them and their products. If buyers have learned to trust you, they listen and have faith in what you say, thereby increasing the chance of making sales. If your products perform as you claim they will, buyers will repurchase them more readily. If your presentation provides the information necessary to make a decision, your probability of making the sale increases. Product knowledge influences the buyer's attitudes and beliefs about your product.
+* A person' **attitude** are learned predispositions toward something. These feelings can be favorable or unfavorable. If a person is neutral toward the product or has no knowledge of the product, no attitude exists. A buyer's attitude is shaped by past and present experience.
+* Creating a positive attitude is important, but it alone does not result in your making a sale. To sell a product to someone, you also must convert a buyer's belief into a positive attitude. A **belief** is a state of mind in which trust or confidence is placed in something or someone. The buyer must believe your product will fulfill a need or solve a problem. A favorable attitude toward one product over another comes from a belief that one product is better.
+* Also, a buyer must believe that you are the best person from whom to buy. If they do not trust you as the best source, people will not buy from you. Assume, for example, that someone decides to buy a 19-inch portable RCA color television. Three RCA dealers are in the trading area, and each deal offers to sell at approximately the same price. Chances are that the purchaser will buy from the salesperson she believes to be the best, even though there is no reason not to trust the other dealers.
+* If buyers' perceptions create favorable attitudes that lead them to believe that your product is best for them and that they should buy from you, you make sales. Often, however, people may not know you or your product. Your job is to provide information about your product that allows buyers to form positive attitudes and beliefs. Should their perception, attitudes, and beliefs be negative, distorted, or incorrect, you must change them. As a salesperson, you spend much of your time creating or changing people's learned attitudes and beliefs about your product. This is the most difficult challenge a salesperson faces.
+
+## Example of a Buyer's Misperceptions
+* Assume, for example, that a woman is shopping for a ceiling fan for her home. The three main features of the product she is interested in are price, quality, and style. While shopping around, she had seen two brands, the Hunter and the Economy brands. The information she received about these two brands has caused her to conclude that all ceiling fans are basically alike. Each brand seems to offer the same features and advantages. Because of this attitude, she has formed the belief that she should purchase a low-price fan, in this case, the Economy ceiling fan. Cost is the key factor influencing this purchase decision.
+* She decides to stop at one more store that sells Casblanca fans. She asks the salesperson to see some lower-priced fans. These fans turn out to be more expensive than either the Hunter or Economy models. Noting their prices, she says to the salesperson, "That's not what I had in mind". She walks away as the salesperson says, "Thanks for coming by"
+* What should the salesperson have done? When the customer walked into the store, the salesperson knew her general need was for a ceiling fan. However, the customer had wrongly assumed that all brands are alike. it was the salesperson's job to first ask fact-finding questions of the customer such as: **"Where will you use the fan?" "What color do you have in mind" "Is there a particular style you are interested in?" "What features are you looking for?" and "What price range would you like to see?"** These questions allow the salesperson to determine the customer's specific needs and her attitudes and beliefs abour ceiling fans
+* Learning the answers to these questions enables the salesperson to explain the benefits of the Casablanca fan as compared to Hunter and Economy brands. The salesperson can show that fans have different features, advantages, and benefits and explain why there are price differences among the three fans. The buyer can then make a decision as to which ceiling fan best suits her specific needs. Knowledge of a buyer's learned attitudes and beliefs can make sales; with this information, a salesperson can alter the buyer's perceptions or reinforce them when presenting the benefits of the product.
+
+## The Buyer's Personality Should be Considered
+* People's personalities also can affect buying behavior by influencing the types of products that fulfill their particular needs. **Personality** can be viewed as the individual's distinguishing character traits, attitudes, or habits. Although it is difficult to know exactly how personality affects buying behavior, it is generally believed that personality has some influence on a person's perceptions, attitudes, and beliefs, and thus on buying behavior.
+
+## Self-Concept
+* One of the best ways to examine personality is to consider a buyer's **self-concept**, the view of one's self. Internal or personal self-evaluation may influence a buyer's attitude toward the products desired or not desired. Some theorists believe that people buy products that match their self-concept. According to self-concept theory, buyers possess four images:
+
+                1. The real self--people as they actually are
+                2. The self-image--how people see themselves
+                3. The ideal self--what people would like to be
+                4. The looking-glass self--how people think others regard them.
+
+* As a salesperson you should attempt to understand the buyer's self-concept, because it may be the key to understanding the buyer's attitudes and beliefs. For example, if a man is apparently unsatisfied with his self-image, he might be sold through appeals to his ideal self-image. you might compliment him by saying, "Mr. Buyer, it is obvious  that the people in your community think highly of you. They know you as an ideal family man and good provider for your family (looking glass self). Your purchase of this life insurnace policy will provide your family with the security you want (ideal self)." This appeal is targeted at the looking-glass self and the ideal self. Success in sales is often closely linked to the salesperson's knowledge of the buyer's self-concept rather than the buyer's real self.
+
+
+
+
+page 101
 
 
 
