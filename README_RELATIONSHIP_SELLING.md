@@ -1085,10 +1085,239 @@ EXAMPLE
 
 * As a salesperson you should attempt to understand the buyer's self-concept, because it may be the key to understanding the buyer's attitudes and beliefs. For example, if a man is apparently unsatisfied with his self-image, he might be sold through appeals to his ideal self-image. you might compliment him by saying, "Mr. Buyer, it is obvious  that the people in your community think highly of you. They know you as an ideal family man and good provider for your family (looking glass self). Your purchase of this life insurnace policy will provide your family with the security you want (ideal self)." This appeal is targeted at the looking-glass self and the ideal self. Success in sales is often closely linked to the salesperson's knowledge of the buyer's self-concept rather than the buyer's real self.
 
+## Adaptive Selling Based On Buyer's Style
+* While it is important to know a buyer's self-concept, you also should attempt to uncover any additional aspects of the prospect's personality that might influence a decision to buy so that you can further adjust your sales approach. One way to do this is through the study of personality types.
+
+## Personality Typing
+* Carl Gustav Jung (1875-1961), with Sigmund Freud, laid the basis for modern psychiatry. Jung divided human awareness into four functions: 1. feeling, 2. sensing, 3. thinking, 4. intuiting. He argued that most people are most comfortable behaving in one of these four groups. Each group, or personality type, has certain characteristics formed by past experiences.
+* Exhibit 3.8 provides some guidelines you can use to identify someone's personality style. You can determine styles by identifying the key trait, focusing on time orientation, and identifying the environment, and by what people say. Imagine that four of your buyers say the following things to you:
+
+                1. I'm not interested in all of those details. What's the bottom line?"
+                2. How did you arrive at your projected sales figure?
+                3. I don't think you see how this purchase fits in with our whole operation here
+                4. I'm not sure how our people will react to this.
+
+## Adapt Your Presentation to the Buyer's Style
+* The major challenge is to adapt your personal style to best relate to the people you deal with. For example, if you consider the customer (or person) that you best relate to, the one that you find it easiest to call on, the odds are that his or her primary personality style is similar to yours. The other side of the coin states that the person hardest for you to call on usually has a primary style that differs from yours.
+* The objective is to increase your skill at recognizing the style of the people you deal with. Once you recognize the basic style of a buyer, for example, it is possible to modify and adapt your presentation to the buyer's style to achieve the best results. Although this method is not foolproof, it odes offer an alternative way of presenting material if you are not succeeding. Let's examine a suggested tailored selling method based on the prospect's personality type preferences.
+
+```
+Exhibit 3.8: Guidelines to identify personality style.
+
+Guidelines
+-How to describe this person
+-The person's strengths
+-The person's drawbacks
+-Time orientation
+Environmental
+- Desk
+- Room
+- Dress
+
+Thinker
+-A direct, detail-oriented person. Likes to deal to sequence on his/her time. Very precise, sometimes seen as a nitpicker. Fact oriented.
+- Effective communicator, deliberative, prudent, weighs alternatives, stablizing, objective, rational, analytical, asks questions for more facts.
+- Verbose, indecisive, overcautious, overanalyzes, unemotional, nondynamic, controlled and controlling, overserious, rigid, nitpicking
+- Past, present, future
+Environment
+- Usually neat
+- Usually has a calculator and computer output, etc
+- Neat and conservative
+
+Intuitor
+- A knowledgeable, future-oriented person. An innovator who likes to abstract principles from a mass of material. Active in community affairs by assisting in policy making, program development, etc.
+- Original, imaginative, creative, broad-gauged, charismatic, idealist, intellectual, tenacious, ideological, conceptual, involved.
+- Unrealistic, far-out, fantasy-bound, scattered, devious, out-of-touch, dogmatic, impractical, poor listener
+- Future
+Environmental
+- Reference books, theory books, etc
+- Abstract art, bookcases, trend chart, etc.
+- Mod or rumpled
+
+Feeler
+- People oriented. Very sensitive to people's needs. An emotional person rooted in the past. Enjoy contact with people. Able to read people very well.
+- Spontaneous, persuasive, empathetic, grasps traditional values, probing, introspective, draws out feelings of others, loyal, actions based on what has worked in the past
+- Impulsive, manipulative, overpersonalizes, sentimental, postponing, guilt-ridden, stirs up conflict, subjective
+- Past
+Environment
+- Personal plagues and mementos, family pictures
+- Decorated warmly with pictures of scenes or people. Antiques
+- Current styles or informal
+
+Senser
+- Action-oriented person. Deals with the world through his/her senses. Very decisive and has a high energy level
+- Pragmatic, assertive, directional results oriented, technically skillful, objective--bases opinions on what he/she actually sees, perfection seeking, decisive, direct and down to earth, action oriented.
+- Impatient, doesn't see long range, status-seeking, self-involved, acts first then thinks, lacks trust in others, nitpicking, impulsive, does not delegate to others.
+-Present
+Environment
+-Chaos
+- Usually a mess with piles of papers, etc. Action pictures or pictures of the manufacturing plans or products on the wall
+- No jacket, loose tie or functional work clothes.
+
+```
 
 
+#### The Thinker Style
+* This person places high value on logic, ideas, and systematic inquiry. Completely preplan your presentation with ample facts and supporting data and be precise. Present your material in an orderly and logical manner. When closing the sale be sure to say, "Think it over, Joe, and I'll get back to you tomorrow," whenever the order does not close on the spot.
 
-page 101
+#### The Intuitor Style
+* The person places high value on ideas, innovation, concepts, theory, and long-range thinking. The main point is to tie your presentation into the buyer's big picture or overview of this person's objectives. Strive to build the buyer's concepts and objectives into your presentation whenever possible. In presenting your material, be sure you have ample time.
+* In closing the sale, stress time limitation on acting. A good suggestion is to say, "I know you have a lot to do--I'll go to Sam to get the nitty-gritty handled and get this off the ground."
+
+#### The Feeler Style
+* This person places high value on being people oriented and sensitive to people's needs. The main point t o include in your presentation is the impact your idea will have on people. The feeler likes to small talk with you, so engage in conversation and wait for this person's cue to begin your presentation. The buyer will usually ask, "What's on your mind today?" or something similar. Use emotional terms and words, such as, "We're excited about this!"
+* In your presentation, start with something carried over from your last call or contact. Keep the presentation on a personal note. Whenever possible, get the buyer away from the office (lunch, snack, etc.) on an informal basis; this is how t his person prefers to do business. Force the close by saying something such as, "OK, Joe, if there are no objections, let's set it up for next week." Even if the buyer says no, you are not dead. The key with a feeler is to push the decision.
+
+#### The Senser Style
+* This person places high value on action. The key point with a senser is to be brief and to the point. Graphs, models, and samples help the senser visualize your presentation. With a senser, verbal communication is more effective than written communication.
+* In presenting, start with conclusions and results and have supporting data to use when needed. Suggest an action plan--"Let's move now"--the buyer has to feel you know what to do.
+* In closing, give one best way. Have options, but do not present them unless you have to. An effective senser close is, "I know you're busy; let's set this up right now".
+
+#### Watch for Clues
+* The neatness of the desk and dress of the buyer on the left indicates she may be a thinker, whereas the buyer on the right appears to be a senser. The salesperson should alternate the presentation to fit each person's style. However, determining a buyer's personality style is not always as easy.
+
+#### Determining Style Can Be Difficult
+* Each of the four styles is present, in some degree, in all of us. However, one style is usually dominant, and another complementary style is used as a backup. The primary style an individual employs often remains the same in both normal and stress situation, whereas the secondary style is likely to vary.
+* Some individuals do not have a primary or secondary style, but have a personal style comprising all four types. Dealing with this individual requires strong rapport to isolate the prospect's predominant personal likes and dislikes.
+
+## You Can Classify Buying Situations
+* Some people may appear to make up their minds quickly and easily either to buy or not to buy. This is not always the case. The quickness and ease of deciding the product to buy typically depends on the buying situation. Purchasing a gallon of milk is quite different from buying an automobile. People have more difficulty in selecting, organizing, and interpreting information when purchasing an automobile. Also, their attitudes and beliefs toward the automobile may not be well formed.
+* True, a few people have the type of personality (and resources) that allows them to quickly purchase an expensive product such as an automobile, but this is unusual. When purchasing some types of products, most people carefully compare competing brands. They talk to salespeople. As they collect information, they form attitudes and beliefs toward each product. People must decide which product has the most desirable features, advantages, and benefits. When considering several brands, people may seek information on each one. The more information they collect, the greater the difficulty they may have in deciding which product to buy.
+* Purchase decisions can usually be classified as to the difficulty involved in deciding which product to buy. The purchase decision is viewed as a problem solving activity falling into one of three classifications shown in Exhibit 3.10. These are routine decision making, limited decision making, and extensive decision making.
+
+
+```
+Routine decision making--Low Involvement
+-
+Limited decision making
+-
+Extensive decision making--High Involvement
+
+```
+## Some Decisions Are Routine
+* Many products are purchased repeatedly. People are in the habit of buying a particular product. They give little thought or time to the routine purchase; they fully realize the product's benefits. These are called low-involvement goods because they involve a routine buying decision. People's attitudes and beliefs toward the product are already formed and are usually positive. Milk, cold drinks, and many grocery items often are purchased through **routine decision making**.
+* For a customer making a routine purchase decision, reinforce that this is the correct buying decision. It is important to have the product in stock. If you do not have it, the customer may go to another supplier.
+* For someone not currently using your product, the challenge is to change this perosn's product loyalty or normal buying habits. The features, advantages, and benefits of your product should be directly compared to the buyer's preferred brand. Of course, not all purchase decision are routine.
+
+## Some Decisions Are Limited
+* When buyers are unfamiliar with a particular product brand, they seek more information when making a purchase decision. In this case, there is **limited decision making**--a moderate level of actual buyer involvement in the decision. Buyers know the general qualities of goods in the product class, but they are not familiar with each brand's features, advantages, and benefits. For example, they may perceive that Xerox, 3M, and Canon copiers are the same in performance.
+* These buyers have more involvement in buying decisions in terms of shopping time, money, and potential dissatisfaction with the purchase than in the routine purchase decision. They seek information to aid them in making the correct decision. The sale presentation should provide buyers with the necessary knowledge to make brand comparisons and increase their confidence that the purchase of your product is the correct decision. Occasionally, the purchase of some products requires prospective buyers to go one step further and apply extensive decision making.
+
+## Some Decisions Are Extensive
+* Buyers seeking to purchase products such as insurance, a home, or an automobile are highly involved in making the buying decision. They may be unfamiliar with a specific brand or type of product and have difficulty in making the purchase decision. The kind of purchase requires more of an investment in time and money than the limited decision. The situation demands **extensive decision making** and problem-solving activities.
+* In making extensive decisions, buyers believe that much more is at stake relative to other buying decisions. They may become frustrated during the decision-making process, especially if a large amount of information is available. They may become confused--not knowing what product features they are interested in because of unfamiliarity with the products. Buying an automobile or a life insurnace policy, for example, entails potentially confusing purchase decisions.
+* Determine all possible reasons why buyers are interested in a product. Then, in a simple, straightforward manner, present only enough information to allow the buyer to make a decision. At this time, you can make product comparisons, if necessary. You also can help the buyer evaluate alternative products.
+* In summary, your challenge is to provide buyers with product knowledge that allows them to know if your products fulfill their needs. Determining what type of decision process a buyer is using is critical to helping the person or organization.
+
+## Technology Provides Information
+* Technology provides information for customer decision making and service. With enormous amounts of data and sophisticated computer programs at their fingertips, salespeople can serve customers faster and better.
+* The salesperson, for example, looks at the architect's specifications while reviewing his products on a laptop computer to see which best meet the customer's needs. At the same time, he is talking to his warehouse to determine inventory status and product cost. Once satisfied that the salesperson's product satisfies his needs and is available at a reasonable cost, the construction foreperson approves the purchase.
+* The salesperson asks his warehouse when the product would arrive a tthe construction site and then tells the warehouse to ship it. Technology allows the salesperson to sell his customer the right product, at the right price, in the quantity needed and to have it delivered in a timely manner.
+
+## View Buyers as Decision Makers
+* Buyers, whether individuals or industrial purchasing agents, are constantly exposed to information about various products. What steps do people go through in making a purchase decision?
+* Typically, the buying decision involves the five basic steps shown in Exhibit 3.12. Buyers recognize a need, collect information provided by the salesperson, evaluate that information, decide to buy, and after the purchase determine whether they are satisfied. This sequence reveals that several events occur before and after the purchase, all of which the salesperson should consider.
+* As Exhibit 3.12 shows, numerous forces influence a consumer's buying behavior. Rich people or older people, for example, often view purchases differently than lower-income or younger consumers. Psychological factors such as past experience with a salesperson--good or bad--certainly influence buying decisions. Have you ever had a friend or family member cause you to buy one product rather than another. We all have. Thus, whether we realize it or not, numerous factors influence why someone buys something.
+
+```
+Exhibit 3.12: Personal, psychological, and social forces that influence consumers' buying behavior.
+
+Consumer Buying decision process
+Need arousal--Collection of information--Information evaluation--Purchase decision--Postpurchase behavior
+
+- Person Influences: Income, Age, Gender, Situation
+- Psychological Influence: Past experiences, Personality, Attitudes and beliefs, Perceptions
+- Social Influences: Culture, Social class, Friends, Family
+
+```
+
+## Need Arousal
+* Remember from the first part of this chapter that buyers may experience a need, or the need can be triggered by the salesperson, this is called **need arousal**. It could be psychological, social, or economic; it could be a need for safety, self-actualization, or ego fulfillment. You must determine a person's needs to know what product information to provide. This information should relate the product's benefits to the person's needs.
+
+## Collection of Information
+* If buyers know which product satisfies a need, they buy quickly. The salesperson may need only approach them; they already want to buy the product.
+* However, when buyers are facted with limited or extensive problem solving, they may want to **collect information** about the product. They might visit several retail stores and contact several potential suppliers. They may talk with a number of salespeople about a product's price, advantage, size, and warranty before making a decision.
+
+## Information Evaluation
+* A person's product **information evaluation** determines what will be purchased. After mentally processing all the information about products that will satisfy a need--and this may or may not include your product--a buyer matches this information with needs, attitudes, and beliefs, as discussed earlier, in making a decision. Only then will a **purchase decision** be made.
+* This evaluation process includes rating preferences on factors such as price, quality, and brand reputation. Attitudes on different products are based on either psychological or rational reasons.
+* At this stage, a salesperson can be effective. **Providing information that matches product features, advantages, and benefits with a buyer's needs, attitudes, and beliefs increasees the chances of selling the person the correct product. So, the salesperson is responsible for uncovering the person's needs, attitudes, and belief early in the discussion to match the product with the person's needs.**
+* One way to get such information is to determine not only needs, beliefs, and attitudes but also the type of information a person needs before making a decision. Here are some questions you need to know how to answer:
+
+                **
+                * Which product attributes are important in this decision--price, quality, service
+                * Of these attributes, which are most important?
+                * What are the prospect's attitudes toward your products?
+                * What are the prospect's attitudes toward your competitor's products?
+                * Which level of satisfaction is expected from buying the product.
+                **
+
+* This type of questioning not only tells you about the customer's needs but also involves the customer in the presentation and may convey the idea that you are truly interested in his or her needs. This attitude toward you is enough to create positive attitudes about your product.
+* Armed with this knowledge about the customer, the salesperson is in a better position to provide the information necessary for a decision and also to help the customer evaluate information in favor of your product. The information should be provided simply, clearly, and in a straightforward manner. It should seek to correct any misinformation about your product. **Matching information with a customer's needs may enable you to:**
+
+```
+* Alter the person's beliefs about your product, for example, by convincing the customer that your product is priced higher than the competition because it is a quality product.
+* Alter the person's beliefs about your competitor's products
+* Change the amount of importance a person attaches to a particular product attribute, for example, by having the customer consider quality and service rather than price alone.
+* Show unnoticed attributes of your product
+* Change the search for the ideal product into a more realistic pursuit, such as by subsitituting 100,000 home for a 200,000 home or showing a man who is 6 feet 10 inches tall a midzie car rather than a compact.
+
+```
+
+* A company has no better promotional device than having its sales force help prospects and customers to evaluate products on the market--and not merely their own products. **The two-way communication between buyer and seller is exceptionally effective in providing the information needed to make the sale on the one hand, and to evaluate the product on the other.** Salespeople provide knowledge to aid in their decision-making process. In many respects, salespeople are teachers who provide helpful information.
+
+## Purchase Decision
+* Is the sale made once the prospect states an intention to buy? No. Do not consider the sale final until the contract is signed or until you have the buyer's money, because there is still a chance for a change of mind. Even after a customer has selected a product, purchase intentions can be changed by these four basic factors:
+
+1. The attitude of significant others, such as a relative, spouse, friend, or boss. Consider both the intensity of another person's attitude and the level of motivation the buyer has to comply with or to resist this other person's attitude
+2. The perceived risk of buying the product--will it give a return on the money
+3. Uncontrollable circumstances,such as not being able to finance the purchase of a house or to pass the physical examination for a large life insurance policy
+4. The salesperson's actions after the decision has been reached--sometimes it is unwise to continue to talk about a product after this point; something could change the customer's mind.
+
+* The third factor, uncontrollable circumstances, is self-explanatory. However, how can attitudes of others influence a sale? A man may want to buy a dark, conservative business suit, whereas his wife wants him to buy a sport coat and slacks. The buyer's original favorable attitude toward the business suit may have been changed by his wife. In industrial selling, others in the buer's firm can influence the sale. Be sure to tell your story.
+* Since buyers may not always be sure that they will be satisfied with a purchase, they may perceive a risk; they may experience tension and anxiety after buying your product. Haven't we all asked ourselves, Have I made the correct decision? The levels of tension and anxiety people experience are related to their perceptions of and attitudes about the products they had to choose from. Uncertainty about differences between your product and those of your competitors can create anxiety, especially if both products' benefits appear similar, or if your product is more expensive yet promises better benefits. Prospects might see little difference between products or may like them all--and thus can fairly easily change their minds several times before buying.
+* Finally, many sales have been lost after a buyer has said, "I will buy", and the salesperson continues to talk. Additional information sometimes causes buyers to change their minds. It is important to finalize the sale as quickly as possible after the buyer makes a decision. Once the prospect decides, stop adding information, pack up your bag, and leave.
+
+## Postpurchase
+* No, the decision process does not end with the purchase--not for the buyer at least! A product, once purchased, yields certain levels of satisfaction and dissatisfaction. **Purchase satisfaction** comes from receiving benefits expected, or greater than expected, from a product. If buyers' experiences from the use of a product exceed expectations, they are satisfied, but if experiences are below expectation, customers are dissatisfied.
+* The buyer can experience **purchase dissonance** after the product's purchase. Dissonance causes tension over whether the right decision was made in buying the product. Some people refer to this as buyer's remorse. Dissonance increases with the importance of the decision and the difficulty of choosing between products. If dissonance occurs, buyers may get rid of a product by returning it or by selling it to someone else. Alternatively, they may seek assurance from the salesperson or friends that the product is a good one and that they made the correct purchase decision (positive reinforcing themselves).
+* You can help the buyer be satisfied with the product and lower the level of dissonance in several ways. **First, if necessary, show the buyer how to use the product properly. Second, be realisitic in making claims for the product. Exaggerated claims may create dissatisfaction. Third, continually reinforce buyers' decisions by reminding them how well the product actually performs and fulfill their needs. Remember, in some situations buyer can return the product to the seller after purchase. This cancels your sale and hurts your chances of making future sales to this customer. Fourth, follow up after the sale to determine if a problem exists. If so, help correct it. This is a great way to increase the likelihood of repeat business.**
+* In summary, seek to sell a product that satisfies the buyer's needs. In doing so, remember that the sale is made only when the actual purchase is complete and that you should continue to reinforce the buyer's attitudes about the product at all times, even after the sale. This practice reduces the perceived risk of making a bad buy, which allows buyers to listen to and trust your sales message even though some of your proposals may be out of line with their purchase plans. It also can reduce the buyers' postpurchase dissonance. Buyers who have developed a trust in your product claims believe that you will help them properly use the product.
+
+## Satisfied Customers Are Easier to Sell to
+* It is easier to sell to a customer than a stranger--espeically a satisfied customer! That's why building a relationship--keeping in touch after the sale--is so important to a salesperson's success. Sally Fields of California Office Supply says:
+
+```
+* It took me five tough years to build up my customer base. Now selling is easy and fun. But the first months were terrible. Calling only on strangers got old, but I hung in there. I was going to succeed--no matter how hard I had to work.
+* The more strangers I sold, the more friends (customers) I had. It is easy to sell a friend. So in the morning I contacted possible new customers and in the afternoons I visited customers to make sure they were happy with their purchases and sell them more office supplies. Today, 80 percent of my monthly sales come from existing customers. I still make cold calls to keep sharp. By next year my goal is to have 95 percent sales come from these customers. To do that I must do all I can to make sure customers are happy plus find new customers. The relationship I build today will take care of my tomorrow!
+```
+* Fields owes her success to do everything she can to ensure her customers are happy with their purchases and her organizaiton's service. Her yearly income is now more than 100,000. She has built her business through hard work, selling, and service. More on follow-up and service later in the book.
+
+## To Buy or Not to Buy--A Choice Decision
+* Salespeople realize that people buy a product because of a need, and that need can be complex due to the influence of perceptions, attitudes, beliefs, and personality. Furthermore, perceptions, attitudes, and beliefs may differ from one purchase to another. How is it possible to state why people buy one product and not another?
+* Salespeople do not have to be psychologists to understand human behavior. Nor do they need to understand the material covered in courses taken by a psychology major. Furthermore, the average salesperson can not know all that is involved in the psychological and practical processes that a buyer goes through in making a decision.
+* What the salesperson does need to understand are the various factors that can influence the buying decision, the fact that buyers actually examine various factors that influence these decisions, that buyers actually go through various steps in making decisions, and how to develop a sales presentation that persuades buyers to purchase the product to satisfy needs. To do this, the salesperson should consider the following questions before developing a sales presentation.
+
+                * What type of product is desired?
+                * What type of buying situation is it?
+                * How will the product be used?
+                * Who is involved in the buying decision?
+                * What practical factors may influence the buyer's decision?
+                * What psychological factors may influence the buyer's decision?
+                * What are the buyer's important buying needs?
+
+* Again, it seems necessary to know a great deal about a person's attitudes and beliefs to answer these questions. Can this be made simpler? Yes. Simply state, to buy or not to buy is a choice decision. The person's choice takes one or two forms: First, a person has the choice of buying a product or not. Second, the choice can be between competing products. The question salespeople should ask themselves is, "How can I convince a person to choose my product?" The answer to this question involves five things; each is necessary to make the sale. People will buy if:
+
+                1. They perceive a need or problem
+                2. They desire to fulfill a need or solve a problem
+                3. They decide there is a high probability that your product will fulfill their needs or solve their problems better t han your competitor's products.
+                4. They believe they should buy from you.
+                5. They have the resources and authority to buy.
+
+* What do you do if you know your product can reduce a prospect's manufacturing costs, saving the firm 5,000 a year, for a cost of 4,000 and the prospect says, "No thanks, I like my present equipment?" This buyer does not perceive a need, and will not buy. Suppose you make your point about reducing operating costs, but for some reason the prospect seems uninterested in reducing costs. Chances are, this person will not buy no matter how persuasively you present your product's benefits--because the prospect does not see high costs as an important problem.
+* Furthermore, even customers who want to solve a problem, but do not like your product, will not buy. But if you have convinced them, if they watn to solve a problem, and if they perceive your product as solving this problem, the question remains, Will these customer buy from you? They will, if they believe you represent the best supplier. If they would rather buy from another supplier, you have lost the sale. Your job is to provide the necessary information so that customers meet each of the five conditions for a sale listed above.
+
+
 
 
 
