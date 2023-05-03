@@ -801,7 +801,7 @@ The EEOC and Sexual Harassment
 * Both organizations and employees benefit from antibias measures. Organizations benefit from reduced legal costs, since not observing employee rights is illegal; and their image as a good emplyoer increases, resulting in enhanced organizational attractiveness. This makes it easier for the organization to recruit a pool of qualified applicants. And, although it is suggested that expanded employee rights, especially job security, may reduce needed management flexibility and profitability, it may be an impetus for better planning, resulting in increased profitability.
 * Increased profitability also may result from the benefit employees receive when their r ights are observed; employees may experience feelings of being treated fairly and respectfully, increased self-esteem, and a heighten sense of job security. Employees who have job security may be more productive and committed to the organization than those who do not. As employees begin to see the guarantees of job security as a benefit, organizations also gain through reduced wage-increase demands and greater flexibility in job assignments.
 
-## Salespeople's Et hics in Dealing with Their Employers
+## Salespeople's Ethics in Dealing with Their Employers
 
 
 
@@ -1709,4 +1709,63 @@ Business Professional Attire
 
     Tip to Remember: First impressions are formed in the first seven seconds of a meeting. Avoid faddish styles and loud colors. You wan the employer to focus on your skills and abilities, not your clothes. It's better to be over dressed than under dressed. The picture you create will greatly influence your chances of being hired.
 
+```
 page 142
+
+# Chapter 6: Prospecting--The Lifeblood of Selling
+
+Face A Sales Challenge
+* Larry Long, John Alexander, and Kathryn Reece just sat down for their weekly sales meeting when Larry said, "Selling Apple's new Power Mac personal computer in our market will not be easy for us. The city has only 200,000 people; the country has 275,000. Yet there are 20 or more companies selling personal computers in the area. Radio Shack, IBM, Digital, and the others are tough competitors. I'm not sure where to begin."
+* "Larry, our best prospects and the ones to begin seeing this afternoon are our present customers--not only the ones presently using our Apple PCs, but customers who buy our equipment and office supplies", said John, "These people know us and already have accounts set up"
+* "That's OK for you," replied Kathryn, "however, many of my present customers already have PCs. So, I'm not sure I can count on selling many of them. I'm going to have to explore new territories, knock on doors, and dial-for-dollars to even come up with leads".
+* Larry broke in with, "Let's go after the IBM customers. IBM has the biggest market share in our area. We need to hit them head-on"
+* "No way", replied John, "We could get creamed if we got into a war by attacking IBM or any of our other competitors".
+* "But with all of our advertising", Larry continued, "the company's service, and our fair price on a state-of-the-art PC, we can regain our market share."
+* "Hold it, hold it", Kathryn said, "Let's start over and develop a plan that will allow us to uncover as many prospects as quickly as we can. After all, we need to push the new product and get the competitive edge before competition knows what hit them."
+* If you were one of these salespeople, how would you respond? What would be your sales plan?
+
+---
+
+* The first two parts of this book give much of the background a salesperson needs for making an actual presentation. However, you can be the most knowledgeable person on topics such as buyer behavior, competitors, and product information, yet still have difficulty being a successful salesperson unless you are thoroughly prepared for each part of the sales call. Part III of this book examines the various elements of the sales process and sales presentation. It begins by explaining what the sales process means. Then we discuss methods of prospecting that may help Larry Long, John Alexander, and Kathryn Reece plan their sales program. First let's see how the Tree of Business Life relates to prospecting.
+
+The Tree of Business Life: Prospecting
+* Many types of selling require prospecting. Without previous knowledge of who might purchase a product, the salesperson locates individual and/or organizations that have the money, authority, and the desire to buy. Because people tend to do business with the people they know, plus feel salespeople are not honest or ethical, prospecting is not easy. Buying from a stranger is getting harder and harder. People want to trust the person they buy from and they buy from people they know.
+* All salespeople who begin their sales careers prospecting look forward to the day when most of their sales come from present customers. Frequently, these salespeople gain new customers through referrals from customers. Referrals are earned by demonstrating your integrity, trustfulness, and character to the customer who eventually provides you the referral. Ethical service builds relationships and is based upon the truth.
+
+
+## The Sales Process Has 10 Steps
+* As discussed in Chapter 1, the **sales process** refers to a sequential series of actions by the salesperson that leads toward the customer taking a desired action and ends with a follow-up to ensure purchase satisfaction. Although many factors may influence how a salesperson makes a presentation in any one situation, a logical, sequential series of actions exists that, if followed, can greatly increase the chances of making a sale. This selling process involves 10 basic steps, as listed in Exhibit 6.1. Steps one and two are discussed in this chapter, and all steps are discussed in greater detail in the following chapters. Steps three through nine comprise the sales presentation itself. Before a sales presentation can be attempted, several important preparatory activities should be carried out.
+
+## Steps Before the Sales Presentation
+* As indicated in Exhibit 6.2, a successful salesperson begins with prospecting--obtaining an appointment with the prospect and planning the sales interview prior to ever actually meeting with the prospect. Like a successful lawyer, the salesperson does a great amount of background work before meeting the judge--the prospect. One rule of thumb states that a good sales process involves 20 percent presentation, 40 percent preparation, and 40 percent follow-up, especially when selling large accounts. However, even that varies from account to account. **At Xerox, the national account manager will spend up to 18 months preparing a detailed description of a potential national account**. This report, which can easily end up being 50 pages long, is basically a business plan for selling the prospect. Thus preparation time for this sales call would be greater than the 40 percent rule of thumb. As in most professions, success in selling often requires as much or more preparation before and between calls than is involved in actually making the calls themselves.
+* In Chapter 1 we said, **"Nothing happens until someone sells something". However, even selling requires a preceding step: Nothing happens until someone does some prospecting.**
+
+## Prospecting--The Lifeblood of Selling
+* Prospecting is the first step in the selling process. A **prospect** is a qualified person or organization that has the potential to buy your good or service. **Prospecting** is the lifeblood of sales because it identifies potential customers. A salesperson must look constantly for new prospects for two reasons:
+
+                1. To increase sales
+                2. To replace customers that will be lost over time
+
+* A prospect should not be confused with a lead. The name of a person or organization that might be a prospect is referred to as a lead. A lead can also be referred to as a suspect, indicating that the person or organization is suspected of being a prospect. Once the lead has been qualified, it becomes a prospect. As a salesperson, you can ask yourself three questions to determine if an individual or organization is a **qualified prospect**:
+
+
+                **
+                1. Does the prospect have the money to buy?
+                2. Does the prospect have the authority to buy?
+                3. Does the prospect have the desire to buy
+                **
+
+* A simple way to remember this qualifying process is to think of the word *mad*. A true prospect must have the financial resources, money or credit, to pay and the authority to make the buying decision. The prospect also should desire your product. Sometimes an individual or organization may not recognize a need for your product. As later chapters show, your challenge is to create a desire for the product. The **sales prospecting funnel** illustrates how all leads and prospects are considered and filtered out as they are subjected to the three mad questions before they become qualified prospects.
+* Locating leads and qualifying prospects are important activities for salespeople. Take, for example, computer salesperson Matt Suffoletto's comments on prospecting
+
+Prospecting is the process of acquiring basic demographic knowledge of potential customers for your product. Lists that are available from many vendors break down businesses in a given geography by industry, revenue, and number of employees. These lists can provide an approach to mass marketing, via either mailings or telephone canvassing. That canvassing is either done by the salesperson or through an administrative sales support person. No matter who performs the canvas or how it is done, it is an important element in increasing sales productivity. The next step of qualifying the potential customer is often included in the prospecting process. Qualification is a means of quickly determining two facts. First, is there a potential need for your product? Second, is the prospect capable of making a purchase decision? Specifically, does he or she have the decision authority and the financial ability to acquire your product?
+
+* Obtaining new customers and selling more products to present customers are the ways to increase sales. All salespeople lsoe X percent of sales or customers per year. Customers are coming in and going out of the salesperson's sales base.
+* This is shown in the **Leaking Bucket Customer Concept** illustration. New customers come into the top and leave thorugh a hole in the bottom of the bucket. It is always easier to sell a satisfied customer than an unsatisifed one or a prospect. The cost of acquiring a new customer is higher than keeping a present customer. This is why service and follow-up after the sale are so important to salespeople.'
+
+
+## Where to Find Prospects
+* Sources of prospects can be many and varied or few and similar, depending on the service or good the salesperson sells. naturally, persons selling different services and goods might not use the same sources for prospects. **A salesperson of oil-field pipe supplies would make extensive use of various industry directories in a search for names of drilling companies. A life insurance salesperson would use personal acquaintances and current customers as sources of prospects. A pharmaceutical salesperson would scan the local newspaper looking for announcements of new physicians and hospital, medical office, and clinical laboratory openings, whereas a sales representative for a company such as General Mills or Quaker Oats would watch for announcements of construction of new grocery stores and shopping centers.**
+* Top real estate salesperson Vikki Morrison feels that prospecting, which for her means knowing people in her neighborhood, has greatly aided her in becoming a successful salesperson. She strives to become her prospect's friend.
+* "In my area, most of the people I see are wives--and any woman who tried to farm in this tract in high heels and a dress, dripping with jewelry, would never make it," she believes. "I'm not trying to impress anybody. These people either know me or they know about me from the neighbors. I'm no threat--especially in my tennies, pants, and T-shirt!"
+* "Usually, I never meet the husband until the actual listing--then he wants to meet me to find out if I really know what I'm doing in real estate. As far as he's concerned, I'm just a friend of his wife's. These are the people i care about", she explains. "If someone needs a plumber or babysitter or a dentist, they call me. If I need a closing gift and someone on the block does creative things, I call them. We're all in this together!" 
