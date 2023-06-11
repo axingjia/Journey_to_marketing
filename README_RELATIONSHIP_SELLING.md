@@ -1892,6 +1892,85 @@ Radio, Television, Magainzes, newspapers, Direct mail--> Telephone responses, an
 * A salesperson often can find prospects by constantly watching what is happening in the sales area--the **obseravation method**. Office furniture, computer, and copier salespeople look for new business construction in their territories. new families moving into town are excellent leads for real estate and insurance salespeople. No matter what prospecting method you use, you must always keep your eyes and ears open for information on who needs your product.
 
 ###### Networking
-* For many salespeople, prospecting never ends. They are always
+* For many salespeople, prospecting never ends. They are always on the lookout for customers. Everyone they meet may be a prospect, or that person may provide a name that could lead to a sale. The term given to making and using contacts is **networking**.
+* Of the many ways to find new prospects, networking can be the most reliable and effective. People want to do business with, and refer busienss to, people they know, like, and trust. The days of the one-shot salesperson are over; the name of the game today is relationship building.
+* Building a network is important, but cultivating that network brings sales. The key is positioning, not exposure. The goal of cultivating your network is to fill a niche in the mind of each of your contacts so when one of those contacts, or someone he or she knows, needs your type of product or service, you are the only possible resource that would come to mind.
+
+``` 
+Exhibit 6.6: Reporting from a telemarketing center to other marketing groups within the firm.
+
+* Advertising
+        * Inquiries per advertisement
+        * Profiles of respondents
+        * Sales-conversion rates per advertisement
+
+* Market Management
+        * Segment analyses
+        * Marginal-account identification
+
+* Market Research
+        * Demographic data
+        * Image and attitude
+        * Forecasting data
+
+* Sales Management
+        * Lead qualification
+        * Marginal-account status
+
+* Physical Distribution
+        * Consumers' orders
+        * Distributors' orders
+        * Tracing and dispatching
+        * Shipment requirements
+        * Inventory requirements
+        * Product return needs
+        * Customer service needs
+
+* Product Management
+        * Sales per product
+        * Questions and complaints
+        * Consumer profiles
+
+```
+
+* Here are several tips for cultivating your network to dramatically increase your referral business:
+
+1. Focus on meeting center-of-influence people. These people have established a good reputation and have many valuable contacts. A few places to find the key people in your industry are trade association meetings, trade shows, or any business-related social event.
+2. Ninety-nine percent of your first conversation with a networking prospect should be about his or her business. People want to talk about their business, not yours. 
+3. Ask open-ended, feel-good questions like "What do you enjoy most about your industry?"
+4. Be sure to ask, "How would I know if someone I'm speaking with would be a good prospect for you?" If you're on the lookout to find this person new business, he will be more inclined to do the same for you.
+5. Get a networking prospect's business card. It's the easiest way to follow up with your new contact.
+6. Send a handwritten thank-you note that day: "It was nice meeting you this morning. If I can ever refer business your way, I certainly will."
+7. When you read newspapers and magazines, keep the people in your network in mind. If you find an article one of your contacts could use or would enjoy, send it.
+8. Stay on your contacts' minds by sending them something every month; notepads with your name and picture are perfect. They will keep these pads on their desks and be constantly reminded of you and your product or service.
+9. Send leads. The best way to get busienss and referrals is to give busienss and referrals.
+10. Send a handwritten thank-you note whenever you receive a lead, regardless of whether it results in a sale.
+
+* When meeting someone, tell her what you sell. Ask what she does. Exchange business cards and periodically contact the person. Eventually, you may build a network of people talking to each other, sharing ideas, and exchanging information. Also, you can use several of the previously discussed methods of prospecting, such as the endless chain and center of influence methods, to build your network.
+
+### Prospecting Guidelines
+* Like many other components of the selling process, prospecting methods should be chosen in light of the major factors defining a particular selling situation. As in most other optional situations discussed in this book, there is no one optimal mode of prospecting to fit all situations. Generalizations can be made, however, regarding the criteria used in choosing an optimal prospecting method for a particular selling situation. Three criteria you should use in developing the best prospecting method require you to take these actions:
+
+1. Customize or choose a prospecting method that fits the specific needs of your individual firm. Do not copy another company's method; however, it's all right to adapt someone's method.
+2. Concentrate on high-potential customers first, leaving for later prospects of lower potential.
+3. Always call back on prospects who did not buy. With new products, do not restrict yourself to present customers only. A business may not have purchased your present products because they did not fit their present needs; however, your new product may be exactly what they need.
+
+* Always keep knocking on your prosepcts' and customers' door to help them solve problems through the purchase of your product. Only in this way can you maximize your long-term sales and income.
+
+### Referrals used in Most prospecting Methods
+* Referrals can be directly used in 1. cold canvassing, 2. endless chain customer referrals, 3. orphaned customers, 4. sales lead clubs, 5. public exhibitions and demonstration, 6. center of influence, 7. telephone, and 8. networking. Eight of the thirteen popular prospecting methods directly ask someone if he or she knows others who might be interested in their product.
+* Many salespeople using these methods are reluctant to ask for referrals. Yet if t hey would, sales would increase. Try it! If done correctly, people will give referrals. Here are some ideas on getting referrals to increase your prospect pool.
+
+### The Prospect Pool
+* Referrals come from prosects. Different sources of prospects form the prospect pool. The **prospect pool** is a group of names gathered from various sources. Your source, for example, may be a mailing list, telephone book, referrals, orphans, or existing customers. As Exhibit 6.7 shows, a prospect pool is usually created from four main sources.
+
+                1. Leads--people and organizations you know nothing, or very little, about.
+                2. Referrals--people or organizations you frequently know very little about other than what you learned from the referral.
+                3. Orphans--company records provide your only information about these past customers.
+                4. Your customers--the most important prospects for future sales.
+
+* Most salespeople required to create customers through prospecting do not like to cold call. They have the goal of a prospect pool composed of customers, referrals, and, when available, orphans. The secret of reach this goal is the referral cycle.
+
+page 216
 
 page 213
