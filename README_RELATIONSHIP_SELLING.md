@@ -1760,7 +1760,7 @@ The Tree of Business Life: Prospecting
 
 Prospecting is the process of acquiring basic demographic knowledge of potential customers for your product. Lists that are available from many vendors break down businesses in a given geography by industry, revenue, and number of employees. These lists can provide an approach to mass marketing, via either mailings or telephone canvassing. That canvassing is either done by the salesperson or through an administrative sales support person. No matter who performs the canvas or how it is done, it is an important element in increasing sales productivity. The next step of qualifying the potential customer is often included in the prospecting process. Qualification is a means of quickly determining two facts. First, is there a potential need for your product? Second, is the prospect capable of making a purchase decision? Specifically, does he or she have the decision authority and the financial ability to acquire your product?
 
-* Obtaining new customers and selling more products to present customers are the ways to increase sales. All salespeople lsoe X percent of sales or customers per year. Customers are coming in and going out of the salesperson's sales base.
+* Obtaining new customers and selling more products to present customers are the ways to increase sales. All salespeople lose X percent of sales or customers per year. Customers are coming in and going out of the salesperson's sales base.
 * This is shown in the **Leaking Bucket Customer Concept** illustration. New customers come into the top and leave thorugh a hole in the bottom of the bucket. It is always easier to sell a satisfied customer than an unsatisifed one or a prospect. The cost of acquiring a new customer is higher than keeping a present customer. This is why service and follow-up after the sale are so important to salespeople.'
 
 
@@ -1768,4 +1768,130 @@ Prospecting is the process of acquiring basic demographic knowledge of potential
 * Sources of prospects can be many and varied or few and similar, depending on the service or good the salesperson sells. naturally, persons selling different services and goods might not use the same sources for prospects. **A salesperson of oil-field pipe supplies would make extensive use of various industry directories in a search for names of drilling companies. A life insurance salesperson would use personal acquaintances and current customers as sources of prospects. A pharmaceutical salesperson would scan the local newspaper looking for announcements of new physicians and hospital, medical office, and clinical laboratory openings, whereas a sales representative for a company such as General Mills or Quaker Oats would watch for announcements of construction of new grocery stores and shopping centers.**
 * Top real estate salesperson Vikki Morrison feels that prospecting, which for her means knowing people in her neighborhood, has greatly aided her in becoming a successful salesperson. She strives to become her prospect's friend.
 * "In my area, most of the people I see are wives--and any woman who tried to farm in this tract in high heels and a dress, dripping with jewelry, would never make it," she believes. "I'm not trying to impress anybody. These people either know me or they know about me from the neighbors. I'm no threat--especially in my tennies, pants, and T-shirt!"
-* "Usually, I never meet the husband until the actual listing--then he wants to meet me to find out if I really know what I'm doing in real estate. As far as he's concerned, I'm just a friend of his wife's. These are the people i care about", she explains. "If someone needs a plumber or babysitter or a dentist, they call me. If I need a closing gift and someone on the block does creative things, I call them. We're all in this together!" 
+* "Usually, I never meet the husband until the actual listing--then he wants to meet me to find out if I really know what I'm doing in real estate. As far as he's concerned, I'm just a friend of his wife's. These are the people i care about", she explains. "If someone needs a plumber or babysitter or a dentist, they call me. If I need a closing gift and someone on the block does creative things, I call them. We're all in this together!"
+
+## Planning a Prospecting Strategy
+* Frequently salespeople, especially new ones, have difficulty prospecting. Meeting strangers and asking them to buy something can be uncomfortable for people. Many salespeople prefer to see others who have similar characteristics to themselves--although in most cases, the similarity need not go this far!
+* To be successful, prospecting requires a strategy. Prospecting, like other activities, is a skill that can be constantly improved by a dedicated salesperson. Some salespeople charge themselves with finding X number of prospecting per week. Indeed, Xerox (a large manufacturer of copiers and other types of business equipment) asks its sales force to allocate a portion of each working day to finding and contacting several new prospects. A successful salesperson continually evaluates prospecting methods, comparing results and records with the mode of prospecting used in pursuit of a prospecting strategy that will result in the most effective contact rate.
+
+## Prospecting Methods
+* The actual method by which a salesperson obtains prospects may vary. Exhibit 6.4 shows several of the more popular prospecting methods.
+
+#### E-Prospecting on the Web
+* The most recent advancement in prospecting is the use of the Internet to find potential buyers. This is called e-prospecting, and it is a fast and easy way to find information about individuals or businesses by using technology.
+
+###### Individuals
+* Finding information on the Internet about individuals can be very helfpul to a saelsperson. For example, Yahoo offers a people search on its site, yahoo.com, and it is free. The site can even give you a list of an individual's neighors and their phone numbers. Some sites, such as peoplesearch.com, can provide you with extensive information about someone for a fee. Peoplefinder.com offers a list of over 200 different links to sites that search for information about people. Some of the links are free, and others are not, depending on the amount of information they give. A search engine could also be used to find information on a person.
+
+###### Organizations
+* It may be important for a salesperson to find information about a company. In today's e-driven world, most businesses have own Web sites. On these sites, a salesperson can find useful information that can help him or her decide if the company is a potential buyer. Many businesses may be found by simply entering the company's name followed by ".com". For example, if you are looking for information on Dell, you can type in www.dell.com as the universal resource locators (URL), and it will take you to the company's Website. Bigyellow.com, bigbook.com, and switchboard.com are all Websites that fofer a search for businesses. Search engines such as www.yahoo.com, www.altavista.com, and www.lycos.com can also be very helpful in finding a business's Web address. Many cities also have their own Websites now, and they often list information on companies in the area and links to their Websites
+
+```
+Exhibit 6.4: Prospecting methods that works
+* Prospecting is the lifeblood of selling. While some salespeople don't have to prospect, most rely on prospecting to increase sales and make money. Here are 13 popular methods:
+* E-prospecting, Cold canvassing, Endless chain cusomter referrals, Orphaned customers, Sales lead clubs, Prospect lists, Getting published, public exhibitions and demonstrations, Center of inflluence, Direct mail, Telephone and telemarketing, Observation, Networking
+* Which methods use referrals from customers and other people?
+```
+
+###### Cold Canvassing
+* The **cold canvass prospecting method** is based on the law of averages. For example, if past experience reveals that 1 person out of 10 will buy a product, then 50 sales calls could result in five sales. Thus, the salesperson contacts in person, by phone, and/or by mail as many leads as possible, recognizing that a certain percentage of people approached will buy. There is generally no knowledge about the individual or business the salesperson calls on. The form of prospecting relies solely on the volume of cold calls made.
+* The door-to-door and the telephone salesperson both employ cold canvass prospecting. For example, each summer the Southewestern Company hires college students to sell its books and other educational publications. These salespeople go into a town and knock on the door of every person living on each block they work, often contacting up to 75 people each day. They frequently ask people if they know of others who might like to purchase their products. many office supply salespeople do the same thing, going from one business to another. Real estate, insurance, and stock brokage firms are other businesses that use cold calls.
+
+###### Endless Chain Customer Referral
+* Cold calling is tough! Contacting strangers day after day is challenging even for the most motivated individuals. Yet many new salespeople have to begin their sales careers cold calling to get customers. once someone is sold, the salesperson has two possibilities for future sales.
+* First, satisfied customers are likely to buy again from the salesperson. That is why I stress the importance of building a relationship with the customer. It is critical to your success. Second, the customer often refers the salesperson to someone she knows. This is known as the **endless chain referral method** of prospecting. This is a very effective method for finding customers. Customers and customer referrals are the two best sources of future sales, with repeat sales from customers being better. A referral is a person or organization recommended to you by someone who feels that this person or organization could benefit from you or your product.
+* Don't ask current customers, "Do you know anyone else who could use my product?" Rarely are clients eager to judge whether colleagues are prepared to make a purchase. Instead, ask whether your customer know any other individuals or organizations that might be interested in finding out about your product.
+* **If you sense hesitation from customers to give out referrals, it's probably because they are afraid that their associates may not want to be pestered. Say, "Let me tell you what I'm going to do with any names you give me. I will make one phone call to each party, indicate that you were nice enough to give me their names, and give them a brief outline of what we do.
+* If they express an interest, we will get together and I will give them the same professional service I've given you. If, on the other hand, they express no interest, I will thank them for their time and never call them again." This approach puts your customers at ease and moves solid, new prospects onto your lead list.
+* Don't forget that your prospects are friends, neighbors, relatives--anyone and everyone you know or come into contact with. They may know people who are looking for your product and the great service you provide your customers. Everyone is a prospect!
+
+###### Orphaned Customers
+* **Orphaned customers** are cusotmers whose salesperson has left the company. Salespeople often leave their employers to take other jobs; when they do, their customers are orphaned. These orphans are great prospects. A alesperson should quickly contact such customers to begin developing relationships. You can turn orphans into a lead-generating gold mind.
+* In addition, if you've been selling for a while, you've surely built up a backlog of inactive accounts. Weed out the names who for whatever reason will never buy. The rest are solid prospects. Call them again and find out why they're not buying from you anymore. What would it take to change that? They may have stopped ordering your type of product altogether, or they may have gone with a competitor because of a special one-time offer, or they may have been a management change and therefore a change in buying patterns. You have to determine why the customer stopped buying from you. After you do that, restablishing contact and turning that prospect into a customer again is standard sales procedure (SSP).
+
+###### Sales Lead Club
+* Organize a group of salespeople in related but noncompetitive fields to meet twice a month to share leads and prospecting tips. To get started, write a formal mission statement, charge dues to ensure commitment, and grant membership to only one salesperson from each specific field. Next, set up administrative procedures and duties to keep the club on track and committed to its stated mission. 
+* Finally, establish guidelines for waht constitutes a good lead and track prospect information and effectiveness. Group the leads by effectiveness so members can better understand which leads can help the rest. You may even have every member who closes a lead contribute to a kitty. Each month the winner can be the member who provided the most closed leads.
+
+###### Prospect Lists
+* Make a list of what your ideal prospect looks like. Ask yourself the following questions:
+
+                * Who are my ideal prosects?
+                * Which economic bracket do they usually fall into?
+                * What kinds of organizations do they belong to?
+                * What characteristics do most of my existing customers share?
+                * Are they married, single, widowed, or divorced?
+                * Do they have children?
+                * Do they have particular political leaning?
+                * Do they have similar occupations, educations, hobbies, illnesses, transportation needs, or family concerns?
+
+                And the key question:
+
+                * Where am I most likely to find the greatest conglomeration of people who fit my prospect's profile?
+
+* **List Number One.** take the information you have accumulated and apply it. Go to the library and look up the Standard Industrial Classification (SIC) code number for your ideal prospects' businesses. Ask a librarian for help if you need it. Every type of business has a specific SIC code. Related industries have similar numbers; scan the directory to locate the numbers that fit the profile. This should provide you with an excellent prospect list. In addition, literally hundreds of other business directories can help you generate lists based on corporate profiles.
+* **List Number Two.** What kinds of publications do your ideal prospects likely read? Find out whether these publications sell lists of subscribers. If a publication's readership matches your prospect profile well enough, this list should be well worth the cost.
+* **List Number Three.** Go to the Standard Rate and Data Service's directory of firms that sell lists. These companies offer a variety of criteria that you can use to generate a quality prospect list. Dun & Bradstreet is an example of such a company. For your convenience, the information may even be available on computer disk.
+
+###### Getting Published
+* Although you may give away your services as a writer for free, the residual benefits make your efforts well worth the time. Submit articles about your field or industry to journals, trade magazines, and newspapers. Your submissions don't have to be glossy and expensive; just fill them with information that people can genuinely use, then make sure you have no spelling or grammatical mistakes. Instead of getting paid, ask the publications to include your address and telephone number at the end of the article and to write a little blurb about your expertise. 
+* By convincing an editor that you're an expert in your field, you become one. Once prospects think of you as an expert, you'll be the one they contact when they're ready to buy. In addition, prospects who call you for advice can come to depend on you and your product. Thus, you attract prospects without having to go out prospecting.
+
+###### Public Exhibitions and Demonstrations
+* **Exhibitions and demonstrations** frequently take place at trade shows and other types of special interest gatherings. Many times, related firms sponsor a booth at such shows and staff it with one or more salespeople. As people walk up to the booth to examine the products, a salesperson has only a few minutes to qualify leads and get names and addresses in order to contact them later at their homes or offices for demonstrations. Although salesperson-buyer contact is usually brief, this type of gathering gives a salesperson extensive contact with  a large number of potential buyers over a brief time. Remember, however, that success at trade shows stems from preparation. Here are several things to do:
+
+                * Set up an interesting display to get people's attention. A popcorn machine, juggler, an inexpensive giveaway are good ideas.
+                * Write down your message so that it fits on the back of a business card.
+                * Practice communicating two or three key points that get your message across succinctly. Get it down pat but don't memorize your sales pitch to make it sound overly canned.
+                * Make a list of the major buyers at the show you want to pursue for contacts.
+                * Set up to maximize your display's visibility based on the flow of traffic.
+                * Be assertive in approaching passerby. Insteado the common "Hello" or "How are you?" try "Do you use [product or service] in your operations?" or "Have you seen [product or service]? If I can show you how to be more profitable, would you be interested?" Next offer them a sample to handle, but not to keep. Don't let them take the item and move on without talking to you.
+                * Use lead cards to write down prospect information for efficient and effective postshow follow-up.
+                * Be prepared for rejection. Some buyers will ignore you. Don't take it personally. Be brief but professional. Your time is too valuable to waste on nonprospects.
+
+```
+Successful Selling Secrets: Vikki Morrison
+* " There are no secrets to successful selling. There is only hard work from 7:00 in the morning to 10:00 at night. The biggest secret is total honesty at all times with all parties. You should act with integrity and treat clients with the same respect you want from them.
+* "Never call clients with anything but calm assurance in your voice, because if they feel you are panicked, they will become panicked. Your walk, speech, mannerisms, and eye-to-eye contact say more about you than you'll ever know, so practice all forms of your presentation every day in every way. I suppose a secret is to save the best house for last. I just try to do the best job for the client, even when it means turning them over to another agent who would have a more suitable property in a different area."
+* morrison does not work alone; she uses her available resources in selling. A computer terminal in her office gives her up-to-date information on listings and an analysis of proposed transactions. She personally employs three assistants to help her keep up with the listings and shoppers. Vikki Morrison knows the value of the real estate in her area and can give free market analysis with less than one hour's notice.
+* "An important part of my job is providing customers personal service via constant follow-up, before the appointment, during, and after the sales. I have periodic follow-ups to see how they like their new home or investments. Anniverary flowers and cards on their birthday are a specialty of mine. I try to eliminate any and all of their buying fears when I can, and be available to reassure them.
+* "I sell on emotional appeal. No matter what the facts, most people still buy based on emotion. The triggers for sommeone's emotional side can be quite varied. For example, for some men, their families are their hot button; for others, the gread appeal of a good deal is more important. Every person is different and should be handled as the very important individual that they are.
+* "Another factor in my selling is that I care about my clients. They know it, I know it, and they feel it when I'm working iwth them and long after the escrow is closed. These people are my good friends and we have fund together."
+
+```
+
+###### Center of Influence
+* Prospecting via the **center of influence method** involves finding and vultivating people in a community or territory who are willing to cooperate in helping to find prospects. They typically have a particular position that includes some form of influence over other people, as well as information that allows the salesperson to identify good prospects. For example, a person who graduates from college and begins work for a local real estate firm might contact professors and administrators at his alma mater to obtain the names of teachers who have taken a job at another university and are moving out of town. He wants to help them sell their homes.
+* Clergy, salespeople who are selling noncompeting products, officers of community organizations like the chamber of commerce, and members of organizations such as the Lions Club or a country club are other individuals who may function as a center of influence. Be sure to show your appreciation for this person's assistance. Keeping such influential persons informed on the outcome of your contact with the prospect helps to secure future aid.
+
+###### Direct Mail
+* In case where there are a large number of prospects for a product, **direct-mail prospecting** is sometimes an effective way to contact individuals and businesses. Direct-mail advertisements have the advantage of contacting large numbers of people, who may be spread across an extended geographical area, at a relatively low cost when compared to the cost of using salespeople. People who request more information from the company subsequently are contacted by a salesperson.
+
+###### Telephone and Telemarketing
+* Like direct marketing, use of **telephone prospecting** to contact a large number of prospects across a vast area is far less costly than use of a canvassing sales force, through usually more costly than mailouts.
+* This person-to-person contact afforded by the telephone allows for interaction between the lead and the caller--enabling a lead to be quickly qualified or rejected. Salespeople can even contact their local telephone company for help in incorporating the telephone into the sales program.
+* One example of telephone prospecting is the aluminum siding salesperson who telephones a lead and asks two questions that quickly determine if that person is a prospect. The questions are:
+
+                * Telephone Salesperson: Sir, how old is your home.
+                * Lead: One year old.
+                * Telephone Salesperson: Is your home brick or wood.* Lead: Brick!
+                * Telephone Salesperson: Since you do not need siding, would you recommend we contact any of your neighbors or friends who can use a high-quality siding at a competitive price? [Endless chain technique]
+
+* A big sales buzzword today is **telemarketing**. Telemarketing is a marketing communication system using telecommunication technology and trained personnel to conduct planned, measurable marketing activities directed at targeted groups of consumers.
+* The internal process of a telemarketing center is shown in Exhibit 6.5. Many firms initiate telemarketing ventures by featuring an 800 phone number in an advertisement. Print ads may make a coupon available for the reader. When the coupon response or a telephone call comes into the center, a trained specialist handles it. This person may take an order (in the case of a telephone call) or transfer the person to a telephone selling or teleselling unit. The specialist may provide information or service. The specialist also can determine whether the customer has sufficient potential to warrant a face-to-face sales call. The duties of a telemarketing specialist are based on the type of product being sold and to whom it is sold.
+* From thousands of such contacts with the public, a firm can develop a valuable database that produces various informational reports. Many companies use telemarketing centers in this way. Exhibit 6.6 describes some of their informational reports.
+* As an example, the Westinghouse Credit Corporation uses telemarketing to qualify leads and develop live prospects for its field sales force. Specialists at the Westinghouse telemarketing center call prospects to determine interest level and to verify addresses. Having qualified a number of prospects, they transfer the leads to the various sales branch offices.
+
+```
+Exhibit 6.5: The processing system within a telemarketing center.
+
+Radio, Television, Magainzes, newspapers, Direct mail--> Telephone responses, and Mail responses--> Telemarketing specialist--> order processing information and service, teleselling, outside sales force--> Computer database
+```
+
+###### Observation
+* A salesperson often can find prospects by constantly watching what is happening in the sales area--the **obseravation method**. Office furniture, computer, and copier salespeople look for new business construction in their territories. new families moving into town are excellent leads for real estate and insurance salespeople. No matter what prospecting method you use, you must always keep your eyes and ears open for information on who needs your product.
+
+###### Networking
+* For many salespeople, prospecting never ends. They are always
+
+page 213
