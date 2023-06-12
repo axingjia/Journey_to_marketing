@@ -1971,6 +1971,82 @@ Exhibit 6.6: Reporting from a telemarketing center to other marketing groups wit
 
 * Most salespeople required to create customers through prospecting do not like to cold call. They have the goal of a prospect pool composed of customers, referrals, and, when available, orphans. The secret of reach this goal is the referral cycle.
 
-page 216
+### The Parallel Referral Sale
+* Salespeople must sell the product, plus sell the prospect on providing referrals. This is known as the **parallel referral sale**. Equal emphasis must be given to both the product sale and the referral sale. You must nurture a parallel referral sale from the time of the initial contact, such as when making an appointment. The referral sale should receive equal importance, effort, and emphasis as the product sale. This is t he key to the referral cycle.
 
-page 213
+### The Secret Is to Ask Correctly
+* Many salespeople do not ask for referrals. If they do ask, they often do so infrequently and incorrectly. Understand that if others--even customers--never had objections to giving referrals there would be no problem in getting them. A salesperson could simply ask for referrals and live happily ever after. Unfortunately, this is not the case. Here are examples of why some clients may not wish to give referrals:
+
+                * Clients are afraid of upsetting friends and relatives
+                * Clients do not want friends to think they're talking about them
+                * Clients may believe in the product but not in the salesperson
+                * Client fear the salesperson may not be around years down the road.
+                * Clients do not feel they can benefit from giving the salesperson the road.
+
+* It is absolutely essential that you consider these objections when asking for referrals. By doing so, you will obtain more referrals, get more appointments, and make more sales.
+
+## When to Ask
+* Properly asking for referrals can greatly improve the person's sales. Sound simple, doesn't it? All one needs to do is ask others for referrals. It's simple, but not as simple as it first sounds. It is important to ask professionally at each phase of the referral cycle.
+
+#### The Preapproach 
+* Great care must be taken during the preapproach contact phase of the referral cycle. Whetherthe initial contact is face-to-face or via telephone, the effectiveness of your approach will be the deciding factor in determining whether you are given the opportunity to make a sales presentation.
+* Many prospects will hang up the phone as soon as they suspect an attempt is being made to sell them something. If, in the first several seconds, you fail to overcome their initial feelings of discomfort and intrusion, your chances of developing a relationship are slim.
+* Mentioning that a firm or business acquaintance of theirs recommended that you call helps alleviate some of the initial anxiety in dealing with quick objections. This is one of the reasons why working on referrals is so effective. Certainly, people are willing to listen a bit longer if they know a person they trust is the reason for this personal contact. Here's an example:
+
+* Hello, is this John? ... Hi, John, my name is Charles Futrell from Merrill Lynch. George and Barbara Smith are clients of mine. I met with them last week and helped them set up their retirement program. They were really pleased with both my products and service. And since I work primarily through referrals, they were kind enough to mention that you might be interested in learning about the value I have to offer.
+* I'd like to set up a time to stop by your home or office and share some ideas that you may find of great benefit. It's not really important to me that we do business; all I ask is if you appreciate the time we share together, if you feel that you benefit from the time we spend together, and, most important, if you respect my integrity, you would be willing to pass my name on to a friend or business associate who may also benefit from my services, just as George and Barbara did. Is that fair enough?
+
+* We have begin the process of selling the prospect--and hopefully customer--on giving us one or more referrals. We are telling John that it is not important for me to amke a sale. We are asking if he feels it is reasonable, if and only if he is happy with me, that he pass my name on just as his friends did. It is easy for John to answer yes. I have presented my offer in a nonthreatening manner that was endorsed by his friends George and Barbara.
+* To say "It's not really important to me that we do business" is very unusual. People are not accustomed to hearing a salesperson say that it is not important to make a sale.
+
+### The presentation
+* Depending on the particular industry you represent, the situation in which you present your product for sale may be called by a variety of names. It could be a meeting, appointment, interview, or presentation. Hereafter, we refer to it as the presentation.
+* During the presentation you have the greatest opportunity to influence your prospect. It is important to understand that your prospect will scrutinize everything you say and do, whether it be through words, expressions, or body language. During this presentation you also must be conscious of presenting your desire to get referrals.
+* The presentation phase of the referral cycle actually begins when you sit down with your prospects for the purpose of making a sales presentation. As comfortably as possible, you should make a conscious effort to mention the referring person. This may be remark as simple as "George told me that you like to golf. Did you get a chance to get out this week?" or "Barbara mentioned that you like to garden. Did the last forst we had affect your plants at all?"
+* **This initial contact plants the seed for the beginning of the parallel referral sale. During the next 10 or 15 minutes there should be no discussion about the product or service being offered. This time is best used to build rapport and help break down any barriers between the prospects and their perception of you as a salesperson. To accelerate this process you should mention the referral person as often as possible. It is easy to tell whe nthe barriers begin to come down. The walls of resistance have fallen when you begin to feel comfortable with your prospects. If you do not feel comfortable with your prospects, they certainly will not feel comfortable with you.**
+* Once you establish rapport, **you should take a moment to explain to your prospects what will occur during the time you will be together. It doesn't matter what good or service you are selling; this approach should be used regardless.** Then when appropriate, mention the referrals. Here are two examples:
+
+* John and Nonnie, if you're happy with my service, I hope you will be willing to pass my name on to other people who would appreciate the same honesty and integrity I have extended to you. I don't do this because I'm a good guy, or because I'm a good Christian; I do it because it makes good business sense. If I take care of you, you'll take care of me. And my livelihood depends on getting referrals. My success and the success of my business is totally dependent on getting quality referrals from my client. I realize that you will introduce me to your friends, family, and business associate only if the quality and integrity of the service I provide surpasses that to which you've grown accusomted. This I pledge.
+
+### Product Delivery
+* Almost every selling profession has some type of product delivery phase. The delivery phase is more obvious with some products than others. For example, in the life insurance industry it involves the agent physically handing the policy to the client. In real estate, it would be the day the sale closes on the home or property. With computers, it would be the day that the system is intalled and usable. In advertising, it would be the day that the ad runs the publication. Automobile buyers go to the dealership or have the salesperson deliver the vehicle to them. Whatever your profession, you should identify the precise moment that your product becomes of value to your customer, and at this point the product delivery phase begins. Here's an example of how t omake the referral sale:
+
+* I'm sure by now, John, you realize that I work strictly through referrals. I am constantly striving to bring my clients even greater service by improving my business. I have a very important question for you and would appreciate your giving this some thought. Is there any one thing that you would like to see me change or improve that would increase the likelihood of my getting referrals from you in the future?
+
+* This is only an example to get you thinking about how to properly ask for the referral. And you do need to always ask!
+
+### Service and Follow-up
+* **Customer service** is the performance of any helpful or professional work or activity for a person, family, or organization. The service and follow-up phase of the referral cycle provides you with ongoing opportunities to maintain contact with your clients. Anytime that you have contact with your clients you encounter the possibility of getting more referrals. The quality and quantity of service will help enhance the quality and quantity of the referrals you receive. High-quality service helps create a very professional and caring image that clients are not afriad of sharing with their friends, family, and business associates, a high quantity of service helps keep you and your product fresh in the client's mind. Service is one of the key components of the Golden Rule. Service shows you have a servant heart and care about the customer rather than solely the money you make from the sale.
+* For many salespeople, the product delivery phase represents the end of the relationship with their clients. There are three reasons why this happens. First, the nature of the business may not require any additional service. Second, although there may be a need for continued service, salespeople are so preoccupied with prospecting or selling that they can not devote adequate time to providing adequate service. Third, salespeople may not realize that providing their clients with quality service can benefit them in expanding the quality and quantity of their business. What it comes down to is no need, no time, or no benefit. Here is an example of what might be said during a typical annual follow-up:
+
+* Hello, John. This is Charles Futrell. As I promise when we first did business, this is my "official" once-a-year call to let you know that I am thinking about you. Do you have any questions? Is there anything I can do for you? ... I also want to make sure you and Nonnie have received your birthday cards and quarterly newsletters. What do you think of my newsletters? ... Terrific. I'll let you go now. Don't forget, you've got my number if you need any help. Please keep me in mind when talking to your friends and business associates. As you know, John, I depend on quality clients like you and Nonnie to keep me in business. One of the reasons I work so hard to help my customers is because of the people you refer to me. your referrals are really appreciated. (Pause) John, is there anyone you or Nonnie feel I should help? (Pause) Thank you very much! I look forward to seeingr you soon. Goodbye.
+
+* One season when I coached little league baseball, a six-year-old player said, "Coach, I've never hit the ball." I replied, "Well, Steve, you never swing at the ball". Steve was afraid the pitcher would hit him with the ball. Like Steve, salespeople are afraid to swing or rather ask someone for a referral. People are not going to hit you if you ask with a smile on your face. Have you ever had a salesperson ask you for a referral? I never have! What a shame it is not to ask someone if they know who could use your help. The secret of obtaining referrals is to always professionally ask people. The main times to ask for referrals are **Preapproach, Presentation, Product delivery, and service and follow-up**.
+
+### Don't Mistreat the Referral
+* One final thought on referrals--don't mistreat them! The salesperson who mistreats a referral can lose the referring customer and the prospect. like dropping a rock into a pool of water, it can have a ripple effect. Be sure to treat the referral in a professional manner. Always follow through on what you have told the referral.
+* Once you have sold the referral, and gotten more referrals, ask the new customer to contact the referring customer on her experience with the salesperson. Now you have two customers giving you referrals. This can create an endless chain of referrals, helping to quickly fill your prospect pool with only customers and referrals.
+
+###### Tracking Referrals
+* Keep track of referrals is just as important as staying in contact with customers. Whether you use index cards or a computerized contact system, it's important to keep detailed records on all information you collect on the prospect/customer. (see the discussion of the customer profile in Chapter 7 and the review of computerized customer contact programs in Chapter 5)
+
+## Call Relectance Costs You Money!
+* What good is knowing how to prospect if you won't prospect? All salespeople seem to have call reluctance from time to time. An estimated 40 percent of all salespeople suffer a career-threatening bout of call relectance at some point. In its milder forms, call reluctance keeps countless salespeople from achieving their potential. Research indicates that 80 percent of all first-year salespeople who don't make the grade fail because of insufficient prospecting.
+* **Call reluctance** refers to not wanting to contact a prospect or customer liketh man in the photo. This tricky demon assumes a dozen faces and comes disguised as a salesperson's natural tendencies
+* Countermeasures for call reluctance are numerous and depend on the type of reluctance experienced by the person. But the initial step is always the same: You must admit you have call reluctance and that your call reluctance is keeping you from helping others and earning what you're worth. For many salespeople, owning up to call reluctance is the most difficult part of combating it.
+* Salespeople must seek out prospects to find them. In basketball, as in sales, you'll always miss 100 percent of the shots you don't take. If you do not call on people, you can not make a sale. So in sales you must knock, so the door will be opened for you. Before you knock you often need an appointment.
+
+```
+Getting an Appointment Is Not Always Easy
+* The owner of an oil field supply house in Kansas City was jack Cooper's toughest customer. He was always on the run, and Jack had trouble just getting to see him, much less getting him to listen to a sales presentation. Jack would have liked to take him to lunch so he could talk to him, but the owner never had time. Every day he called a local hamburger stand and had a hamburger sent to his office so he wouldn't have to waste time sitting down to eat.
+* Jack wanted to get the owner interested in a power crimp machine that would enable him to make his own hose assemblies. By making them himself, the owner could save about 45 percent of his assembly costs--and Jack would make a nice commission.
+* The morning Jack was going to make his next call, his wife was making sandwiches for their children to take to school. jack had a sudden inspiration. He asked his wife to make two deluxe bag lunches for him to take with him.
+* Jack arrived at the supply house just before lunchtime. "I know you're too busy to go out for lunch," he told the owner, "so I bought it with me. I thought you might like something different for a change."
+* The owner was delighted. He even took time to sit down and talk while they ate. After lunch, Jack left with an order for the crimper--plus a standing order for hose and fittings to go with it.
+
+```
+
+## Obtaining the Sales Interview
+* Given a satisfactory method of sales prospecting and an understanding of the psychology of buying, a key factor in the selling process that has yet to be addressed is obtaining a sales interview. Although cold calling (approaching a prospect without prior notice) is suitable in a number of selling situations, industrial buyers and some other types of individuals may have neither the time nor the desire to consult with a sales representative who has not first secured an appointment.
+
+page 221
