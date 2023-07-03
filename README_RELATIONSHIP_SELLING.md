@@ -2049,4 +2049,86 @@ Getting an Appointment Is Not Always Easy
 ## Obtaining the Sales Interview
 * Given a satisfactory method of sales prospecting and an understanding of the psychology of buying, a key factor in the selling process that has yet to be addressed is obtaining a sales interview. Although cold calling (approaching a prospect without prior notice) is suitable in a number of selling situations, industrial buyers and some other types of individuals may have neither the time nor the desire to consult with a sales representative who has not first secured an appointment.
 
-page 221
+### The Benefits of Appointment Making
+* The practice of making an appointment before calling on a prospect can save a saelsperson hours in time wasted traveling and waiting to see someone who is busy or even absent. When the salesperson makes an appointment, a buyer knows someone is coming. People are generally more receptive when they expect someone than when an unfamiliar salesperson pops in. Appointment making is often associated with a serious, professional image and is sometimes taken as an outward gesture of respect toward a prospect.
+* From the salesperson's point of view, an appointment provides a time set aside for the buyer to listen to a sales presentation. This is important because adequate time to explain a proposition improves the chance of making the sale. In addition, a list of appointments aids a salesperson in optimally allocating each day's selling time. Appointments can be arranged by telephone or by contacting the prospect's office in person.
+
+##### Telephone Appointment
+* For obvious time and cost benefits, salespeople usually phone to make sales appointments. Though seemingly a simple task, obtaining an appointment over the telephone is frequently difficult. Business executives generally are busy and their time is scarce. However, these practices can aid in successfully making an appointment over the telephone:
+
+* Plan and write down what you will say. This helps you organize and concisely present your message.
+* Clearly identify yourself and your company
+* State the purpose of your call and briefly outline how the prospect may benefit from the interview.
+* Prepare a brief sales message, stressing product benefits over features. Present only enough information to stimulate interest.
+* **Do not take no for an answer. Be persistent even if there is a negative reaction to the call.**
+* Ask for an interview so that you can further explain product benefits.
+* Phrase your appointment request as a question. Your prospect should be given a choice, such as: "Would nine or one o'clock Tuesday be better for you?"
+
+
+```
+MAKING THE SALE: Does Your Mental Attitude Influence Your Life?
+* Yogi Berra has been quoted as saying, "Whatever you do in life, 90 percent of it is half mental." What does that mean to you? What do the following statements from famous motivational writers over the last 70 years mean to you? Have you ever been reluctant to do something? How does this relate to prospecting?
+
+* "Positive mental attitude governs your life and mind and it is the starting point of all riches"--Napoleon Hill
+* "I will greet this day with lovei n my heart." Og Mandino
+* "Let's fill our minds with thoughts of peace, courage, health, and hope for our life is what our thoughts make it."--Dale Carnegie
+* "Count your blessing--not your troubles."--Dale Carnegie
+* "When fate hands us a lemon, let's try to make lemonade."--Dale Carnegie
+* "Sharpen the saw--renew the physical, spiritual, mental, and social/emotional dimensions of your nature."--Stephen Covey
+
+```
+
+* **Successful use of the telephone in appointment scheduling requires an organized, clear message that captures interest quickly. Before you dial a prospect's number, mentally or physically sketch out exactly what you plan to say. While on the telephone get to the point quickly (as you may have only a minute), disclosing just enough information to stimulate the prospect's interest.** For example:
+
+                Mr. West, this is Sally Irwin of On-Line Computer Computer calling you from Birming-ham, Alabama. Businessmen such as yourself are saving the costs of rental or purchase of computer systems, while receiving the same benefits they get from the computer they presently have. May I explain how they are doing this on Tuesday at nine o'clock in the morning or would one o'clock in the afternoon be preferable?
+
+* One method for obtaining an appointment with anyone in the world is for you to have someone else make it for you. Now, that sounds simple enough, doesn't it? However, do not just have anyone make the appointment. It should be a satisfied customer. Say, "Listen, you must know a couple of people who could use my product. Would you mind telling me who they are? I'd like you to call them up and say I'm on my way over." Or, "Would you just call them up and ask them if they would meet with me?" This simple technique frequently works. In some situations, an opportunity to make an appointment personally arises or is necessitated by circumstances.
+
+##### Personally Making the Appointment
+* Many business executives are constantly bombarded with an unending procession of interorganizational memos, correspondence, reports, forms, and salespeople. To use their time optimally, many executives establish policies to aid in determining whom to see, what to read, and so on. They maintain gatekeeprs (secretaries or receptionists) who execute established time-use policies by acting as filters for all correspondence, telephone messages, and people seeking entry to the executive suite. Successful navigation of this filtration system requires a professional salesperson who 1. is determined to see the executive and believes it can be done; 2. develops friends within the firm (many times including the gatekeepers), and 3. optimizes time by calling only on individuals who make or participate in the purchase decision.
+
+* **Believe in Yourself** As a salesperson, believe that you can obtain interviews because you have a good offer for prospects. Develop confidence by knowing your products and by knowing prospects--their business and needs. Speak and carry yourself as though you expect to get in to see the prospect. **Instead of saying, "May I see Ms. Vickery?" you say, while handing the secretary your card," Could you please tell Ms. Vickery that Ray Baker from XYZ Corporation is here?"**
+* **Develop Friends in the prospect's Firm** Successful salespeople know that people within the prospect's firm often indirectly help in arranging an interview and influence buyers to purchase a product. A successful Cadillac salesperson states:
+
+                * To do business with the boss, you must sell yourself to everyone on his staff. I sincerely like people--so it came naturally to me. I treat secretaries and chauffeurs as equals and friends. Ditto for switchboard operators and maids. I regularly sent small gifts to them all. An outstanding investment.
+                * The little people are great allies. They can't buy the product. But they can kill the sale. Who needs influential enemies. The champ doesn't want anyone standing behind him throwing rocks. In many cases, all you do is treat people decently--an act that sets you apart from 70 percent of your competitors.
+* Matt Suffoletto, the computer salesperson mentioned earlier, says it another way:
+
+                * I have observed one common distinction of successful salespeople. They not only call on the normal chain of people within the customer's organization, but they have periodic contact with higher-level decision makers to communicate the added value which their products and services have provided. This concept, when exercised judiciously, can have a tremendous impact on your effectiveness.
+
+* Respect, trust, and friendship are three key elements in any salesperson's success. Timing is also important.
+
+* **Call at the Right Time on the Right person** Both gatekeepers and busy executives appreciate salespeople who do not waste their time. By using past sales call records on calling the prospect's receptionist, a salesperson can determine when the prospect prefers to receive visitors. Direct questions, such as asking the receptionist, "Does Mr. Smith purchase your firm's office supplies?" or "Whom should I see concerning the purchase of office supplies?" can be used in determining whom to see.
+* **Do Not Waste Time Waiting** Once you have asked the receptionist if the prospect can see you today, you should 1. determine how long you will have to wait, and whether you can afford to wait that length of time, 2. be productive while waiting by reviewing how you will make the sales presentation to the prospect; and 3. once an acceptable amount of waiting time has passed, tell the receptionist, "I have another appointment and must leave in a moment." When politely approached, the receptionist will usually attempt to get you in. If still unable to enter the office, you can ask for an appointment as follows: "Will you please see if I can get an appointment for 10 on Tuesday?" If this request does not result in an immediate interview, it implies the establishment of another interview time. If you establish a positive relationship with a prospect and with gatekeepers, waiting time normally decreases while productivity increases.
+
+## Wireless Email Helps you Keep in Contact and Prospect
+* No one needs constant contact with the home office, customers, and prospects more desperately than a sales representative. Although email is one of the best way to accomplish that, adapting email to meet the requirements of the itinerant sales rep has never been simple.
+* This is the problem that Jeff Pruss, a sales rep for Hewlett-Packard's Computer Products Organization in Pleasanton, California, face every day. His sales team's solution is to use WyndMail for Windows to keep in touch with coworkers, customers, and prospects. "We're not very often at our desks, nor do we necessarily have a phone jact," Pruss says. "Wireless email helps keep us mobile."
+* Pruss explains that his team chose WyndMail for several reasons. One reason was very simple: It was the only wireless email program for Windows on the market at the time. A more important reason, he adds, was that Wynd Communication "was very responsive to our particular needs". For example, the first version of the address book didn't operate the way the team wanted it to--it always sorted by last name. Wynd very quickly addressed that issue, he says. "In the new version, WyndMail enables each of us to open our address books in our own preferred sort order. It feels the way we like it to feel," says Pruss.
+* To connect to the outside world, WyndMail uses the RAM Mobile Data network and the Internet. Some of his peers questioned WyndMail's apparently high costs, but Pruss says his coworkers "don't know what they're missing. it's worth the money."
+* The only "problem" with WyndMail's service, according to Pruss, is that there is only one place where the coverage hasn't been good: Lake Tahoe. "This is a good thing," he commented wryly, "because when I'm skiing. I want to relax."
+
+## Summary of Major Selling Issues
+* The sales process involves a series of actions beginning with prospecting for customers. The sales presentation is the major element of this process. Before making the presentation, the salesperson must find prospects to contact, obtain appointments, and plan the entire sales presentation.
+* Prospecting involves locating and qualifying the individuals or businesses that have the potential to buy a product. A person or business that might be a prospect is a lead. These questions can determine if someone is qualified. Is there a real need? Is t he prospect aware of that need? Is there a desire to fulfill the need? Does the prospect believe a certain product can be beneficial? Does the prospect have the finances and authority to buy? and Are potential sales large enough to be profitable to me?
+* Several of the more popular prospecting methods are cold canvass and endless chain methods, public exhibitions and demonstrations, locating centeres of influence, direct mailouts, and telephone and observation prospecting. To obtain a continual supply of prospects, the salesperson should develop a prospecting method suitable for each situation.
+* Once a lead has been located and qualified as a prospect, the salesperson can make an appointment with that prospect by telephone or in person. At times, it is difficult to arrange an appointment, so the salesperson must develop ways of getting to see the prospect. Believing in yourself and feeling that you have a product the prospect needs are important.
+
+```
+Ethical Dilemma: What an Offer! Or Is It?
+* You are a new life insurance agent and have just made a sale to an old family friend who is the personnel manager for a large manufacturing company in your town. To help you in your prospecting, he offers you a large file of personnel data on the employees of the company, including income, family size, phone numbers, and addresses.
+* This information would be very valuable. You are sure to make 5 to 10 sales from this excellent prospect list. As he hands you the material, you notice it is stamped, "Not for Publication, Company Use Only!"
+* What would be the most ethical action to take?
+
+                1. Take the information. It could really help you get started
+                2. Thank your friend for the offer but refuse the information. It would not be right to accept something that is marked confidential.
+                3. Refuse the information and tell your friend that it was not in good practice for him to offer it. Let him know that if anything like this were to happen again, you would have to report him to the proper people in his company.
+
+```
+
+## Meeting a Sales Challenge
+* Larry Long, John Alexander, and Kathryn Reece analyzed the proposed prospecting systems fairly well. Old customers are easy to see and know the company. However, some people will quickly point out that just because a firm buys one thing from a company does not mean that it will buy another.Xerox learned that lesson in marketing its line of word processors. Companies often are fooled by t heir corporate egos into thinking that their existing customers will buy just about anything they make.
+* Going after IBM seems to scare John for some reason. However, think a minute. Exactly what will IBM do that it won't do competitively anyway? It has some competition from all sides by many firms. If the company has a good cost story to tell, then go after the big users to whom the cost saving will be significant.
+* In short, all the system have virtues and none should be excluded from consideration. new blood is needed. You can't stay in business by just relying on one set of customers. So much depends, however, on the particular territory. Some territories may have few old customers or few IBM users. The salesperson must adapt to teh characteristics of the territory.
+
+page 225
