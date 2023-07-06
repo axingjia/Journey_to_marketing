@@ -233,4 +233,36 @@ Digital marketing is dead...long live digital marketin!
 Anna-Marie Odubote, creative copywriter, Social Chain
 * Anna-Marie Odubore is a London-born, Manchester-based creative copywriter at Social Chain, Europe's largest social media marketing agency, with experience writing for everything from Dazed and Confused magazine to Coca-Cola billboard copy. At just 24 Anna-marie has been a published writer for 15 years.
 
-page xiii
+Anne Tulloch, marketer
+* A results-driven marketer with 15+ years' experience in developing marketing strategies for high-profile brands such as Virgin and BSkyB. Abel to hit challenging business KPIs utilizing the full digital media mix alongside in-house online and on-air media. Taking ownership responsibilities of website platform strategy, optimization and reporting she enables end-to-end audience attraction, engagement and retention.
+
+Bhavana Mistry
+* Bhavna came into PR via 20 years in journalism on titles including the Guardian, Managemnt Today, Design Week, Marketing and Campaign. Her editorial talents and contacts, an eye for strategy, understanding the big picture and appreciating where PR fits in, are highly prized by clients across the marketing communication sector.
+
+Bradley Nickel, direct response copywriter and digital content strategist
+* Bradley is a direct response copy-writer and digital content strategist living in the United States. He helps million-dollar businesses to generate more leads and sales through the power of the written word.
+
+Brandon Carter, content specialist, Outbrain
+* Brandon is a content specialist at Outbrain. He began his career as a staff journalist for the Maine weekly The Coastal Journal before moving to New York and joining the product licensing divisions of Penuts Worldwide and Sesame Workshop.
+
+Brian O'Kelley, co-founder and CEO, AppNexus
+* As co-founder, chief executive officer of AppNexus and chairman of the company's board of directors, Brian has more than a decade of leadership experience in the online advertising sector, including his tenure as chief technology officer (CTO) of Right Media (later sold to Yahoo! in 2007), where he led the creation and commercialization of multiple real-time bidding technologies. This also includes the invention of the world's first online advertising exchange--the engine that powers and optimizes the real-time purchase and placement of digital advertising. Brian is an inventor of patents that enable AppNexus's technology to power innovative trading solutions and marketplaces for internet advertising. He has been an active investor in, and early-stage adviser to, start-up businesses such as Invite Media (acquired by Google in 2010), MediaMath, Dstillery and Solve Media. Brian is also a regular contributor to Forbes on technology-related topics, and among other honours he has been named in Crain's 40 under 40, Adweek 50 and Silicon Alley 100 lists, and was recognized as an E&Y Entrepreneur of the Year in the New York region in 2012. Brian holds a BSE in computer science from Princeton University, where he is an active alumnus. He lives in New York City with his wife and daughter.
+
+Bruce Clayton, co-founder, Optimus Performance Marketing
+* Bruce has extensive experience in both online and offline marketing, having worked in TV, radio and for online media owners before moving into affiliate marketing in 2003. Gaining experience with both general and specialist networks, Bruce joined forces with an industry-leading affiliate and founded Optimus Performance Marketing, a multi-award-winning company delivering performance management solutions and consultancy to a wide variety of clients. Bruce and his co-founder bring years of experience in delivering results for their client base. This focus on results since conception has been the cornerstone of their success, and the agency is now one of the leading performance marketing agencies in Europe.
+
+Bryndis Sadler, marketing executive and office manager, GADM
+* Bryndis is a marketing executive and the office manager at GADM, implementing all outgoing communications and incoming engagement on behalf of GADM and its collaborators--via different marketing streams, social media channels and the GADM website. She also oversees the ongoing development of the website and membership packages. Alongside the event and strategy teams, she plays a part in curating all GADM events, content strands and helps to support the new business function of GADM to prospective clients. Bryndis can often be found exploring London for new places to eat and more books to buy when she hasn't finished any of the ones she already owns.
+
+Chris Bishop, founder, 7thingsmedia
+* Chris founded 7thingsmedia in 2009 and is responsible for the overall strategy and direction of the global business. He is the creative vision behind the agency and regularly gets involved in client strategy and development.
+* 7thingsmedia clients boast global superbrand such as Graziashop.com, kate spade new york, NET-A-PORTER, and TK Maxx. 7thingsmedia's services include strategic digital consultancy and media planning and buying across affiliates, display, lead generation, mobile, pay per click, search engine optimization and social media.
+* Chris holds a plethora of accolades acknowledging his contribution to marketing, including the prestigious title of 'marketer of the Year' from The Drum Magazine plus places in VOGUE.com's 100 Most Influential People in Fashion and BIMA's Digital Hot 100.
+
+Craig Brown, senior account manager at NMPi
+* Having joined NMPi in July 2013, following his studies in genetics at newcastle University, Craig has moved through the ranks to senior account manager. A passionate, driven and innovative individual, Craig leads the team to ensure accounts are market leading, proved in the shortlisting of a client in 2015 for the retail award at the Performance Marketing Awards, and his nomination at the European Search awards for Young Search Professional of the Year.
+
+Dale Lovell, chief digital officer, Adyoulike
+* Dale is chief digital officer at Adyoulike, Europe's leading native advertising technology platform. Based in London, Dale has worked in online journalism, digital publishing, content strategy and creative content marketing for over 15 years. Previously as a journalist, he had contributed to over 50 leading publications, and was listed as a BIMA Hot 100, alongside Adyoulike UK MD Francis Turner, in recognition as a digital leader striving to push the industry forward. He sits on the IAB UK's Content and Native Council and is a regular commentator in the digital marketing industry press in the UK.
+
+page xxii
