@@ -2132,3 +2132,65 @@ Ethical Dilemma: What an Offer! Or Is It?
 * In short, all the system have virtues and none should be excluded from consideration. new blood is needed. You can't stay in business by just relying on one set of customers. So much depends, however, on the particular territory. Some territories may have few old customers or few IBM users. The salesperson must adapt to teh characteristics of the territory.
 
 page 225
+
+# Chapter 7: Planning the Sales Call is a Must!
+
+```
+MAIN TOPICS
+* The Tree of Business Life: Planning
+* Strategic Customer Sales Planning--The Preapproach
+* The Prospect's Mental Steps
+* OVerview of the Selling Process
+
+LEARNING OBJECTIVES
+Planning the sales call is the second step in the selling process. It is extremely important to spend time planning all aspects of your sales presentation. After studying this chapter, you should be able to
+
+                * Explain the importance of sales call planning
+                * List the four planning steps in order and understand them
+                * Develop a customer benefit plan
+                * Describe the prospect's five mental steps in buying
+```
+
+### FACING A SALES CHALLENGE
+* After being hired, trained, and given a sales territory, you have been assigned by your boss to work with three of your company's salespeople. You immediately notice they are not doing what you've been trained to do. They walk into an office, introduce themselves, and ask if the custoemr needs anything today. Prospect rarely buy, and customers tell them what they need. This doesn't seem like selling to you. It's order taking, and that type of job is not for you.
+* The problem is, how do you get someone to listen to you? How do you know what they think of your product? How do you know when they're ready to buy? Next Monday, you call on your first customer. What are you going to do?
+
+## THE TREE OF BUSINESS LIFE: PLANNING
+* A sales manager was working with his new salesperson one day. The boss asked, "What is your purpose for calling on this prospect today?" The salesperson replied, "To sell them something?" The sales manager said: "That's great, but what is your purpose?"
+
+## Begin Your Plan with Purpose!
+* The sales manager's question is forcing the new salesperson to create a broad philosophical statement toward a business meeting with a customer or prospect. Purpose is broad in scope. Purpose is not a list of plans, goals, or objectives that differ from one sales call to another. Purpose is a constant truth that guides your business life. Purpose directs how you approach each sales call. It defines success for you. Purpose classifies your relationships. It helps define who you are as a sales professional.
+* Knowing your purpose focuses your sales efforts to serve others. It concentrates your effort and energy on what is important. Knowing your purpose motivates your life and is your reason to get out of bed in the morning. Purpose produces passion. Nothing energizes like a clear purpose. Conversely, passion evaporates like smoke in the wind without purpose.
+* Hopefully your purpose for making any sales call is to make a contribution to the welfare of the person of organization. You want to help someone. Could you be enthusiastic and passionate about asking someone to buy something that would help him? You want to make a contribution to the welfare of others--don't you? So how do you help someone? You need a plan that is realted to your purpose.
+
+## Plan to Achieve Your Purpose
+* Your tomorrow is today! Your today was yesterday's tomorrow! Concentrate on today. Do not worry about tomorrow. There are enough worries for today.
+* What does that mean? How you think, how you act, what you accomplish today will determine your future--your tomorrow. To an overwhelming degree, you can control your future by what you do today. Today's test score is based upon yesterday's studying. What you sell today is based on preparation done yesterday. Does that make sense to you?
+* So plan each day, do the best you can to carry out your plan and adjust to circumstances as you go, and then at the end of each day evaluate your day to ensure you are on your way toward a successful tomorrow.
+* Everyone knows this, yet the difference between successful people and less successful people is that successful people plan, implement their plans, and evaluates the day's sales results in order to know what to do tomorrow. Less successful people think about planning but seldom do it.
+* Do you plan how to prepare for a test? Once you have taken the test (implemented your plan), do you evaluate how and what you studied versus your test results? Few students do, but the ones who plan, work their plan, and then evalute their results do much better on the next test. Try it! It works in a class, just as it does in sales.
+
+## What's a Plan?
+* A plan is a method of achieving an end. A plan involves what you want to accomplish and how you will do it. The foundation of your plan must be based upon the truth.
+* You see "The Tree of Business Life" from time to time as a reminder of the importance of truth. For from your honesty (integrity), people realize you can be trusted. Your honesty and trustworthiness from your character or who you are to others. Your use of facts (truth) without distortion by personal feelings or prejudices makes you like a superhero, a super salesperson. How?
+* You want to help someone in need! How? Sell her something? Why? It will help her meet her need. You can do that!
+
+## What is Success
+* With purpose comes a plan; with a plan comes success. What will be a successful sales call? How do you define success? For example:
+
+                * A baseball coach might define success as winning more games than losing. Her or his boss might define success as winning the national championship or the World Series.
+                * You might define success as making an A or just passing this course.
+                * A salesperson might define success as making sales quota this year or being the top salesperson in the company.
+
+* But what about calling on the individual customer? What is a success for you? It goes back to purpose. Success is setting a goal and accomplishing it. You are meeting with someone with the purpose of helping him or her. Your purpose, plan, and goal do not center on selling but helping. Can you fail?
+
+##### Success but No Sale
+* How could you "not" make a sale and still have a successful sales call? What if your customer did not have a need? You did not fail. What if your product would not help meet the needs of the person? How could you say you were not successful?
+* Now consider this. There are reasons you may not make a sale. Agreed? But there should never be a reason that you do not meet the "purpose" of your business meeting. Why? What is your purpose? To help someone!
+
+##### Review until You Understand
+* This section of your book is so important to your understanding that I hope you will take time to review it several times during the next few days. The fundamentals taught in this book will benefit you only when you believe in them. You must learn these words of truth. They must guide your actions. They must come from your heart. When you truly are a person of integrity, truthfulness, and good character, people's needs will become more important than your self-centered needs.
+
+##### The Gap
+* Many people do not trust salespeople. Often salespeople are self-centered, only wanting to make a sale for their own benefit. How can the gap between seller and buyer be crossed? The seller has to build a bridge!
+* Exhibit 7.1 illustrates the gap often found between buyer and seller. Imagine the buyer on the right wondering if she can trust the seller. Only through truth can trust be supported to bridge the gap between people--seller and buyer. Truth that is without distortion due to personal felling or prejudices is the center pole supporting trust.
