@@ -2194,3 +2194,29 @@ Planning the sales call is the second step in the selling process. It is extreme
 ##### The Gap
 * Many people do not trust salespeople. Often salespeople are self-centered, only wanting to make a sale for their own benefit. How can the gap between seller and buyer be crossed? The seller has to build a bridge!
 * Exhibit 7.1 illustrates the gap often found between buyer and seller. Imagine the buyer on the right wondering if she can trust the seller. Only through truth can trust be supported to bridge the gap between people--seller and buyer. Truth that is without distortion due to personal felling or prejudices is the center pole supporting trust.
+* Remove truth and the bridge collapses. There can be no long-term relationships between two parties without trust based upon truth. One lie, one misrepresentation, can lead to separation, even divorce between seller and buyer. Has that ever happened to you in your life?
+* Before ever making the sales call, the salesperson reviews the purpose for the meeting. Now the salesperson plans how to help solve problems and fulfill the needs of the person or organization. Careful planning of every aspect of the sales call helps the salesperson be organized and prepared to interact with the customer. For each prospect or customer a salesperson is often faced with a specific, unique set of problems to solve or needs to fulfill. As a result , each sales call requires a specific solution from the salesperson. Your plan in order to help. Planning is part of ethical service which leads to building relationships with the customer.
+
+## STRATEGIC CUATOMER SALES PLANNING--THE PREAPPROACH
+* Once the prospect has been located, or the salesperson determines which customer to call on, the salesperson is ready to plan the sales call. Planning is often referred to as the preapproach. This chapter discusses the many aspects of planning a sales call. Let's begin by learning why salespeople should consider the customer's needs in order to recommend a creative solution that will benefit both the buyer and seller.
+* High-performing salespeople tend to be strategic problem solvers for their customers. Strategic refers t oprograms, goals, and problems of great importance to customers. The top salespeople who are effective strategic problem solvers have the skills and knowledge to be able to
+
+                * Uncover and understand the customer's strategic needs by gaining in-depth knowledge of the customer's organization.
+                * Develop solutions that demonstrate a creative approach to address the customer's strategic needs in the most efficient and effective manner possible.
+                * Arrive at a mutually beneficial agreement.
+
+* These key terms--strategic needs, creative solutions, and mutually beneficial agreements--are critical to strategic problem solving. When properly executed by the salesperson, they create a strategic customer relationship or a formal relationship with the customer, the purpose of which is joint pursuit of mutual goals. Strategic goals for a customer typically include reducing costs and/or increasing productivity, sales, and profits. The sales organization has goals of increasing sales and profits.
+
+## Strategic Needs
+* The salesperson who understands the full range of the customer's needs is in a much better position to provide a product solution that helps the customer progress more efficiently and effectively toward achieving his or her organization's strategic goal. "The top salespeople have an in-depth understanding of our needs", said one business purchasing agent. "They can match up their products with these needs to help us reach our goals"
+
+## Creative Solutions
+* For each customer, a salesperson is often faced with a specific, unique set of problems to solve. As a result, each customer requires a specific solution from the sales organization. The ability of a salesperson to tailor a "custom" solution for each customer is critical today. The salesperson needs to use creative problem solving to identify the specific solution that meets each customer's needs. Instead of one product, the salesperson often must create the solution from a mix of goods and services. Usually, the solution represents one of two options:
+
+1. A customized version of application of a product and/or service that efficiently addresses the customer's specific strategic needs.
+2. A mix of goods and services--including, if appropriate, competitors' products and services--that offers the best possible solution in light of the customer's strategic needs.
+
+* The better a salesperson is at creatively marshaling all available resources to address a customer's strategic needs, the stronger the customer relationship becomes. Today's salespeople need to be creative problem solvers who have the ability to develop and combine nontraditional alternatives to meet the specific needs of the customer.
+
+
+page 233
